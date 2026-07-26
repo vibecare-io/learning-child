@@ -9,14 +9,54 @@ profiles:
 # min_duration_sec: 120   # uncomment to change the Shorts-style filter
 
 sources:
-  - channel: "@veritasium"
-    topics: [science]
-    profiles: [big]
-  - channel: "@kurzgesagt"
-    topics: [science, space]
-    profiles: [big]
+  # ── Little (ages 3-7) — ~25 videos ───────────────────────────────
   - channel: "@SciShowKids"
     topics: [science]
     profiles: [little]
+    max_videos: 9
+  - channel: "@NatGeoKids"
+    topics: [animals, science]
+    profiles: [little]
+    max_videos: 9
+  - channel: "@ArtforKidsHub"
+    topics: [art]
+    profiles: [little]
+    max_videos: 6
+  - channel: "@Numberblocks"
+    topics: [maths]
+    profiles: [little]
+    max_videos: 6
+
+  # ── Big (ages 8-12) — ~25 videos ─────────────────────────────────
+  # Caps are generous: the 120s Shorts filter trims recent uploads on
+  # channels that post Shorts heavily (Veritasium, Kurzgesagt, Mark Rober).
+  - channel: "@TEDEd"
+    topics: [science, history]
+    profiles: [big]
+    max_videos: 6
+  - channel: "@numberphile"
+    topics: [maths]
+    profiles: [big]
+    max_videos: 5
+  - channel: "@SciShow"
+    topics: [science]
+    profiles: [big]
+    max_videos: 4
+  - channel: "@3blue1brown"
+    topics: [maths]
+    profiles: [big]
+    max_videos: 6
+  - channel: "@veritasium"
+    topics: [science]
+    profiles: [big]
+    max_videos: 10
+  - channel: "@kurzgesagt"
+    topics: [science, space]
+    profiles: [big]
+    max_videos: 10
+  - channel: "@MarkRober"
+    topics: [science, engineering]
+    profiles: [big]
+    max_videos: 8
 
 search_only_channels: []
