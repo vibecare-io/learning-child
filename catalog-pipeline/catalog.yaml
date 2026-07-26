@@ -1,6 +1,15 @@
 # Learning Child — parent-curated video sources.
-# Edit this file, push, and the catalog rebuilds automatically.
-# Docs: see README.md at the repo root.
+#
+# Edit this file, push, and the catalog rebuilds automatically (GitHub Action).
+# Docs: README.md at the repo root. Curation rationale + grades:
+#   docs/research/2026-07-26-channel-research-results.md
+# Hand-picked hero videos (verified live): docs/data/curated-videos.json
+#
+# Every @handle below was verified on youtube.com during research (2026-07-26);
+# channel handles cross-checked via YouTube oEmbed against curated videos.
+# topics vocabulary: science, maths, space, music, nature, animals, exploration,
+#   engineering, making, art, coding, tech, reading, history, geography
+# profiles: [little] = ages 3-7, [big] = ages 8-12, [little, big] = both
 
 profiles:
   little: { label: "Ages 3-7" }
@@ -9,14 +18,830 @@ profiles:
 # min_duration_sec: 120   # uncomment to change the Shorts-style filter
 
 sources:
-  - channel: "@veritasium"
-    topics: [science]
-    profiles: [big]
-  - channel: "@kurzgesagt"
-    topics: [science, space]
-    profiles: [big]
+  # ---------- SCIENCE ----------
   - channel: "@SciShowKids"
     topics: [science]
     profiles: [little]
+  - channel: "@freeschool"
+    topics: [science, nature, space]
+    profiles: [little, big]
+  - channel: "@PeekabooKidz"
+    topics: [science, space]
+    profiles: [little, big]
+  - channel: "@GenerationGenius"
+    topics: [science]
+    profiles: [little, big]
+  - channel: "@crashcoursekids"
+    topics: [science, space]
+    profiles: [little, big]
+  - channel: "@sickscience"
+    topics: [science, making]
+    profiles: [little, big]
+  - channel: "@SteveMould"
+    topics: [science]
+    profiles: [big]
+  - channel: "@TheActionLab"
+    topics: [science]
+    profiles: [big]
+  - channel: "@besmart"
+    topics: [science]
+    profiles: [big]
+  - channel: "@journeytomicro"
+    topics: [science, nature]
+    profiles: [big]
 
-search_only_channels: []
+  # ---------- SPACE ----------
+  - channel: "@NASA"
+    topics: [space, exploration]
+    profiles: [little, big]
+  - channel: "@NASAJPL"
+    topics: [space, engineering]
+    profiles: [big]
+  - channel: "@EuropeanSpaceAgency"
+    topics: [space]
+    profiles: [big]
+  - channel: "@kurzgesagt"
+    topics: [space, science]
+    profiles: [big]
+  - channel: "@astrumspace"
+    topics: [space, exploration]
+    profiles: [big]
+  - channel: "@MinuteEarth"
+    topics: [nature, science, geography]
+    profiles: [little, big]
+
+  # ---------- MATHS ----------
+  - channel: "@Numberblocks"
+    topics: [maths]
+    profiles: [little]
+  - channel: "@KhanAcademyKids"
+    topics: [maths, reading]
+    profiles: [little]
+  - channel: "@numberockllc"
+    topics: [maths, music]
+    profiles: [little, big]
+  - channel: "@numberphile"
+    topics: [maths]
+    profiles: [big]
+  - channel: "@3blue1brown"
+    topics: [maths]
+    profiles: [big]
+  - channel: "@mathantics"
+    topics: [maths]
+    profiles: [big]
+  - channel: "@teded"
+    topics: [maths, science]
+    profiles: [big]
+
+  # ---------- MUSIC ----------
+  - channel: "@SuperSimpleSongs"
+    topics: [music]
+    profiles: [little]
+  - channel: "@TheLaurieBerknerBand"
+    topics: [music]
+    profiles: [little]
+  - channel: "@carnegiehallkids"
+    topics: [music]
+    profiles: [little, big]
+  - channel: "@MrHenrysMusicWorld"
+    topics: [music]
+    profiles: [little, big]
+  - channel: "@philharmonia_orchestra"   # canonical handle (was @Philharmonia)
+    topics: [music]
+    profiles: [little, big]
+  - channel: "@SoundFieldPBS"
+    topics: [music, history]
+    profiles: [big]
+  - channel: "@andrewhuang"
+    topics: [music, making]
+    profiles: [big]
+  - channel: "@NahreSol"
+    topics: [music, making]
+    profiles: [big]
+
+  # ---------- ART & MAKING ----------
+  - channel: "@artforkidshub"
+    topics: [art, making]
+    profiles: [little, big]
+  - channel: "@DrawSoCute"
+    topics: [art, making]
+    profiles: [little, big]
+  - channel: "@SuperSimpleDraw"
+    topics: [art, making]
+    profiles: [little]
+  - channel: "@cartooningclub"
+    topics: [art, making]
+    profiles: [big]
+  - channel: "@Jazza"
+    topics: [art, making]
+    profiles: [big]
+  - channel: "@redtedart"
+    topics: [making, art]
+    profiles: [little, big]
+  - channel: "@jonakashima"
+    topics: [making, art]
+    profiles: [big]
+  - channel: "@paperkawaii"
+    topics: [making, art]
+    profiles: [little, big]
+  - channel: "@TheDadLab"
+    topics: [making, science]
+    profiles: [little, big]
+  - channel: "@Babbledabbledo"
+    topics: [making, art, engineering]
+    profiles: [little, big]
+  - channel: "@Artfulparent1"
+    topics: [art, making]
+    profiles: [little]
+
+  # ---------- NATURE & ANIMALS ----------
+  - channel: "@BBCEarthKids"
+    topics: [nature, animals]
+    profiles: [little, big]
+  - channel: "@EVNautilus"                # Nautilus Live (was @NautilusLive)
+    topics: [nature, exploration]
+    profiles: [little, big]
+  - channel: "@MontereyBayAquarium"
+    topics: [animals, nature]
+    profiles: [little, big]
+  - channel: "@SanDiegoZooKidsTV"
+    topics: [animals, nature]
+    profiles: [little]
+  - channel: "@MaddieMoate"
+    topics: [science, nature]
+    profiles: [little, big]
+  - channel: "@KQEDDeepLook"
+    topics: [animals, science]
+    profiles: [big]
+  - channel: "@epicgardening"
+    topics: [nature, making]
+    profiles: [big]
+
+  # ---------- ENGINEERING ----------
+  - channel: "@KidsInventStuff"
+    topics: [engineering, making]
+    profiles: [little, big]
+  - channel: "@HandymanHal"
+    topics: [making, engineering]
+    profiles: [little]
+  - channel: "@MarkRober"
+    topics: [engineering, science, making]
+    profiles: [big]
+  - channel: "@JaredOwen"
+    topics: [engineering, tech]
+    profiles: [big]
+  - channel: "@BranchEducation"
+    topics: [engineering, tech]
+    profiles: [big]
+  - channel: "@PracticalEngineeringChannel"
+    topics: [engineering]
+    profiles: [big]
+  - channel: "@smartereveryday"
+    topics: [science, engineering]
+    profiles: [big]
+  - channel: "@DesignSquadGlobal"
+    topics: [engineering, making]
+    profiles: [big]
+  - channel: "@Wintergatan"
+    topics: [engineering, music, making]
+    profiles: [big]
+
+  # ---------- HISTORY & GEOGRAPHY ----------
+  - channel: "@natgeokids"
+    topics: [geography, nature, animals]
+    profiles: [little, big]
+  - channel: "@HomeschoolPop"
+    topics: [history, geography]
+    profiles: [little, big]
+  - channel: "@GeographyNow"
+    topics: [geography, exploration]
+    profiles: [big]
+  - channel: "@SmithsonianChannel"
+    topics: [history, exploration]
+    profiles: [big]
+  - channel: "@toldinstone"
+    topics: [history]
+    profiles: [big]
+  - channel: "@britishmuseum"
+    topics: [history, art]
+    profiles: [big]
+  - channel: "@Langfocus"
+    topics: [geography]
+    profiles: [big]
+
+  # ---------- READING & LANGUAGE ----------
+  - channel: "@StorylineOnline"
+    topics: [reading]
+    profiles: [little, big]
+  - channel: "@BrightlyStorytime"
+    topics: [reading]
+    profiles: [little]
+  - channel: "@kidtimestorytime"
+    topics: [reading]
+    profiles: [little]
+  - channel: "@VooksStorybooks"
+    topics: [reading]
+    profiles: [little]
+  - channel: "@officialalphablocks"
+    topics: [reading]
+    profiles: [little]
+  - channel: "@JackHartmann"
+    topics: [reading, music, maths]
+    profiles: [little]
+  - channel: "@MichaelRosenOfficial"
+    topics: [reading]
+    profiles: [little, big]
+  - channel: "@RobWords"
+    topics: [reading]
+    profiles: [big]
+
+  # ---------- CODING & TECH ----------
+  - channel: "@codeorg"
+    topics: [coding, tech]
+    profiles: [little, big]
+  - channel: "@codeSparkFOOtubeKids"
+    topics: [coding]
+    profiles: [little]
+  - channel: "@ScratchTeam"
+    topics: [coding, making]
+    profiles: [big]
+  - channel: "@griffpatch"
+    topics: [coding, making]
+    profiles: [big]
+  - channel: "@TheCodingTrain"
+    topics: [coding, making, art]
+    profiles: [big]
+  - channel: "@AutodeskTinkercad"
+    topics: [making, coding, engineering]
+    profiles: [big]
+  - channel: "@Computerphile"
+    topics: [tech, coding]
+    profiles: [big]
+  - channel: "@crashcourse"
+    topics: [tech, coding]
+    profiles: [big]
+
+  # --- Hero videos: auto-generated from docs/data/curated-videos.json ---
+  # Every id verified live via YouTube oEmbed. expandCatalog dedupes these against the
+  # channel expansions above, so overlap is harmless. Regenerate rather than hand-edit.
+  - video: "ZaBt8AtG3do"
+    topics: [science]
+    profiles: [little, big]
+  - video: "vD-ZwMjRDPU"
+    topics: [nature, science]
+    profiles: [little, big]
+  - video: "Qd6nLM2QlWw"
+    topics: [space]
+    profiles: [little, big]
+  - video: "IO9tT186mZw"
+    topics: [nature, science]
+    profiles: [little, big]
+  - video: "7GI4eTUyGSM"
+    topics: [science]
+    profiles: [big]
+  - video: "CoCL0IB4u4g"
+    topics: [science]
+    profiles: [little, big]
+  - video: "z9TIlM96lT8"
+    topics: [science]
+    profiles: [big]
+  - video: "Td_A9H69eE8"
+    topics: [space, science]
+    profiles: [big]
+  - video: "-ZirFmGi_dE"
+    topics: [science, making]
+    profiles: [little, big]
+  - video: "6T3C-0-Djas"
+    topics: [science, making]
+    profiles: [little, big]
+  - video: "_dQJBBklpQQ"
+    topics: [science]
+    profiles: [big]
+  - video: "oJ2faqXlU1s"
+    topics: [science]
+    profiles: [big]
+  - video: "VjfqYoA7rwY"
+    topics: [science]
+    profiles: [big]
+  - video: "3g246c6Bv58"
+    topics: [nature, science]
+    profiles: [big]
+  - video: "jA_gOZZhEdM"
+    topics: [nature, science]
+    profiles: [big]
+  - video: "gM2I-gvHscw"
+    topics: [nature, science]
+    profiles: [big]
+  - video: "iH2L2cuKgCg"
+    topics: [space, science]
+    profiles: [big]
+  - video: "-qP7rqK3iLk"
+    topics: [science]
+    profiles: [little, big]
+  - video: "UHqdO8P39Zs"
+    topics: [nature, science]
+    profiles: [little, big]
+  - video: "3mnSDifDSxQ"
+    topics: [space, science]
+    profiles: [little, big]
+  - video: "0FH9cgRhQ-k"
+    topics: [space, science]
+    profiles: [little, big]
+  - video: "uzkD5SeuwzM"
+    topics: [space, exploration]
+    profiles: [big]
+  - video: "v3y8AIEX_dU"
+    topics: [space, engineering]
+    profiles: [big]
+  - video: "rhFK5_Nx9xY"
+    topics: [space, science]
+    profiles: [big]
+  - video: "HpcTJW4ur54"
+    topics: [space, engineering, science]
+    profiles: [big]
+  - video: "9P6rdqiybaw"
+    topics: [space, science]
+    profiles: [big]
+  - video: "4czjS9h4Fpg"
+    topics: [space, exploration, engineering]
+    profiles: [little, big]
+  - video: "1C_zuHf6lP4"
+    topics: [space, science]
+    profiles: [little, big]
+  - video: "Ki_Af_o9Q9s"
+    topics: [engineering, exploration, space]
+    profiles: [big]
+  - video: "L1taqzNovbk"
+    topics: [space, exploration]
+    profiles: [little, big]
+  - video: "tyMbktsAScE"
+    topics: [space, exploration]
+    profiles: [big]
+  - video: "8D6UWHZ_HYs"
+    topics: [space, science, exploration]
+    profiles: [big]
+  - video: "lbl_4TnPIGM"
+    topics: [space, exploration]
+    profiles: [big]
+  - video: "xWlXDRsfYAA"
+    topics: [space, exploration]
+    profiles: [big]
+  - video: "JRHwq1DIgbI"
+    topics: [space, science]
+    profiles: [big]
+  - video: "YYTh3ontyh4"
+    topics: [space, science, engineering]
+    profiles: [big]
+  - video: "PyNDoZmUh3A"
+    topics: [maths, music]
+    profiles: [little]
+  - video: "MeRIpU4Ibo4"
+    topics: [maths, music]
+    profiles: [little]
+  - video: "sNjLIzIbWMQ"
+    topics: [maths, music]
+    profiles: [little]
+  - video: "Ap5kgJ-bpEQ"
+    topics: [maths]
+    profiles: [little]
+  - video: "ZvincYg0pHo"
+    topics: [maths, music]
+    profiles: [little]
+  - video: "NVuMULQjb3o"
+    topics: [maths, music]
+    profiles: [little]
+  - video: "OinudV2LWlo"
+    topics: [maths, music]
+    profiles: [little]
+  - video: "WD50cZtSj-o"
+    topics: [maths]
+    profiles: [little]
+  - video: "LGqBQrUYua4"
+    topics: [maths]
+    profiles: [big]
+  - video: "5juto2ze8Lg"
+    topics: [maths]
+    profiles: [big]
+  - video: "dAgfnK528RA"
+    topics: [maths]
+    profiles: [big]
+  - video: "JeVSmq1Nrpw"
+    topics: [maths]
+    profiles: [big]
+  - video: "7yDmGnA8Hw0"
+    topics: [maths]
+    profiles: [big]
+  - video: "LKvjIsyYng8"
+    topics: [maths]
+    profiles: [big]
+  - video: "N5vJSNXPEwA"
+    topics: [maths]
+    profiles: [big]
+  - video: "cpwSGsb-rTs"
+    topics: [maths]
+    profiles: [big]
+  - video: "XTeJ64KD5cg"
+    topics: [maths]
+    profiles: [big]
+  - video: "NPoj8lk9Fo4"
+    topics: [maths]
+    profiles: [big]
+  - video: "WUvTyaaNkzM"
+    topics: [maths]
+    profiles: [big]
+  - video: "HEfHFsfGXjs"
+    topics: [maths]
+    profiles: [big]
+  - video: "GR2o6k8aPlI"
+    topics: [music]
+    profiles: [little]
+  - video: "c9tQUtF04K8"
+    topics: [music]
+    profiles: [little]
+  - video: "GzrjwOQpAl0"
+    topics: [music]
+    profiles: [little]
+  - video: "vPrmY7labLA"
+    topics: [music]
+    profiles: [little]
+  - video: "lauLmAYqXdo"
+    topics: [music]
+    profiles: [little]
+  - video: "uCF3vBuxXS8"
+    topics: [music]
+    profiles: [little]
+  - video: "mI2f17gzSPk"
+    topics: [music]
+    profiles: [little]
+  - video: "OtIz4f4OSIc"
+    topics: [music]
+    profiles: [little]
+  - video: "Z_49rVnHyjA"
+    topics: [music]
+    profiles: [little]
+  - video: "ulqxY0Jo_ig"
+    topics: [music]
+    profiles: [little, big]
+  - video: "nUUVSxZ4ohI"
+    topics: [music]
+    profiles: [little, big]
+  - video: "P2Xdb1ljd3g"
+    topics: [music]
+    profiles: [little, big]
+  - video: "QcIp7K2UFgE"
+    topics: [music]
+    profiles: [little, big]
+  - video: "EndhDQWlUgg"
+    topics: [music]
+    profiles: [little, big]
+  - video: "40k3AAbA7tM"
+    topics: [music]
+    profiles: [little, big]
+  - video: "Svg_fIoHij8"
+    topics: [making, music]
+    profiles: [big]
+  - video: "wio2cSg9MQM"
+    topics: [making, music]
+    profiles: [big]
+  - video: "u_hhE9Bjbfw"
+    topics: [music, history]
+    profiles: [big]
+  - video: "imGbhF2AEPw"
+    topics: [music, history]
+    profiles: [big]
+  - video: "-ydnwI5dzts"
+    topics: [music, history]
+    profiles: [big]
+  - video: "SHipCeYasYY"
+    topics: [music]
+    profiles: [big]
+  - video: "4-7DQocraZw"
+    topics: [art]
+    profiles: [little, big]
+  - video: "re4aKD1mHAg"
+    topics: [art]
+    profiles: [little, big]
+  - video: "vYOZCkgvNJ4"
+    topics: [art]
+    profiles: [little]
+  - video: "fEm4NnjL4p4"
+    topics: [art]
+    profiles: [little, big]
+  - video: "GGyk3opQtws"
+    topics: [art]
+    profiles: [little, big]
+  - video: "rcjzvnPdvQo"
+    topics: [art]
+    profiles: [little]
+  - video: "2hVQbp_hvws"
+    topics: [art]
+    profiles: [little]
+  - video: "Ibec_ZSasFw"
+    topics: [art]
+    profiles: [little]
+  - video: "xsaAs0tCejg"
+    topics: [art]
+    profiles: [big]
+  - video: "cdO6-QLXNr8"
+    topics: [art]
+    profiles: [big]
+  - video: "UBSUJkBiEf4"
+    topics: [art]
+    profiles: [big]
+  - video: "kkf-kBHZIlE"
+    topics: [making, art]
+    profiles: [little, big]
+  - video: "gml2j4bvT88"
+    topics: [making, art]
+    profiles: [little, big]
+  - video: "Cd5Z8hmcb10"
+    topics: [making]
+    profiles: [little, big]
+  - video: "3HxhhNAHBlU"
+    topics: [making, art]
+    profiles: [little, big]
+  - video: "BEwl0fvqo18"
+    topics: [making]
+    profiles: [little, big]
+  - video: "TfZsGy_q9zA"
+    topics: [science, engineering]
+    profiles: [little, big]
+  - video: "MXHtnMZ3W58"
+    topics: [science, making]
+    profiles: [little, big]
+  - video: "hlCpt56Wy8s"
+    topics: [science, making]
+    profiles: [little, big]
+  - video: "Vj7GN3G6jfU"
+    topics: [science, art, making]
+    profiles: [little, big]
+  - video: "HAdQYOoe3Tk"
+    topics: [art, making]
+    profiles: [little, big]
+  - video: "bjRpNYq8Ts0"
+    topics: [animals, nature]
+    profiles: [little, big]
+  - video: "no5OFRonn_o"
+    topics: [animals, science]
+    profiles: [little, big]
+  - video: "UVDWMisax28"
+    topics: [animals, science]
+    profiles: [little, big]
+  - video: "4iXFD97Stn8"
+    topics: [nature, exploration]
+    profiles: [big]
+  - video: "-_wHbtpzf0Y"
+    topics: [animals, science]
+    profiles: [little, big]
+  - video: "r5VhH5fhPLE"
+    topics: [animals, nature]
+    profiles: [little, big]
+  - video: "eUunYTYia3I"
+    topics: [animals, geography, science]
+    profiles: [little, big]
+  - video: "scKA-pXGckE"
+    topics: [animals, exploration]
+    profiles: [little, big]
+  - video: "N357CnStxYk"
+    topics: [nature, animals]
+    profiles: [little, big]
+  - video: "9D0eyl7-XQA"
+    topics: [nature, science]
+    profiles: [little, big]
+  - video: "tH9apP177Vg"
+    topics: [animals, nature]
+    profiles: [little, big]
+  - video: "M-oCdHXgzhU"
+    topics: [animals, nature]
+    profiles: [little, big]
+  - video: "7N-x9evLgp0"
+    topics: [science, animals]
+    profiles: [little, big]
+  - video: "y6ACosESi5I"
+    topics: [animals, science]
+    profiles: [big]
+  - video: "E8UAdtzyFvI"
+    topics: [animals, science]
+    profiles: [big]
+  - video: "el_lPd2oFV4"
+    topics: [nature, science]
+    profiles: [little, big]
+  - video: "_7SIHtWu2hw"
+    topics: [nature, science]
+    profiles: [little, big]
+  - video: "SZrTndD1H10"
+    topics: [nature, science]
+    profiles: [big]
+  - video: "sj8pFX9SOXE"
+    topics: [nature, animals, science]
+    profiles: [little, big]
+  - video: "2SwLs5SlXPc"
+    topics: [nature, science]
+    profiles: [big]
+  - video: "oBEQoQSEskc"
+    topics: [nature, science]
+    profiles: [big]
+  - video: "YrT5jcnu8NA"
+    topics: [geography, exploration]
+    profiles: [little, big]
+  - video: "lBYmOuajdC8"
+    topics: [history, exploration]
+    profiles: [little, big]
+  - video: "IFbwruzo_d0"
+    topics: [reading]
+    profiles: [little, big]
+  - video: "dK6FCzqAiwI"
+    topics: [reading, geography]
+    profiles: [big]
+  - video: "wJxKyh9e5_A"
+    topics: [reading]
+    profiles: [big]
+  - video: "9qFNJo1xgGI"
+    topics: [reading]
+    profiles: [big]
+  - video: "D8w6QVruxek"
+    topics: [geography, exploration]
+    profiles: [big]
+  - video: "qXYbLIEspqE"
+    topics: [geography, animals, exploration]
+    profiles: [little, big]
+  - video: "H5lY6SSo3gY"
+    topics: [geography, animals]
+    profiles: [little, big]
+  - video: "jyljmHkv2oU"
+    topics: [history]
+    profiles: [big]
+  - video: "LKWl9pwQZfY"
+    topics: [history, art]
+    profiles: [big]
+  - video: "wHjznvH54Cw"
+    topics: [history, reading]
+    profiles: [big]
+  - video: "bMZWsM687MY"
+    topics: [art, history]
+    profiles: [big]
+  - video: "b_I9NgXKtC8"
+    topics: [reading]
+    profiles: [little]
+  - video: "5kAsvxNpZvM"
+    topics: [reading]
+    profiles: [little]
+  - video: "tAwqiwXxYYE"
+    topics: [reading]
+    profiles: [little]
+  - video: "j8NJ0xpsRdY"
+    topics: [reading]
+    profiles: [little]
+  - video: "IdIP3BGx11M"
+    topics: [reading]
+    profiles: [little]
+  - video: "VQ_6I2zzpJA"
+    topics: [reading]
+    profiles: [little]
+  - video: "7BxQLITdOOc"
+    topics: [reading]
+    profiles: [little, big]
+  - video: "ytc0U2WAz4s"
+    topics: [reading]
+    profiles: [little]
+  - video: "7mKQhpYH1m0"
+    topics: [reading]
+    profiles: [little, big]
+  - video: "OAx_6-wdslM"
+    topics: [tech]
+    profiles: [big]
+  - video: "mCq8-xTH7jA"
+    topics: [tech]
+    profiles: [big]
+  - video: "USCBCmwMCDA"
+    topics: [tech]
+    profiles: [big]
+  - video: "xnyFYiK2rSY"
+    topics: [tech]
+    profiles: [big]
+  - video: "17WoOqgXsRM"
+    topics: [coding, making, art]
+    profiles: [big]
+  - video: "AaGK-fj-BAM"
+    topics: [coding, making]
+    profiles: [big]
+  - video: "CKeyIbT3vXI"
+    topics: [coding, art]
+    profiles: [big]
+  - video: "O5nskjZ_GoI"
+    topics: [tech]
+    profiles: [big]
+  - video: "gI-qXk7XojA"
+    topics: [tech]
+    profiles: [big]
+  - video: "nwDq4adJwzM"
+    topics: [coding]
+    profiles: [big]
+  - video: "thrx3SBEpL8"
+    topics: [tech]
+    profiles: [big]
+  - video: "hDn8iOc30Tk"
+    topics: [tech]
+    profiles: [big]
+  - video: "D16hTnDGweo"
+    topics: [coding, making]
+    profiles: [big]
+  - video: "RSZgqg6USQ4"
+    topics: [coding, making, art]
+    profiles: [big]
+  - video: "awXTWc2lCzU"
+    topics: [coding, making]
+    profiles: [little]
+  - video: "IvUU8joBb1Q"
+    topics: [music, engineering, making]
+    profiles: [little, big]
+  - video: "uog48viZUbM"
+    topics: [engineering, music]
+    profiles: [big]
+  - video: "xe-f4gokRBs"
+    topics: [science, engineering]
+    profiles: [big]
+  - video: "MFzDaBzBlL0"
+    topics: [science, engineering]
+    profiles: [big]
+  - video: "y7Hyc3MRKno"
+    topics: [science]
+    profiles: [big]
+  - video: "j2_dJY_mIys"
+    topics: [science]
+    profiles: [little, big]
+  - video: "X3vXwWfEfGM"
+    topics: [engineering, making]
+    profiles: [little, big]
+  - video: "5r928BCAjgc"
+    topics: [engineering, making]
+    profiles: [little, big]
+  - video: "lPG1gVosEt4"
+    topics: [making, engineering]
+    profiles: [little, big]
+  - video: "oLrOnEmy_GA"
+    topics: [engineering, science, tech]
+    profiles: [big]
+  - video: "smIdInCQ-kU"
+    topics: [engineering]
+    profiles: [little, big]
+  - video: "FhKOuxhGlmI"
+    topics: [engineering, science]
+    profiles: [big]
+  - video: "DKgnXonYXDI"
+    topics: [engineering]
+    profiles: [little]
+  - video: "7wgY5Ge3e58"
+    topics: [engineering]
+    profiles: [little]
+  - video: "Lq8yBJNEsHU"
+    topics: [engineering, making]
+    profiles: [little]
+  - video: "Vcma79mVAYw"
+    topics: [engineering, making]
+    profiles: [big]
+  - video: "Ry_3icwd68o"
+    topics: [engineering, science]
+    profiles: [big]
+  - video: "_R0xPffklXQ"
+    topics: [engineering, science]
+    profiles: [big]
+  - video: "DTvS9lvRxZ8"
+    topics: [engineering, making]
+    profiles: [little, big]
+  - video: "MHTizZ_XcUM"
+    topics: [engineering, tech]
+    profiles: [big]
+  - video: "C8YtdC8mxTU"
+    topics: [tech, engineering]
+    profiles: [big]
+  - video: "E7Up7VuFd8A"
+    topics: [tech, engineering]
+    profiles: [big]
+
+# Allowed in filtered search results, but NOT pushed into the homepage/up-next feed.
+# Excellent but advanced, intense (predation/violence), or better pulled on demand.
+# See section 3 of the research results doc for the reason on each.
+search_only_channels:
+  - "@BBCEarth"
+  - "@NatGeo"
+  - "@BraveWilderness"
+  - "@BertieGregory"
+  - "@AntsCanada"
+  - "@pbsspacetime"
+  - "@whatdamath"
+  - "@Mathologer"
+  - "@CrackingTheCryptic"
+  - "@preshtalwalkar"
+  - "@misterwootube"
+  - "@StuffMadeHere"
+  - "@Simplehistory"
+  - "@KingsandGenerals"
+  - "@extrahistory"
+  - "@RealLifeLore"
+  - "@FallofCivilizations"
+  - "@HorribleHistoriesOfficial"
+  - "@OverlySarcasticProductions"
+  - "@twosetviolin"
+  - "@AdamNeely"
+  - "@scratchfoundation"

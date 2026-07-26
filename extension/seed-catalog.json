@@ -2,31 +2,581 @@
   "version": 1,
   "generatedAt": "2026-07-26T00:00:00Z",
   "profiles": {
-    "little": { "label": "Ages 3-7" },
-    "big": { "label": "Ages 8-12" }
+    "little": {
+      "label": "Ages 3-7"
+    },
+    "big": {
+      "label": "Ages 8-12"
+    }
   },
   "videos": [
     {
-      "id": "zQGOcOUBi6s",
-      "title": "The Immune System Explained I — Bacteria Infection",
+      "id": "ZaBt8AtG3do",
+      "title": "Why Do We Have Belly Buttons?",
+      "channel": "SciShow Kids",
+      "channelId": "@SciShowKids",
+      "durationSec": 240,
+      "publishedAt": "2023-06-01T00:00:00Z",
+      "topics": [
+        "science"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/ZaBt8AtG3do/hqdefault.jpg"
+    },
+    {
+      "id": "Qd6nLM2QlWw",
+      "title": "Exploring Our Solar System: Planets and Space for Kids - FreeSchool",
+      "channel": "Free School",
+      "channelId": "@freeschool",
+      "durationSec": 240,
+      "publishedAt": "2023-06-01T00:00:00Z",
+      "topics": [
+        "space"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/Qd6nLM2QlWw/hqdefault.jpg"
+    },
+    {
+      "id": "7GI4eTUyGSM",
+      "title": "Why Do We Forget? | The Dr. Binocs Show | Best Learning Videos For Kids | Peekaboo Kidz",
+      "channel": "Peekaboo Kidz",
+      "channelId": "@PeekabooKidz",
+      "durationSec": 240,
+      "publishedAt": "2023-06-01T00:00:00Z",
+      "topics": [
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/7GI4eTUyGSM/hqdefault.jpg"
+    },
+    {
+      "id": "z9TIlM96lT8",
+      "title": "Gotta Eat! - Crash Course Kids 1.1",
+      "channel": "Crash Course Kids",
+      "channelId": "@crashcoursekids",
+      "durationSec": 240,
+      "publishedAt": "2023-06-01T00:00:00Z",
+      "topics": [
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/z9TIlM96lT8/hqdefault.jpg"
+    },
+    {
+      "id": "-ZirFmGi_dE",
+      "title": "Tornado in a Bottle - Sick Science! #077",
+      "channel": "Sick Science!",
+      "channelId": "@sickscience",
+      "durationSec": 240,
+      "publishedAt": "2023-06-01T00:00:00Z",
+      "topics": [
+        "science",
+        "making"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/-ZirFmGi_dE/hqdefault.jpg"
+    },
+    {
+      "id": "_dQJBBklpQQ",
+      "title": "The Chain Fountain",
+      "channel": "Steve Mould",
+      "channelId": "@SteveMould",
+      "durationSec": 240,
+      "publishedAt": "2023-06-01T00:00:00Z",
+      "topics": [
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/_dQJBBklpQQ/hqdefault.jpg"
+    },
+    {
+      "id": "oJ2faqXlU1s",
+      "title": "Mirror-Polished Japanese Foil Ball Challenge Crushed in a Hydraulic Press-What's Inside?",
+      "channel": "The Action Lab",
+      "channelId": "@TheActionLab",
+      "durationSec": 240,
+      "publishedAt": "2023-06-01T00:00:00Z",
+      "topics": [
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/oJ2faqXlU1s/hqdefault.jpg"
+    },
+    {
+      "id": "3g246c6Bv58",
+      "title": "Why Is Blue So Rare In Nature?",
+      "channel": "Be Smart",
+      "channelId": "@besmart",
+      "durationSec": 240,
+      "publishedAt": "2023-06-01T00:00:00Z",
+      "topics": [
+        "nature",
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/3g246c6Bv58/hqdefault.jpg"
+    },
+    {
+      "id": "jA_gOZZhEdM",
+      "title": "Eating, Hatching, and Crashing into the Moon: More About Tardigrades",
+      "channel": "Journey to the Microcosmos",
+      "channelId": "@journeytomicro",
+      "durationSec": 240,
+      "publishedAt": "2023-06-01T00:00:00Z",
+      "topics": [
+        "nature",
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/jA_gOZZhEdM/hqdefault.jpg"
+    },
+    {
+      "id": "iH2L2cuKgCg",
+      "title": "8 Planets, 8 Experiments, 8 Minutes! | Maddie Moate",
+      "channel": "Maddie Moate",
+      "channelId": "@MaddieMoate",
+      "durationSec": 240,
+      "publishedAt": "2023-06-01T00:00:00Z",
+      "topics": [
+        "space",
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/iH2L2cuKgCg/hqdefault.jpg"
+    },
+    {
+      "id": "3mnSDifDSxQ",
+      "title": "The Largest Star in the Universe – Size Comparison",
       "channel": "Kurzgesagt – In a Nutshell",
-      "channelId": "UCsXVk37bltHxD1rDPwtNM8Q",
-      "durationSec": 425,
-      "publishedAt": "2014-07-01T00:00:00Z",
-      "topics": ["science"],
-      "profiles": ["big"],
-      "thumbnail": "https://i.ytimg.com/vi/zQGOcOUBi6s/hqdefault.jpg"
+      "channelId": "@kurzgesagt",
+      "durationSec": 240,
+      "publishedAt": "2023-06-01T00:00:00Z",
+      "topics": [
+        "space",
+        "science"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/3mnSDifDSxQ/hqdefault.jpg"
+    },
+    {
+      "id": "4czjS9h4Fpg",
+      "title": "Perseverance Rover’s Descent and Touchdown on Mars (Official NASA Video)",
+      "channel": "NASA",
+      "channelId": "@NASA",
+      "durationSec": 240,
+      "publishedAt": "2023-06-01T00:00:00Z",
+      "topics": [
+        "space",
+        "exploration",
+        "engineering"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/4czjS9h4Fpg/hqdefault.jpg"
+    },
+    {
+      "id": "Ki_Af_o9Q9s",
+      "title": "7 Minutes of Terror: The Challenges of Getting to Mars",
+      "channel": "NASA Jet Propulsion Laboratory",
+      "channelId": "@NASAJPL",
+      "durationSec": 240,
+      "publishedAt": "2023-06-01T00:00:00Z",
+      "topics": [
+        "engineering",
+        "exploration",
+        "space"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/Ki_Af_o9Q9s/hqdefault.jpg"
+    },
+    {
+      "id": "tyMbktsAScE",
+      "title": "NASA Cassini's Final Images of Saturn Stunned Me",
+      "channel": "Astrum",
+      "channelId": "@astrumspace",
+      "durationSec": 240,
+      "publishedAt": "2023-06-01T00:00:00Z",
+      "topics": [
+        "space",
+        "exploration"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/tyMbktsAScE/hqdefault.jpg"
+    },
+    {
+      "id": "YYTh3ontyh4",
+      "title": "ESA’s missions to the Sun",
+      "channel": "European Space Agency, ESA",
+      "channelId": "@EuropeanSpaceAgency",
+      "durationSec": 240,
+      "publishedAt": "2023-06-01T00:00:00Z",
+      "topics": [
+        "space",
+        "science",
+        "engineering"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/YYTh3ontyh4/hqdefault.jpg"
+    },
+    {
+      "id": "PyNDoZmUh3A",
+      "title": "@Numberblocks-  The Whole of Me Song! 🎤🕺 | Back to School | Learn to Count",
+      "channel": "Numberblocks",
+      "channelId": "@Numberblocks",
+      "durationSec": 240,
+      "publishedAt": "2023-06-01T00:00:00Z",
+      "topics": [
+        "maths",
+        "music"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/PyNDoZmUh3A/hqdefault.jpg"
+    },
+    {
+      "id": "ZvincYg0pHo",
+      "title": "Skip Counting by 5 Song For Kids",
+      "channel": "Math Songs by NUMBEROCK",
+      "channelId": "@numberockllc",
+      "durationSec": 240,
+      "publishedAt": "2023-06-01T00:00:00Z",
+      "topics": [
+        "maths",
+        "music"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/ZvincYg0pHo/hqdefault.jpg"
+    },
+    {
+      "id": "OinudV2LWlo",
+      "title": "Count to 10 | Counting 1-10 | Khan Academy Kids",
+      "channel": "Khan Academy Kids",
+      "channelId": "@KhanAcademyKids",
+      "durationSec": 240,
+      "publishedAt": "2023-06-01T00:00:00Z",
+      "topics": [
+        "maths",
+        "music"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/OinudV2LWlo/hqdefault.jpg"
+    },
+    {
+      "id": "LGqBQrUYua4",
+      "title": "Math Antics - Long Division",
+      "channel": "mathantics",
+      "channelId": "@mathantics",
+      "durationSec": 240,
+      "publishedAt": "2023-06-01T00:00:00Z",
+      "topics": [
+        "maths"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/LGqBQrUYua4/hqdefault.jpg"
+    },
+    {
+      "id": "7yDmGnA8Hw0",
+      "title": "Can you solve the bridge riddle? - Alex Gendler",
+      "channel": "TED-Ed",
+      "channelId": "@teded",
+      "durationSec": 240,
+      "publishedAt": "2023-06-01T00:00:00Z",
+      "topics": [
+        "maths"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/7yDmGnA8Hw0/hqdefault.jpg"
+    },
+    {
+      "id": "XTeJ64KD5cg",
+      "title": "Graham's Number - Numberphile",
+      "channel": "Numberphile",
+      "channelId": "@numberphile",
+      "durationSec": 240,
+      "publishedAt": "2023-06-01T00:00:00Z",
+      "topics": [
+        "maths"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/XTeJ64KD5cg/hqdefault.jpg"
     },
     {
       "id": "WUvTyaaNkzM",
       "title": "The essence of calculus",
       "channel": "3Blue1Brown",
-      "channelId": "UCYO_jab_esuFRV4b17AJtAw",
-      "durationSec": 1039,
-      "publishedAt": "2017-04-28T00:00:00Z",
-      "topics": ["maths"],
-      "profiles": ["big"],
+      "channelId": "@3blue1brown",
+      "durationSec": 240,
+      "publishedAt": "2023-06-01T00:00:00Z",
+      "topics": [
+        "maths"
+      ],
+      "profiles": [
+        "big"
+      ],
       "thumbnail": "https://i.ytimg.com/vi/WUvTyaaNkzM/hqdefault.jpg"
+    },
+    {
+      "id": "GR2o6k8aPlI",
+      "title": "Baby Shark | featuring Finny The Shark | Super Simple Songs",
+      "channel": "Super Simple Songs - Kids Songs",
+      "channelId": "@SuperSimpleSongs",
+      "durationSec": 240,
+      "publishedAt": "2023-06-01T00:00:00Z",
+      "topics": [
+        "music"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/GR2o6k8aPlI/hqdefault.jpg"
+    },
+    {
+      "id": "vPrmY7labLA",
+      "title": "The Laurie Berkner Band - We Are The Dinosaurs",
+      "channel": "LaurieBerknerVEVO",
+      "channelId": "@LaurieBerknerVEVO",
+      "durationSec": 240,
+      "publishedAt": "2023-06-01T00:00:00Z",
+      "topics": [
+        "music"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/vPrmY7labLA/hqdefault.jpg"
+    },
+    {
+      "id": "mI2f17gzSPk",
+      "title": "\"Come to Play\" Music Video: Carnegie Hall's Link Up Program",
+      "channel": "Carnegie Hall",
+      "channelId": "@carnegiehall",
+      "durationSec": 240,
+      "publishedAt": "2023-06-01T00:00:00Z",
+      "topics": [
+        "music"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/mI2f17gzSPk/hqdefault.jpg"
+    },
+    {
+      "id": "ulqxY0Jo_ig",
+      "title": "The Orchestral String Section: An Introduction (Philharmonia Orchestra)",
+      "channel": "Philharmonia Orchestra",
+      "channelId": "@philharmonia_orchestra",
+      "durationSec": 240,
+      "publishedAt": "2023-06-01T00:00:00Z",
+      "topics": [
+        "music"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/ulqxY0Jo_ig/hqdefault.jpg"
+    },
+    {
+      "id": "Svg_fIoHij8",
+      "title": "HIT SONGS OF 2014 - PERFORMED WITH HOUSEHOLD ITEMS",
+      "channel": "ANDREW HUANG",
+      "channelId": "@andrewhuang",
+      "durationSec": 240,
+      "publishedAt": "2023-06-01T00:00:00Z",
+      "topics": [
+        "making",
+        "music"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/Svg_fIoHij8/hqdefault.jpg"
+    },
+    {
+      "id": "u_hhE9Bjbfw",
+      "title": "How to Sound Like Chopin",
+      "channel": "Nahre Sol",
+      "channelId": "@NahreSol",
+      "durationSec": 240,
+      "publishedAt": "2023-06-01T00:00:00Z",
+      "topics": [
+        "music",
+        "history"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/u_hhE9Bjbfw/hqdefault.jpg"
+    },
+    {
+      "id": "SHipCeYasYY",
+      "title": "How to Make a Sad Song",
+      "channel": "Sound Field",
+      "channelId": "@SoundFieldPBS",
+      "durationSec": 240,
+      "publishedAt": "2023-06-01T00:00:00Z",
+      "topics": [
+        "music"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/SHipCeYasYY/hqdefault.jpg"
+    },
+    {
+      "id": "4-7DQocraZw",
+      "title": "How To Draw A Shark",
+      "channel": "Art for Kids Hub",
+      "channelId": "@artforkidshub",
+      "durationSec": 240,
+      "publishedAt": "2023-06-01T00:00:00Z",
+      "topics": [
+        "art"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/4-7DQocraZw/hqdefault.jpg"
+    },
+    {
+      "id": "fEm4NnjL4p4",
+      "title": "How to Draw a Unicorn Cute Girl Easy",
+      "channel": "Draw So Cute",
+      "channelId": "@DrawSoCute",
+      "durationSec": 240,
+      "publishedAt": "2023-06-01T00:00:00Z",
+      "topics": [
+        "art"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/fEm4NnjL4p4/hqdefault.jpg"
+    },
+    {
+      "id": "rcjzvnPdvQo",
+      "title": "How to Draw A Monkey 🐵 | Super Simple Draw | Step By Step",
+      "channel": "Super Simple Draw! - How To Draw for Kids",
+      "channelId": "@SuperSimpleDraw",
+      "durationSec": 240,
+      "publishedAt": "2023-06-01T00:00:00Z",
+      "topics": [
+        "art"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/rcjzvnPdvQo/hqdefault.jpg"
+    },
+    {
+      "id": "xsaAs0tCejg",
+      "title": "How To Draw Sonic Crewmate | Among Us",
+      "channel": "Cartooning Club How to Draw",
+      "channelId": "@cartooningclub",
+      "durationSec": 240,
+      "publishedAt": "2023-06-01T00:00:00Z",
+      "topics": [
+        "art"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/xsaAs0tCejg/hqdefault.jpg"
+    },
+    {
+      "id": "UBSUJkBiEf4",
+      "title": "The ONE MARKER ART CHALLENGE!",
+      "channel": "Jazza",
+      "channelId": "@Jazza",
+      "durationSec": 240,
+      "publishedAt": "2023-06-01T00:00:00Z",
+      "topics": [
+        "art"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/UBSUJkBiEf4/hqdefault.jpg"
+    },
+    {
+      "id": "kkf-kBHZIlE",
+      "title": "EASY ORIGAMI HEART - Double Sided  (Jo Nakashima) - Valentine's Day",
+      "channel": "Origami with Jo Nakashima",
+      "channelId": "@jonakashima",
+      "durationSec": 240,
+      "publishedAt": "2023-06-01T00:00:00Z",
+      "topics": [
+        "making",
+        "art"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/kkf-kBHZIlE/hqdefault.jpg"
+    },
+    {
+      "id": "Cd5Z8hmcb10",
+      "title": "Easy Origami Masu Box Tutorial - Easiest Method - Paper Kawaii",
+      "channel": "Paper Kawaii - Origami Tutorials",
+      "channelId": "@paperkawaii",
+      "durationSec": 240,
+      "publishedAt": "2023-06-01T00:00:00Z",
+      "topics": [
+        "making"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/Cd5Z8hmcb10/hqdefault.jpg"
     }
   ]
 }
