@@ -2,7 +2,7 @@
   "name": "extension",
   "private": true,
   "type": "module",
-  "scripts": { "build": "node build.mjs" },
+  "scripts": { "build": "bun build.mjs" },
   "devDependencies": {
     "esbuild": "^0.24.0",
     "@types/chrome": "^0.0.280"

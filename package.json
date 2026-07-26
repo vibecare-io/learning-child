@@ -5,7 +5,7 @@
   "workspaces": ["catalog-pipeline", "extension"],
   "scripts": {
     "test": "vitest run",
-    "build": "npm run build -ws --if-present",
+    "build": "bun run --cwd catalog-pipeline build && bun run --cwd extension build",
     "typecheck": "tsc -p catalog-pipeline --noEmit && tsc -p extension --noEmit"
   },
   "devDependencies": {
