@@ -14,7 +14,9 @@ export function reportFailure(surface: string): void {
   console.warn(`[learning-child] adapter failed: ${surface}`);
   document.getElementById("lc-hide")?.remove();
   try {
-    chrome.runtime.sendMessage({ type: "adapter-failure", surface });
+    void Promise.resolve(
+      chrome.runtime.sendMessage({ type: "adapter-failure", surface }),
+    ).catch(() => {});
   } catch {
     // extension context gone (e.g. reloaded) — nothing to do
   }
@@ -23,25 +25,53 @@ export function reportFailure(surface: string): void {
 type Cleanup = void | (() => void);
 let cleanup: Cleanup;
 
+// Navigation generation token: serializes route() runs so a stale in-flight
+// navigation can't insert into the wrong page's DOM or clobber the cleanup
+// left behind by a newer navigation.
+let nav = 0;
+
 const routes: [RegExp, string, () => Promise<Cleanup>][] = [
   [/^\/$/, "home", runHome],
   // watch (Task 12) and search (Task 13) adapters register here
 ];
 
 async function route(): Promise<void> {
-  if (typeof cleanup === "function") cleanup();
+  const myNav = ++nav;
+  installHideStyle();
+
+  if (typeof cleanup === "function") {
+    try {
+      cleanup();
+    } catch (err) {
+      console.warn("[learning-child] cleanup failed", err);
+    }
+  }
   cleanup = undefined;
 
   const path = location.pathname;
-  if (path.startsWith("/shorts")) {
+  if (path === "/shorts" || path.startsWith("/shorts/")) {
     location.replace("https://www.youtube.com/");
     return;
   }
   for (const [pattern, surface, run] of routes) {
     if (pattern.test(path)) {
       try {
-        cleanup = await run();
+        const result = await run();
+        if (myNav !== nav) {
+          // A newer navigation started while this route was in flight;
+          // discard this result instead of applying it to the wrong page.
+          if (typeof result === "function") {
+            try {
+              result();
+            } catch (err) {
+              console.warn("[learning-child] cleanup failed", err);
+            }
+          }
+          return;
+        }
+        cleanup = result;
       } catch {
+        if (myNav !== nav) return;
         reportFailure(surface);
       }
       return;

@@ -11,5 +11,6 @@ export async function runHome(): Promise<void> {
   document.getElementById("lc-home-grid")?.remove();
   const grid = renderGrid(dailyFeed(catalog, profile, todayStr()));
   grid.id = "lc-home-grid";
-  host.parentElement!.insertBefore(grid, host);
+  if (!host.parentElement) return;
+  host.parentElement.insertBefore(grid, host);
 }
