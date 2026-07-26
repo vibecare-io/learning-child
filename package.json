@@ -1,0 +1,16 @@
+{
+  "name": "learning-child",
+  "private": true,
+  "workspaces": ["catalog-pipeline", "extension"],
+  "scripts": {
+    "test": "vitest run",
+    "build": "npm run build -ws --if-present",
+    "typecheck": "tsc -p catalog-pipeline --noEmit && tsc -p extension --noEmit"
+  },
+  "devDependencies": {
+    "typescript": "^5.6.0",
+    "vitest": "^3.0.0",
+    "jsdom": "^25.0.0",
+    "@types/node": "^20.0.0"
+  }
+}
