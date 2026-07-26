@@ -32,6 +32,9 @@ export function parseConfig(yamlText: string): Config {
   }
   const allProfiles = Object.keys(profiles);
 
+  if (raw.sources != null && !Array.isArray(raw.sources)) {
+    throw new Error("'sources' must be a list");
+  }
   const sourcesRaw = (raw.sources ?? []) as Record<string, unknown>[];
   const sources: Source[] = sourcesRaw.map((s, i) => {
     const kinds = (["channel", "playlist", "video"] as const).filter((k) => s[k] != null);
@@ -43,19 +46,32 @@ export function parseConfig(yamlText: string): Config {
     for (const p of sourceProfiles) {
       if (!profiles[p]) throw new Error(`sources[${i}]: unknown profile '${p}'`);
     }
+    const maxVideosVal = s.max_videos;
+    if (maxVideosVal != null) {
+      if (typeof maxVideosVal !== "number" || !Number.isFinite(maxVideosVal) || maxVideosVal <= 0) {
+        throw new Error(`sources[${i}]: 'max_videos' must be a positive number`);
+      }
+    }
     return {
       kind,
       ref: String(s[kind]),
       topics: (s.topics as string[] | undefined) ?? [],
       profiles: sourceProfiles,
-      maxVideos: (s.max_videos as number | undefined) ?? DEFAULT_MAX_VIDEOS,
+      maxVideos: maxVideosVal as number | undefined ?? DEFAULT_MAX_VIDEOS,
     };
   });
+
+  const minDurationSecVal = raw.min_duration_sec;
+  if (minDurationSecVal != null) {
+    if (typeof minDurationSecVal !== "number" || !Number.isFinite(minDurationSecVal) || minDurationSecVal <= 0) {
+      throw new Error("'min_duration_sec' must be a positive number");
+    }
+  }
 
   return {
     profiles,
     sources,
     searchOnlyChannels: (raw.search_only_channels as string[] | undefined) ?? [],
-    minDurationSec: (raw.min_duration_sec as number | undefined) ?? DEFAULT_MIN_DURATION_SEC,
+    minDurationSec: minDurationSecVal as number | undefined ?? DEFAULT_MIN_DURATION_SEC,
   };
 }

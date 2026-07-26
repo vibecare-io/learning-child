@@ -63,4 +63,28 @@ sources: []
 `);
     expect(config.minDurationSec).toBe(60);
   });
+
+  it("rejects non-array sources", () => {
+    expect(() => parseConfig(`
+profiles: { little: { label: "x" } }
+sources: "not-an-array"
+`)).toThrow(/must be a list/i);
+  });
+
+  it("rejects string max_videos", () => {
+    expect(() => parseConfig(`
+profiles: { little: { label: "x" } }
+sources:
+  - channel: "@a"
+    max_videos: "ten"
+`)).toThrow(/max_videos/i);
+  });
+
+  it("rejects string min_duration_sec", () => {
+    expect(() => parseConfig(`
+profiles: { little: { label: "x" } }
+min_duration_sec: "sixty"
+sources: []
+`)).toThrow(/min_duration_sec/i);
+  });
 });
