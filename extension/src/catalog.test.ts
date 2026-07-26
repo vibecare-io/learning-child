@@ -31,7 +31,7 @@ describe("loadCatalog", () => {
 
   it("falls back to the bundled seed when cache is empty", async () => {
     stubChrome({}, {});
-    vi.stubGlobal("fetch", vi.fn(async () => ({ json: async () => seedCatalog })));
+    vi.stubGlobal("fetch", vi.fn(async () => ({ ok: true, json: async () => seedCatalog })));
     const { loadCatalog } = await import("./catalog");
     const catalog = await loadCatalog();
     expect(catalog.videos[0].id).toBe("seed1");
@@ -48,12 +48,22 @@ describe("loadAllowed", () => {
 });
 
 describe("getActiveProfile", () => {
-  it("uses the synced profile when valid, else the first catalog profile", async () => {
+  it("uses the synced profile when valid", async () => {
     stubChrome({}, { profile: "big" });
     const { getActiveProfile } = await import("./catalog");
     expect(await getActiveProfile(seedCatalog)).toBe("big");
+  });
 
+  it("defaults to the first profile that has videos, not just the first key", async () => {
+    // seedCatalog lists `little` before `big`, but only `big` has videos.
     stubChrome({}, { profile: "ghost" });
-    expect(await getActiveProfile(seedCatalog)).toBe("little");
+    const { getActiveProfile } = await import("./catalog");
+    expect(await getActiveProfile(seedCatalog)).toBe("big");
+  });
+
+  it("falls back to the first profile key when no profile has videos", async () => {
+    stubChrome({}, {});
+    const { getActiveProfile } = await import("./catalog");
+    expect(await getActiveProfile({ ...seedCatalog, videos: [] })).toBe("little");
   });
 });

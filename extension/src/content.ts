@@ -1,5 +1,6 @@
 import { HIDE_SELECTORS } from "./selectors";
 import { runHome } from "./adapters/home";
+import { runWatch } from "./adapters/watch";
 
 export function installHideStyle(): void {
   if (document.getElementById("lc-hide")) return;
@@ -32,7 +33,8 @@ let nav = 0;
 
 const routes: [RegExp, string, () => Promise<Cleanup>][] = [
   [/^\/$/, "home", runHome],
-  // watch (Task 12) and search (Task 13) adapters register here
+  [/^\/watch$/, "watch", runWatch],
+  // search (Task 13) adapter registers here
 ];
 
 async function route(): Promise<void> {
