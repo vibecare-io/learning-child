@@ -2,7 +2,6 @@
   "name": "catalog-pipeline",
   "private": true,
   "type": "module",
-  "scripts": { "build": "tsx src/build.ts" },
-  "dependencies": { "yaml": "^2.5.0" },
-  "devDependencies": { "tsx": "^4.19.0" }
+  "scripts": { "build": "bun src/build.ts" },
+  "dependencies": { "yaml": "^2.5.0" }
 }
