@@ -1,6 +1,7 @@
 {
   "name": "learning-child",
   "private": true,
+  "engines": { "node": ">=20" },
   "workspaces": ["catalog-pipeline", "extension"],
   "scripts": {
     "test": "vitest run",
