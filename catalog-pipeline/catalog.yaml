@@ -1,0 +1,22 @@
+# Learning Child — parent-curated video sources.
+# Edit this file, push, and the catalog rebuilds automatically.
+# Docs: see README.md at the repo root.
+
+profiles:
+  little: { label: "Ages 3-7" }
+  big:    { label: "Ages 8-12" }
+
+# min_duration_sec: 120   # uncomment to change the Shorts-style filter
+
+sources:
+  - channel: "@veritasium"
+    topics: [science]
+    profiles: [big]
+  - channel: "@kurzgesagt"
+    topics: [science, space]
+    profiles: [big]
+  - channel: "@SciShowKids"
+    topics: [science]
+    profiles: [little]
+
+search_only_channels: []
