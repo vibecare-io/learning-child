@@ -1,0 +1,18 @@
+{
+  "manifest_version": 3,
+  "name": "Learning Child",
+  "version": "0.1.0",
+  "description": "Shows parent-curated videos on YouTube instead of algorithmic recommendations.",
+  "action": {},
+  "background": { "service_worker": "background.js" },
+  "options_page": "options.html",
+  "permissions": ["storage", "alarms"],
+  "host_permissions": ["https://www.youtube.com/*", "https://*.github.io/*"],
+  "content_scripts": [
+    {
+      "matches": ["https://www.youtube.com/*"],
+      "js": ["content.js"],
+      "run_at": "document_start"
+    }
+  ]
+}
