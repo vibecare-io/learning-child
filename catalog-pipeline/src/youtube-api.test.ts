@@ -13,7 +13,7 @@ describe("parseIsoDuration", () => {
 
 function mockJsonFetch(payloads: unknown[]) {
   let call = 0;
-  const fn = vi.fn(async () => ({
+  const fn = vi.fn(async (_input: unknown) => ({
     ok: true,
     json: async () => payloads[call++],
   }));
