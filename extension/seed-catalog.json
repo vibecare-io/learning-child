@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "generatedAt": "2026-07-26T00:00:00Z",
+  "profiles": {
+    "little": { "label": "Ages 3-7" },
+    "big": { "label": "Ages 8-12" }
+  },
+  "videos": [
+    {
+      "id": "zQGOcOUBi6s",
+      "title": "The Immune System Explained I — Bacteria Infection",
+      "channel": "Kurzgesagt – In a Nutshell",
+      "channelId": "UCsXVk37bltHxD1rDPwtNM8Q",
+      "durationSec": 425,
+      "publishedAt": "2014-07-01T00:00:00Z",
+      "topics": ["science"],
+      "profiles": ["big"],
+      "thumbnail": "https://i.ytimg.com/vi/zQGOcOUBi6s/hqdefault.jpg"
+    },
+    {
+      "id": "WUvTyaaNkzM",
+      "title": "The essence of calculus",
+      "channel": "3Blue1Brown",
+      "channelId": "UCYO_jab_esuFRV4b17AJtAw",
+      "durationSec": 1039,
+      "publishedAt": "2017-04-28T00:00:00Z",
+      "topics": ["maths"],
+      "profiles": ["big"],
+      "thumbnail": "https://i.ytimg.com/vi/WUvTyaaNkzM/hqdefault.jpg"
+    }
+  ]
+}
