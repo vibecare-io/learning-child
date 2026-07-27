@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>VibeCare Kids — Settings</title>
+<style>
+  :root {
+    --bg: #ffffff; --ink: #23222a; --ink-2: #6b6572; --border: #e7e3ec;
+    --accent: #e8615a; --accent-ink: #c64a44; --wash: #fbeae5; --field: #faf8fb;
+    --ok: #157a52; --err: #c0392b;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root { --bg: #201d26; --ink: #f0ecf3; --ink-2: #b3aabb; --border: #383343;
+            --wash: #3a2a2c; --field: #2a2632; --ok: #4bd39a; --err: #ff7a6b; }
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--ink);
+    font: 14px/1.5 system-ui, -apple-system, "Segoe UI", sans-serif; }
+  main { padding: 18px 16px 24px; max-width: 420px; margin-inline: auto; }
+  h1 { font-size: 17px; margin: 0 0 2px; display: flex; align-items: center; gap: 8px; }
+  h1 .mark { width: 22px; height: 22px; border-radius: 7px; background: var(--accent); display: inline-grid; place-items: center; }
+  h1 .mark svg { width: 11px; height: 11px; }
+  .sub { margin: 0 0 16px; color: var(--ink-2); font-size: 13px; }
+  .status { background: var(--field); border: 1px solid var(--border); border-radius: 10px;
+    padding: 10px 12px; font-size: 12.5px; color: var(--ink-2); margin-bottom: 16px; }
+  .status b { color: var(--ink); }
+  fieldset { border: none; margin: 0; padding: 0; display: grid; gap: 8px; }
+  .opt { display: flex; align-items: center; gap: 11px; border: 1px solid var(--border);
+    border-radius: 11px; padding: 11px 13px; cursor: pointer; transition: border-color .15s, background .15s; }
+  .opt:hover { border-color: #d5cdda; }
+  .opt:has(input:checked) { border-color: var(--accent); background: var(--wash); }
+  .opt input { accent-color: var(--accent); width: 16px; height: 16px; flex: none; }
+  .opt .txt { display: flex; flex-direction: column; }
+  .opt .txt b { font-size: 13.5px; }
+  .opt .txt small { color: var(--ink-2); font-size: 12px; }
+  #custom { width: 100%; margin-top: 8px; padding: 10px 12px; border: 1px solid var(--border);
+    border-radius: 10px; background: var(--field); color: var(--ink); font: inherit; }
+  #custom:disabled { opacity: .5; }
+  .row { display: flex; gap: 8px; margin-top: 16px; }
+  button { font: inherit; font-weight: 600; border-radius: 10px; padding: 10px 16px; cursor: pointer; border: 1px solid transparent; }
+  #apply { background: var(--accent); color: #fff; flex: 1; }
+  #apply:hover { background: var(--accent-ink); }
+  .ghost { background: transparent; color: var(--ink-2); border-color: var(--border); }
+  .ghost:hover { color: var(--ink); }
+  .msg { min-height: 18px; margin: 12px 0 0; font-size: 12.5px; }
+  .msg.ok { color: var(--ok); }
+  .msg.err { color: var(--err); }
+</style>
+</head>
+<body>
+<main>
+  <h1><span class="mark"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M9 7l9 5-9 5z" fill="#fff"/></svg></span> VibeCare Kids</h1>
+  <p class="sub">Choose where the curated video catalog is loaded from.</p>
+
+  <div class="status" id="status">Checking…</div>
+
+  <form id="form">
+    <fieldset>
+      <label class="opt"><input type="radio" name="src" value="prod" /><span class="txt"><b>Production</b><small>kids.vibecare.io/api</small></span></label>
+      <label class="opt"><input type="radio" name="src" value="local" /><span class="txt"><b>Local dev</b><small>localhost:8080/api</small></span></label>
+      <label class="opt"><input type="radio" name="src" value="custom" /><span class="txt"><b>Custom URL</b><small>your own /api base</small></span></label>
+    </fieldset>
+    <input type="url" id="custom" placeholder="https://example.com/api" disabled />
+    <div class="row">
+      <button type="submit" id="apply">Apply &amp; load</button>
+      <button type="button" id="reset" class="ghost">Use bundled</button>
+    </div>
+  </form>
+  <p class="msg" id="msg"></p>
+</main>
+<script src="settings.js" defer></script>
+</body>
+</html>

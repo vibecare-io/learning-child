@@ -1,13 +1,14 @@
 import { build } from "esbuild";
-import { cpSync, mkdirSync, existsSync } from "node:fs";
+import { cpSync, mkdirSync, existsSync, rmSync } from "node:fs";
 
+rmSync("dist", { recursive: true, force: true });
 mkdirSync("dist", { recursive: true });
 
 await build({
   entryPoints: {
     content: "src/content.ts",
     background: "src/background.ts",
-    options: "src/options/options.ts",
+    settings: "src/settings/settings.ts",
   },
   bundle: true,
   format: "iife",
@@ -17,4 +18,4 @@ await build({
 
 cpSync("manifest.json", "dist/manifest.json");
 cpSync("seed-catalog.json", "dist/seed-catalog.json");
-if (existsSync("src/options/options.html")) cpSync("src/options/options.html", "dist/options.html");
+if (existsSync("src/settings/settings.html")) cpSync("src/settings/settings.html", "dist/settings.html");

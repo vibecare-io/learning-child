@@ -24,6 +24,9 @@ async function refreshCatalog(): Promise<void> {
   }
 }
 
+// Open the settings side panel when the toolbar icon is clicked.
+chrome.sidePanel?.setPanelBehavior({ openPanelOnActionClick: true }).catch(() => {});
+
 chrome.runtime.onInstalled.addListener(() => {
   chrome.alarms.create(REFRESH_ALARM, { periodInMinutes: REFRESH_MINUTES, delayInMinutes: 0 });
 });
