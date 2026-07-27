@@ -1,6 +1,5 @@
 import type { AllowedChannels, Catalog } from "../../../shared/types";
-import { todayStr } from "../feed";
-import { formatHours, getHistory, recentVideos, secondsToday, weekTotalSec } from "../history";
+import { formatHours, getHistory, localDayStr, recentVideos, secondsToday, weekTotalSec } from "../history";
 import { getPrefs, setPrefs, PROD_CATALOG_URL } from "../prefs";
 import { DEFAULT_CONTROLS, type ParentControls } from "../safety";
 import { extractVideoId } from "./video-id";
@@ -62,6 +61,7 @@ const pinStateEl = $("pin-state");
 const pcHoursToday = $("pc-hours-today");
 const pcHoursWeek = $("pc-hours-week");
 const pcRecent = $("pc-recent");
+const pcRecentToggle = $<HTMLButtonElement>("pc-recent-toggle");
 
 // Configuration (catalog source)
 const customEl = $<HTMLInputElement>("custom");
@@ -415,24 +415,52 @@ function recentRow(v: { title: string; channel: string; totalSec: number }): HTM
   return row;
 }
 
+// The recent-watched list starts collapsed to this many rows; the toggle
+// (or tapping the list) expands it to show everything.
+const RECENT_COLLAPSED = 4;
+const RECENT_MAX = 60;
+let recentExpanded = false;
+
+function applyRecentCollapse(): void {
+  pcRecent.classList.toggle("collapsed", !recentExpanded);
+  pcRecentToggle.textContent = recentExpanded ? "Show less" : "Show all";
+}
+
 /**
- * Read-only "Watch activity" stats — today's/this-week's watch time and the
- * 10 most-recently-watched videos. Derived entirely from getHistory(); no
- * storage is written here. Populated on unlock, same moment as the rest of
- * the parent-controls area (see enterApp).
+ * Read-only "Watch activity" stats on the Home tab — today's/this-week's watch
+ * time (bucketed by the parent's LOCAL day) and the most-recently-watched
+ * videos, collapsed to RECENT_COLLAPSED until expanded. Derived entirely from
+ * getHistory(); no storage is written here. Re-run on unlock and live whenever
+ * the content script writes new watch history (see the storage listener).
  */
 async function renderActivity(): Promise<void> {
   const history = await getHistory();
-  const today = todayStr();
+  const today = localDayStr();
   pcHoursToday.textContent = formatHours(secondsToday(history, today));
   pcHoursWeek.textContent = formatHours(weekTotalSec(history, today));
 
-  const recent = recentVideos(history, 10);
+  const recent = recentVideos(history, RECENT_MAX);
   pcRecent.replaceChildren(...(recent.length ? recent.map(recentRow) : [noteRow("No videos watched yet.")]));
+  pcRecentToggle.hidden = recent.length <= RECENT_COLLAPSED;
+  applyRecentCollapse();
+}
+
+function toggleRecent(): void {
+  if (pcRecentToggle.hidden) return; // nothing hidden to reveal
+  recentExpanded = !recentExpanded;
+  applyRecentCollapse();
 }
 
 // --- Wiring -----------------------------------------------------------------
 gateOk.addEventListener("click", () => void gateSubmit());
+pcRecentToggle.addEventListener("click", toggleRecent);
+pcRecent.addEventListener("click", toggleRecent); // tapping the list expands it too
+
+// Live-refresh the activity view whenever the content script records new watch
+// time — without this the panel is a stale snapshot from the moment it opened.
+chrome.storage.onChanged.addListener((changes, area) => {
+  if (unlocked && area === "local" && changes.watchHistory) void renderActivity();
+});
 gateInput.addEventListener("keydown", (e) => {
   if (e.key === "Enter") void gateSubmit();
 });

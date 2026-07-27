@@ -4,7 +4,7 @@ import { renderGrid, renderChips, renderDoneToday } from "../ui";
 import { waitFor } from "../dom";
 import { HOME_GRID } from "../selectors";
 import { applySafety, loadControls } from "../safety";
-import { getHistory, isOverLimit, secondsToday } from "../history";
+import { getHistory, isOverLimit, localDayStr, secondsToday } from "../history";
 import { getPrefs } from "../prefs";
 
 /** Canonical topic order for the chip bar (only the ones present in the feed show). */
@@ -30,7 +30,7 @@ export async function runHome(): Promise<void> {
   // for a calm, non-shaming panel instead - no thumbnails, no chips, no
   // Watched tab. Checked before touching the feed since there's nothing to
   // build in this branch.
-  if (isOverLimit(prefs.screenTimeMinutes, secondsToday(history, todayStr()))) {
+  if (isOverLimit(prefs.screenTimeMinutes, secondsToday(history, localDayStr()))) {
     wrap.append(renderDoneToday());
     if (!host.parentElement) return;
     host.parentElement.insertBefore(wrap, host);

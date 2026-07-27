@@ -113,6 +113,9 @@
   /* Recent-videos rows (Watch activity) */
   .setting .head .mins { flex: none; color: var(--ink-2); font-size: 12.5px; }
   .setting .txt b.title { display: block; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+  /* Collapsed recent list shows the first 4 rows; the toggle reveals the rest. */
+  #pc-recent.collapsed .setting:nth-child(n+5) { display: none; }
+  .recent-toggle { width: 100%; margin-top: 10px; }
 
   #noresults { text-align: center; color: var(--ink-2); padding: 30px 10px; font-size: 13px; }
 
@@ -211,6 +214,17 @@
           <div class="tile"><div class="k">Blocked videos</div><div class="v" id="home-videos">0</div></div>
         </div>
       </div>
+      <div class="section">
+        <h2>Watch activity</h2>
+        <div class="tiles">
+          <div class="tile"><div class="k">Watched today</div><div class="v" id="pc-hours-today">—</div></div>
+          <div class="tile"><div class="k">Watched this week</div><div class="v" id="pc-hours-week">—</div></div>
+        </div>
+        <div class="card collapsed" id="pc-recent">
+          <div class="setting"><div class="txt"><small>No videos watched yet.</small></div></div>
+        </div>
+        <button type="button" id="pc-recent-toggle" class="btn ghost recent-toggle" hidden>Show all</button>
+      </div>
     </section>
 
     <!-- ================= SETTINGS ================= -->
@@ -273,16 +287,6 @@
         </div>
       </div>
 
-      <div class="section">
-        <h2>Watch activity</h2>
-        <div class="tiles">
-          <div class="tile"><div class="k">Watched today</div><div class="v" id="pc-hours-today">—</div></div>
-          <div class="tile"><div class="k">Watched this week</div><div class="v" id="pc-hours-week">—</div></div>
-        </div>
-        <div class="card" id="pc-recent">
-          <div class="setting"><div class="txt"><small>No videos watched yet.</small></div></div>
-        </div>
-      </div>
     </section>
 
     <!-- ================= CONFIGURATION ================= -->
