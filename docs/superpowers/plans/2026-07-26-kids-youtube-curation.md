@@ -3032,6 +3032,53 @@ TDD: isOverLimit cases (null, 0, under, exactly at, over). Adapters by inspectio
 suite green.
 Commit: `feat(extension): gentle daily screen-time limit`
 
+### Task 24: Full-page kawaii limit screen (added 2026-07-27; supersedes Task 22's soft treatment)
+
+User decision: when the daily limit is hit, BLOCK the entire YouTube page — no grid, no
+watch page, no search — with a kawaii full-viewport takeover and a big live countdown to
+the reset. This replaces Task 22's calm-panel/skip-up-next semantics (renderDoneToday and
+the per-adapter over-limit branches are removed; enforcement moves to ONE place).
+
+**Files:** Create `extension/src/limit-screen.ts` (+ jsdom test); Modify `extension/src/feed.ts`
+(todayStr → LOCAL date), `extension/src/content.ts` (single enforcement point in route()),
+`extension/src/adapters/home.ts` + `watch.ts` (remove over-limit branches), `extension/src/ui.ts`
+(remove renderDoneToday + its test), `extension/src/adapters/watch.ts` recorder (mid-video trigger).
+
+**Interfaces:**
+```ts
+// limit-screen.ts
+export function msUntilLocalMidnight(now: Date): number;                 // pure, tested
+export function formatCountdown(ms: number): string;                     // "HH:MM:SS", tested
+export function showLimitScreen(): () => void;  // injects #lc-limit-screen overlay, ticking
+   // countdown via setInterval(1s), pauses any <video> and keeps it paused (re-pause on
+   // play events), body scroll locked; returns cleanup (remove overlay, unlock, stop timer).
+   // Idempotent: second call while shown returns the existing cleanup.
+```
+- `todayStr()` in feed.ts switches to LOCAL date (`new Date()` local Y-M-D, zero-padded) so
+  daily buckets and the countdown reset at the family's midnight. Existing tests pass dateStr
+  explicitly; only the helper changes.
+- content.ts route(): in the prelude (inside the existing try/catch, after nav-token setup):
+  if `isOverLimit(prefs.screenTimeMinutes, secondsToday(history, todayStr()))` → `cleanup =
+  showLimitScreen(); return;` — applies to EVERY path (home, watch, search, shorts) via the
+  single check. Shorts branch keeps its own earlier redirect (harmless double cover).
+- watch.ts recorder: after each recordTick, re-check the limit; on crossing, invoke the same
+  takeover immediately (import showLimitScreen; compose its cleanup into the route cleanup).
+  The old never-interrupt rule is superseded by the user's explicit block-everything decision.
+- Kawaii design (self-contained CSS in limit-screen.ts, no external assets): pastel gradient
+  (#ffe3ef → #dff1ff), floating soft blobs, rounded card, a big CSS kawaii face, ui-rounded
+  font stack, countdown digits ≥72px tabular-nums. Copy (exact):
+  - H1: "All done for today! ⭐"
+  - Body: "You've used up today's watch time — and that's something to be proud of. Your
+    eyes and brain deserve a rest."
+  - Countdown label: "New videos in"
+  - Footer: "Go build, draw, jump, or dream something amazing. See you tomorrow! 🌈"
+- TDD: msUntilLocalMidnight (mid-day, 1s-before-midnight, exactly-midnight → full day);
+  formatCountdown (0 → "00:00:00", 3661000 → "01:01:01", clamps negative to zero); jsdom:
+  showLimitScreen injects #lc-limit-screen once (idempotent), pauses a playing <video> and
+  re-pauses on play event, cleanup removes overlay + unlocks scroll; adapters' over-limit
+  tests updated (home no longer renders done-today panel — over-limit never reaches adapters).
+Commit: `feat(extension): full-page kawaii countdown takeover when the daily limit is hit`
+
 ### Task 23: Parent panel "Watch activity" (BLOCKED until companion session commits settings.*)
 
 **Files:** Modify `extension/src/settings/settings.html` + `settings.ts` (inside the
