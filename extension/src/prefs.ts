@@ -5,6 +5,12 @@
 // can read it — localStorage is per-origin and would not reach the content
 // script. If this ever moves to React, this module maps 1:1 onto a Zustand store.
 
+// This project's hosted catalog (see README "Hosting"). Shared between
+// settings.ts (the "prod" radio option) and background.ts (the default a
+// fresh install gets before the parent ever opens settings), so it's defined
+// once here rather than duplicated as a string literal in both places.
+export const PROD_CATALOG_URL = "https://kids.vibecare.io/api";
+
 // Parent-controls shape lives here (prefs.ts owns the stored-prefs types) so
 // the dependency stays one-directional: safety.ts -> prefs.ts. safety.ts
 // re-exports these for its consumers.

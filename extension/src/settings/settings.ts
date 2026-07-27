@@ -1,9 +1,9 @@
 import type { AllowedChannels, Catalog } from "../../../shared/types";
-import { getPrefs, setPrefs } from "../prefs";
+import { getPrefs, setPrefs, PROD_CATALOG_URL } from "../prefs";
 import { DEFAULT_CONTROLS, type ParentControls } from "../safety";
 import { extractVideoId } from "./video-id";
 
-const PROD = "https://kids.vibecare.io/api";
+const PROD = PROD_CATALOG_URL;
 const LOCAL = "http://localhost:8080/api";
 
 const $ = <T extends HTMLElement>(id: string) => document.getElementById(id) as T;
