@@ -2950,6 +2950,100 @@ void init();
 their video lists with `applySafety(..., await loadControls())`; README (16) documents
 Parent Controls + the safety yaml keys; the whole-branch review covers the safety tier.
 
+## Watch history tier — Tasks 20–23 (added 2026-07-27)
+
+User decisions: watched videos are HIDDEN from the main home grid and live under a
+"Watched" chip (deliberate rewatching, never pushed); watch time is recorded per video
+and per day; a GENTLE daily limit (from the existing `screenTimeMinutes` pref) removes
+up-next and shows a calm "done for today" home state when exceeded — never interrupts a
+playing video, never hard-locks. Coordination: the companion session has UNCOMMITTED
+edits in `prefs.ts`, `settings.*`, `content.ts` — Tasks 20–22 must not touch those
+files; Task 23 (settings stats) waits until they are committed.
+
+### Task 20: Watch-history store + recorder
+
+**Files:** Create `extension/src/history.ts`, `extension/src/history.test.ts`; Modify `extension/src/adapters/watch.ts` (+ extend `watch.test.ts`); Modify `extension/src/selectors.ts` (add `VIDEO_PLAYER = "video.html5-main-video"`).
+
+**Interfaces (later tasks depend on EXACT shapes):**
+```ts
+export interface VideoWatch { title: string; channel: string; lastWatchedAt: string; totalSec: number }
+export interface WatchHistory { videos: Record<string, VideoWatch>; daily: Record<string, number> }
+export const EMPTY_HISTORY: WatchHistory;
+export async function getHistory(): Promise<WatchHistory>;            // storage.local key "watchHistory", merged over EMPTY_HISTORY
+export async function recordTick(videoId: string, meta: { title: string; channel: string }, seconds: number, dateStr: string): Promise<void>;
+export function accumulate(h: WatchHistory, videoId: string, meta: { title: string; channel: string }, seconds: number, dateStr: string): WatchHistory; // pure core recordTick uses
+export function pruneHistory(h: WatchHistory, todayStr: string, maxAgeDays?: number): WatchHistory; // pure, default 90 days, prunes videos by lastWatchedAt and daily by key
+export function isWatched(h: WatchHistory, videoId: string, durationSec: number): boolean; // totalSec >= 60 || totalSec >= 0.25 * durationSec
+export function secondsToday(h: WatchHistory, dateStr: string): number;
+```
+
+Recorder in watch.ts: `startRecorder(videoId, meta)` — `setInterval` every 5s; tick
+only when the `VIDEO_PLAYER` element exists, `!paused && !ended`, and
+`document.visibilityState === "visible"`; each tick calls `recordTick(videoId, meta, 5,
+todayStr())`. `recordTick` = read → `accumulate` → `pruneHistory` → write. `runWatch`
+composes the recorder's cancel with the existing autoplay-poller cleanup. Video title
+and channel come from the catalog entry when the id is in the catalog, else
+`{ title: document.title, channel: "" }`.
+
+TDD (pure parts): accumulate adds seconds + updates lastWatchedAt + daily bucket;
+pruneHistory drops >90-day entries, keeps fresh; isWatched thresholds (59s of a 1000s
+video → false; 60s → true; 30s of a 100s video → true); secondsToday missing-day → 0.
+Recorder: fake-timers test — plays → ticks recorded; paused video → no tick; cleanup
+stops interval (mock recordTick via storage stub or export the tick predicate).
+Commit: `feat(extension): record per-video and per-day watch history`
+
+### Task 21: Hide watched from grid + Watched chip
+
+**Files:** Modify `extension/src/feed.ts` (+ test), `extension/src/adapters/home.ts` (+ extend home.test.ts if present).
+
+**Interfaces:**
+```ts
+export function splitWatched(videos: CatalogVideo[], history: WatchHistory): { unwatched: CatalogVideo[]; watched: CatalogVideo[] };
+// watched = isWatched(...) members, sorted lastWatchedAt DESC; unwatched keeps input order.
+export const MIN_GRID = 12;
+export function backfill(unwatched: CatalogVideo[], watched: CatalogVideo[], min?: number): { grid: CatalogVideo[]; watchedRest: CatalogVideo[] };
+// if unwatched.length < min, append least-recently-watched (tail of watched) until min or exhausted — the grid must NEVER be empty while the catalog has videos.
+```
+
+home.ts: after `applySafety(dailyFeed(...))`, split via history; main grid renders
+`backfill(...).grid`; READ the companion session's chip implementation in home.ts/ui.ts
+and prepend a special **"Watched"** chip (only when `watched.length > 0`) that swaps the
+grid to the watched list (newest-watched first) — follow the existing chip
+selection/re-render mechanism exactly; do not fork it. TDD: splitWatched ordering +
+threshold via isWatched; backfill floor and never-empty; chip wiring by inspection +
+existing home tests stay green.
+Commit: `feat(extension): hide watched videos behind a Watched chip`
+
+### Task 22: Gentle daily screen-time limit
+
+**Files:** Modify `extension/src/history.ts` (+ test): add
+`export function isOverLimit(screenTimeMinutes: number | null, secondsWatchedToday: number): boolean`
+(null/0/negative limit → never over; else `secondsWatchedToday >= screenTimeMinutes * 60`).
+Modify `extension/src/adapters/home.ts`, `extension/src/adapters/watch.ts`, `extension/src/ui.ts`.
+
+Behavior when over limit (prefs.screenTimeMinutes consumed at last):
+- home: instead of the grid, render a calm full-width panel `#lc-done-today` (ui.ts
+  helper `renderDoneToday(): HTMLElement` — warm copy like "That's plenty of watching
+  for today — time for real-world adventures! See you tomorrow.", styled with the
+  existing lc- CSS vars; no thumbnails, no chips). Watched chip hidden too.
+- watch: skip injecting the up-next list (current video keeps playing; recorder still
+  records; autoplay poller still forces off). No mid-video interruption ever.
+TDD: isOverLimit cases (null, 0, under, exactly at, over). Adapters by inspection +
+suite green.
+Commit: `feat(extension): gentle daily screen-time limit`
+
+### Task 23: Parent panel "Watch activity" (BLOCKED until companion session commits settings.*)
+
+**Files:** Modify `extension/src/settings/settings.html` + `settings.ts` (inside the
+PIN-gated area, below Parent controls).
+
+Show: hours today (`secondsToday`), hours this week (sum last 7 daily keys), and the 10
+most-recent videos (title, channel, minutes) from `getHistory()`. Read-only stats — no
+new storage. Formatting helper `formatHours(sec: number): string` ("1 h 24 m") in
+history.ts with tests. PRECONDITION: `git status` must show settings.* clean before
+starting; otherwise hold.
+Commit: `feat(extension): watch activity stats in parent panel`
+
 ## Done criteria
 
 - `just test` green; `just typecheck` green; `just bundle` green (bun toolchain).
