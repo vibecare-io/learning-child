@@ -1,3 +1,6 @@
+# Auto-load .env (e.g. YT_API_KEY) into recipe environments
+set dotenv-load := true
+
 # List available recipes
 default:
     just --list

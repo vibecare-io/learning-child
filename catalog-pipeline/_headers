@@ -1,0 +1,14 @@
+# Cloudflare Pages headers for the catalog API.
+# Emitted into the build output (dist/) by catalog-pipeline/src/build.ts.
+# Docs: https://developers.cloudflare.com/pages/configuration/headers/
+
+/*
+  Access-Control-Allow-Origin: *
+  Cache-Control: public, max-age=3600
+  X-Content-Type-Options: nosniff
+
+/catalog.json
+  Content-Type: application/json; charset=utf-8
+
+/allowed-channels.json
+  Content-Type: application/json; charset=utf-8
