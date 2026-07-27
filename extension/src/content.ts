@@ -34,6 +34,12 @@ let cleanup: Cleanup;
 // left behind by a newer navigation.
 let nav = 0;
 
+// route() fires on both DOMContentLoaded and yt-navigate-finish for the same
+// hard-loaded navigation, so a naive counter (guardReel) would burn 2 budget
+// units for one reel view. Track the last shorts URL that was actually
+// counted and skip re-counting it if location.href hasn't changed since.
+let lastCountedShortsHref: string | undefined;
+
 const routes: [RegExp, string, () => Promise<Cleanup>][] = [
   [/^\/$/, "home", runHome],
   [/^\/watch$/, "watch", runWatch],
@@ -69,13 +75,17 @@ async function route(): Promise<void> {
       baseCooldownMs: controls.reelsCooldownMinutes * 60_000,
     };
     if (onShorts) {
-      // Allow a small taste (reelsLimit), then redirect away and start the
-      // exponential cooldown. The bar (synced below) shows the countdown.
-      const decision = await guardReel(reelsConfig);
-      if (myNav !== nav) return;
-      if (!decision.allow) {
-        location.replace("https://www.youtube.com/");
-        return;
+      const href = location.href;
+      if (href !== lastCountedShortsHref) {
+        // Allow a small taste (reelsLimit), then redirect away and start the
+        // exponential cooldown. The bar (synced below) shows the countdown.
+        const decision = await guardReel(reelsConfig);
+        if (myNav !== nav) return;
+        if (!decision.allow) {
+          location.replace("https://www.youtube.com/");
+          return;
+        }
+        lastCountedShortsHref = href;
       }
     }
     // Reflect the reels budget / cooldown in the top-of-page bar on every
