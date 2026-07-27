@@ -81,6 +81,13 @@ const pinCancel = $<HTMLButtonElement>("pin-cancel");
 // hidden entirely. Unlocking swaps them and loads fresh data.
 let unlocked = false;
 
+// The gate does double duty: "unlock" (a PIN already exists - check it) and
+// "create" (no PIN yet - the kid must not land straight in the fully-
+// unlocked app, or they could raise limits/clear blocklists/set their own
+// PIN and lock the parent out). init() picks the mode; onLock() always
+// re-enters via the "unlock" mode since a PIN necessarily exists by then.
+let gateMode: "unlock" | "create" = "unlock";
+
 function setUnlocked(v: boolean): void {
   unlocked = v;
   gate.hidden = v;
@@ -93,9 +100,10 @@ async function enterApp(): Promise<void> {
   await Promise.all([initConfig(), loadSettingsValues(), renderHome(), renderActivity()]);
 }
 
-/** Hide the app and show the PIN gate. */
+/** Hide the app and show the PIN gate in "enter your PIN" mode. */
 function lockToGate(): void {
   clearSearch();
+  gateMode = "unlock";
   gateTitle.textContent = "Enter your PIN";
   gateHint.textContent = "Enter your PIN to open settings.";
   gateOk.textContent = "Unlock";
@@ -105,9 +113,34 @@ function lockToGate(): void {
   gateInput.focus();
 }
 
+/** Show the PIN gate in "create a PIN" mode (no PIN exists yet). */
+function showGateForCreate(): void {
+  gateMode = "create";
+  gateTitle.textContent = "Set a PIN";
+  gateHint.textContent = "First visit - choose a 4+ digit PIN to protect these settings.";
+  gateOk.textContent = "Set PIN";
+  gateMsg.textContent = "";
+  gateInput.value = "";
+  setUnlocked(false);
+  gateInput.focus();
+}
+
 async function gateSubmit(): Promise<void> {
+  const entered = gateInput.value.trim();
+  if (gateMode === "create") {
+    if (!/^\d{4,}$/.test(entered)) {
+      gateMsg.textContent = "PIN must be at least 4 digits";
+      gateMsg.className = "msg err";
+      gateInput.value = "";
+      gateInput.focus();
+      return;
+    }
+    await setPrefs({ parentPin: entered });
+    await enterApp();
+    return;
+  }
   const { parentPin } = await getPrefs();
-  if (!parentPin || gateInput.value.trim() === parentPin) {
+  if (!parentPin || entered === parentPin) {
     await enterApp();
     return;
   }
@@ -438,10 +471,12 @@ async function init(): Promise<void> {
   const { parentPin } = await getPrefs();
   if (parentPin) {
     // Locked: the gate is already the only visible surface (app starts hidden).
+    gateMode = "unlock";
     gateInput.focus();
   } else {
-    // No PIN — nothing to lock, so go straight in.
-    await enterApp();
+    // No PIN yet - require creating one before entering the app; the app
+    // stays hidden (see #app[hidden] in settings.html) until it's set.
+    showGateForCreate();
   }
 }
 
