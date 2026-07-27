@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-07-27T06:38:01.430Z",
+  "generatedAt": "2026-07-27T12:10:06.255Z",
   "profiles": {
     "little": {
       "label": "Ages 3-7"
@@ -129,6 +129,22 @@
         "little"
       ],
       "thumbnail": "https://i.ytimg.com/vi/kKqd0_cydZM/hqdefault.jpg"
+    },
+    {
+      "id": "hq3n3J1NmBg",
+      "title": "Weird But True Full Episode | Plants, Plants Everywhere🪴🌱 | Nat Geo Kids",
+      "channel": "Nat Geo Kids",
+      "channelId": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "durationSec": 2643,
+      "publishedAt": "2026-07-27T11:00:03Z",
+      "topics": [
+        "animals",
+        "science"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/hq3n3J1NmBg/hqdefault.jpg"
     },
     {
       "id": "N_7uBiy3yl8",
@@ -711,22 +727,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/mvcesPWvUIc/hqdefault.jpg"
-    },
-    {
-      "id": "Xf-uUy5pdUI",
-      "title": "What’s It Like to Be Killed by Nature’s Most Brutal Predator",
-      "channel": "Kurzgesagt – In a Nutshell",
-      "channelId": "UCsXVk37bltHxD1rDPwtNM8Q",
-      "durationSec": 742,
-      "publishedAt": "2026-07-07T14:00:16Z",
-      "topics": [
-        "science",
-        "space"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/Xf-uUy5pdUI/hqdefault.jpg"
     },
     {
       "id": "PqtggjVAi8M",
@@ -10087,21 +10087,6 @@
       "thumbnail": "https://i.ytimg.com/vi/U8eauvjE1Nw/hqdefault.jpg"
     },
     {
-      "id": "jebin9AsPY8",
-      "title": "LIVE Berkner Break – Springtime Party 🌷🐿️ Mini Concert for Kids | Chipmunk At The Gas Pump & More",
-      "channel": "The Laurie Berkner Band - Kids Songs",
-      "channelId": "UCQ9o9F8HYJV85XjciUS86_Q",
-      "durationSec": 2391,
-      "publishedAt": "2026-04-17T16:34:30Z",
-      "topics": [
-        "music"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/jebin9AsPY8/hqdefault.jpg"
-    },
-    {
       "id": "RideGnMsclM",
       "title": "Kids | Learn Music from the Civil Rights Era and Beyond",
       "channel": "Carnegie Hall Kids",
@@ -17765,7 +17750,7 @@
     },
     {
       "id": "-2PSwzLuwb0",
-      "title": "The Fastest, Weirdest & Fiercest Dinosaurs! | BBC Earth Kids",
+      "title": "The Fastest, Weirdest & Fiercest Dinosaurs! | Walking With Dinosaurs | BBC Earth Kids",
       "channel": "BBC Earth Kids",
       "channelId": "UCO_DaPp4ifhMAmiyybSLx9w",
       "durationSec": 902,
@@ -30709,6 +30694,21 @@
       "thumbnail": "https://i.ytimg.com/vi/6f9ObiwclN8/hqdefault.jpg"
     },
     {
+      "id": "ljLJmBSiIYE",
+      "title": "Stories About Anger and Temper for Kids | Read Aloud Kids Books | Vooks Narrated Storybooks",
+      "channel": "Vooks - Stories and Read Alouds for Kids",
+      "channelId": "UCGfA6UdZEmpIwBZ4btAKkgA",
+      "durationSec": 3110,
+      "publishedAt": "2026-07-27T12:00:26Z",
+      "topics": [
+        "reading"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/ljLJmBSiIYE/hqdefault.jpg"
+    },
+    {
       "id": "smLK5dsW_WI",
       "title": "Stories About Bugs and Critters for Kids | Read Aloud Kids Books | Vooks Narrated Storybooks",
       "channel": "Vooks - Stories and Read Alouds for Kids",
@@ -31262,21 +31262,6 @@
         "little"
       ],
       "thumbnail": "https://i.ytimg.com/vi/0R5qSD1FJQo/hqdefault.jpg"
-    },
-    {
-      "id": "nzAoOcLSpWA",
-      "title": "A Horse Named Steve! | Read Aloud Kids Book | Vooks Narrated Storybooks",
-      "channel": "Vooks - Stories and Read Alouds for Kids",
-      "channelId": "UCGfA6UdZEmpIwBZ4btAKkgA",
-      "durationSec": 494,
-      "publishedAt": "2024-10-25T12:01:03Z",
-      "topics": [
-        "reading"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/nzAoOcLSpWA/hqdefault.jpg"
     },
     {
       "id": "RVOfgOlLbgc",
@@ -46970,6 +46955,21 @@
       "thumbnail": "https://i.ytimg.com/vi/bZ1Z_QIU-fQ/hqdefault.jpg"
     },
     {
+      "id": "7nwFegN6Fyk",
+      "title": "A Copper Discovery - Periodic Table of Videos",
+      "channel": "Periodic Videos",
+      "channelId": "UCtESv1e7ntJaLJYKIO1FoYw",
+      "durationSec": 563,
+      "publishedAt": "2026-07-27T11:42:18Z",
+      "topics": [
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/7nwFegN6Fyk/hqdefault.jpg"
+    },
+    {
       "id": "LqdPwLIaCQw",
       "title": "Steak Cooked in 6.8 Seconds",
       "channel": "Periodic Videos",
@@ -47688,21 +47688,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/LclOOAT6pvA/hqdefault.jpg"
-    },
-    {
-      "id": "T4ljJyIrakg",
-      "title": "Iodine Satellites - Periodic Table of Videos",
-      "channel": "Periodic Videos",
-      "channelId": "UCtESv1e7ntJaLJYKIO1FoYw",
-      "durationSec": 257,
-      "publishedAt": "2022-07-22T12:42:00Z",
-      "topics": [
-        "science"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/T4ljJyIrakg/hqdefault.jpg"
     },
     {
       "id": "3HslG2J84IA",
@@ -83897,22 +83882,6 @@
         "little"
       ],
       "thumbnail": "https://i.ytimg.com/vi/h3OXjNIp6yY/hqdefault.jpg"
-    },
-    {
-      "id": "6ITy1_Jldjs",
-      "title": "Peep and the Big Wide World: A Duck's Tale",
-      "channel": "Peep and the Big Wide World",
-      "channelId": "UCPq6g4Q4-SFMIJ048IXmupA",
-      "durationSec": 530,
-      "publishedAt": "2013-03-07T20:29:30Z",
-      "topics": [
-        "science",
-        "nature"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/6ITy1_Jldjs/hqdefault.jpg"
     },
     {
       "id": "_-t3zhkntyU",
