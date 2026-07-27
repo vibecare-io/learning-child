@@ -49,6 +49,37 @@ export function renderGrid(videos: CatalogVideo[]): HTMLElement {
   return renderContainer(videos, "lc-grid");
 }
 
+function chipLabel(topic: string): string {
+  if (topic === "all") return "All";
+  if (topic === "maths") return "Maths";
+  return topic.charAt(0).toUpperCase() + topic.slice(1);
+}
+
+/**
+ * Our topic chip bar - replaces YouTube's algorithmic chips (Podcasts, Gaming,
+ * Satire, ...). `topics` should already be the ones present in the kid's feed.
+ */
+export function renderChips(
+  topics: string[],
+  active: string,
+  onSelect: (topic: string) => void,
+): HTMLElement {
+  const doc = document;
+  injectUiCss(doc);
+  const bar = doc.createElement("div");
+  bar.className = "lc-chips";
+  bar.id = "lc-chips";
+  for (const t of topics) {
+    const chip = doc.createElement("button");
+    chip.className = "lc-chip" + (t === active ? " lc-chip-on" : "");
+    chip.dataset.topic = t;
+    chip.textContent = chipLabel(t);
+    chip.addEventListener("click", () => onSelect(t));
+    bar.appendChild(chip);
+  }
+  return bar;
+}
+
 export function renderList(videos: CatalogVideo[]): HTMLElement {
   return renderContainer(videos, "lc-list");
 }
@@ -60,6 +91,21 @@ const UI_CSS = `
   grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
   gap: 20px 16px;
   padding: 24px;
+}
+.lc-chips {
+  display: flex; gap: 12px; padding: 12px 24px 0; flex-wrap: wrap; align-items: center;
+}
+.lc-chip {
+  border: none; cursor: pointer;
+  background: var(--yt-spec-badge-chip-background, rgba(0,0,0,0.05));
+  color: var(--yt-spec-text-primary, #0f0f0f);
+  font-family: "Roboto", Arial, sans-serif; font-size: 14px; font-weight: 500;
+  padding: 8px 12px; border-radius: 8px; line-height: 1; white-space: nowrap;
+}
+.lc-chip:hover { background: var(--yt-spec-10-percent-layer, rgba(0,0,0,0.1)); }
+.lc-chip-on {
+  background: var(--yt-spec-text-primary, #0f0f0f);
+  color: var(--yt-spec-base-background, #fff);
 }
 .lc-list { display: flex; flex-direction: column; gap: 12px; padding: 8px 0; }
 .lc-list .lc-tile { display: grid; grid-template-columns: 168px 1fr; gap: 8px; }

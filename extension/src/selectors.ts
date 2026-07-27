@@ -16,6 +16,9 @@ export const HIDE_SELECTORS = [
   "ytd-rich-shelf-renderer[is-shorts]",
   "ytd-guide-entry-renderer:has(a[href^='/shorts'])",
   "ytd-mini-guide-entry-renderer:has(a[href^='/shorts'])",
+  // Home feed filter chips (Podcasts, Gaming, Satire, Scam baiting, ... - algorithmic).
+  // We inject our own topic chips (lc-chips) instead.
+  "ytd-browse[page-subtype='home'] ytd-feed-filter-chip-bar-renderer",
   // Trending / Explore nav entries
   "ytd-guide-entry-renderer:has(a[href='/feed/trending'])",
   "ytd-guide-entry-renderer:has(a[href='/feed/explore'])",
