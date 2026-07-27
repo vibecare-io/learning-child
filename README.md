@@ -26,12 +26,13 @@ exploration. The swap is invisible to the kid. The algorithm just... got better 
 ## How it works
 
 ```
-catalog.yaml  ──(daily GitHub Action + YouTube API)──▶  catalog.json  ──▶  extension
-(you edit this)                                        (static file)      (renders it)
+catalog.yaml  ──(build via YouTube API: on push + daily cron)──▶  catalog.json  ──▶  extension
+(you edit this)                                                  (static file)      (renders it)
 ```
 
-No server. The "backend" is a scheduled build and a couple of static JSON files served
-from **kids.vibecare.io** via Cloudflare Pages (see "Hosting" below).
+No server. The "backend" is a couple of static JSON files: pushing a `catalog.yaml`
+edit rebuilds and publishes them, and a daily cron keeps them fresh in between
+(see "Hosting" below).
 
 ## Safety controls
 
@@ -79,6 +80,7 @@ tripwire.
 5. **First click on the toolbar icon** opens onboarding: pick the kid's age profile
    and a few interests. After that, the same icon opens the settings side panel,
    where you can point the extension at your catalog URL and set up Parent controls.
+   One Chrome profile per kid works best.
 
 The background service worker refreshes the catalog every 4 hours; until a catalog
 URL is configured, the extension falls back to a tiny bundled `extension/seed-catalog.json`.
