@@ -52,8 +52,16 @@
   body.searching .home-only { display: none !important; }
 
   .section { margin-bottom: 18px; }
-  .section > h2 { font-size: 12px; letter-spacing: .04em; text-transform: uppercase;
+  .section h2 { font-size: 12px; letter-spacing: .04em; text-transform: uppercase;
     color: var(--ink-2); margin: 0 0 8px 2px; font-weight: 700; }
+  .section-head { display: flex; align-items: center; justify-content: space-between; }
+  .section-head h2 { margin-bottom: 8px; }
+  .icon-btn { border: 1px solid var(--border); background: var(--field); color: var(--ink-2);
+    width: 30px; height: 26px; border-radius: 8px; cursor: pointer; font-size: 14px; line-height: 1;
+    display: inline-grid; place-items: center; margin-bottom: 8px; transition: color .15s, border-color .15s; }
+  .icon-btn:hover { color: var(--ink); border-color: var(--accent); }
+  .icon-btn.spinning { animation: lc-spin .6s ease; }
+  @keyframes lc-spin { from { transform: rotate(0); } to { transform: rotate(360deg); } }
   .card { background: var(--card); border: 1px solid var(--border); border-radius: 14px;
     box-shadow: var(--shadow); overflow: hidden; }
   .setting { padding: 12px 14px; border-top: 1px solid var(--border); }
@@ -113,9 +121,10 @@
   /* Recent-videos rows (Watch activity) */
   .setting .head .mins { flex: none; color: var(--ink-2); font-size: 12.5px; }
   .setting .txt b.title { display: block; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
-  /* Collapsed recent list shows the first 4 rows; the toggle reveals the rest. */
-  #pc-recent.collapsed .setting:nth-child(n+5) { display: none; }
+  /* Collapsed recent list shows the first 3 rows; the toggle reveals the rest. */
+  #pc-recent.collapsed .setting:nth-child(n+4) { display: none; }
   .recent-toggle { width: 100%; margin-top: 10px; }
+  .activity-totals { margin-top: 14px; }
 
   #noresults { text-align: center; color: var(--ink-2); padding: 30px 10px; font-size: 13px; }
 
@@ -215,15 +224,18 @@
         </div>
       </div>
       <div class="section">
-        <h2>Watch activity</h2>
-        <div class="tiles">
-          <div class="tile"><div class="k">Watched today</div><div class="v" id="pc-hours-today">—</div></div>
-          <div class="tile"><div class="k">Watched this week</div><div class="v" id="pc-hours-week">—</div></div>
+        <div class="section-head">
+          <h2>Watch activity</h2>
+          <button type="button" id="pc-refresh" class="icon-btn" title="Refresh watch activity" aria-label="Refresh watch activity">↻</button>
         </div>
         <div class="card collapsed" id="pc-recent">
           <div class="setting"><div class="txt"><small>No videos watched yet.</small></div></div>
         </div>
-        <button type="button" id="pc-recent-toggle" class="btn ghost recent-toggle" hidden>Show all</button>
+        <button type="button" id="pc-recent-toggle" class="btn ghost recent-toggle" hidden>Show more</button>
+        <div class="tiles activity-totals">
+          <div class="tile"><div class="k">Watched today</div><div class="v" id="pc-hours-today">—</div></div>
+          <div class="tile"><div class="k">Watched this week</div><div class="v" id="pc-hours-week">—</div></div>
+        </div>
       </div>
     </section>
 

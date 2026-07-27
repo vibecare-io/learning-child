@@ -13,6 +13,10 @@ export interface VideoWatch {
   channel: string;
   lastWatchedAt: string;
   totalSec: number;
+  // Epoch ms of the last tick. lastWatchedAt is only day-granular, so it can't
+  // order videos watched on the same day; this does. Optional for back-compat
+  // with entries written before it existed (they fall back to lastWatchedAt).
+  lastWatchedTs?: number;
 }
 
 export interface WatchHistory {
@@ -122,6 +126,22 @@ export function formatHours(sec: number): string {
   return hours > 0 ? `${hours} h ${mins} m` : `${mins} m`;
 }
 
+/**
+ * Fine-grained watch-time label for the live "watched today/this week" totals:
+ * seconds under a minute, "M m S s" under an hour, "H h M m" beyond. Unlike
+ * formatHours (whole minutes) this ticks every few-second recorder write, so
+ * the stat visibly updates in real time instead of appearing frozen for up to
+ * a minute. Seconds are dropped past an hour to avoid pointless jitter.
+ */
+export function formatWatch(sec: number): string {
+  const s = Math.max(0, Math.floor(sec));
+  if (s < 60) return `${s} s`;
+  const totalMin = Math.floor(s / 60);
+  if (totalMin < 60) return `${totalMin} m ${String(s % 60).padStart(2, "0")} s`;
+  const hours = Math.floor(totalMin / 60);
+  return `${hours} h ${String(totalMin % 60).padStart(2, "0")} m`;
+}
+
 /** ISO date `daysAgo` days before `dateStr` (both day-granular, UTC). */
 function dateBefore(dateStr: string, daysAgo: number): string {
   const t = new Date(dateStr).getTime() - daysAgo * 86_400_000;
@@ -140,15 +160,17 @@ export interface RecentVideo extends VideoWatch {
 }
 
 /**
- * The `limit` most-recently-watched videos, newest first. Same ordering
- * rule as feed.ts's splitWatched: lastWatchedAt is day-granular, so
- * same-day entries tie, and Array.prototype.sort's stability keeps ties in
- * Object.entries' insertion order rather than needing a secondary key.
+ * The `limit` most-recently-watched videos, newest first. Orders by the
+ * real-time lastWatchedTs so the video playing right now bubbles to the top
+ * even against others watched earlier the same day; entries predating that
+ * field fall back to lastWatchedAt (day-granular). Ties keep Object.entries'
+ * insertion order via Array.prototype.sort's stability.
  */
 export function recentVideos(h: WatchHistory, limit: number): RecentVideo[] {
+  const recency = (v: VideoWatch): number => v.lastWatchedTs ?? (Date.parse(v.lastWatchedAt) || 0);
   return Object.entries(h.videos)
     .map(([id, v]) => ({ id, ...v }))
-    .sort((a, b) => (a.lastWatchedAt > b.lastWatchedAt ? -1 : a.lastWatchedAt < b.lastWatchedAt ? 1 : 0))
+    .sort((a, b) => recency(b) - recency(a))
     .slice(0, limit);
 }
 
@@ -158,8 +180,13 @@ export async function recordTick(
   meta: { title: string; channel: string },
   seconds: number,
   dateStr: string,
+  nowMs: number = Date.now(),
 ): Promise<void> {
   const current = await getHistory();
-  const next = pruneHistory(accumulate(current, videoId, meta, seconds, dateStr), dateStr);
+  const acc = accumulate(current, videoId, meta, seconds, dateStr);
+  // Stamp the real-time recency marker so recentVideos can order same-day
+  // watches (see VideoWatch.lastWatchedTs / recentVideos).
+  acc.videos[videoId] = { ...acc.videos[videoId]!, lastWatchedTs: nowMs };
+  const next = pruneHistory(acc, dateStr);
   await chrome.storage.local.set({ [KEY]: next });
 }

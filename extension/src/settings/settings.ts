@@ -1,5 +1,5 @@
 import type { AllowedChannels, Catalog } from "../../../shared/types";
-import { formatHours, getHistory, localDayStr, recentVideos, secondsToday, weekTotalSec } from "../history";
+import { formatWatch, getHistory, localDayStr, recentVideos, secondsToday, weekTotalSec } from "../history";
 import { getPrefs, setPrefs, PROD_CATALOG_URL } from "../prefs";
 import { DEFAULT_CONTROLS, type ParentControls } from "../safety";
 import { extractVideoId } from "./video-id";
@@ -62,6 +62,7 @@ const pcHoursToday = $("pc-hours-today");
 const pcHoursWeek = $("pc-hours-week");
 const pcRecent = $("pc-recent");
 const pcRecentToggle = $<HTMLButtonElement>("pc-recent-toggle");
+const pcRefresh = $<HTMLButtonElement>("pc-refresh");
 
 // Configuration (catalog source)
 const customEl = $<HTMLInputElement>("custom");
@@ -404,26 +405,26 @@ function noteRow(text: string): HTMLDivElement {
   return row;
 }
 
-/** Builds one read-only "recently watched" row (title/channel/minutes). */
+/** Builds one read-only "recently watched" row (title/channel/watch time). */
 function recentRow(v: { title: string; channel: string; totalSec: number }): HTMLDivElement {
   const row = document.createElement("div");
   row.className = "setting";
   row.innerHTML = `<div class="head"><span class="txt"><b class="title"></b><small></small></span><span class="mins"></span></div>`;
   row.querySelector("b")!.textContent = v.title;
   row.querySelector("small")!.textContent = v.channel;
-  row.querySelector(".mins")!.textContent = `${Math.floor(v.totalSec / 60)} m`;
+  row.querySelector(".mins")!.textContent = formatWatch(v.totalSec);
   return row;
 }
 
-// The recent-watched list starts collapsed to this many rows; the toggle
-// (or tapping the list) expands it to show everything.
-const RECENT_COLLAPSED = 4;
+// The recent-watched list starts collapsed to this many rows (newest first);
+// the toggle (or tapping the list) expands it to show everything.
+const RECENT_COLLAPSED = 3;
 const RECENT_MAX = 60;
 let recentExpanded = false;
 
 function applyRecentCollapse(): void {
   pcRecent.classList.toggle("collapsed", !recentExpanded);
-  pcRecentToggle.textContent = recentExpanded ? "Show less" : "Show all";
+  pcRecentToggle.textContent = recentExpanded ? "Show less" : "Show more";
 }
 
 /**
@@ -436,8 +437,8 @@ function applyRecentCollapse(): void {
 async function renderActivity(): Promise<void> {
   const history = await getHistory();
   const today = localDayStr();
-  pcHoursToday.textContent = formatHours(secondsToday(history, today));
-  pcHoursWeek.textContent = formatHours(weekTotalSec(history, today));
+  pcHoursToday.textContent = formatWatch(secondsToday(history, today));
+  pcHoursWeek.textContent = formatWatch(weekTotalSec(history, today));
 
   const recent = recentVideos(history, RECENT_MAX);
   pcRecent.replaceChildren(...(recent.length ? recent.map(recentRow) : [noteRow("No videos watched yet.")]));
@@ -455,6 +456,13 @@ function toggleRecent(): void {
 gateOk.addEventListener("click", () => void gateSubmit());
 pcRecentToggle.addEventListener("click", toggleRecent);
 pcRecent.addEventListener("click", toggleRecent); // tapping the list expands it too
+pcRefresh.addEventListener("click", () => {
+  pcRefresh.classList.remove("spinning");
+  // Reflow so re-adding the class restarts the spin animation on rapid taps.
+  void pcRefresh.offsetWidth;
+  pcRefresh.classList.add("spinning");
+  void renderActivity();
+});
 
 // Live-refresh the activity view whenever the content script records new watch
 // time — without this the panel is a stale snapshot from the moment it opened.

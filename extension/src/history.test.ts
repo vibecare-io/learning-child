@@ -3,6 +3,7 @@ import {
   EMPTY_HISTORY,
   accumulate,
   formatHours,
+  formatWatch,
   getHistory,
   isOverLimit,
   isWatched,
@@ -16,6 +17,21 @@ import {
 } from "./history";
 
 const META = { title: "Calm nature walk", channel: "Nature Co" };
+
+describe("formatWatch", () => {
+  it("shows seconds under a minute so the live total visibly ticks", () => {
+    expect(formatWatch(0)).toBe("0 s");
+    expect(formatWatch(45)).toBe("45 s");
+  });
+  it("shows M m S s under an hour", () => {
+    expect(formatWatch(60)).toBe("1 m 00 s");
+    expect(formatWatch(380)).toBe("6 m 20 s");
+  });
+  it("drops seconds past an hour", () => {
+    expect(formatWatch(3600)).toBe("1 h 00 m");
+    expect(formatWatch(3600 + 5 * 60 + 30)).toBe("1 h 05 m");
+  });
+});
 
 describe("localDayStr", () => {
   it("formats the local calendar day as YYYY-MM-DD (not UTC)", () => {
@@ -196,7 +212,7 @@ describe("recordTick", () => {
     const set = vi.fn(async (_items: Record<string, unknown>) => {});
     vi.stubGlobal("chrome", { storage: { local: { get, set } } });
 
-    await recordTick("v1", META, 5, "2026-07-26");
+    await recordTick("v1", META, 5, "2026-07-26", 1_700_000_000_000);
 
     expect(get).toHaveBeenCalledWith("watchHistory");
     expect(set).toHaveBeenCalledTimes(1);
@@ -206,6 +222,7 @@ describe("recordTick", () => {
       channel: "Nature Co",
       lastWatchedAt: "2026-07-26",
       totalSec: 15,
+      lastWatchedTs: 1_700_000_000_000,
     });
     // stale (>90d before 2026-07-26) entry is pruned away on write.
     expect(written.videos.stale).toBeUndefined();
@@ -269,6 +286,18 @@ describe("recentVideos", () => {
       daily: {},
     };
     expect(recentVideos(h, 2).map((v) => v.id)).toEqual(["newest", "mid"]);
+  });
+
+  it("orders same-day entries by lastWatchedTs (real recency), newest first", () => {
+    const h: WatchHistory = {
+      videos: {
+        first: { title: "First", channel: "c", lastWatchedAt: "2026-07-20", totalSec: 100, lastWatchedTs: 1000 },
+        latest: { title: "Latest", channel: "c", lastWatchedAt: "2026-07-20", totalSec: 100, lastWatchedTs: 3000 },
+        mid: { title: "Mid", channel: "c", lastWatchedAt: "2026-07-20", totalSec: 100, lastWatchedTs: 2000 },
+      },
+      daily: {},
+    };
+    expect(recentVideos(h, 10).map((v) => v.id)).toEqual(["latest", "mid", "first"]);
   });
 
   it("keeps relative input (insertion) order for same-day (tie) entries", () => {
