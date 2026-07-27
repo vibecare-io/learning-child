@@ -4,13 +4,15 @@ import { renderList } from "../ui";
 import { waitFor } from "../dom";
 import { WATCH_SIDEBAR, AUTONAV_TOGGLE, VIDEO_PLAYER } from "../selectors";
 import { applySafety, loadControls } from "../safety";
-import { getHistory, isOverLimit, recordTick, secondsToday } from "../history";
+import { getHistory, isOverLimit, localDayStr, recordTick, secondsToday } from "../history";
 import { getPrefs } from "../prefs";
 
 const AUTOPLAY_POLL_MS = 500;
 const AUTOPLAY_GIVE_UP_MS = 15_000;
 const RECORD_INTERVAL_MS = 5_000;
-const RECORD_SECONDS = 5;
+// Cap a single interval's credit so a seek, or a throttled/backgrounded gap,
+// can't dump minutes into history in one tick.
+const MAX_TICK_SEC = 15;
 
 /**
  * YouTube's "Autoplay next video" toggle defaults to on. Left alone, the
@@ -41,20 +43,37 @@ export function disableAutoplay(): () => void {
 }
 
 /**
- * Records watch time for the current video every RECORD_INTERVAL_MS, but
- * only while it's actually being watched: the player element must exist,
- * be playing (not paused/ended), and the tab must be visible - a kid who
- * tabs away or pauses shouldn't rack up watch-history seconds. Exported
- * standalone (like disableAutoplay) so it's unit-testable with fake timers
- * without touching chrome.* (recordTick is the only chrome.storage call in
- * the tick, and tests stub that module).
+ * Records watch time for the current video by sampling the player's
+ * `currentTime` every RECORD_INTERVAL_MS and crediting the REAL elapsed
+ * playback between samples (not a flat interval). Because it reads the
+ * video's own clock, pauses, seeks and 2x speed are handled for free: a
+ * pause freezes currentTime (delta ~0), a seek jumps it (delta clamped out).
+ * Time is only credited across an interval where BOTH ends were eligible -
+ * player present, playing (not paused/ended), tab visible - so tabbing away
+ * or pausing never racks up seconds. Exported standalone (like
+ * disableAutoplay) so it's unit-testable with fake timers without touching
+ * chrome.* (recordTick is the only chrome.storage call, stubbed in tests).
  */
 export function startRecorder(videoId: string, meta: { title: string; channel: string }): () => void {
+  let lastTime: number | null = null;
+  let lastEligible = false;
   const timer = setInterval(() => {
     const player = document.querySelector<HTMLVideoElement>(VIDEO_PLAYER);
-    if (!player || player.paused || player.ended) return;
-    if (document.visibilityState !== "visible") return;
-    void recordTick(videoId, meta, RECORD_SECONDS, todayStr());
+    if (!player) {
+      lastTime = null;
+      lastEligible = false;
+      return;
+    }
+    const now = player.currentTime;
+    const eligible = !player.paused && !player.ended && document.visibilityState === "visible";
+    if (eligible && lastEligible && lastTime !== null) {
+      const delta = now - lastTime;
+      if (delta > 0 && delta <= MAX_TICK_SEC) {
+        void recordTick(videoId, meta, delta, localDayStr());
+      }
+    }
+    lastTime = now;
+    lastEligible = eligible;
   }, RECORD_INTERVAL_MS);
   return () => clearInterval(timer);
 }
@@ -77,7 +96,7 @@ export async function runWatch(): Promise<() => void> {
   // Also clear out any list injected on a prior navigation, in case the kid
   // crossed the limit mid-session.
   const [history, prefs] = await Promise.all([getHistory(), getPrefs()]);
-  if (isOverLimit(prefs.screenTimeMinutes, secondsToday(history, todayStr()))) {
+  if (isOverLimit(prefs.screenTimeMinutes, secondsToday(history, localDayStr()))) {
     document.getElementById("lc-upnext")?.remove();
     return () => {
       cancelAutoplay();

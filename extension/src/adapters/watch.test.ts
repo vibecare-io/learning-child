@@ -14,7 +14,7 @@ vi.mock("../history", async (importOriginal) => {
   const actual = await importOriginal<typeof import("../history")>();
   return { ...actual, recordTick: vi.fn() };
 });
-import { recordTick } from "../history";
+import { localDayStr, recordTick } from "../history";
 
 const CATALOG: Catalog = {
   version: 1, generatedAt: "x",
@@ -52,13 +52,19 @@ function mountToggle(checked: boolean): HTMLButtonElement {
 function mountPlayer(paused: boolean, ended = false): HTMLVideoElement {
   const video = document.createElement("video");
   video.className = VIDEO_PLAYER.replace(/^video\./, "");
-  // jsdom's HTMLMediaElement.paused/.ended are read-only prototype getters
-  // (play()/pause() are not implemented) - override per-instance for tests.
+  // jsdom's HTMLMediaElement.paused/.ended/.currentTime are read-only prototype
+  // getters (play()/pause() aren't implemented) - override per-instance so tests
+  // can drive playback state and advance the clock.
   Object.defineProperty(video, "paused", { value: paused, configurable: true });
   Object.defineProperty(video, "ended", { value: ended, configurable: true });
+  Object.defineProperty(video, "currentTime", { value: 0, writable: true, configurable: true });
   document.body.appendChild(video);
   return video;
 }
+
+const setTime = (v: HTMLVideoElement, t: number): void => {
+  (v as unknown as { currentTime: number }).currentTime = t;
+};
 
 describe("disableAutoplay", () => {
   beforeEach(() => {
@@ -138,16 +144,45 @@ describe("startRecorder", () => {
     document.body.innerHTML = "";
   });
 
-  it("records a tick every 5s while the player exists and is playing", () => {
-    mountPlayer(false);
+  it("credits real elapsed playback (currentTime delta), not a flat interval", () => {
+    const video = mountPlayer(false);
     startRecorder("v1", META);
 
+    // First sample only establishes the cursor - nothing credited yet.
+    setTime(video, 5);
     vi.advanceTimersByTime(5_000);
-    expect(recordTick).toHaveBeenCalledTimes(1);
-    expect(recordTick).toHaveBeenCalledWith("v1", META, 5, expect.any(String));
+    expect(recordTick).not.toHaveBeenCalled();
 
+    // Next interval credits the actual 5s of progress.
+    setTime(video, 10);
+    vi.advanceTimersByTime(5_000);
+    expect(recordTick).toHaveBeenCalledWith("v1", META, 5, localDayStr());
+
+    // A slow interval that only advanced 4s credits 4s, not 5.
+    setTime(video, 14);
+    vi.advanceTimersByTime(5_000);
+    expect(recordTick).toHaveBeenLastCalledWith("v1", META, 4, localDayStr());
+    expect(recordTick).toHaveBeenCalledTimes(2);
+  });
+
+  it("ignores a big forward jump (seek) beyond the per-tick cap", () => {
+    const video = mountPlayer(false);
+    startRecorder("v1", META);
+    setTime(video, 5);
+    vi.advanceTimersByTime(5_000); // cursor
+    setTime(video, 100); // +95s seek
+    vi.advanceTimersByTime(5_000);
+    expect(recordTick).not.toHaveBeenCalled();
+  });
+
+  it("does not credit a paused interval (currentTime frozen)", () => {
+    const video = mountPlayer(false);
+    startRecorder("v1", META);
+    setTime(video, 5);
+    vi.advanceTimersByTime(5_000); // cursor at 5
+    // currentTime does not advance (paused) - delta 0, nothing credited.
     vi.advanceTimersByTime(10_000);
-    expect(recordTick).toHaveBeenCalledTimes(3);
+    expect(recordTick).not.toHaveBeenCalled();
   });
 
   it("does not tick while the player is paused", () => {
@@ -202,7 +237,7 @@ describe("runWatch over the daily screen-time limit", () => {
         local: {
           get: vi.fn(async () => ({
             prefs: { screenTimeMinutes },
-            watchHistory: { videos: {}, daily: { [new Date().toISOString().slice(0, 10)]: dailySeconds } },
+            watchHistory: { videos: {}, daily: { [localDayStr()]: dailySeconds } },
           })),
         },
       },

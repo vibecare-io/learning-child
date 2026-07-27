@@ -6,6 +6,7 @@ import {
   getHistory,
   isOverLimit,
   isWatched,
+  localDayStr,
   pruneHistory,
   recentVideos,
   recordTick,
@@ -15,6 +16,15 @@ import {
 } from "./history";
 
 const META = { title: "Calm nature walk", channel: "Nature Co" };
+
+describe("localDayStr", () => {
+  it("formats the local calendar day as YYYY-MM-DD (not UTC)", () => {
+    // Late evening local time — a UTC slice could roll to the next day, but
+    // localDayStr must stay on the local date.
+    expect(localDayStr(new Date(2026, 6, 27, 22, 30))).toBe("2026-07-27");
+    expect(localDayStr(new Date(2026, 0, 5, 0, 1))).toBe("2026-01-05");
+  });
+});
 
 describe("accumulate", () => {
   it("adds seconds to a new video and records lastWatchedAt + daily bucket", () => {

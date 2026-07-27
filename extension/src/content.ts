@@ -4,9 +4,8 @@ import { runWatch, startRecorder } from "./adapters/watch";
 import { runSearch } from "./adapters/search";
 import { guardReel, syncReelsBar, type ReelsConfig } from "./reels-guard";
 import { loadControls } from "./safety";
-import { getHistory, isOverLimit, secondsToday } from "./history";
+import { getHistory, isOverLimit, localDayStr, secondsToday } from "./history";
 import { getPrefs } from "./prefs";
-import { todayStr } from "./feed";
 
 export function installHideStyle(): void {
   if (document.getElementById("lc-hide")) return;
@@ -112,7 +111,7 @@ async function route(): Promise<void> {
       }
       const [history, prefs] = await Promise.all([getHistory(), getPrefs()]);
       if (myNav !== nav) return;
-      if (isOverLimit(prefs.screenTimeMinutes, secondsToday(history, todayStr()))) {
+      if (isOverLimit(prefs.screenTimeMinutes, secondsToday(history, localDayStr()))) {
         // The taste counts as watching; the done-today rule applies here too.
         location.replace("https://www.youtube.com/");
         return;

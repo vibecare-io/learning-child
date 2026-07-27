@@ -30,6 +30,20 @@ const MAX_AGE_DAYS = 90;
 const WATCHED_MIN_SEC = 60;
 const WATCHED_FRACTION = 0.25;
 
+/**
+ * Today's date as YYYY-MM-DD in the *viewer's local* timezone. Watch history
+ * buckets (and the daily screen-time check) key off this so "today" lines up
+ * with the parent's wall clock — an evening watch in the Americas must not
+ * spill into tomorrow's UTC bucket. feed.ts's todayStr() stays UTC for
+ * deterministic feed rotation; only history keys off the local day.
+ */
+export function localDayStr(d: Date = new Date()): string {
+  const y = d.getFullYear();
+  const m = String(d.getMonth() + 1).padStart(2, "0");
+  const day = String(d.getDate()).padStart(2, "0");
+  return `${y}-${m}-${day}`;
+}
+
 export async function getHistory(): Promise<WatchHistory> {
   const { watchHistory } = await chrome.storage.local.get(KEY);
   return { ...EMPTY_HISTORY, ...(watchHistory as Partial<WatchHistory> | undefined) };
