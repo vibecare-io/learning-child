@@ -2,7 +2,7 @@ import { mkdirSync, readFileSync, writeFileSync } from "node:fs";
 import { fileURLToPath } from "node:url";
 import { dirname, join } from "node:path";
 import { parseConfig, type Config } from "./config";
-import { buildAllowed, expandCatalog, type FetchedSource } from "./expand";
+import { buildAllowed, expandCatalog, type DroppedVideo, type FetchedSource } from "./expand";
 import { YouTubeApiClient, type ResolvedChannel, type YouTubeClient } from "./youtube-api";
 import type { AllowedChannels, Catalog } from "../../shared/types";
 
@@ -10,7 +10,7 @@ export async function runBuild(
   config: Config,
   client: YouTubeClient,
   now: string,
-): Promise<{ catalog: Catalog; allowed: AllowedChannels }> {
+): Promise<{ catalog: Catalog; allowed: AllowedChannels; dropped: DroppedVideo[] }> {
   const fetched: FetchedSource[] = [];
   const resolved: ResolvedChannel[] = [];
   const skipped: string[] = [];
@@ -52,8 +52,8 @@ export async function runBuild(
     console.warn(`\n${skipped.length} source(s) skipped — prune these from catalog.yaml:\n  ${skipped.join("\n  ")}`);
   }
 
-  const catalog = expandCatalog(config, fetched, now);
-  return { catalog, allowed: buildAllowed(catalog, resolved) };
+  const { catalog, dropped } = expandCatalog(config, fetched, now);
+  return { catalog, allowed: buildAllowed(catalog, resolved), dropped };
 }
 
 async function main() {
@@ -61,7 +61,10 @@ async function main() {
   if (!apiKey) throw new Error("Set YT_API_KEY environment variable");
   const root = dirname(fileURLToPath(import.meta.url));
   const config = parseConfig(readFileSync(join(root, "..", "catalog.yaml"), "utf8"));
-  const { catalog, allowed } = await runBuild(config, new YouTubeApiClient(apiKey), new Date().toISOString());
+  const { catalog, allowed, dropped } = await runBuild(config, new YouTubeApiClient(apiKey), new Date().toISOString());
+  for (const d of dropped) {
+    console.log(`Dropped ${d.id}: ${d.reason}`);
+  }
   const dist = join(root, "..", "dist");
   mkdirSync(dist, { recursive: true });
   writeFileSync(join(dist, "catalog.json"), JSON.stringify(catalog, null, 2));

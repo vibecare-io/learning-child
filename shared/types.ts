@@ -8,6 +8,8 @@ export interface CatalogVideo {
   topics: string[];
   profiles: string[];
   thumbnail: string;
+  /** e.g. ["supervision"] - present only when non-empty */
+  flags?: string[];
 }
 
 export interface Catalog {

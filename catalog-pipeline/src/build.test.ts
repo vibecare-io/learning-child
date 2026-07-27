@@ -41,10 +41,11 @@ sources:
 search_only_channels:
   - "@scishowkids"
 `);
-    const { catalog, allowed } = await runBuild(config, fakeClient, "2026-07-26T00:00:00Z");
+    const { catalog, allowed, dropped } = await runBuild(config, fakeClient, "2026-07-26T00:00:00Z");
     expect(catalog.videos.map((v) => v.id).sort()).toEqual(["m1", "one", "s1"]);
     expect(catalog.generatedAt).toBe("2026-07-26T00:00:00Z");
     expect(allowed.channelIds.sort()).toEqual(["UCmus", "UCsci", "UCsol", "UCver"]);
     expect(allowed.handles.sort()).toEqual(["@scishowkids", "@veritasium"]);
+    expect(dropped).toEqual([]);
   });
 });

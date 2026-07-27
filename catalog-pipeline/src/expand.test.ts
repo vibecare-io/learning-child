@@ -7,6 +7,7 @@ const config: Config = {
   sources: [],
   searchOnlyChannels: [],
   minDurationSec: 120,
+  safety: { blockedKeywords: [], excludeVideos: [] },
 };
 
 function video(over: Partial<VideoData>): VideoData {
@@ -17,7 +18,7 @@ function video(over: Partial<VideoData>): VideoData {
 }
 
 function source(over: Partial<Source>): Source {
-  return { kind: "channel", ref: "@c", topics: [], profiles: ["big"], maxVideos: 50, ...over };
+  return { kind: "channel", ref: "@c", topics: [], profiles: ["big"], maxVideos: 50, supervision: false, ...over };
 }
 
 describe("expandCatalog", () => {
@@ -25,7 +26,7 @@ describe("expandCatalog", () => {
     const fetched: FetchedSource[] = [
       { source: source({ topics: ["science"] }), videos: [video({ id: "aaa" })] },
     ];
-    const catalog = expandCatalog(config, fetched, "2026-07-26T00:00:00Z");
+    const { catalog } = expandCatalog(config, fetched, "2026-07-26T00:00:00Z");
     expect(catalog.version).toBe(1);
     expect(catalog.videos).toHaveLength(1);
     expect(catalog.videos[0]).toMatchObject({
@@ -38,14 +39,14 @@ describe("expandCatalog", () => {
     const fetched: FetchedSource[] = [
       { source: source({}), videos: [video({ id: "short1", durationSec: 45 }), video({ id: "ok1" })] },
     ];
-    const catalog = expandCatalog(config, fetched, "x");
+    const { catalog } = expandCatalog(config, fetched, "x");
     expect(catalog.videos.map((v) => v.id)).toEqual(["ok1"]);
   });
 
   it("caps videos per source at maxVideos", () => {
     const vids = Array.from({ length: 5 }, (_, i) => video({ id: `v${i}` }));
     const fetched: FetchedSource[] = [{ source: source({ maxVideos: 3 }), videos: vids }];
-    const catalog = expandCatalog(config, fetched, "x");
+    const { catalog } = expandCatalog(config, fetched, "x");
     expect(catalog.videos).toHaveLength(3);
   });
 
@@ -54,10 +55,39 @@ describe("expandCatalog", () => {
       { source: source({ topics: ["science"], profiles: ["big"] }), videos: [video({ id: "dup" })] },
       { source: source({ kind: "playlist", topics: ["space"], profiles: ["little"] }), videos: [video({ id: "dup" })] },
     ];
-    const catalog = expandCatalog(config, fetched, "x");
+    const { catalog } = expandCatalog(config, fetched, "x");
     expect(catalog.videos).toHaveLength(1);
     expect(catalog.videos[0].topics.sort()).toEqual(["science", "space"]);
     expect(catalog.videos[0].profiles.sort()).toEqual(["big", "little"]);
+  });
+
+  it("drops keyword-matched titles with an audit reason", () => {
+    const cfg = { ...config, safety: { blockedKeywords: ["exploding"], excludeVideos: [] } };
+    const fetched = [{ source: source({}), videos: [
+      video({ id: "boom", title: "Exploding watermelon" }),
+      video({ id: "ok", title: "Explorers of the deep" }),
+    ]}];
+    const { catalog, dropped } = expandCatalog(cfg, fetched, "x");
+    expect(catalog.videos.map((v) => v.id)).toEqual(["ok"]);
+    expect(dropped).toEqual([{ id: "boom", title: "Exploding watermelon", reason: 'blocked keyword "exploding"' }]);
+  });
+
+  it("drops excluded video ids", () => {
+    const cfg = { ...config, safety: { blockedKeywords: [], excludeVideos: ["banned"] } };
+    const fetched = [{ source: source({}), videos: [video({ id: "banned" }), video({ id: "ok" })] }];
+    const { catalog, dropped } = expandCatalog(cfg, fetched, "x");
+    expect(catalog.videos.map((v) => v.id)).toEqual(["ok"]);
+    expect(dropped[0]).toMatchObject({ id: "banned", reason: "excluded by exclude_videos" });
+  });
+
+  it("tags supervision flags and unions them across duplicate sources", () => {
+    const fetched = [
+      { source: source({ supervision: true }), videos: [video({ id: "diy" })] },
+      { source: source({ kind: "playlist", supervision: false }), videos: [video({ id: "diy" }), video({ id: "calm" })] },
+    ];
+    const { catalog } = expandCatalog(config, fetched, "x");
+    expect(catalog.videos.find((v) => v.id === "diy")!.flags).toEqual(["supervision"]);
+    expect(catalog.videos.find((v) => v.id === "calm")!.flags).toBeUndefined();
   });
 });
 
@@ -66,7 +96,7 @@ describe("buildAllowed", () => {
     const fetched: FetchedSource[] = [
       { source: source({}), videos: [video({ id: "a", channelId: "UC1" }), video({ id: "b", channelId: "UC2" })] },
     ];
-    const catalog = expandCatalog(config, fetched, "x");
+    const { catalog } = expandCatalog(config, fetched, "x");
     const allowed = buildAllowed(catalog, [
       { channelId: "UC1", handle: "@Veritasium" },
       { channelId: "UC9", handle: "@SciShowKids" },

@@ -6,6 +6,12 @@ export interface Source {
   topics: string[];
   profiles: string[];
   maxVideos: number;
+  supervision: boolean;
+}
+
+export interface SafetyConfig {
+  blockedKeywords: string[];
+  excludeVideos: string[];
 }
 
 export interface Config {
@@ -13,6 +19,7 @@ export interface Config {
   sources: Source[];
   searchOnlyChannels: string[];
   minDurationSec: number;
+  safety: SafetyConfig;
 }
 
 const DEFAULT_MAX_VIDEOS = 50;
@@ -58,6 +65,7 @@ export function parseConfig(yamlText: string): Config {
       topics: (s.topics as string[] | undefined) ?? [],
       profiles: sourceProfiles,
       maxVideos: maxVideosVal as number | undefined ?? DEFAULT_MAX_VIDEOS,
+      supervision: (s.supervision as boolean | undefined) ?? false,
     };
   });
 
@@ -68,10 +76,23 @@ export function parseConfig(yamlText: string): Config {
     }
   }
 
+  const safetyRaw = (raw.safety ?? {}) as Record<string, unknown>;
+  const blockedKeywords = parseStringList(safetyRaw.blocked_keywords, "safety.blocked_keywords");
+  const excludeVideos = parseStringList(safetyRaw.exclude_videos, "safety.exclude_videos");
+
   return {
     profiles,
     sources,
     searchOnlyChannels: (raw.search_only_channels as string[] | undefined) ?? [],
     minDurationSec: minDurationSecVal as number | undefined ?? DEFAULT_MIN_DURATION_SEC,
+    safety: { blockedKeywords, excludeVideos },
   };
+}
+
+function parseStringList(value: unknown, field: string): string[] {
+  if (value == null) return [];
+  if (!Array.isArray(value) || !value.every((v) => typeof v === "string")) {
+    throw new Error(`'${field}' must be a list of strings`);
+  }
+  return value;
 }
