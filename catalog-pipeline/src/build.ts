@@ -13,23 +13,43 @@ export async function runBuild(
 ): Promise<{ catalog: Catalog; allowed: AllowedChannels }> {
   const fetched: FetchedSource[] = [];
   const resolved: ResolvedChannel[] = [];
+  const skipped: string[] = [];
 
+  // Fail-soft: one bad handle/playlist must never abort the whole catalog build.
+  // Skip it with a named warning and keep going ("fail open").
   for (const source of config.sources) {
-    if (source.kind === "channel") {
-      const ch = await client.resolveChannel(source.ref);
-      resolved.push(ch);
-      const ids = await client.listPlaylistVideoIds(ch.uploadsPlaylistId, source.maxVideos);
-      fetched.push({ source, videos: await client.getVideos(ids) });
-    } else if (source.kind === "playlist") {
-      const ids = await client.listPlaylistVideoIds(source.ref, source.maxVideos);
-      fetched.push({ source, videos: await client.getVideos(ids) });
-    } else {
-      fetched.push({ source, videos: await client.getVideos([source.ref]) });
+    try {
+      if (source.kind === "channel") {
+        const ch = await client.resolveChannel(source.ref);
+        if (!ch.uploadsPlaylistId) throw new Error("channel has no uploads playlist");
+        resolved.push(ch);
+        const ids = await client.listPlaylistVideoIds(ch.uploadsPlaylistId, source.maxVideos);
+        fetched.push({ source, videos: await client.getVideos(ids) });
+      } else if (source.kind === "playlist") {
+        const ids = await client.listPlaylistVideoIds(source.ref, source.maxVideos);
+        fetched.push({ source, videos: await client.getVideos(ids) });
+      } else {
+        fetched.push({ source, videos: await client.getVideos([source.ref]) });
+      }
+    } catch (err) {
+      const reason = err instanceof Error ? err.message : String(err);
+      skipped.push(`${source.kind} ${source.ref}`);
+      console.warn(`⚠︎ skipped ${source.kind} ${source.ref}: ${reason}`);
     }
   }
 
   for (const ref of config.searchOnlyChannels) {
-    resolved.push(await client.resolveChannel(ref));
+    try {
+      resolved.push(await client.resolveChannel(ref));
+    } catch (err) {
+      const reason = err instanceof Error ? err.message : String(err);
+      skipped.push(`search-only ${ref}`);
+      console.warn(`⚠︎ skipped search-only ${ref}: ${reason}`);
+    }
+  }
+
+  if (skipped.length) {
+    console.warn(`\n${skipped.length} source(s) skipped — prune these from catalog.yaml:\n  ${skipped.join("\n  ")}`);
   }
 
   const catalog = expandCatalog(config, fetched, now);
