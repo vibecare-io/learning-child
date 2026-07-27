@@ -7,7 +7,7 @@
   "background": { "service_worker": "background.js" },
   "options_page": "options.html",
   "permissions": ["storage", "alarms"],
-  "host_permissions": ["https://www.youtube.com/*", "https://*.github.io/*", "https://*.pages.dev/*"],
+  "host_permissions": ["https://www.youtube.com/*", "https://kids.vibecare.io/*", "https://*.pages.dev/*"],
   "content_scripts": [
     {
       "matches": ["https://www.youtube.com/*"],
