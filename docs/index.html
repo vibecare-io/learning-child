@@ -103,6 +103,19 @@ h1{margin:.35em 0 .15em;font-size:clamp(30px,5vw,50px);line-height:1.02;letter-s
 .arrow{color:var(--faint);flex:none}
 .card:hover .arrow{color:var(--accent)}
 .empty{grid-column:1/-1;text-align:center;color:var(--faint);padding:60px 0}
+.faq{max-width:840px;margin:56px auto 20px;padding:0 22px}
+.faq .eyebrow{margin-bottom:6px}
+.faq h2{font-size:clamp(23px,3.4vw,32px);letter-spacing:-.025em;font-weight:800;margin:0 0 18px;text-wrap:balance}
+details.qa{border-top:1px solid var(--line);padding:15px 0}
+details.qa:last-of-type{border-bottom:1px solid var(--line)}
+details.qa summary{cursor:pointer;font-weight:700;font-size:16px;letter-spacing:-.01em;color:var(--ink);
+  list-style:none;display:flex;justify-content:space-between;gap:18px;align-items:baseline}
+details.qa summary::-webkit-details-marker{display:none}
+details.qa summary::after{content:"+";color:var(--accent);font-weight:700;font-size:20px;line-height:1;flex:none}
+details.qa[open] summary::after{content:"\2013"}
+details.qa summary:focus-visible{outline:2px solid var(--accent);outline-offset:3px;border-radius:4px}
+details.qa p{color:var(--muted);margin:11px 0 2px;max-width:68ch;line-height:1.62;font-size:15px}
+details.qa p b{color:var(--ink);font-weight:700}
 footer{border-top:1px solid var(--line);color:var(--faint);font-size:13px;padding:26px 22px 50px;
   max-width:1180px;margin:0 auto}
 footer a{color:var(--accent)}
@@ -139,6 +152,55 @@ footer a{color:var(--accent)}
 <div class="chips" id="chips" role="group" aria-label="Filter by topic"></div>
 <div class="meta-row"><span id="count" class="mono"></span><span>Tap a card to open it on YouTube</span></div>
 <div class="grid" id="grid"></div>
+<section class="faq" aria-label="Frequently asked questions">
+  <div class="eyebrow">Why this exists &amp; why it's different</div>
+  <h2>Questions parents ask</h2>
+
+  <details class="qa" open>
+    <summary>Why does this exist?</summary>
+    <p>YouTube's feed is tuned for one thing: <b>watch time</b>. Its thumbnails are engineered to hijack a kid's attention and keep them scrolling. This flips who controls the feed &mdash; every recommendation slot is filled from a catalog <b>a parent curates</b>, so kids browse a YouTube that sparks curiosity instead of one designed to keep them hooked.</p>
+  </details>
+
+  <details class="qa">
+    <summary>How is this different from YouTube Kids?</summary>
+    <p>YouTube Kids curates the <i>pool</i>, then lets an algorithm pick from it. We replace the algorithm with <b>your list</b>. YouTube Kids answers <i>"is this safe?"</i> &mdash; we answer <i>"is this worth their attention?"</i> Safety is table stakes; the difference is that a parent, not a watch-time model, decides what fills the screen.</p>
+  </details>
+
+  <details class="qa">
+    <summary>Isn't this just another content blocker or parental-control app?</summary>
+    <p>No. Tools like Bark, Qustodio and Family Link <b>block, monitor and limit time</b> &mdash; they steer <i>away</i> from the bad. This steers <b>toward</b> growth: you set the directions you want (science, music, making, art&hellip;) and the feed fills from channels chosen for exactly those. Direction, not deletion.</p>
+  </details>
+
+  <details class="qa">
+    <summary>Does anything like this already exist?</summary>
+    <p>Not really. The closest parent tool whitelists individual channels but can't steer by <i>direction</i>; the one product with real "what did my kid learn" analytics is a walled-garden app with no steering control wired to it. <b>Nobody combines positive directional steering + real YouTube + growth insight.</b> "Digital nutrition" is a well-known idea &mdash; this is a product built for it.</p>
+  </details>
+
+  <details class="qa">
+    <summary>Does it run on real YouTube, or a separate app?</summary>
+    <p><b>Real youtube.com.</b> It looks and feels like normal YouTube, so kids never move to a walled garden they'll outgrow &mdash; the recommendation feed is just quietly filled from the curated catalog, and search returns real results filtered to approved channels.</p>
+  </details>
+
+  <details class="qa">
+    <summary>Who decides what's in the catalog?</summary>
+    <p><b>You do.</b> It's a simple list a parent edits, and a change goes live in about two minutes. This page shows the starter catalog &mdash; <b>103 channels and 178 hand-picked videos</b>, every video verified live against YouTube so no dead or mislabeled links slip in.</p>
+  </details>
+
+  <details class="qa">
+    <summary>Will I be able to see how my kid is growing?</summary>
+    <p>That's the roadmap. Because every video is tagged by topic and age, we can show the directions a child is actually exploring &mdash; <i>"this month: mostly science, discovered making, hasn't touched maths in weeks"</i>. A <b>growth compass, not a stopwatch</b>. (Not in the first version, but the tagging groundwork is already done.)</p>
+  </details>
+
+  <details class="qa">
+    <summary>Is it a lockdown? Can my kid just turn it off?</summary>
+    <p>Being honest: it's a browser extension, so a determined kid can disable it, and the first version is desktop-only. Real lockdown needs managed-device policies (on the roadmap). This is about the <b>quality of the feed</b>, not containment &mdash; the two are complementary, and containment tools already exist.</p>
+  </details>
+
+  <details class="qa">
+    <summary>What happens to my child's data?</summary>
+    <p>There's <b>no server and no account</b>. The catalog is a static file the extension reads; nothing about your child's viewing is uploaded, tracked, or sold.</p>
+  </details>
+</section>
 <footer>
   Curated for the <strong>Learning Child</strong> project &mdash; a Chrome extension that replaces YouTube's algorithmic feed with this parent-approved catalog.
   Data: <span class="mono">docs/data/channels.json</span> &amp; <span class="mono">docs/data/curated-videos.json</span>.
