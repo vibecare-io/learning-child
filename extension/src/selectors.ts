@@ -6,6 +6,9 @@
 /** Player autoplay-next toggle (aria-checked reflects state). */
 export const AUTONAV_TOGGLE = ".ytp-autonav-toggle-button";
 
+/** Main watch-page <video> element (used by the watch-history recorder). */
+export const VIDEO_PLAYER = "video.html5-main-video";
+
 /** Hidden pre-paint by the lc-hide style. Broad, container-level, slow-churn. */
 export const HIDE_SELECTORS = [
   // Home recommendation grid contents (our grid is injected alongside)
