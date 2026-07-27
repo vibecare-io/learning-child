@@ -92,6 +92,10 @@ const UI_CSS = `
   gap: 20px 16px;
   padding: 24px;
 }
+/* YouTube grows its fixed frosted-glass backdrop to cover the chip strip
+   (the .with-chipbar modifier). Since we replace YouTube's chips with our own,
+   trim it back to the masthead height so it stops painting over lc-chips. */
+#frosted-glass.with-chipbar { height: var(--ytd-masthead-height, 56px) !important; }
 .lc-chips {
   display: flex; gap: 12px; padding: 12px 24px; align-items: center;
   flex-wrap: nowrap; overflow-x: auto; overscroll-behavior-x: contain;
