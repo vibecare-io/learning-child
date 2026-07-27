@@ -155,26 +155,36 @@ export async function guardReel(
 const BAR_ID = "lc-reels-bar";
 const BAR_CSS_ID = "lc-reels-css";
 
+// Positioned BELOW YouTube's masthead (not over it) as a centered, self-
+// contained card so it never obscures the logo/search. The full-width wrapper
+// is click-through (pointer-events:none); only the card catches events.
 const BAR_CSS = `
 #${BAR_ID} {
-  position: fixed; top: 0; left: 0; right: 0; z-index: 100000;
-  font-family: "Roboto", Arial, sans-serif;
+  position: fixed; top: var(--ytd-masthead-height, 56px); left: 0; right: 0;
+  z-index: 2020; pointer-events: none; font-family: "Roboto", Arial, sans-serif;
+}
+#${BAR_ID} .lc-reels-inner {
+  pointer-events: auto; box-sizing: border-box;
+  margin: 10px auto 0; max-width: 560px; width: calc(100% - 32px);
+  position: relative; overflow: hidden;
+  display: flex; align-items: center; gap: 12px;
+  padding: 11px 16px 13px; border-radius: 12px;
   background: var(--yt-spec-base-background, #fff);
   color: var(--yt-spec-text-primary, #0f0f0f);
-  box-shadow: 0 1px 6px rgba(0,0,0,0.15);
+  border: 1px solid var(--yt-spec-10-percent-layer, rgba(0,0,0,0.12));
+  box-shadow: 0 4px 16px rgba(0,0,0,0.18);
 }
-#${BAR_ID} .lc-reels-row {
-  display: flex; align-items: center; gap: 10px;
-  padding: 8px 16px; font-size: 14px; font-weight: 500;
-}
+#${BAR_ID} .lc-reels-icon { flex: none; font-size: 20px; line-height: 1; }
+#${BAR_ID} .lc-reels-label { flex: 1; font-size: 14px; font-weight: 600; line-height: 1.3; }
 #${BAR_ID} .lc-reels-track {
-  height: 4px; width: 100%; background: var(--yt-spec-10-percent-layer, rgba(0,0,0,0.1));
+  position: absolute; left: 0; right: 0; bottom: 0; height: 3px;
+  background: var(--yt-spec-10-percent-layer, rgba(0,0,0,0.1));
 }
 #${BAR_ID} .lc-reels-fill {
   height: 100%; transition: width 1s linear;
   background: var(--yt-spec-text-primary, #0f0f0f);
 }
-#${BAR_ID}[data-tone="cooldown"] .lc-reels-fill { background: #e06c00; }
+#${BAR_ID}[data-tone="cooldown"] .lc-reels-fill { background: #e0700c; }
 `;
 
 function injectBarCss(doc: Document): void {
@@ -199,11 +209,16 @@ export function paintReelsBar(
     bar = doc.createElement("div");
     bar.id = BAR_ID;
     bar.innerHTML =
-      '<div class="lc-reels-row"><span class="lc-reels-label"></span></div>' +
-      '<div class="lc-reels-track"><div class="lc-reels-fill"></div></div>';
+      '<div class="lc-reels-inner">' +
+      '<span class="lc-reels-icon" aria-hidden="true"></span>' +
+      '<span class="lc-reels-label"></span>' +
+      '<div class="lc-reels-track"><div class="lc-reels-fill"></div></div>' +
+      "</div>";
     (doc.body ?? doc.documentElement).appendChild(bar);
   }
   bar.dataset.tone = opts.tone;
+  const icon = bar.querySelector<HTMLElement>(".lc-reels-icon");
+  if (icon) icon.textContent = opts.tone === "cooldown" ? "⏳" : "🎬";
   const label = bar.querySelector<HTMLElement>(".lc-reels-label");
   if (label) label.textContent = opts.text;
   const fill = bar.querySelector<HTMLElement>(".lc-reels-fill");
