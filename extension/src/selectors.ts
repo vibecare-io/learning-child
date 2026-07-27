@@ -3,6 +3,9 @@
  * When YouTube breaks the extension, this is the only file to fix.
  */
 
+/** Player autoplay-next toggle (aria-checked reflects state). */
+export const AUTONAV_TOGGLE = ".ytp-autonav-toggle-button";
+
 /** Hidden pre-paint by the lc-hide style. Broad, container-level, slow-churn. */
 export const HIDE_SELECTORS = [
   // Home recommendation grid contents (our grid is injected alongside)
@@ -30,6 +33,10 @@ export const HIDE_SELECTORS = [
   // End-screen suggestion cards + grid
   ".ytp-ce-element",
   ".ytp-endscreen-content",
+  // Autoplay-next toggle: forced off (watch.ts:disableAutoplay) and hidden so
+  // the kid never sees or flips it back on. A display:none element still
+  // receives programmatic .click(), so hiding it doesn't break the poller.
+  AUTONAV_TOGGLE,
 ];
 
 /** Home grid container - our curated grid is inserted before it. */
@@ -49,6 +56,3 @@ export const CHANNEL_LINK_IN_RESULT = "ytd-channel-name a";
 
 /** Non-video shelves in search results (Shorts, "people also watched", …). */
 export const SEARCH_SHELF_ITEMS = "ytd-reel-shelf-renderer, ytd-shelf-renderer, ytd-horizontal-card-list-renderer";
-
-/** Player autoplay-next toggle (aria-checked reflects state). */
-export const AUTONAV_TOGGLE = ".ytp-autonav-toggle-button";
