@@ -93,8 +93,12 @@ const UI_CSS = `
   padding: 24px;
 }
 .lc-chips {
-  display: flex; gap: 12px; padding: 12px 24px 0; flex-wrap: wrap; align-items: center;
+  display: flex; gap: 12px; padding: 12px 24px; align-items: center;
+  flex-wrap: nowrap; overflow-x: auto; overscroll-behavior-x: contain;
+  scrollbar-width: none;
 }
+.lc-chips::-webkit-scrollbar { display: none; }
+.lc-chip { flex: 0 0 auto; }
 .lc-chip {
   border: none; cursor: pointer;
   background: var(--yt-spec-badge-chip-background, rgba(0,0,0,0.05));
