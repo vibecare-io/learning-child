@@ -27,6 +27,7 @@ export interface Prefs {
   interests: string[]; // catalog topic ids, e.g. ["science", "space"]
   screenTimeMinutes: number | null; // daily limit; null = no limit
   parentControls: ParentControls;
+  parentPin: string | null; // gates the Parent controls section in settings; null = not yet set
 }
 
 export const DEFAULT_PREFS: Prefs = {
@@ -36,6 +37,7 @@ export const DEFAULT_PREFS: Prefs = {
   interests: [],
   screenTimeMinutes: null,
   parentControls: DEFAULT_CONTROLS,
+  parentPin: null,
 };
 
 const KEY = "prefs";

@@ -46,6 +46,13 @@
   .msg { min-height: 18px; margin: 12px 0 0; font-size: 12.5px; }
   .msg.ok { color: var(--ok); }
   .msg.err { color: var(--err); }
+  hr.sep { border: none; border-top: 1px solid var(--border); margin: 24px 0 18px; }
+  h2 { font-size: 15px; margin: 0 0 2px; }
+  textarea { width: 100%; margin-top: 4px; padding: 10px 12px; border: 1px solid var(--border);
+    border-radius: 10px; background: var(--field); color: var(--ink); font: inherit; resize: vertical; }
+  label.field { display: block; font-size: 12.5px; color: var(--ink-2); margin-top: 12px; }
+  #pin { width: 100%; margin-top: 4px; }
+  #pc-controls .opt { margin-top: 12px; }
 </style>
 </head>
 <body>
@@ -68,6 +75,30 @@
     </div>
   </form>
   <p class="msg" id="msg"></p>
+
+  <hr class="sep" />
+
+  <section id="pc-gate">
+    <h2>Parent controls</h2>
+    <p class="sub" id="pc-pin-hint">Checking…</p>
+    <input type="password" id="pc-pin" placeholder="PIN" />
+    <div class="row">
+      <button type="button" id="pc-unlock">Unlock</button>
+    </div>
+  </section>
+
+  <section id="pc-controls" hidden>
+    <h2>Parent controls</h2>
+    <label class="opt"><input type="checkbox" id="pc-supervised" /><span class="txt"><b>Supervised mode</b><small>Show videos that need a grown-up</small></span></label>
+    <label class="field" for="pc-keywords">Blocked title words (one per line)</label>
+    <textarea id="pc-keywords" rows="4"></textarea>
+    <label class="field" for="pc-blocked">Blocked videos (paste YouTube links, one per line)</label>
+    <textarea id="pc-blocked" rows="4"></textarea>
+    <div class="row">
+      <button type="button" id="pc-save">Save</button>
+    </div>
+    <p class="msg" id="pc-status"></p>
+  </section>
 </main>
 <script src="settings.js" defer></script>
 </body>
