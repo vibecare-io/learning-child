@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-07-27T12:10:06.255Z",
+  "generatedAt": "2026-07-27T18:11:39.101Z",
   "profiles": {
     "little": {
       "label": "Ages 3-7"
@@ -243,6 +243,21 @@
       "thumbnail": "https://i.ytimg.com/vi/1VVRj_jx0-8/hqdefault.jpg"
     },
     {
+      "id": "lXSh3i6yOMQ",
+      "title": "How To Draw A Cute Hammerhead Shark",
+      "channel": "Art for Kids Hub",
+      "channelId": "UC5XMF3Inoi8R9nSI8ChOsdQ",
+      "durationSec": 332,
+      "publishedAt": "2026-07-27T14:00:37Z",
+      "topics": [
+        "art"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/lXSh3i6yOMQ/hqdefault.jpg"
+    },
+    {
       "id": "PweK3cgFA7g",
       "title": "How To Draw A Funny Hermit Crab",
       "channel": "Art for Kids Hub",
@@ -301,21 +316,6 @@
         "little"
       ],
       "thumbnail": "https://i.ytimg.com/vi/qqY2lJCvQR4/hqdefault.jpg"
-    },
-    {
-      "id": "dt63JVUggaY",
-      "title": "How To Draw Kuromi Squishmallow",
-      "channel": "Art for Kids Hub",
-      "channelId": "UC5XMF3Inoi8R9nSI8ChOsdQ",
-      "durationSec": 331,
-      "publishedAt": "2026-07-20T14:00:39Z",
-      "topics": [
-        "art"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/dt63JVUggaY/hqdefault.jpg"
     },
     {
       "id": "NyUgWdMCOUM",
@@ -549,6 +549,21 @@
       "thumbnail": "https://i.ytimg.com/vi/fwLsCgibGw4/hqdefault.jpg"
     },
     {
+      "id": "tqnBeuWoOEk",
+      "title": "Shingles Vaccines Prevent Dementia",
+      "channel": "SciShow",
+      "channelId": "UCZYTClx2T1of7BRZ86-8fow",
+      "durationSec": 631,
+      "publishedAt": "2026-07-27T17:00:30Z",
+      "topics": [
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/tqnBeuWoOEk/hqdefault.jpg"
+    },
+    {
       "id": "ZPoKkl4dvZo",
       "title": "You Actually Can Get Rid of Forever Chemicals",
       "channel": "SciShow",
@@ -592,21 +607,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/_8Lk9YeovbE/hqdefault.jpg"
-    },
-    {
-      "id": "ZjU6wDiZZ1A",
-      "title": "What Science Says About the Sequels to Ozempic",
-      "channel": "SciShow",
-      "channelId": "UCZYTClx2T1of7BRZ86-8fow",
-      "durationSec": 717,
-      "publishedAt": "2026-07-20T17:00:04Z",
-      "topics": [
-        "science"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/ZjU6wDiZZ1A/hqdefault.jpg"
     },
     {
       "id": "GlYgs6v2YfU",
@@ -757,6 +757,9 @@
       ],
       "profiles": [
         "big"
+      ],
+      "flags": [
+        "supervision"
       ],
       "thumbnail": "https://i.ytimg.com/vi/h0EGCnBjTVk/hqdefault.jpg"
     },
@@ -1822,22 +1825,6 @@
       "thumbnail": "https://i.ytimg.com/vi/XBRl9hT2Oic/hqdefault.jpg"
     },
     {
-      "id": "VuWSmuvoZBM",
-      "title": "Fireworks in a Jar DIY Activity",
-      "channel": "GenerationGenius",
-      "channelId": "UCjxu5mHqZnVlb_8-Zjv-D1A",
-      "durationSec": 267,
-      "publishedAt": "2026-07-15T13:26:54Z",
-      "topics": [
-        "science"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/VuWSmuvoZBM/hqdefault.jpg"
-    },
-    {
       "id": "DSVt0s3F6tQ",
       "title": "Ice Melting Race DIY Activity:  Summer STEM Challenge",
       "channel": "GenerationGenius",
@@ -2835,23 +2822,6 @@
       "thumbnail": "https://i.ytimg.com/vi/rpsReEvrX-c/hqdefault.jpg"
     },
     {
-      "id": "XZ6j5-nBFyc",
-      "title": "Make Exploding Film Canisters??",
-      "channel": "Sick Science!",
-      "channelId": "UCDom90xOqP4avehFjSJO6NA",
-      "durationSec": 190,
-      "publishedAt": "2026-04-27T17:47:54Z",
-      "topics": [
-        "science",
-        "making"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/XZ6j5-nBFyc/hqdefault.jpg"
-    },
-    {
       "id": "a3Dw2i5llmY",
       "title": "Lifting A Car With A Shop Vac!",
       "channel": "Sick Science!",
@@ -3417,21 +3387,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/hERNweUccK4/hqdefault.jpg"
-    },
-    {
-      "id": "HVeybICAypw",
-      "title": "I Tried the World's Strangest Fireworks",
-      "channel": "The Action Lab",
-      "channelId": "UC1VLQPn9cYSqx8plbk9RxxQ",
-      "durationSec": 494,
-      "publishedAt": "2026-07-11T15:03:22Z",
-      "topics": [
-        "science"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/HVeybICAypw/hqdefault.jpg"
     },
     {
       "id": "Zw3CqjKyZ9Y",
@@ -5738,23 +5693,6 @@
       "thumbnail": "https://i.ytimg.com/vi/_43Ei9eQVww/hqdefault.jpg"
     },
     {
-      "id": "EnNGVjOy33U",
-      "title": "NASA's Northrop Grumman Commercial Resupply Services 24 Rendezvous & Capture",
-      "channel": "NASA",
-      "channelId": "UCLA_DiR1FfKNvjuUpBHmylQ",
-      "durationSec": 5315,
-      "publishedAt": "2026-04-13T17:33:04Z",
-      "topics": [
-        "space",
-        "exploration"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/EnNGVjOy33U/hqdefault.jpg"
-    },
-    {
       "id": "7Gni54puoIg",
       "title": "NASA’s Psyche Mission Just Flew By Mars: Here’s What We Learned",
       "channel": "NASA Jet Propulsion Laboratory",
@@ -6187,6 +6125,21 @@
       "thumbnail": "https://i.ytimg.com/vi/pGIFkDFXS3I/hqdefault.jpg"
     },
     {
+      "id": "BwVZJCbdRQg",
+      "title": "Sophie explains torque in space 🔄 [French with English subtitles]",
+      "channel": "European Space Agency, ESA",
+      "channelId": "UCIBaDdAbGlFDeS33shmlD0A",
+      "durationSec": 180,
+      "publishedAt": "2026-07-27T15:00:02Z",
+      "topics": [
+        "space"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/BwVZJCbdRQg/hqdefault.jpg"
+    },
+    {
       "id": "8JspqaxSt2M",
       "title": "Why total solar eclipses are so special",
       "channel": "European Space Agency, ESA",
@@ -6500,6 +6453,22 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/HsaT6Ps79Bo/hqdefault.jpg"
+    },
+    {
+      "id": "g-gkcwYkdDA",
+      "title": "Euclid Found an Entire Galaxy Made of Dark Matter",
+      "channel": "Astrum",
+      "channelId": "UC-9b7aDP6ZN0coj9-xFnrtw",
+      "durationSec": 2438,
+      "publishedAt": "2026-07-27T16:00:29Z",
+      "topics": [
+        "space",
+        "exploration"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/g-gkcwYkdDA/hqdefault.jpg"
     },
     {
       "id": "1eEjHl3cM0E",
@@ -7284,22 +7253,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/wHNC-RhmHZY/hqdefault.jpg"
-    },
-    {
-      "id": "uNix0UImPpo",
-      "title": "Have We Really Found Life on Mars?",
-      "channel": "Astrum",
-      "channelId": "UC-9b7aDP6ZN0coj9-xFnrtw",
-      "durationSec": 1271,
-      "publishedAt": "2025-10-22T16:01:38Z",
-      "topics": [
-        "space",
-        "exploration"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/uNix0UImPpo/hqdefault.jpg"
     },
     {
       "id": "1qIvFpcGkqc",
@@ -11799,6 +11752,23 @@
       "thumbnail": "https://i.ytimg.com/vi/w9u4fCD-sj0/hqdefault.jpg"
     },
     {
+      "id": "Nfnpdg68G2I",
+      "title": "How to Draw a Cup of Shave Ice 🍧 Cute Summer Drawing",
+      "channel": "Draw So Cute",
+      "channelId": "UC3dEvA1is6-0_yuei9iCdEw",
+      "durationSec": 365,
+      "publishedAt": "2026-07-27T17:47:02Z",
+      "topics": [
+        "art",
+        "making"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/Nfnpdg68G2I/hqdefault.jpg"
+    },
+    {
       "id": "0P5CkrkhSm8",
       "title": "How to Draw James | Minion & Monsters",
       "channel": "Draw So Cute",
@@ -12632,23 +12602,6 @@
       "thumbnail": "https://i.ytimg.com/vi/TwFBtehmPD0/hqdefault.jpg"
     },
     {
-      "id": "MlCq1PMTmwk",
-      "title": "How to Draw a Flower Bouquet 💐 Mother's Day Art",
-      "channel": "Draw So Cute",
-      "channelId": "UC3dEvA1is6-0_yuei9iCdEw",
-      "durationSec": 556,
-      "publishedAt": "2026-05-05T14:00:38Z",
-      "topics": [
-        "art",
-        "making"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/MlCq1PMTmwk/hqdefault.jpg"
-    },
-    {
       "id": "MB7wxd8Bz18",
       "title": "Learn to Draw Super Simple Characters! Finny the Shark, The Bumble Nums, & More!",
       "channel": "Super Simple Draw! - How To Draw for Kids",
@@ -13447,6 +13400,22 @@
         "little"
       ],
       "thumbnail": "https://i.ytimg.com/vi/m6KAfSgFaAM/hqdefault.jpg"
+    },
+    {
+      "id": "01NmuKZtZ6Y",
+      "title": "How to Draw Shy Guy | Super Mario",
+      "channel": "Cartooning Club How to Draw",
+      "channelId": "UC-biucJWhM8HwjsQ96uoIUw",
+      "durationSec": 274,
+      "publishedAt": "2026-07-27T14:00:23Z",
+      "topics": [
+        "art",
+        "making"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/01NmuKZtZ6Y/hqdefault.jpg"
     },
     {
       "id": "FE5vjFTLa1Y",
@@ -18650,23 +18619,6 @@
       "thumbnail": "https://i.ytimg.com/vi/-v9jUAzqOBA/hqdefault.jpg"
     },
     {
-      "id": "P7PCwF_wGIY",
-      "title": "Nautilus Field Guide: Iridogorgia Firework Corals | Nautilus Live",
-      "channel": "EVNautilus",
-      "channelId": "UC1KOOWHthbQVXH2kZue3_xA",
-      "durationSec": 191,
-      "publishedAt": "2026-05-22T19:11:52Z",
-      "topics": [
-        "nature",
-        "exploration"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/P7PCwF_wGIY/hqdefault.jpg"
-    },
-    {
       "id": "ZxYb-odTdRA",
       "title": "Nautilus Field Guide: Siphonophores | Nautilus Live",
       "channel": "EVNautilus",
@@ -19936,23 +19888,6 @@
       "thumbnail": "https://i.ytimg.com/vi/MVKnbwy9OaY/hqdefault.jpg"
     },
     {
-      "id": "cy4-A6-tqDM",
-      "title": "How does it grow? | Pollination, Exploding cucumbers and Pineapples! |Compilation for kids",
-      "channel": "Maddie Moate",
-      "channelId": "UCQ0_JQL4wdQd-Xe5hC4PwTg",
-      "durationSec": 1458,
-      "publishedAt": "2026-05-15T11:01:07Z",
-      "topics": [
-        "science",
-        "nature"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/cy4-A6-tqDM/hqdefault.jpg"
-    },
-    {
       "id": "gj3S-LhEPX0",
       "title": "Duckling's First Swim and Saying Goodbye | Maddie's Duck Diaries - Part 3/3",
       "channel": "Maddie Moate",
@@ -20806,22 +20741,6 @@
         "little"
       ],
       "thumbnail": "https://i.ytimg.com/vi/6pipU7J79ss/hqdefault.jpg"
-    },
-    {
-      "id": "Qx2dS2p2VhU",
-      "title": "🌭4th of July! 🎆Fireworks, Baseball, Hot Dogs & USA Fun!",
-      "channel": "Handyman Hal",
-      "channelId": "UC8KyyhPfL4v2sZGbcGg7b7Q",
-      "durationSec": 2752,
-      "publishedAt": "2026-07-01T10:38:08Z",
-      "topics": [
-        "making",
-        "engineering"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/Qx2dS2p2VhU/hqdefault.jpg"
     },
     {
       "id": "eWzoPoHCYXo",
@@ -23784,22 +23703,6 @@
       "thumbnail": "https://i.ytimg.com/vi/ktp62UtKy1c/hqdefault.jpg"
     },
     {
-      "id": "X3o71W4uNHc",
-      "title": "Prince Rupert's Drop EXPLODING in Epoxy Resin at 456,522 fps - Smarter Every Day 273",
-      "channel": "SmarterEveryDay",
-      "channelId": "UC6107grRI4m0o2-emgoDnAA",
-      "durationSec": 1284,
-      "publishedAt": "2022-05-29T14:00:03Z",
-      "topics": [
-        "science",
-        "engineering"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/X3o71W4uNHc/hqdefault.jpg"
-    },
-    {
       "id": "uFzuRm3wCDk",
       "title": "Why Jet Boats are AWESOME (U.S. Coast Guard's Workhorse) - Smarter Every Day 272",
       "channel": "SmarterEveryDay",
@@ -24582,22 +24485,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/iCQ05BSGeiM/hqdefault.jpg"
-    },
-    {
-      "id": "wNeS7PiTrhk",
-      "title": "Top Builder: Straw Hands-Free Holder | Design Squad",
-      "channel": "Design Squad ",
-      "channelId": "UCAgIIvpEGwYe6YBxpq_GAhg",
-      "durationSec": 162,
-      "publishedAt": "2017-04-13T17:41:19Z",
-      "topics": [
-        "engineering",
-        "making"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/wNeS7PiTrhk/hqdefault.jpg"
     },
     {
       "id": "ZOgXJRM8ttA",
@@ -48115,23 +48002,6 @@
       "thumbnail": "https://i.ytimg.com/vi/23EqLZxl588/hqdefault.jpg"
     },
     {
-      "id": "h9WraQWLRx0",
-      "title": "Underwater Fireworks! Easy and cool science experiment for kids.",
-      "channel": "Phil McCordic",
-      "channelId": "UCmOctGKKaXm2sjFcBs7-mCA",
-      "durationSec": 330,
-      "publishedAt": "2020-09-23T13:20:17Z",
-      "topics": [
-        "science",
-        "making"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/h9WraQWLRx0/hqdefault.jpg"
-    },
-    {
       "id": "Ia_iedZF-kA",
       "title": "The Physics of Water",
       "channel": "Phil McCordic",
@@ -48487,6 +48357,21 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/jvebwDXmBSw/hqdefault.jpg"
+    },
+    {
+      "id": "MM_xzNnJePo",
+      "title": "Common Latin Phrases Everyone Should Know",
+      "channel": "Professor Dave Explains",
+      "channelId": "UC0cd_-e49hZpWLH3UIwoWRA",
+      "durationSec": 300,
+      "publishedAt": "2026-07-27T14:00:09Z",
+      "topics": [
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/MM_xzNnJePo/hqdefault.jpg"
     },
     {
       "id": "Nr-f9M1HHFo",
@@ -49222,21 +49107,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/sJ8BcNVDWI8/hqdefault.jpg"
-    },
-    {
-      "id": "lzLCKBpBNXE",
-      "title": "Using Microbes to Turn Trash Into Energy? (Discussion With Sasha Rollings-Scattergood of Anaergia)",
-      "channel": "Professor Dave Explains",
-      "channelId": "UC0cd_-e49hZpWLH3UIwoWRA",
-      "durationSec": 1951,
-      "publishedAt": "2026-05-14T14:01:09Z",
-      "topics": [
-        "science"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/lzLCKBpBNXE/hqdefault.jpg"
     },
     {
       "id": "BjyJlN1npdw",
@@ -54162,22 +54032,6 @@
       "thumbnail": "https://i.ytimg.com/vi/ajVWRx8vsjE/hqdefault.jpg"
     },
     {
-      "id": "rZinHm5nBhY",
-      "title": "Debunking Exploding Gnocchi, Chicken Bread & more... | h2ct Ann Reardon",
-      "channel": "How To Cook That",
-      "channelId": "UCsP7Bpw36J666Fct5M8u-ZA",
-      "durationSec": 1150,
-      "publishedAt": "2025-09-19T09:30:02Z",
-      "topics": [
-        "science",
-        "making"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/rZinHm5nBhY/hqdefault.jpg"
-    },
-    {
       "id": "cDI6oMTa8KY",
       "title": "Testing 6 NEW Kitchen Gadgets | How To Cook That Ann Reardon",
       "channel": "How To Cook That",
@@ -54208,22 +54062,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/Hn1o3mcpWXs/hqdefault.jpg"
-    },
-    {
-      "id": "eb0TGMCUjGo",
-      "title": "Debunking: Exploding Churros, Pringles Oven, 5 minute crafts   |   H2CT",
-      "channel": "How To Cook That",
-      "channelId": "UCsP7Bpw36J666Fct5M8u-ZA",
-      "durationSec": 737,
-      "publishedAt": "2025-07-25T09:30:17Z",
-      "topics": [
-        "science",
-        "making"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/eb0TGMCUjGo/hqdefault.jpg"
     },
     {
       "id": "Q_G6y3L0oQI",
@@ -65595,22 +65433,6 @@
       "thumbnail": "https://i.ytimg.com/vi/zXFye-RImQw/hqdefault.jpg"
     },
     {
-      "id": "T1w5VFwLWEs",
-      "title": "An Explosion Of Growth! - May Venus Flytrap & Sarracenia Pitcher Plant Update",
-      "channel": "Carnivorous Plants Hub",
-      "channelId": "UCtdFyx2wj8dysinQuyNTX3Q",
-      "durationSec": 950,
-      "publishedAt": "2025-05-23T14:00:51Z",
-      "topics": [
-        "nature",
-        "science"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/T1w5VFwLWEs/hqdefault.jpg"
-    },
-    {
       "id": "mdN3G3iG_DE",
       "title": "NEW CULTIVARS: Unboxing Venus Flytraps From Sea Island SnapTraps!",
       "channel": "Carnivorous Plants Hub",
@@ -69494,22 +69316,6 @@
       "thumbnail": "https://i.ytimg.com/vi/ZSrVV5Lc-Bc/hqdefault.jpg"
     },
     {
-      "id": "gM7NzSTpFVA",
-      "title": "Taal Volcano Update; Strong Explosion Occurs, Geologist Analysis",
-      "channel": "GeologyHub",
-      "channelId": "UCYeGh5VML5XPr5jYnzh3J6g",
-      "durationSec": 334,
-      "publishedAt": "2026-07-06T19:00:14Z",
-      "topics": [
-        "science",
-        "geography"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/gM7NzSTpFVA/hqdefault.jpg"
-    },
-    {
       "id": "GlQcsFvu7BQ",
       "title": "This Week in Volcano News; Krakatau Erupts, New Russian Eruption",
       "channel": "GeologyHub",
@@ -69524,22 +69330,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/GlQcsFvu7BQ/hqdefault.jpg"
-    },
-    {
-      "id": "xHRcgzFnb-U",
-      "title": "An Explosion in Yellowstone Formed a New Fissure; Geologist Analysis",
-      "channel": "GeologyHub",
-      "channelId": "UCYeGh5VML5XPr5jYnzh3J6g",
-      "durationSec": 305,
-      "publishedAt": "2026-07-02T19:00:18Z",
-      "topics": [
-        "science",
-        "geography"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/xHRcgzFnb-U/hqdefault.jpg"
     },
     {
       "id": "ybRkhfWoX0A",
@@ -69956,22 +69746,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/DCxHQN7DZfc/hqdefault.jpg"
-    },
-    {
-      "id": "wEz5DhiVzD4",
-      "title": "Meteor Explodes Offshore of Massachusetts; 0.3 Kiloton Explosion",
-      "channel": "GeologyHub",
-      "channelId": "UCYeGh5VML5XPr5jYnzh3J6g",
-      "durationSec": 286,
-      "publishedAt": "2026-06-01T19:00:27Z",
-      "topics": [
-        "science",
-        "geography"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/wEz5DhiVzD4/hqdefault.jpg"
     },
     {
       "id": "S3FGnsvlHEA",
@@ -73160,21 +72934,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/OYjhmO_XaAY/hqdefault.jpg"
-    },
-    {
-      "id": "Gm2S05mUU90",
-      "title": "What is going on with this video?? It's exploding!",
-      "channel": "Neuro Transmissions",
-      "channelId": "UCYLrBefhyp8YyI9VGPbghvw",
-      "durationSec": 3349,
-      "publishedAt": "2023-08-17T08:10:28Z",
-      "topics": [
-        "science"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/Gm2S05mUU90/hqdefault.jpg"
     },
     {
       "id": "gEajC5umZS4",
@@ -80693,22 +80452,6 @@
       "thumbnail": "https://i.ytimg.com/vi/WuYdsStS1MQ/hqdefault.jpg"
     },
     {
-      "id": "KdfHVcU8U7U",
-      "title": "Demo and teardown of an X-ray fluorescence gun (measures chemical composition)",
-      "channel": "Applied Science",
-      "channelId": "UCivA7_KLKWo43tFcCkFvydw",
-      "durationSec": 1368,
-      "publishedAt": "2020-08-31T04:03:02Z",
-      "topics": [
-        "science",
-        "engineering"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/KdfHVcU8U7U/hqdefault.jpg"
-    },
-    {
       "id": "SrNVLCHrJtY",
       "title": "Giant glass diffusion pump and cathode ray tube demo",
       "channel": "Applied Science",
@@ -81075,22 +80818,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/2kqkJxn5u4Q/hqdefault.jpg"
-    },
-    {
-      "id": "xKxHQ19sxkk",
-      "title": "The Explosion that Changed the Pipeline Industry",
-      "channel": "The Efficient Engineer",
-      "channelId": "UCXAS_Ekkq0iFJ9dSUIkcAkw",
-      "durationSec": 1245,
-      "publishedAt": "2026-07-07T14:00:35Z",
-      "topics": [
-        "engineering",
-        "science"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/xKxHQ19sxkk/hqdefault.jpg"
     },
     {
       "id": "p_0duihxmW4",
@@ -81810,6 +81537,9 @@
         "little",
         "big"
       ],
+      "flags": [
+        "supervision"
+      ],
       "thumbnail": "https://i.ytimg.com/vi/RCXEsJYuz6U/hqdefault.jpg"
     },
     {
@@ -81825,6 +81555,9 @@
       "profiles": [
         "little",
         "big"
+      ],
+      "flags": [
+        "supervision"
       ],
       "thumbnail": "https://i.ytimg.com/vi/u9Sj83_CX6Q/hqdefault.jpg"
     },
@@ -81842,6 +81575,9 @@
         "little",
         "big"
       ],
+      "flags": [
+        "supervision"
+      ],
       "thumbnail": "https://i.ytimg.com/vi/Z-nf6lTcsII/hqdefault.jpg"
     },
     {
@@ -81857,6 +81593,9 @@
       "profiles": [
         "little",
         "big"
+      ],
+      "flags": [
+        "supervision"
       ],
       "thumbnail": "https://i.ytimg.com/vi/jAHF7L_Fh9Q/hqdefault.jpg"
     },
@@ -81874,6 +81613,9 @@
         "little",
         "big"
       ],
+      "flags": [
+        "supervision"
+      ],
       "thumbnail": "https://i.ytimg.com/vi/QWXDH-UBzBM/hqdefault.jpg"
     },
     {
@@ -81889,6 +81631,9 @@
       "profiles": [
         "little",
         "big"
+      ],
+      "flags": [
+        "supervision"
       ],
       "thumbnail": "https://i.ytimg.com/vi/jW7M8H99x7Y/hqdefault.jpg"
     },
@@ -81906,6 +81651,9 @@
         "little",
         "big"
       ],
+      "flags": [
+        "supervision"
+      ],
       "thumbnail": "https://i.ytimg.com/vi/BjGHyQhYwHU/hqdefault.jpg"
     },
     {
@@ -81921,6 +81669,9 @@
       "profiles": [
         "little",
         "big"
+      ],
+      "flags": [
+        "supervision"
       ],
       "thumbnail": "https://i.ytimg.com/vi/L1c7Nu3iR8c/hqdefault.jpg"
     },
@@ -81938,6 +81689,9 @@
         "little",
         "big"
       ],
+      "flags": [
+        "supervision"
+      ],
       "thumbnail": "https://i.ytimg.com/vi/FS7Uf9ddWoE/hqdefault.jpg"
     },
     {
@@ -81953,6 +81707,9 @@
       "profiles": [
         "little",
         "big"
+      ],
+      "flags": [
+        "supervision"
       ],
       "thumbnail": "https://i.ytimg.com/vi/BTkZ36g4GOs/hqdefault.jpg"
     },
@@ -81970,6 +81727,9 @@
         "little",
         "big"
       ],
+      "flags": [
+        "supervision"
+      ],
       "thumbnail": "https://i.ytimg.com/vi/kp_k_hiP9rA/hqdefault.jpg"
     },
     {
@@ -81985,6 +81745,9 @@
       "profiles": [
         "little",
         "big"
+      ],
+      "flags": [
+        "supervision"
       ],
       "thumbnail": "https://i.ytimg.com/vi/05-ceCK5e9U/hqdefault.jpg"
     },
@@ -82002,6 +81765,9 @@
         "little",
         "big"
       ],
+      "flags": [
+        "supervision"
+      ],
       "thumbnail": "https://i.ytimg.com/vi/ZzKH-mrp75g/hqdefault.jpg"
     },
     {
@@ -82017,6 +81783,9 @@
       "profiles": [
         "little",
         "big"
+      ],
+      "flags": [
+        "supervision"
       ],
       "thumbnail": "https://i.ytimg.com/vi/_PZ6JX93Hb0/hqdefault.jpg"
     },
@@ -82034,6 +81803,9 @@
         "little",
         "big"
       ],
+      "flags": [
+        "supervision"
+      ],
       "thumbnail": "https://i.ytimg.com/vi/vSeSt70Q_Zk/hqdefault.jpg"
     },
     {
@@ -82049,6 +81821,9 @@
       "profiles": [
         "little",
         "big"
+      ],
+      "flags": [
+        "supervision"
       ],
       "thumbnail": "https://i.ytimg.com/vi/h5mo-UJ5VdA/hqdefault.jpg"
     },
@@ -82066,6 +81841,9 @@
         "little",
         "big"
       ],
+      "flags": [
+        "supervision"
+      ],
       "thumbnail": "https://i.ytimg.com/vi/5yaAFLpLmVg/hqdefault.jpg"
     },
     {
@@ -82081,6 +81859,9 @@
       "profiles": [
         "little",
         "big"
+      ],
+      "flags": [
+        "supervision"
       ],
       "thumbnail": "https://i.ytimg.com/vi/dpr4a89YzE8/hqdefault.jpg"
     },
@@ -82098,6 +81879,9 @@
         "little",
         "big"
       ],
+      "flags": [
+        "supervision"
+      ],
       "thumbnail": "https://i.ytimg.com/vi/cQ9jA9Fa914/hqdefault.jpg"
     },
     {
@@ -82114,23 +81898,10 @@
         "little",
         "big"
       ],
+      "flags": [
+        "supervision"
+      ],
       "thumbnail": "https://i.ytimg.com/vi/40DP2_Qim_U/hqdefault.jpg"
-    },
-    {
-      "id": "_ZaLmIh4-Qg",
-      "title": "Molten Salt Explosion at 82,000 FPS - The Slow Mo Guys",
-      "channel": "The Slow Mo Guys",
-      "channelId": "UCUK0HBIBWgM2c4vsPhkYY4w",
-      "durationSec": 568,
-      "publishedAt": "2024-07-15T17:40:08Z",
-      "topics": [
-        "science"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/_ZaLmIh4-Qg/hqdefault.jpg"
     },
     {
       "id": "Q9zIdVPtHmU",
@@ -82145,6 +81916,9 @@
       "profiles": [
         "little",
         "big"
+      ],
+      "flags": [
+        "supervision"
       ],
       "thumbnail": "https://i.ytimg.com/vi/Q9zIdVPtHmU/hqdefault.jpg"
     },
@@ -82162,6 +81936,9 @@
         "little",
         "big"
       ],
+      "flags": [
+        "supervision"
+      ],
       "thumbnail": "https://i.ytimg.com/vi/w9i9rwg1L_A/hqdefault.jpg"
     },
     {
@@ -82177,6 +81954,9 @@
       "profiles": [
         "little",
         "big"
+      ],
+      "flags": [
+        "supervision"
       ],
       "thumbnail": "https://i.ytimg.com/vi/8kK8kXP1h1A/hqdefault.jpg"
     },
@@ -82194,23 +81974,10 @@
         "little",
         "big"
       ],
+      "flags": [
+        "supervision"
+      ],
       "thumbnail": "https://i.ytimg.com/vi/2wiMOUIx_5o/hqdefault.jpg"
-    },
-    {
-      "id": "3rtoLme91qQ",
-      "title": "Life-Sized Slow Motion Minecraft Creeper Explosion - The Slow Mo Guys",
-      "channel": "The Slow Mo Guys",
-      "channelId": "UCUK0HBIBWgM2c4vsPhkYY4w",
-      "durationSec": 604,
-      "publishedAt": "2024-02-22T20:26:37Z",
-      "topics": [
-        "science"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/3rtoLme91qQ/hqdefault.jpg"
     },
     {
       "id": "h46_THPT8cA",
@@ -82225,6 +81992,9 @@
       "profiles": [
         "little",
         "big"
+      ],
+      "flags": [
+        "supervision"
       ],
       "thumbnail": "https://i.ytimg.com/vi/h46_THPT8cA/hqdefault.jpg"
     },
@@ -82242,6 +82012,9 @@
         "little",
         "big"
       ],
+      "flags": [
+        "supervision"
+      ],
       "thumbnail": "https://i.ytimg.com/vi/JFQTAUkRAog/hqdefault.jpg"
     },
     {
@@ -82257,6 +82030,9 @@
       "profiles": [
         "little",
         "big"
+      ],
+      "flags": [
+        "supervision"
       ],
       "thumbnail": "https://i.ytimg.com/vi/UVnck7nWaB4/hqdefault.jpg"
     },
@@ -82274,6 +82050,9 @@
         "little",
         "big"
       ],
+      "flags": [
+        "supervision"
+      ],
       "thumbnail": "https://i.ytimg.com/vi/V6XnSvB34y8/hqdefault.jpg"
     },
     {
@@ -82290,23 +82069,10 @@
         "little",
         "big"
       ],
+      "flags": [
+        "supervision"
+      ],
       "thumbnail": "https://i.ytimg.com/vi/KKjIqCVFUyM/hqdefault.jpg"
-    },
-    {
-      "id": "wu-ucDe7dGI",
-      "title": "Exploding Gold in a Vacuum at 80,000FPS - The Slow Mo Guys",
-      "channel": "The Slow Mo Guys",
-      "channelId": "UCUK0HBIBWgM2c4vsPhkYY4w",
-      "durationSec": 574,
-      "publishedAt": "2023-11-09T18:49:40Z",
-      "topics": [
-        "science"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/wu-ucDe7dGI/hqdefault.jpg"
     },
     {
       "id": "9To4vimvHYE",
@@ -82321,6 +82087,9 @@
       "profiles": [
         "little",
         "big"
+      ],
+      "flags": [
+        "supervision"
       ],
       "thumbnail": "https://i.ytimg.com/vi/9To4vimvHYE/hqdefault.jpg"
     },
@@ -82337,6 +82106,9 @@
       "profiles": [
         "little",
         "big"
+      ],
+      "flags": [
+        "supervision"
       ],
       "thumbnail": "https://i.ytimg.com/vi/-1_ViBGFr6w/hqdefault.jpg"
     },
@@ -83292,6 +83064,22 @@
       "thumbnail": "https://i.ytimg.com/vi/GLVhXClV5QU/hqdefault.jpg"
     },
     {
+      "id": "IbrvdfYsYVE",
+      "title": "Chirp Builds a Nest | Peep and the Big Wide World",
+      "channel": "Peep and the Big Wide World",
+      "channelId": "UCPq6g4Q4-SFMIJ048IXmupA",
+      "durationSec": 645,
+      "publishedAt": "2026-07-27T15:00:33Z",
+      "topics": [
+        "science",
+        "nature"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/IbrvdfYsYVE/hqdefault.jpg"
+    },
+    {
       "id": "gjtnHdxWBI8",
       "title": "Quack Has Neighbours! 🐠 | Peep and the Big Wide World",
       "channel": "Peep and the Big Wide World",
@@ -83866,22 +83654,6 @@
         "little"
       ],
       "thumbnail": "https://i.ytimg.com/vi/yCvsxldRMqY/hqdefault.jpg"
-    },
-    {
-      "id": "h3OXjNIp6yY",
-      "title": "Peep and the Big Wide World: The Disappearing Drink",
-      "channel": "Peep and the Big Wide World",
-      "channelId": "UCPq6g4Q4-SFMIJ048IXmupA",
-      "durationSec": 533,
-      "publishedAt": "2013-07-17T15:35:40Z",
-      "topics": [
-        "science",
-        "nature"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/h3OXjNIp6yY/hqdefault.jpg"
     },
     {
       "id": "_-t3zhkntyU",
@@ -85780,22 +85552,6 @@
       "thumbnail": "https://i.ytimg.com/vi/UvCAhz9kmP8/hqdefault.jpg"
     },
     {
-      "id": "efovc4SiXic",
-      "title": "Ultimate Nerf Gun Battle w/ Zach King!",
-      "channel": "CrunchLabs",
-      "channelId": "UC513PdAP2-jWkJunTh5kXRw",
-      "durationSec": 1513,
-      "publishedAt": "2025-06-28T15:00:29Z",
-      "topics": [
-        "engineering",
-        "making"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/efovc4SiXic/hqdefault.jpg"
-    },
-    {
       "id": "Hwuw3sJAJdY",
       "title": "Extreme Laser Maze w/ Toys and Colors!",
       "channel": "CrunchLabs",
@@ -87187,23 +86943,6 @@
       "thumbnail": "https://i.ytimg.com/vi/sWirlzJB8wA/hqdefault.jpg"
     },
     {
-      "id": "XhRS8GxKoD8",
-      "title": "Three Little Pigs Toddler Yoga Adventure | Fairy Tale Yoga | Cosmic Kids",
-      "channel": "Cosmic Kids Yoga",
-      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
-      "durationSec": 1218,
-      "publishedAt": "2026-06-03T12:00:06Z",
-      "topics": [
-        "reading",
-        "nature"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/XhRS8GxKoD8/hqdefault.jpg"
-    },
-    {
       "id": "xm_GCZKltLA",
       "title": "Sleep Story for Kids | THE SLUG WHO HUGGED | Sleep Meditation for Children",
       "channel": "New Horizon - Meditation & Sleep Stories",
@@ -88486,6 +88225,21 @@
       "thumbnail": "https://i.ytimg.com/vi/Cl64Y7zMZ2g/hqdefault.jpg"
     },
     {
+      "id": "ZPT07f3JmYg",
+      "title": "On Berlin Pride (Christopher Street Day) & Hatred",
+      "channel": "ClimateAdam",
+      "channelId": "UCCu5wtZ5uOWZp_roz7wHPfg",
+      "durationSec": 311,
+      "publishedAt": "2026-07-27T12:36:26Z",
+      "topics": [
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/ZPT07f3JmYg/hqdefault.jpg"
+    },
+    {
       "id": "weYg88FCHWg",
       "title": "How Sodium Batteries Transform Climate Action",
       "channel": "ClimateAdam",
@@ -88799,21 +88553,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/RaT2LVum3jM/hqdefault.jpg"
-    },
-    {
-      "id": "JYv1S4ymjM0",
-      "title": "The Dumbest Climate Denial Ever?",
-      "channel": "ClimateAdam",
-      "channelId": "UCCu5wtZ5uOWZp_roz7wHPfg",
-      "durationSec": 590,
-      "publishedAt": "2025-08-24T13:04:35Z",
-      "topics": [
-        "science"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/JYv1S4ymjM0/hqdefault.jpg"
     },
     {
       "id": "on9QyDkbnJk",
@@ -93327,22 +93066,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/AaGK-fj-BAM/hqdefault.jpg"
-    },
-    {
-      "id": "CKeyIbT3vXI",
-      "title": "Coding Challenge #27: Fireworks!",
-      "channel": "The Coding Train",
-      "channelId": "UCvjgXvBlbQiydffZU7m1_aw",
-      "durationSec": 2075,
-      "publishedAt": "2016-07-02T23:30:08Z",
-      "topics": [
-        "coding",
-        "art"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/CKeyIbT3vXI/hqdefault.jpg"
     },
     {
       "id": "O5nskjZ_GoI",
