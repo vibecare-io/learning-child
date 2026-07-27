@@ -8,98 +8,326 @@
   :root {
     --bg: #ffffff; --ink: #23222a; --ink-2: #6b6572; --border: #e7e3ec;
     --accent: #e8615a; --accent-ink: #c64a44; --wash: #fbeae5; --field: #faf8fb;
-    --ok: #157a52; --err: #c0392b;
+    --ok: #157a52; --err: #c0392b; --card: #ffffff; --bar: #ffffff;
+    --shadow: 0 1px 3px rgba(30,20,40,.08);
   }
   @media (prefers-color-scheme: dark) {
-    :root { --bg: #201d26; --ink: #f0ecf3; --ink-2: #b3aabb; --border: #383343;
-            --wash: #3a2a2c; --field: #2a2632; --ok: #4bd39a; --err: #ff7a6b; }
+    :root { --bg: #17151c; --ink: #f0ecf3; --ink-2: #b3aabb; --border: #383343;
+            --wash: #3a2a2c; --field: #2a2632; --ok: #4bd39a; --err: #ff7a6b;
+            --card: #201d26; --bar: #201d26; --shadow: 0 1px 3px rgba(0,0,0,.35); }
   }
   * { box-sizing: border-box; }
+  html, body { height: 100%; }
   body { margin: 0; background: var(--bg); color: var(--ink);
     font: 14px/1.5 system-ui, -apple-system, "Segoe UI", sans-serif; }
-  main { padding: 18px 16px 24px; max-width: 420px; margin-inline: auto; }
-  h1 { font-size: 17px; margin: 0 0 2px; display: flex; align-items: center; gap: 8px; }
-  h1 .mark { width: 22px; height: 22px; border-radius: 7px; background: var(--accent); display: inline-grid; place-items: center; }
-  h1 .mark svg { width: 11px; height: 11px; }
-  .sub { margin: 0 0 16px; color: var(--ink-2); font-size: 13px; }
-  .status { background: var(--field); border: 1px solid var(--border); border-radius: 10px;
-    padding: 10px 12px; font-size: 12.5px; color: var(--ink-2); margin-bottom: 16px; }
-  .status b { color: var(--ink); }
-  fieldset { border: none; margin: 0; padding: 0; display: grid; gap: 8px; }
-  .opt { display: flex; align-items: center; gap: 11px; border: 1px solid var(--border);
-    border-radius: 11px; padding: 11px 13px; cursor: pointer; transition: border-color .15s, background .15s; }
-  .opt:hover { border-color: #d5cdda; }
-  .opt:has(input:checked) { border-color: var(--accent); background: var(--wash); }
-  .opt input { accent-color: var(--accent); width: 16px; height: 16px; flex: none; }
-  .opt .txt { display: flex; flex-direction: column; }
-  .opt .txt b { font-size: 13.5px; }
-  .opt .txt small { color: var(--ink-2); font-size: 12px; }
-  #custom { width: 100%; margin-top: 8px; padding: 10px 12px; border: 1px solid var(--border);
+
+  /* ---- App shell: sticky chrome, scrollable middle, fixed tab bar ---- */
+  #app { max-width: 460px; margin-inline: auto; min-height: 100%;
+    display: flex; flex-direction: column; }
+  #chrome { position: sticky; top: 0; z-index: 20; background: var(--bg);
+    border-bottom: 1px solid var(--border); }
+  #topbar { display: flex; align-items: center; gap: 8px; padding: 14px 16px 10px; }
+  #topbar h1 { font-size: 16px; margin: 0; display: flex; align-items: center; gap: 8px; flex: 1; }
+  #topbar .mark { width: 22px; height: 22px; border-radius: 7px; background: var(--accent);
+    display: inline-grid; place-items: center; flex: none; }
+  #topbar .mark svg { width: 11px; height: 11px; }
+
+  .lock { border: 1px solid var(--border); background: var(--field); color: var(--ink);
+    width: 38px; height: 34px; border-radius: 10px; cursor: pointer; font-size: 16px;
+    display: inline-grid; place-items: center; transition: border-color .15s, background .15s; }
+  .lock:hover { border-color: var(--accent); }
+
+  #searchbar { padding: 0 16px 12px; position: relative; }
+  #search { width: 100%; padding: 10px 12px 10px 36px; border: 1px solid var(--border);
     border-radius: 10px; background: var(--field); color: var(--ink); font: inherit; }
-  #custom:disabled { opacity: .5; }
-  .row { display: flex; gap: 8px; margin-top: 16px; }
-  button { font: inherit; font-weight: 600; border-radius: 10px; padding: 10px 16px; cursor: pointer; border: 1px solid transparent; }
-  #apply { background: var(--accent); color: #fff; flex: 1; }
-  #apply:hover { background: var(--accent-ink); }
-  .ghost { background: transparent; color: var(--ink-2); border-color: var(--border); }
-  .ghost:hover { color: var(--ink); }
-  .msg { min-height: 18px; margin: 12px 0 0; font-size: 12.5px; }
-  .msg.ok { color: var(--ok); }
-  .msg.err { color: var(--err); }
-  hr.sep { border: none; border-top: 1px solid var(--border); margin: 24px 0 18px; }
-  h2 { font-size: 15px; margin: 0 0 2px; }
-  textarea { width: 100%; margin-top: 4px; padding: 10px 12px; border: 1px solid var(--border);
+  #search:focus { outline: none; border-color: var(--accent); }
+  #searchbar .ico { position: absolute; left: 27px; top: 50%; transform: translateY(-60%);
+    color: var(--ink-2); pointer-events: none; font-size: 14px; }
+
+  /* ---- Panels ---- */
+  main { flex: 1; padding: 14px 16px calc(64px + env(safe-area-inset-bottom, 0px)); }
+  .panel { display: none; }
+  .panel.active { display: block; }
+  body.searching .panel { display: block; } /* search spans all tabs */
+  body.searching .home-only { display: none !important; }
+
+  .section { margin-bottom: 18px; }
+  .section > h2 { font-size: 12px; letter-spacing: .04em; text-transform: uppercase;
+    color: var(--ink-2); margin: 0 0 8px 2px; font-weight: 700; }
+  .card { background: var(--card); border: 1px solid var(--border); border-radius: 14px;
+    box-shadow: var(--shadow); overflow: hidden; }
+  .setting { padding: 12px 14px; border-top: 1px solid var(--border); }
+  .card > .setting:first-child { border-top: none; }
+  .setting .head { display: flex; align-items: center; gap: 12px; }
+  .setting .txt { flex: 1; min-width: 0; }
+  .setting .txt b { font-size: 13.5px; display: block; }
+  .setting .txt small { color: var(--ink-2); font-size: 12px; }
+
+  /* toggle */
+  .switch { position: relative; width: 40px; height: 24px; flex: none; }
+  .switch input { position: absolute; opacity: 0; width: 100%; height: 100%; margin: 0; cursor: pointer; }
+  .switch .track { position: absolute; inset: 0; background: var(--border); border-radius: 999px; transition: background .15s; }
+  .switch .track::after { content: ""; position: absolute; top: 2px; left: 2px; width: 20px; height: 20px;
+    background: #fff; border-radius: 50%; transition: transform .15s; box-shadow: 0 1px 2px rgba(0,0,0,.3); }
+  .switch input:checked + .track { background: var(--accent); }
+  .switch input:checked + .track::after { transform: translateX(16px); }
+  .switch input:disabled + .track { opacity: .5; }
+
+  /* number stepper */
+  .num { width: 74px; flex: none; padding: 8px 8px; border: 1px solid var(--border);
+    border-radius: 9px; background: var(--field); color: var(--ink); font: inherit; text-align: center; }
+
+  textarea { width: 100%; margin-top: 8px; padding: 10px 12px; border: 1px solid var(--border);
     border-radius: 10px; background: var(--field); color: var(--ink); font: inherit; resize: vertical; }
-  label.field { display: block; font-size: 12.5px; color: var(--ink-2); margin-top: 12px; }
-  #pc-pin { width: 100%; margin-top: 4px; }
-  #pc-controls .opt { margin-top: 12px; }
+  input[type="url"] { width: 100%; margin-top: 8px; padding: 10px 12px; border: 1px solid var(--border);
+    border-radius: 10px; background: var(--field); color: var(--ink); font: inherit; }
+  input:disabled, textarea:disabled { opacity: .55; cursor: not-allowed; }
+
+  /* radios as option rows (catalog source) */
+  .opt { display: flex; align-items: center; gap: 11px; cursor: pointer; }
+  .opt input[type="radio"] { accent-color: var(--accent); width: 16px; height: 16px; flex: none; }
+
+  button.btn { font: inherit; font-weight: 600; border-radius: 10px; padding: 10px 16px;
+    cursor: pointer; border: 1px solid transparent; }
+  .primary { background: var(--accent); color: #fff; }
+  .primary:hover { background: var(--accent-ink); }
+  .primary:disabled { opacity: .5; cursor: not-allowed; }
+  .ghost { background: transparent; color: var(--ink-2); border: 1px solid var(--border); }
+  .ghost:hover { color: var(--ink); }
+  .row { display: flex; gap: 8px; margin-top: 12px; }
+  .row .primary { flex: 1; }
+
+  .msg { min-height: 18px; margin: 8px 2px 0; font-size: 12.5px; }
+  .msg.ok { color: var(--ok); } .msg.err { color: var(--err); }
+
+  /* Home tiles */
+  .tiles { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; }
+  .tile { background: var(--card); border: 1px solid var(--border); border-radius: 14px;
+    box-shadow: var(--shadow); padding: 12px 14px; }
+  .tile .k { font-size: 11.5px; color: var(--ink-2); text-transform: uppercase; letter-spacing: .03em; }
+  .tile .v { font-size: 18px; font-weight: 700; margin-top: 2px; }
+  .tile.wide { grid-column: 1 / -1; }
+  .tile .v.small { font-size: 14px; font-weight: 600; }
+  .tiles + .card { margin-top: 10px; }
+
+  /* Recent-videos rows (Watch activity) */
+  .setting .head .mins { flex: none; color: var(--ink-2); font-size: 12.5px; }
+  .setting .txt b.title { display: block; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+
+  #noresults { text-align: center; color: var(--ink-2); padding: 30px 10px; font-size: 13px; }
+
+  /* ---- Bottom tab bar ---- */
+  #tabbar { position: fixed; bottom: 0; left: 50%; transform: translateX(-50%);
+    width: 100%; max-width: 460px; display: flex; background: var(--bar);
+    border-top: 1px solid var(--border); padding-bottom: env(safe-area-inset-bottom, 0px); z-index: 30; }
+  .tab { flex: 1; border: none; background: none; cursor: pointer; color: var(--ink-2);
+    padding: 8px 4px 9px; display: flex; flex-direction: column; align-items: center; gap: 2px;
+    font: inherit; font-size: 11px; }
+  .tab .ico { font-size: 19px; line-height: 1; }
+  .tab.active { color: var(--accent); }
+  body.searching #tabbar .tab { opacity: .5; }
+
+  /* ---- Lock gate (the only thing shown while locked) ---- */
+  #gate { position: fixed; inset: 0; z-index: 40; display: grid; place-items: center;
+    padding: 24px; background: var(--bg); }
+  #gate[hidden] { display: none; }
+  .gate-card { width: 100%; max-width: 320px; text-align: center; }
+  .gate-brand { display: inline-flex; align-items: center; gap: 8px; font-weight: 700;
+    font-size: 16px; margin-bottom: 24px; }
+  .gate-brand .mark { width: 22px; height: 22px; border-radius: 7px; background: var(--accent);
+    display: inline-grid; place-items: center; }
+  .gate-brand .mark svg { width: 11px; height: 11px; }
+  .gate-lock { font-size: 30px; margin-bottom: 12px; }
+  .gate-card h2 { margin: 0 0 4px; font-size: 18px; }
+  .gate-card .sub { margin: 0 0 16px; color: var(--ink-2); font-size: 13px; }
+  #gate-input { width: 100%; padding: 12px 14px; border: 1px solid var(--border); border-radius: 12px;
+    background: var(--field); color: var(--ink); font: inherit; font-size: 18px;
+    letter-spacing: .4em; text-align: center; }
+  #gate-input:focus { outline: none; border-color: var(--accent); }
+  #gate .btn { width: 100%; margin-top: 12px; }
+  #gate .msg { min-height: 18px; text-align: center; }
+
+  /* ---- PIN modal (change PIN, only while unlocked) ---- */
+  .modal { position: fixed; inset: 0; background: rgba(20,14,26,.5); display: grid;
+    place-items: center; z-index: 50; padding: 20px; }
+  .modal[hidden] { display: none; }
+  .modal-card { background: var(--card); border: 1px solid var(--border); border-radius: 16px;
+    padding: 18px; width: 100%; max-width: 320px; box-shadow: 0 10px 40px rgba(0,0,0,.3); }
+  .modal-card h2 { margin: 0 0 4px; font-size: 16px; }
+  .modal-card .sub { margin: 0 0 12px; color: var(--ink-2); font-size: 12.5px; }
+  #pin-input { width: 100%; padding: 11px 12px; border: 1px solid var(--border); border-radius: 10px;
+    background: var(--field); color: var(--ink); font: inherit; letter-spacing: .3em; text-align: center; }
+  #pin-input:focus { outline: none; border-color: var(--accent); }
 </style>
 </head>
 <body>
-<main>
-  <h1><span class="mark"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M9 7l9 5-9 5z" fill="#fff"/></svg></span> VibeCare Kids</h1>
-  <p class="sub">Choose where the curated video catalog is loaded from.</p>
+<!-- Lock gate: shown (instead of the whole app) whenever a PIN is set and not yet entered -->
+<div id="gate">
+  <div class="gate-card">
+    <div class="gate-brand"><span class="mark"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M9 7l9 5-9 5z" fill="#fff"/></svg></span> VibeCare Kids</div>
+    <div class="gate-lock" aria-hidden="true">🔒</div>
+    <h2 id="gate-title">Enter your PIN</h2>
+    <p class="sub" id="gate-hint">Enter your PIN to open settings.</p>
+    <input type="password" id="gate-input" inputmode="numeric" placeholder="••••" autocomplete="off" />
+    <p class="msg" id="gate-msg"></p>
+    <button type="button" id="gate-ok" class="btn primary">Unlock</button>
+  </div>
+</div>
 
-  <div class="status" id="status">Checking…</div>
-
-  <form id="form">
-    <fieldset>
-      <label class="opt"><input type="radio" name="src" value="prod" /><span class="txt"><b>Production</b><small>kids.vibecare.io/api</small></span></label>
-      <label class="opt"><input type="radio" name="src" value="local" /><span class="txt"><b>Local dev</b><small>localhost:8080/api</small></span></label>
-      <label class="opt"><input type="radio" name="src" value="custom" /><span class="txt"><b>Custom URL</b><small>your own /api base</small></span></label>
-    </fieldset>
-    <input type="url" id="custom" placeholder="https://example.com/api" disabled />
-    <div class="row">
-      <button type="submit" id="apply">Apply &amp; load</button>
-      <button type="button" id="reset" class="ghost">Use bundled</button>
+<div id="app" hidden>
+  <div id="chrome">
+    <header id="topbar">
+      <h1><span class="mark"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M9 7l9 5-9 5z" fill="#fff"/></svg></span> VibeCare Kids</h1>
+      <button type="button" id="lock" class="lock" aria-label="Lock settings" title="Lock settings">🔒</button>
+    </header>
+    <div id="searchbar">
+      <span class="ico" aria-hidden="true">🔎</span>
+      <input type="search" id="search" placeholder="Search settings…" autocomplete="off" />
     </div>
-  </form>
-  <p class="msg" id="msg"></p>
+  </div>
 
-  <hr class="sep" />
+  <main>
+    <!-- ================= HOME ================= -->
+    <section class="panel active home-only" data-tab="home">
+      <div class="section">
+        <h2>Overview</h2>
+        <div class="tiles">
+          <div class="tile wide"><div class="k">Active catalog</div><div class="v small" id="home-catalog">Checking…</div></div>
+          <div class="tile"><div class="k">Age profile</div><div class="v small" id="home-profile">—</div></div>
+          <div class="tile"><div class="k">Supervised</div><div class="v" id="home-supervised">—</div></div>
+          <div class="tile"><div class="k">Reels limit</div><div class="v" id="home-reels">—</div></div>
+          <div class="tile"><div class="k">Screen time</div><div class="v" id="home-screen">—</div></div>
+        </div>
+      </div>
+      <div class="section">
+        <h2>Blocking</h2>
+        <div class="tiles">
+          <div class="tile"><div class="k">Blocked words</div><div class="v" id="home-words">0</div></div>
+          <div class="tile"><div class="k">Blocked videos</div><div class="v" id="home-videos">0</div></div>
+        </div>
+      </div>
+    </section>
 
-  <section id="pc-gate">
-    <h2>Parent controls</h2>
-    <p class="sub" id="pc-pin-hint">Checking…</p>
-    <input type="password" id="pc-pin" placeholder="PIN" />
+    <!-- ================= SETTINGS ================= -->
+    <section class="panel" data-tab="settings">
+      <div class="section">
+        <h2>Content safety</h2>
+        <div class="card">
+          <div class="setting" data-keywords="supervised mode grown-up adult supervision safety">
+            <div class="head">
+              <span class="txt"><b>Supervised mode</b><small>Show videos that need a grown-up nearby</small></span>
+              <label class="switch"><input type="checkbox" id="pc-supervised" class="gated" /><span class="track"></span></label>
+            </div>
+          </div>
+          <div class="setting" data-keywords="blocked title words keywords filter text ban">
+            <div class="txt"><b>Blocked title words</b><small>One per line — videos whose titles match are hidden</small></div>
+            <textarea id="pc-keywords" class="gated" rows="3" placeholder="e.g. prank&#10;challenge"></textarea>
+          </div>
+          <div class="setting" data-keywords="blocked videos links youtube url block specific">
+            <div class="txt"><b>Blocked videos</b><small>Paste YouTube links, one per line</small></div>
+            <textarea id="pc-blocked" class="gated" rows="3" placeholder="https://youtube.com/watch?v=…"></textarea>
+          </div>
+        </div>
+      </div>
+
+      <div class="section">
+        <h2>Reels &amp; screen time</h2>
+        <div class="card">
+          <div class="setting" data-keywords="reels shorts allowed limit break doomscroll swipe">
+            <div class="head">
+              <span class="txt"><b>Reels before a break</b><small>0 = block Shorts entirely</small></span>
+              <input type="number" id="pc-reels-limit" class="gated num" min="0" max="50" step="1" inputmode="numeric" />
+            </div>
+          </div>
+          <div class="setting" data-keywords="reels shorts cooldown break length minutes wait">
+            <div class="head">
+              <span class="txt"><b>First break length</b><small>Minutes — doubles each repeat</small></span>
+              <input type="number" id="pc-reels-cooldown" class="gated num" min="1" max="240" step="1" inputmode="numeric" />
+            </div>
+          </div>
+          <div class="setting" data-keywords="screen time daily minutes limit watch budget">
+            <div class="head">
+              <span class="txt"><b>Daily screen time</b><small>Minutes per day — blank = no limit</small></span>
+              <input type="number" id="pc-screen" class="gated num" min="0" max="1440" step="5" inputmode="numeric" placeholder="—" />
+            </div>
+          </div>
+        </div>
+        <p class="msg" id="pc-status"></p>
+        <div class="row"><button type="button" id="pc-save" class="btn primary gated">Save changes</button></div>
+      </div>
+
+      <div class="section">
+        <h2>Security</h2>
+        <div class="card">
+          <div class="setting" data-keywords="pin passcode lock security change parent">
+            <div class="head">
+              <span class="txt"><b>Parent PIN</b><small id="pin-state">Protects editing</small></span>
+              <button type="button" id="pc-change-pin" class="btn ghost gated">Change</button>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="section">
+        <h2>Watch activity</h2>
+        <div class="tiles">
+          <div class="tile"><div class="k">Watched today</div><div class="v" id="pc-hours-today">—</div></div>
+          <div class="tile"><div class="k">Watched this week</div><div class="v" id="pc-hours-week">—</div></div>
+        </div>
+        <div class="card" id="pc-recent">
+          <div class="setting"><div class="txt"><small>No videos watched yet.</small></div></div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ================= CONFIGURATION ================= -->
+    <section class="panel" data-tab="config">
+      <div class="section">
+        <h2>Catalog source</h2>
+        <div class="card">
+          <div class="setting" data-keywords="catalog source production prod hosted default vibecare">
+            <label class="opt"><input type="radio" name="src" value="prod" class="gated" /><span class="txt"><b>Production</b><small>kids.vibecare.io/api</small></span></label>
+          </div>
+          <div class="setting" data-keywords="catalog source local dev localhost development">
+            <label class="opt"><input type="radio" name="src" value="local" class="gated" /><span class="txt"><b>Local dev</b><small>localhost:8080/api</small></span></label>
+          </div>
+          <div class="setting" data-keywords="catalog source custom url own api endpoint">
+            <label class="opt"><input type="radio" name="src" value="custom" class="gated" /><span class="txt"><b>Custom URL</b><small>your own /api base</small></span></label>
+            <input type="url" id="custom" class="gated" placeholder="https://example.com/api" disabled />
+          </div>
+        </div>
+        <p class="msg" id="msg"></p>
+        <div class="row">
+          <button type="button" id="apply" class="btn primary gated">Apply &amp; load</button>
+          <button type="button" id="reset" class="btn ghost gated">Use bundled</button>
+        </div>
+      </div>
+    </section>
+
+    <div id="noresults" hidden>No settings match “<span id="nrq"></span>”.</div>
+  </main>
+
+  <nav id="tabbar">
+    <button type="button" class="tab active" data-tab="home"><span class="ico">🏠</span>Home</button>
+    <button type="button" class="tab" data-tab="settings"><span class="ico">⚙️</span>Settings</button>
+    <button type="button" class="tab" data-tab="config"><span class="ico">🔧</span>Config</button>
+  </nav>
+</div>
+
+<!-- PIN modal -->
+<div class="modal" id="pin-modal" hidden>
+  <div class="modal-card">
+    <h2 id="pin-title">Enter PIN</h2>
+    <p class="sub" id="pin-hint"></p>
+    <input type="password" id="pin-input" inputmode="numeric" placeholder="••••" autocomplete="off" />
+    <p class="msg" id="pin-msg"></p>
     <div class="row">
-      <button type="button" id="pc-unlock">Unlock</button>
+      <button type="button" id="pin-cancel" class="btn ghost">Cancel</button>
+      <button type="button" id="pin-ok" class="btn primary">Unlock</button>
     </div>
-  </section>
+  </div>
+</div>
 
-  <section id="pc-controls" hidden>
-    <h2>Parent controls</h2>
-    <label class="opt"><input type="checkbox" id="pc-supervised" /><span class="txt"><b>Supervised mode</b><small>Show videos that need a grown-up</small></span></label>
-    <label class="field" for="pc-keywords">Blocked title words (one per line)</label>
-    <textarea id="pc-keywords" rows="4"></textarea>
-    <label class="field" for="pc-blocked">Blocked videos (paste YouTube links, one per line)</label>
-    <textarea id="pc-blocked" rows="4"></textarea>
-    <div class="row">
-      <button type="button" id="pc-save">Save</button>
-    </div>
-    <p class="msg" id="pc-status"></p>
-  </section>
-</main>
 <script src="settings.js" defer></script>
 </body>
 </html>

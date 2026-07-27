@@ -2,6 +2,8 @@ import { HIDE_SELECTORS } from "./selectors";
 import { runHome } from "./adapters/home";
 import { runWatch } from "./adapters/watch";
 import { runSearch } from "./adapters/search";
+import { guardReel, syncReelsBar, type ReelsConfig } from "./reels-guard";
+import { loadControls } from "./safety";
 
 export function installHideStyle(): void {
   if (document.getElementById("lc-hide")) return;
@@ -52,10 +54,25 @@ async function route(): Promise<void> {
   cleanup = undefined;
 
   const path = location.pathname;
-  if (path === "/shorts" || path.startsWith("/shorts/")) {
-    location.replace("https://www.youtube.com/");
-    return;
+  const onShorts = path === "/shorts" || path.startsWith("/shorts/");
+  const controls = await loadControls();
+  const reelsConfig: ReelsConfig = {
+    limit: controls.reelsLimit,
+    baseCooldownMs: controls.reelsCooldownMinutes * 60_000,
+  };
+  if (onShorts) {
+    // Allow a small taste (reelsLimit), then redirect away and start the
+    // exponential cooldown. The bar (synced below) shows the countdown.
+    const decision = await guardReel(reelsConfig);
+    if (!decision.allow) {
+      location.replace("https://www.youtube.com/");
+      return;
+    }
   }
+  // Reflect the reels budget / cooldown in the top-of-page bar on every page.
+  void syncReelsBar(onShorts, reelsConfig);
+  if (onShorts) return; // shorts is not one of our curated adapter surfaces
+
   for (const [pattern, surface, run] of routes) {
     if (pattern.test(path)) {
       try {

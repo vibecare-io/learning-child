@@ -2,12 +2,15 @@ import { afterEach, describe, expect, it, vi } from "vitest";
 import {
   EMPTY_HISTORY,
   accumulate,
+  formatHours,
   getHistory,
   isOverLimit,
   isWatched,
   pruneHistory,
+  recentVideos,
   recordTick,
   secondsToday,
+  weekTotalSec,
   type WatchHistory,
 } from "./history";
 
@@ -197,5 +200,87 @@ describe("recordTick", () => {
     // stale (>90d before 2026-07-26) entry is pruned away on write.
     expect(written.videos.stale).toBeUndefined();
     expect(written.daily["2026-01-01"]).toBeUndefined();
+  });
+});
+
+describe("formatHours", () => {
+  it("formats 0 seconds as 0 m", () => {
+    expect(formatHours(0)).toBe("0 m");
+  });
+
+  it("floors seconds under a minute to 0 m", () => {
+    expect(formatHours(59)).toBe("0 m");
+  });
+
+  it("floors partial minutes rather than rounding up", () => {
+    expect(formatHours(125)).toBe("2 m");
+  });
+
+  it("formats a whole number of minutes under an hour", () => {
+    expect(formatHours(1440)).toBe("24 m");
+  });
+
+  it("formats hours and minutes together", () => {
+    expect(formatHours(5040)).toBe("1 h 24 m");
+  });
+
+  it("formats an exact hour with a trailing 0 m", () => {
+    expect(formatHours(3600)).toBe("1 h 0 m");
+  });
+});
+
+describe("weekTotalSec", () => {
+  it("sums the last 7 daily keys including today", () => {
+    const h: WatchHistory = {
+      videos: {},
+      daily: {
+        "2026-07-26": 100, // today
+        "2026-07-25": 200, // 1 day ago
+        "2026-07-20": 300, // 6 days ago - last day still in the window
+        "2026-07-19": 999, // 7 days ago - just outside the window
+      },
+    };
+    expect(weekTotalSec(h, "2026-07-26")).toBe(600);
+  });
+
+  it("returns 0 when there's no history in the window", () => {
+    expect(weekTotalSec(EMPTY_HISTORY, "2026-07-26")).toBe(0);
+  });
+});
+
+describe("recentVideos", () => {
+  it("returns videos newest-watched first, limited to the given count", () => {
+    const h: WatchHistory = {
+      videos: {
+        old: { title: "Old", channel: "c", lastWatchedAt: "2026-07-01", totalSec: 100 },
+        newest: { title: "Newest", channel: "c", lastWatchedAt: "2026-07-25", totalSec: 100 },
+        mid: { title: "Mid", channel: "c", lastWatchedAt: "2026-07-15", totalSec: 100 },
+      },
+      daily: {},
+    };
+    expect(recentVideos(h, 2).map((v) => v.id)).toEqual(["newest", "mid"]);
+  });
+
+  it("keeps relative input (insertion) order for same-day (tie) entries", () => {
+    const h: WatchHistory = {
+      videos: {
+        b: { title: "B", channel: "c", lastWatchedAt: "2026-07-20", totalSec: 100 },
+        a: { title: "A", channel: "c", lastWatchedAt: "2026-07-20", totalSec: 100 },
+      },
+      daily: {},
+    };
+    expect(recentVideos(h, 10).map((v) => v.id)).toEqual(["b", "a"]);
+  });
+
+  it("carries the video id and full VideoWatch fields through", () => {
+    const h: WatchHistory = {
+      videos: { v1: { title: "T", channel: "C", lastWatchedAt: "2026-07-20", totalSec: 42 } },
+      daily: {},
+    };
+    expect(recentVideos(h, 10)).toEqual([{ id: "v1", title: "T", channel: "C", lastWatchedAt: "2026-07-20", totalSec: 42 }]);
+  });
+
+  it("returns an empty array when there's no history", () => {
+    expect(recentVideos(EMPTY_HISTORY, 10)).toEqual([]);
   });
 });
