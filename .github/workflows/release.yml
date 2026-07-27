@@ -8,7 +8,7 @@ name: Release extension
 
 on:
   push:
-    tags: ["v*"]
+    tags: ["*"]
 
 permissions:
   contents: write
