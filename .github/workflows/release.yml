@@ -1,0 +1,41 @@
+name: Release extension
+
+# Cut a release by pushing a version tag:
+#   git tag v0.1.0 && git push origin v0.1.0
+# This builds the extension and attaches vibecare-kids-chrome.zip to the
+# GitHub Release, so https://github.com/<owner>/<repo>/releases/latest always
+# points at the newest downloadable build.
+
+on:
+  push:
+    tags: ["v*"]
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: oven-sh/setup-bun@v2
+        with:
+          bun-version: latest
+      - run: bun install --frozen-lockfile
+      - run: bun run --cwd extension build
+      - name: Package extension
+        run: cd extension/dist && zip -r "$GITHUB_WORKSPACE/vibecare-kids-chrome.zip" .
+      - name: Publish release
+        uses: softprops/action-gh-release@v2
+        with:
+          files: vibecare-kids-chrome.zip
+          generate_release_notes: true
+          body: |
+            **VibeCare Kids — Chrome extension**
+
+            1. Download `vibecare-kids-chrome.zip` below and unzip it.
+            2. Open `chrome://extensions` and turn on **Developer mode**.
+            3. Click **Load unpacked** and select the unzipped folder.
+
+            By default the extension loads its catalog from https://kids.vibecare.io/api
+            (switchable in the extension's settings side panel).
