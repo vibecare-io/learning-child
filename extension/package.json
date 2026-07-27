@@ -2,9 +2,10 @@
   "name": "extension",
   "private": true,
   "type": "module",
-  "scripts": { "build": "bun build.mjs" },
+  "scripts": { "build": "bun build.mjs", "e2e": "playwright test" },
   "devDependencies": {
     "esbuild": "^0.24.0",
-    "@types/chrome": "^0.0.280"
+    "@types/chrome": "^0.0.280",
+    "@playwright/test": "^1.48.0"
   }
 }

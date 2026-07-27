@@ -41,5 +41,12 @@ serve port="8080":
     @echo "Serving ./public at http://localhost:{{port}}  -  Ctrl-C to stop"
     python3 -m http.server {{port}} --directory public
 
+# Selector-drift canary against live YouTube (builds the extension, then loads
+# it into real Chromium and pokes real youtube.com). NOT a CI gate - a consent
+# dialog, region wall, or YouTube A/B test can make this flaky on its own;
+# treat a failure as "go look", not "something broke".
+e2e: bundle
+    cd extension && bunx playwright test
+
 # Full pre-commit gate: test, typecheck, bundle
 check: test typecheck bundle
