@@ -3,6 +3,7 @@ import { dailyFeed, todayStr } from "../feed";
 import { renderGrid, renderChips } from "../ui";
 import { waitFor } from "../dom";
 import { HOME_GRID } from "../selectors";
+import { applySafety, loadControls } from "../safety";
 
 /** Canonical topic order for the chip bar (only the ones present in the feed show). */
 const TOPIC_ORDER = [
@@ -16,7 +17,7 @@ export async function runHome(): Promise<void> {
   const host = await waitFor(HOME_GRID);
   document.getElementById("lc-home")?.remove();
 
-  const feed = dailyFeed(catalog, profile, todayStr());
+  const feed = applySafety(dailyFeed(catalog, profile, todayStr()), await loadControls());
   const present = TOPIC_ORDER.filter((t) => feed.some((v) => v.topics.includes(t)));
   const topics = ["all", ...present];
 

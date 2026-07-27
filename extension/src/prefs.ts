@@ -5,12 +5,16 @@
 // can read it — localStorage is per-origin and would not reach the content
 // script. If this ever moves to React, this module maps 1:1 onto a Zustand store.
 
+import type { ParentControls } from "./safety";
+import { DEFAULT_CONTROLS } from "./safety";
+
 export interface Prefs {
   onboarded: boolean;
   auth: { provider: "google"; email: string } | null;
   profile: string; // age profile id, e.g. "little" | "big"
   interests: string[]; // catalog topic ids, e.g. ["science", "space"]
   screenTimeMinutes: number | null; // daily limit; null = no limit
+  parentControls: ParentControls;
 }
 
 export const DEFAULT_PREFS: Prefs = {
@@ -19,6 +23,7 @@ export const DEFAULT_PREFS: Prefs = {
   profile: "little",
   interests: [],
   screenTimeMinutes: null,
+  parentControls: DEFAULT_CONTROLS,
 };
 
 const KEY = "prefs";

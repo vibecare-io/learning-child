@@ -1,5 +1,5 @@
 // @vitest-environment jsdom
-import { afterEach, describe, expect, it, vi } from "vitest";
+import { afterEach, beforeEach, describe, expect, it, vi } from "vitest";
 import type { Catalog, CatalogVideo } from "../../../shared/types";
 
 function vid(over: Partial<CatalogVideo>): CatalogVideo {
@@ -27,8 +27,13 @@ vi.mock("../catalog", () => ({
 vi.mock("../dom", () => ({
   waitFor: async (sel: string) => document.querySelector(sel),
 }));
+// loadControls() reads prefs via chrome.storage.local; stub it so it
+// resolves to the (empty-prefs -> default) parent controls.
+beforeEach(() => {
+  vi.stubGlobal("chrome", { storage: { local: { get: vi.fn(async () => ({})) } } });
+});
 
-afterEach(() => { document.body.innerHTML = ""; vi.resetModules(); });
+afterEach(() => { document.body.innerHTML = ""; vi.resetModules(); vi.unstubAllGlobals(); });
 
 describe("runHome chip bar", () => {
   it("injects our topic chips and filters the grid on click", async () => {
