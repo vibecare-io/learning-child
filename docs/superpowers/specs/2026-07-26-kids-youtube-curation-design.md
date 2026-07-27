@@ -159,7 +159,8 @@ sticks. `CatalogVideo` gains optional `flags?: string[]`.
 
 **Tier 2 - runtime (instant).** A PIN-gated Parent Controls **side panel**
 (`chrome.sidePanel`) with: supervised-mode toggle; parent-editable keyword blocklist;
-per-video block list (paste a YouTube URL). Stored in `chrome.storage.sync`, applied
+per-video block list (paste a YouTube URL). Stored in the prefs store
+(`chrome.storage.local`, key "prefs" - as built), applied
 as a pure filter (`applySafety`) over feed/up-next/search suggestions before render.
 Runtime rules act within seconds; promoting them into `catalog.yaml` makes them
 permanent. Keyword matching lives in `shared/safety.ts`, used by both tiers.
@@ -203,3 +204,12 @@ net; keywords are the tripwire.
 Multi-family backend with auth, YouTube Kids and other video sites (via new adapters),
 kid-proof lockdown via managed Chrome policies, a friendlier curation UI than YAML,
 watch-history reporting for parents.
+
+**Parent safety & control:** curation controls *what* a kid sees but not *how much*, *how*,
+or *right now*. Two roadmap capabilities — (1) **anti-addiction guardrails** (daily time
+budgets, session "stretch break" caps, allowed-hours windows, a local-first parent watch
+report, fixation nudges) and (2) **remote intervention** (parent, seeing/hearing a kid
+watch junk, pushes good content to the kid's device live from their own phone via a
+parent→child command channel). Both, and the honest privacy line between local behavior
+data and the parent command channel, are specced in
+[`specs/2026-07-27-parent-safety-guardrails.md`](2026-07-27-parent-safety-guardrails.md).
