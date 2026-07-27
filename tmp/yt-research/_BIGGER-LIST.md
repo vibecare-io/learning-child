@@ -143,8 +143,6 @@ Machine-readable: `_BIGGER-LIST.json` · Ready-to-paste candidates: `_NEW-source
   - A teen chef proves kids can make fresh, real food from scratch, modeling confidence and curiosity in the kitchen.
 - **@eatsamazingcouk** ⚠︎ — Eats Amazing · [making, art] · [little]
   - Transforms healthy ingredients into playful food art, sparking creativity and making veggies exciting for little ones.
-- **@fooddeepdive** — Food Deep Dive · [science, making] · [big]
-  - Answers not just how to bake but why it works, exploring the physics and chemistry of dough, heat and fermentation.
 - **@funwithfoodkids** — Fun With Food · [making, science, reading] · [little]
   - Miss Megan, a registered dietitian, turns each recipe into a discovery of colors, numbers, nutrition and where food comes from.
 - **@howtocookthat** — How To Cook That (Ann Reardon) · [science, making] · [big]

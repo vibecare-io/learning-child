@@ -9,7 +9,7 @@
       "label": "Ages 8-12"
     }
   },
-  "count": 203,
+  "count": 200,
   "channels": [
     {
       "handle": "@SciShowKids",
@@ -1322,18 +1322,6 @@
       "list": "feed"
     },
     {
-      "handle": "@fooddeepdive",
-      "url": "https://www.youtube.com/@fooddeepdive",
-      "topics": [
-        "science",
-        "making"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "list": "feed"
-    },
-    {
       "handle": "@funwithfoodkids",
       "url": "https://www.youtube.com/@funwithfoodkids",
       "topics": [
@@ -2238,16 +2226,6 @@
       "list": "search"
     },
     {
-      "handle": "@BertieGregory",
-      "url": "https://www.youtube.com/@BertieGregory",
-      "topics": [],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "list": "search"
-    },
-    {
       "handle": "@AntsCanada",
       "url": "https://www.youtube.com/@AntsCanada",
       "topics": [],
@@ -2290,16 +2268,6 @@
     {
       "handle": "@CrackingTheCryptic",
       "url": "https://www.youtube.com/@CrackingTheCryptic",
-      "topics": [],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "list": "search"
-    },
-    {
-      "handle": "@preshtalwalkar",
-      "url": "https://www.youtube.com/@preshtalwalkar",
       "topics": [],
       "profiles": [
         "little",

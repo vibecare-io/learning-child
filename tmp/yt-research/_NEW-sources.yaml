@@ -194,9 +194,6 @@
   - channel: "@eatsamazingcouk"   # ⚠︎ handle not agent-confirmed
     topics: [making, art]
     profiles: [little]
-  - channel: "@fooddeepdive"
-    topics: [science, making]
-    profiles: [big]
   - channel: "@funwithfoodkids"
     topics: [making, science, reading]
     profiles: [little]

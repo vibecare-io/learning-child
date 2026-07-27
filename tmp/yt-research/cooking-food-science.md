@@ -34,6 +34,3 @@ _12 channels_
 - **@ChainBaker** — ChainBaker · [science, making] · [big]
   - A master baker treats bread as an experiment, teaching the science of yeast, gluten, temperature and time behind every loaf.
   - _Calm, methodical principles-of-baking series; adult-hosted but advertiser-safe and deeply educational for science-minded 8-12s._
-- **@FoodDeepDive** — Food Deep Dive · [science, making] · [big]
-  - Answers not just how to bake but why it works, exploring the physics and chemistry of dough, heat and fermentation.
-  - _Lesser-known baking science lab channel; long-form and analytical; adult-hosted, advertiser-safe; best for older curious kids._

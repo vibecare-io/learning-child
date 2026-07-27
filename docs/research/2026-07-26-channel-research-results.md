@@ -298,13 +298,11 @@ search_only_channels:
   - "@BBCEarth"                 # world-class, but frequent predation footage — big-leaning
   - "@NatGeo"                   # explorers + wildlife, some peril/predation
   - "@BraveWilderness"          # intense stings/venom demos, gross-out for sensitive kids
-  - "@BertieGregory"            # predator hunts, harsh field conditions
   - "@AntsCanada"               # long binge-y narrative; ants eat live prey
   - "@pbsspacetime"             # rigorous astrophysics, best for advanced 11-12
   - "@whatdamath"               # daily real astronomy news, advanced
   - "@Mathologer"               # deep proofs, challenging even for keen bigs
   - "@CrackingTheCryptic"       # long-form daily sudoku solves, older bigs
-  - "@preshtalwalkar"           # viral-problem framing; puzzles for keen bigs
   - "@misterwootube"            # filmed secondary-school lessons; upper big
   - "@StuffMadeHere"            # heavy power tools, dry adult humor — watch-not-imitate
   - "@Computerphile"            # (also above) topic-led, not a course
@@ -423,13 +421,11 @@ excluded — so parents don't re-litigate them:
 | @BBCEarth | Flagship, but frequent predation/hunting footage — intense for littles → search-only |
 | @NatGeo | Explorers + wildlife with some peril/predation → search-only |
 | @BraveWilderness | Intense stings/venom demos, gross-out for sensitive kids → search-only |
-| @BertieGregory | Predator hunts + harsh field conditions → search-only |
 | @AntsCanada | Long binge-y narrative; ants eat live prey → search-only |
 | @pbsspacetime | Rigorous astrophysics, best for advanced 11–12 only → search-only |
 | @whatdamath (Anton Petrov) | Daily real astronomy news; advanced pacing → search-only |
 | @Mathologer | Deep proofs, challenging even for keen bigs → search-only |
 | @CrackingTheCryptic | Long-form daily sudoku solves; older bigs → search-only |
-| @preshtalwalkar (MindYourDecisions) | Viral-problem framing; keen bigs only → search-only |
 | @misterwootube (Eddie Woo) | Filmed *secondary-school* lessons; upper big → search-only |
 | @StuffMadeHere | Heavy power tools + dry adult humor — inspiration, not follow-along → search-only |
 | @Simplehistory | Heavy WWII/combat depictions → search-only, flag war themes |

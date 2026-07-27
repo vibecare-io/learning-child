@@ -1,6 +1,6 @@
 {
   "generatedAt": "2026-07-26",
-  "count": 226,
+  "count": 225,
   "channels": [
     {
       "handle": "@freeschool",
@@ -2533,7 +2533,7 @@
         "big"
       ],
       "why": "Charming deep-dives into railways, tube stations and London's hidden transport history make infrastructure feel like detective stories.",
-      "note": "Short-to-medium, dry British humor; UK-rail focused, occasional light innuendo—mostly over kids' heads.",
+      "note": "Short-to-medium, dry British humor; UK-rail focused, occasional light innuendo\u2014mostly over kids' heads.",
       "verified": true,
       "niches": [
         "architecture-cities"
@@ -2568,7 +2568,7 @@
       "profiles": [
         "big"
       ],
-      "why": "Betty Chen explores the art and ideas behind architecture—Gothic cathedrals, brutalism, city design—inviting kids to see buildings as creative choices.",
+      "why": "Betty Chen explores the art and ideas behind architecture\u2014Gothic cathedrals, brutalism, city design\u2014inviting kids to see buildings as creative choices.",
       "note": "Essay-style, ~8-12 min; thoughtful, best for older big kids. Handle unconfirmed (uses /c/ARTiculations).",
       "verified": false,
       "niches": [
@@ -3133,24 +3133,6 @@
       ],
       "why": "A master baker treats bread as an experiment, teaching the science of yeast, gluten, temperature and time behind every loaf.",
       "note": "Calm, methodical principles-of-baking series; adult-hosted but advertiser-safe and deeply educational for science-minded 8-12s.",
-      "verified": true,
-      "niches": [
-        "cooking-food-science"
-      ],
-      "status": "new"
-    },
-    {
-      "handle": "@fooddeepdive",
-      "name": "Food Deep Dive",
-      "topics": [
-        "science",
-        "making"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "why": "Answers not just how to bake but why it works, exploring the physics and chemistry of dough, heat and fermentation.",
-      "note": "Lesser-known baking science lab channel; long-form and analytical; adult-hosted, advertiser-safe; best for older curious kids.",
       "verified": true,
       "niches": [
         "cooking-food-science"

@@ -4,8 +4,8 @@
   "counts": {
     "researched_unique": 226,
     "dropped_dead_handle": 19,
-    "valid_total": 207,
-    "valid_new": 205,
+    "valid_total": 206,
+    "valid_new": 204,
     "already_in_catalog": 2
   },
   "channels": [
@@ -217,7 +217,7 @@
       "profiles": [
         "big"
       ],
-      "why": "Betty Chen explores the art and ideas behind architecture—Gothic cathedrals, brutalism, city design—inviting kids to see buildings as creative choices.",
+      "why": "Betty Chen explores the art and ideas behind architecture\u2014Gothic cathedrals, brutalism, city design\u2014inviting kids to see buildings as creative choices.",
       "note": "Essay-style, ~8-12 min; thoughtful, best for older big kids. Handle unconfirmed (uses /c/ARTiculations).",
       "verified": false,
       "niches": [
@@ -278,7 +278,7 @@
         "big"
       ],
       "why": "Charming deep-dives into railways, tube stations and London's hidden transport history make infrastructure feel like detective stories.",
-      "note": "Short-to-medium, dry British humor; UK-rail focused, occasional light innuendo—mostly over kids' heads.",
+      "note": "Short-to-medium, dry British humor; UK-rail focused, occasional light innuendo\u2014mostly over kids' heads.",
       "verified": true,
       "niches": [
         "architecture-cities"
@@ -1206,26 +1206,6 @@
       "why": "Transforms healthy ingredients into playful food art, sparking creativity and making veggies exciting for little ones.",
       "note": "UK mum/food artist; short, gentle, craft-style food art tutorials from healthy ingredients; handle unconfirmed (legacy youtube.com/EatsAmazingCoUK).",
       "verified": false,
-      "niches": [
-        "cooking-food-science"
-      ],
-      "status": "new",
-      "http": "200",
-      "live": true
-    },
-    {
-      "handle": "@fooddeepdive",
-      "name": "Food Deep Dive",
-      "topics": [
-        "science",
-        "making"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "why": "Answers not just how to bake but why it works, exploring the physics and chemistry of dough, heat and fermentation.",
-      "note": "Lesser-known baking science lab channel; long-form and analytical; adult-hosted, advertiser-safe; best for older curious kids.",
-      "verified": true,
       "niches": [
         "cooking-food-science"
       ],

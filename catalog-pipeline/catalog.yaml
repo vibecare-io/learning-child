@@ -361,9 +361,6 @@ sources:
   - channel: "@chainbaker"
     topics: [science, making]
     profiles: [big]
-  - channel: "@fooddeepdive"
-    topics: [science, making]
-    profiles: [big]
   - channel: "@funwithfoodkids"
     topics: [making, science, reading]
     profiles: [little]
@@ -1118,13 +1115,11 @@ search_only_channels:
   - "@BBCEarth"
   - "@NatGeo"
   - "@BraveWilderness"
-  - "@BertieGregory"
   - "@AntsCanada"
   - "@pbsspacetime"
   - "@whatdamath"
   - "@Mathologer"
   - "@CrackingTheCryptic"
-  - "@preshtalwalkar"
   - "@misterwootube"
   - "@StuffMadeHere"
   - "@Simplehistory"
