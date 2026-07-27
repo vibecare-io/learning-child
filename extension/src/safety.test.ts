@@ -1,6 +1,20 @@
 import { afterEach, describe, expect, it, vi } from "vitest";
 import { applySafety, DEFAULT_CONTROLS } from "./safety";
+import { DEFAULT_PREFS } from "./prefs";
 import type { CatalogVideo } from "../../shared/types";
+
+// Regression guard: prefs.ts once imported DEFAULT_CONTROLS from safety.ts
+// (a circular value dependency); under esbuild's const->var lowering that
+// left DEFAULT_PREFS.parentControls silently undefined in the bundle.
+describe("DEFAULT_PREFS.parentControls", () => {
+  it("is initialized with the default parent controls", () => {
+    expect(DEFAULT_PREFS.parentControls).toEqual({
+      supervisedMode: false,
+      blockedKeywords: [],
+      blockedVideoIds: [],
+    });
+  });
+});
 
 function vid(over: Partial<CatalogVideo>): CatalogVideo {
   return {

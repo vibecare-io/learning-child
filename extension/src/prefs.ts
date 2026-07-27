@@ -5,8 +5,20 @@
 // can read it — localStorage is per-origin and would not reach the content
 // script. If this ever moves to React, this module maps 1:1 onto a Zustand store.
 
-import type { ParentControls } from "./safety";
-import { DEFAULT_CONTROLS } from "./safety";
+// Parent-controls shape lives here (prefs.ts owns the stored-prefs types) so
+// the dependency stays one-directional: safety.ts -> prefs.ts. safety.ts
+// re-exports these for its consumers.
+export interface ParentControls {
+  supervisedMode: boolean;
+  blockedKeywords: string[];
+  blockedVideoIds: string[];
+}
+
+export const DEFAULT_CONTROLS: ParentControls = {
+  supervisedMode: false,
+  blockedKeywords: [],
+  blockedVideoIds: [],
+};
 
 export interface Prefs {
   onboarded: boolean;

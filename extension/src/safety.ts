@@ -1,18 +1,11 @@
 import { matchesBlockedKeyword } from "../../shared/safety";
 import type { CatalogVideo } from "../../shared/types";
-import { getPrefs } from "./prefs";
+import { getPrefs, DEFAULT_CONTROLS, type ParentControls } from "./prefs";
 
-export interface ParentControls {
-  supervisedMode: boolean;
-  blockedKeywords: string[];
-  blockedVideoIds: string[];
-}
-
-export const DEFAULT_CONTROLS: ParentControls = {
-  supervisedMode: false,
-  blockedKeywords: [],
-  blockedVideoIds: [],
-};
+// Canonical import point for consumers (adapters, side panel): the shapes are
+// defined in prefs.ts (which owns the stored-prefs types) and re-exported here.
+export { DEFAULT_CONTROLS };
+export type { ParentControls };
 
 export function applySafety(videos: CatalogVideo[], controls: ParentControls): CatalogVideo[] {
   return videos.filter((v) => {
