@@ -1,0 +1,189 @@
+{
+  "slug": "dinosaurs-paleontology",
+  "title": "Dinosaurs & paleontology",
+  "channels": [
+    {
+      "handle": "@eons",
+      "name": "PBS Eons",
+      "topics": [
+        "history",
+        "science",
+        "animals"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Cinematic deep-time episodes walk kids through the whole story of life on Earth, showing why weird extinct creatures existed and how we know.",
+      "note": "Documentary-style, ~10 min; the definitive paleontology channel on YouTube. Skews older elementary and up.",
+      "verified": true
+    },
+    {
+      "handle": "@BenGThomas",
+      "name": "Ben G Thomas",
+      "topics": [
+        "science",
+        "animals",
+        "nature"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "A palaeontology PhD student breaks down fresh fossil discoveries and prehistoric animal profiles, modeling how real scientists reason from bones.",
+      "note": "Long-form species deep-dives plus a weekly science-news roundup; calm, fact-first delivery.",
+      "verified": true
+    },
+    {
+      "handle": "@HenrythePaleoGuy",
+      "name": "Henry the PaleoGuy",
+      "topics": [
+        "science",
+        "animals",
+        "nature"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "An enthusiastic young paleontologist geeks out over fossils, dinosaurs and modern birds as living dinosaurs, making the science feel current and joyful.",
+      "note": "Mix of longer explainers and shorts; occasional excited pacing but content is substantive.",
+      "verified": true
+    },
+    {
+      "handle": "@RaptorChatter",
+      "name": "Raptor Chatter",
+      "topics": [
+        "science",
+        "animals"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Fact-focused updates on the latest dinosaur research show kids that paleontology is a living, changing science, not a settled list of names.",
+      "note": "No-fluff explainers of new studies; illustrated with paleoart. Great for the dinosaur-obsessed 8-12 crowd.",
+      "verified": true
+    },
+    {
+      "handle": "@YourDinosaursAreWrong",
+      "name": "Your Dinosaurs Are Wrong",
+      "topics": [
+        "science",
+        "animals",
+        "making"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Compares inaccurate toy dinosaurs to real anatomy and shows how to reshape them, teaching kids to spot the difference between pop-culture myth and evidence.",
+      "note": "Animated corrections over toy photos; mild dry humor, advertiser-safe. Sparks critical thinking about accuracy.",
+      "verified": true
+    },
+    {
+      "handle": "@mothlightmedia1936",
+      "name": "Moth Light Media",
+      "topics": [
+        "science",
+        "nature",
+        "animals"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Beautifully animated stories trace how creatures evolved across millions of years, connecting today's animals to their prehistoric ancestors.",
+      "note": "Evolutionary-biology essays with soothing narration and hand-drawn animation; some cover deep-time extinction.",
+      "verified": true
+    },
+    {
+      "handle": "@treytheexplainer",
+      "name": "TREY the Explainer",
+      "topics": [
+        "science",
+        "animals",
+        "history"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Patient, evidence-driven explainers on prehistoric animals and how paleontologists reconstruct them reward curious kids who want the reasoning, not just the answer.",
+      "note": "Long videos; also covers cryptozoology/debunking. Skews upper end of 8-12 and teens; preview for length.",
+      "verified": true
+    },
+    {
+      "handle": "@DinosaursReanimated",
+      "name": "Brian Engh Paleoart",
+      "topics": [
+        "art",
+        "science",
+        "animals"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "why": "A working paleoartist shows how scientists and artists turn fossil clues into pictures of living dinosaurs, directly sparking kids to draw prehistoric life themselves.",
+      "note": "Paleoart demos plus field-dig footage; creativity-forward. Channel legacy URL youtube.com/user/DinosaursReanimated.",
+      "verified": true
+    },
+    {
+      "handle": "@TheDinosaurShow",
+      "name": "The Dinosaur Show (Dustin Growick)",
+      "topics": [
+        "science",
+        "animals",
+        "exploration"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "why": "A friendly museum educator visits collections and interviews experts, letting kids peek behind the scenes at how dinosaurs are studied and displayed.",
+      "note": "Host-led episodes and museum tours; warm, kid-directed tone. Handle inferred from youtube.com/TheDinosaurShow.",
+      "verified": true
+    },
+    {
+      "handle": "@dinosaurgeorge",
+      "name": "The Dinosaur George Company",
+      "topics": [
+        "science",
+        "animals",
+        "history"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "why": "A veteran paleo-educator answers kids' real dinosaur questions and shows fossil prep, rewarding curiosity with patient, myth-busting answers.",
+      "note": "Q&A and behind-the-scenes fossil-prep series; family-oriented and gentle.",
+      "verified": true
+    },
+    {
+      "handle": "@TheDinoFeed",
+      "name": "The Dino Feed",
+      "topics": [
+        "animals",
+        "science",
+        "nature"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "why": "Bite-sized animated mini-documentaries introduce one dinosaur at a time like a pocket Walking With Dinosaurs, perfect for younger dino fans.",
+      "note": "Short animated fact clips; accessible for little kids while still accurate. Custom URL youtube.com/c/TheDinoFeed.",
+      "verified": true
+    },
+    {
+      "handle": "@RoyalTyrrellMuseum",
+      "name": "Royal Tyrrell Museum of Palaeontology",
+      "topics": [
+        "science",
+        "history",
+        "animals"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Canada's premier dinosaur museum shares real specimens, new discoveries and researcher talks, connecting kids to actual working paleontology.",
+      "note": "Curator talks and Fossils in Focus segments; some lectures skew advanced. Handle inferred from c/RoyalTyrrellMuseumofPalaeontology.",
+      "verified": false
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+# Architecture, cities & infrastructure
+_14 channels_
+
+- **@PracticalEngineeringChannel** — Practical Engineering · [engineering, science] · [big]
+  - Civil engineer Grady Hillhouse uses backyard demos and clear models to reveal the hidden systems behind dams, power grids, roads and water pipes.
+  - _Long-form (10-20 min), calm and demo-driven; bi-monthly. Great for curious 8-12s._
+- **@TheB1M** — The B1M · [engineering, tech] · [big]
+  - Cinematic stories of how the world's biggest skyscrapers, bridges and tunnels actually get built spark awe at real construction.
+  - _Documentary-style, weekly; the niche's central channel. Some business/finance framing skews older._
+- **@CityBeautiful** — City Beautiful · [geography, history] · [big]
+  - Dave Amos makes how-cities-work fun, explaining why streets, parks and neighborhoods are laid out the way they are.
+  - _Animated explainers, ~10 min; planning-professor host, best for 9-12._
+- **@NotJustBikes** — Not Just Bikes · [geography, engineering] · [big]
+  - Playful comparisons of city design around the world get kids noticing and questioning how their own streets, bikes and transit work.
+  - _Long-form, opinionated but advertiser-safe; occasional mild frustration/sarcasm about bad design._
+- **@TheTimTraveller** — The Tim Traveller · [geography, engineering] · [big]
+  - Short, joyful field trips to the world's oddest bridges, funiculars, tiny railways and infrastructure curiosities.
+  - _Bite-size (3-6 min) but substantive; upbeat and wholesome._
+- **@stewarthicks** — Stewart Hicks · [art, engineering] · [big]
+  - An architecture professor decodes why famous buildings look and feel the way they do, teaching kids to read the built world.
+  - _Lecture-style, ~15 min; conceptual, best for older, design-minded big kids._
+- **@JagoHazzard** — Jago Hazzard · [history, geography] · [big]
+  - Charming deep-dives into railways, tube stations and London's hidden transport history make infrastructure feel like detective stories.
+  - _Short-to-medium, dry British humor; UK-rail focused, occasional light innuendo—mostly over kids' heads._
+- **@RMTransit** — RMTransit · [engineering, geography] · [big]
+  - Enthusiastic breakdowns of metros, trams and high-speed trains show how good transit is designed and why it matters.
+  - _Explainer format, ~10-15 min; fairly technical, best for 10-12 train fans._
+- **@TheEfficientEngineer** — The Efficient Engineer · [engineering, science] · [big]
+  - Crisp 3D animations reveal the forces, trusses and materials that keep bridges and buildings standing up.
+  - _Animated, ~10-15 min; some content aimed at students—pick structural/bridge episodes for kids._
+- **@Lesics** — Lesics · [engineering, science] · [big]
+  - Detailed animations explain how tunnels, dams, cranes and engines work, turning big machines into understandable ideas.
+  - _Animated explainers; accented narration, slower pace. Large archive even amid channel rebranding._
+- **@BranchEducation** — Branch Education · [engineering, tech] · [big]
+  - Gorgeous 3D teardowns show the inner workings of the tech and infrastructure kids use every day.
+  - _High-production animations, 10-20 min; more tech than buildings but same curiosity-sparking rigor._
+- **@ARTiculations** — ARTiculations · [art, history] · [big] ⚠︎unverified
+  - Betty Chen explores the art and ideas behind architecture—Gothic cathedrals, brutalism, city design—inviting kids to see buildings as creative choices.
+  - _Essay-style, ~8-12 min; thoughtful, best for older big kids. Handle unconfirmed (uses /c/ARTiculations)._
+- **@TibotheToucan** — Tibo the Toucan · [engineering, science] · [little]
+  - A friendly time-traveling toucan introduces little kids to bridges, buildings and how things are built through colorful cartoons.
+  - _Animated, kid-narrated, ~5-10 min; broad early-learning channel with strong engineering episodes. Ages 3-7._
+- **@handymanhal** — Handyman Hal · [engineering, making] · [little]
+  - Real visits to excavators, cranes, garbage trucks and construction sites let young kids see big machines up close and learn what each one does.
+  - _Live-action host, ~10-15 min; energetic but genuinely educational, not unboxing. Ages 3-7._

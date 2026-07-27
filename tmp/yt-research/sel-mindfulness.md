@@ -1,0 +1,39 @@
+# Social-emotional learning & mindfulness
+_12 channels_
+
+- **@CosmicKidsYoga** — Cosmic Kids Yoga · [reading, nature] · [little, big]
+  - Jaime turns breathing, stretching and calm-down into interactive story adventures so kids feel their feelings settle while they move.
+  - _Storytelling yoga plus 'Zen Den' and 'Peace Out' mindfulness/relaxation series; long-form, calm, advertiser-safe. Core channel of this niche._
+- **@NewHorizonHolisticCentre** — New Horizon - Meditation & Sleep Stories · [reading, nature] · [little, big]
+  - Gentle guided sleep stories and meditations that let kids drift into imagined worlds while learning to relax their bodies and minds.
+  - _Long-form bedtime meditations/sleep stories; very calm and warm. Best for wind-down; not active-learning._
+- **@gozenonline** — GoZen! · [reading, science] · [little, big] ⚠︎unverified
+  - Animated stories make anxiety, worry and big feelings visible so kids get curious about the science of their own emotions and simple coping skills.
+  - _Animated SEL/anxiety-relief shorts and lessons; some content aimed at parents/teachers. Lesser-known gem._
+- **@BigLifeJournal** — Big Life Journal · [reading, art] · [little, big] ⚠︎unverified
+  - Warm animated 'Buddies' episodes spark growth-mindset thinking, helping kids reframe mistakes and keep trying.
+  - _Growth-mindset/SEL animated series plus parent resources; niche gem. Channel URL uses /c/BigLifeJournal._
+- **@slumberkins** — Slumberkins · [reading] · [little] ⚠︎unverified
+  - Cuddly creature characters read gentle storybooks that name feelings and model kindness, self-esteem and calm.
+  - _SEL storytime with plush characters (from family therapist + educator); best for ages 3-6. Lesser-known gem._
+- **@EverydaySpeech** — Everyday Speech · [reading] · [big] ⚠︎unverified
+  - Short video-modeling scenarios show real kids navigating friendship, sharing feelings and self-regulation, sparking 'what would I do?' reflection.
+  - _Evidence-based social-skills / video-modeling clips; instructional/classroom tone. Niche SEL gem._
+- **@ClassDojo** — ClassDojo (Big Ideas / Mojo) · [reading, science] · [little, big] ⚠︎unverified
+  - Mojo the monster learns about growth mindset, empathy, gratitude and mindfulness in short animated stories that make brain-and-feelings science fun.
+  - _'Big Ideas' SEL animated series is the draw; channel also hosts teacher tutorials. Warm and kid-friendly._
+- **@MindYeti** — Mind Yeti · [music, nature] · [little, big] ⚠︎unverified
+  - Guided 'hums' with soothing soundscapes teach kids to focus attention, calm down and connect with kindness and gratitude.
+  - _Research-based guided mindfulness audio from nonprofit Committee for Children; ages 5-12. Calm, lesser-known._
+- **@barikoral** — Yogapalooza with Bari Koral · [music, nature] · [little] ⚠︎unverified
+  - Catchy yoga songs like 'Fly Like a Butterfly' get little kids breathing, moving and self-soothing through music and mindfulness.
+  - _Kids-yoga music and mindful movement pioneer; best for ages 3-7. Niche gem; channel also at /user/barikoral._
+- **@MoshiKids** — Moshi Kids · [reading, nature] · [little] ⚠︎unverified
+  - Dreamy bedtime stories and guided SEL meditations help kids wind down, name feelings and fall asleep calm.
+  - _Sleep/mindfulness bedtime stories and mindful exercises; wind-down content, not active learning. Handle best-guess._
+- **@SmilingMind** — Smiling Mind · [nature, music] · [little, big] ⚠︎unverified
+  - Animated mindfulness intros and short practices (like 'Bubble Bounce' mindful looking) teach kids simple attention and calming skills.
+  - _Australian mental-health nonprofit; mix of kids and some adult meditation content. Handle unconfirmed; also /user/SmilingMindTV._
+- **@SesameStreet** — Sesame Street · [reading, music] · [little]
+  - Elmo and friends sing and story their way through emotions, kindness and empathy, giving little kids warm language for big feelings.
+  - _Large channel, but feelings/kindness SEL is genuinely central to its mission; use emotions/kindness playlists. Best for ages 3-6._

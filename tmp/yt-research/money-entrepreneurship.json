@@ -1,0 +1,161 @@
+{
+  "slug": "money-entrepreneurship",
+  "title": "Money & entrepreneurship for kids",
+  "channels": [
+    {
+      "handle": "@ChaChingVideos",
+      "name": "Cha-Ching Money Smart Kids",
+      "topics": [
+        "music",
+        "maths"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "why": "Catchy three-minute animated band music videos turn Earn, Save, Spend and Donate into songs kids can't stop humming, making money choices feel exciting.",
+      "note": "Animated music-video series (Prudence Foundation with Cartoon Network Asia), aimed at ages 7-12 but songs land for younger kids too; advertiser-safe.",
+      "verified": true
+    },
+    {
+      "handle": "@BizKidsTV",
+      "name": "Biz Kid$",
+      "topics": [
+        "maths",
+        "making"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Emmy-winning show where real kids launch and run their own businesses, sparking the thought 'I could build something too.'",
+      "note": "Full public-TV episodes (creators of Bill Nye the Science Guy); long-form, entrepreneurship plus personal finance; older archive but timeless.",
+      "verified": true
+    },
+    {
+      "handle": "@EasyPeasyFinance",
+      "name": "Easy Peasy Finance",
+      "topics": [
+        "maths"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "A kid who started at age 8 explains banking, saving, investing and needs-vs-wants in plain language, proving finance is learnable by children.",
+      "note": "Kid-created explainer channel; many clips run under ~3 minutes and it posts Shorts, so lean on the full explainer videos; no sponsorships.",
+      "verified": true
+    },
+    {
+      "handle": "@KidEconomist",
+      "name": "Kid Economist",
+      "topics": [
+        "maths",
+        "history"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Blends storytelling with real economics so kids ages 8-13 start seeing scarcity, trade and value in the world around them.",
+      "note": "Story-driven economics-for-kids explainers; classroom-friendly, advertiser-safe.",
+      "verified": true
+    },
+    {
+      "handle": "@CashVilleKidz",
+      "name": "CashVille Kidz",
+      "topics": [
+        "maths",
+        "history"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Asia's first animated financial-literacy series follows town characters through budgeting, banking and the history of money, one lesson per episode.",
+      "note": "24-part animated series (MoneyTree Asia Pacific) for ages 8-11; long-form episodes. Handle inferred from youtube.com/c/CashVilleKidz custom URL.",
+      "verified": false
+    },
+    {
+      "handle": "@secretmillionairesclub",
+      "name": "Warren Buffett's Secret Millionaires Club",
+      "topics": [
+        "making",
+        "maths"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Warren Buffett secretly mentors a crew of pre-teen entrepreneurs through business adventures, planting real lessons about smart, responsible money.",
+      "note": "Animated series; long-form episodes plus shorter minis. Channel may only expose a channel-ID URL (UCaf88EBmtZuBFOifL0i5DFw), so handle is a best guess.",
+      "verified": false
+    },
+    {
+      "handle": "@SammyRabbit",
+      "name": "Sammy Rabbit",
+      "topics": [
+        "music",
+        "reading",
+        "maths"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "why": "Sing-along money songs and Big Dream storybooks build saving habits and money vocabulary in kids as young as three.",
+      "note": "Songs and read-along stories for the youngest savers. Handle inferred (channel found via channel-ID UCVU1Al-AMbNqPa2qwSsRd8A), not confirmed in @ form.",
+      "verified": false
+    },
+    {
+      "handle": "@themoneymammals",
+      "name": "The Money Mammals (Snigglezoo)",
+      "topics": [
+        "music",
+        "maths"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "why": "Puppety animal characters and addictive songs make Save, Share and Spend Smart feel like play for preschoolers.",
+      "note": "Snigglezoo's award-winning early-childhood money program; short songs and clips; advertiser-safe.",
+      "verified": true
+    },
+    {
+      "handle": "@ScratchGarden",
+      "name": "Scratch Garden",
+      "topics": [
+        "maths",
+        "music"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "why": "Its country-specific Money Songs teach coin and bill values with humor, so counting real cash finally clicks.",
+      "note": "General educational channel; money is a subset (coins/bills songs for USA, UK, Canada, Euro, etc.). Handle is a confident best guess.",
+      "verified": false
+    },
+    {
+      "handle": "@Educounting",
+      "name": "Money with Mak and G",
+      "topics": [
+        "maths"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Kid twins host bite-sized episodes on allowances, the value of money and piggy-bank origins, showing money talk is for kids by kids.",
+      "note": "Kid-hosted show/podcast (Educounting); some episodes are podcast-style/audio-forward. Handle inferred from channel name, not confirmed in @ form.",
+      "verified": false
+    },
+    {
+      "handle": "@LearnBright",
+      "name": "Learn Bright",
+      "topics": [
+        "maths",
+        "history"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Clear classroom-style explainers on economics, saving and spending help kids grasp why money and markets work the way they do.",
+      "note": "General K-6 educational channel; look to its Economics/money-for-kids videos. Long-form, advertiser-safe.",
+      "verified": true
+    }
+  ]
+}

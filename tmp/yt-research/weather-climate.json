@@ -1,0 +1,174 @@
+{
+  "slug": "weather-climate",
+  "title": "Weather, climate & the sky",
+  "channels": [
+    {
+      "handle": "@PecosHank",
+      "name": "Pecos Hank",
+      "topics": [
+        "science",
+        "nature"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Cinematic, patiently narrated storm-chasing films turn tornadoes, supercells, lightning and rare sky phenomena into awe-filled natural-history lessons.",
+      "note": "Long-form documentary style; genuinely educational but contains intense real tornado/storm footage, so best for older kids.",
+      "verified": true
+    },
+    {
+      "handle": "@ClimateAdam",
+      "name": "ClimateAdam",
+      "topics": [
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "An Oxford-trained atmospheric physicist uses playful sketches and props to answer real climate-science questions kids actually wonder about.",
+      "note": "Comedic explainer videos, mostly 5-12 min; upbeat and hopeful tone rather than doom-y.",
+      "verified": true
+    },
+    {
+      "handle": "@SimonClark",
+      "name": "Simon Clark",
+      "topics": [
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "A PhD atmospheric physicist clearly explains how the atmosphere, jet streams and climate actually work, sparking deeper 'how does the sky work' curiosity.",
+      "note": "Long-form explainers; skews to upper end of the age range (11-12) and older teens.",
+      "verified": true
+    },
+    {
+      "handle": "@MetOfficeLearnAboutWeather",
+      "name": "Met Office - Learn About Weather",
+      "topics": [
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "The UK's national forecaster explains clouds, wind, the water cycle and climate with real meteorologists and clean graphics.",
+      "note": "Educational sub-channel of the Met Office; short-to-medium explainers, advertiser-safe and authoritative.",
+      "verified": true
+    },
+    {
+      "handle": "@pbsterra",
+      "name": "PBS Terra",
+      "topics": [
+        "science",
+        "nature"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "The 'Weathered' series, hosted by a meteorologist, investigates why extreme weather is changing and how communities adapt, connecting sky science to the real world.",
+      "note": "Documentary-style, ~10-15 min; disaster themes (fires, floods) handled thoughtfully but suit older kids.",
+      "verified": true
+    },
+    {
+      "handle": "@MinuteEarth",
+      "name": "MinuteEarth",
+      "topics": [
+        "science",
+        "nature"
+      ],
+      "profiles": [
+        "big",
+        "little"
+      ],
+      "why": "Snappy animated shorts answer surprising questions about weather, seasons, clouds and climate that make kids go 'wait, why IS that?'",
+      "note": "Large channel but central to Earth/weather science; 2-5 min animated explainers, some read-along pace for little ones.",
+      "verified": true
+    },
+    {
+      "handle": "@Learnthesky",
+      "name": "Learn the Sky",
+      "topics": [
+        "space",
+        "science"
+      ],
+      "profiles": [
+        "big",
+        "little"
+      ],
+      "why": "A science teacher shows how to find constellations, planets and celestial events with the naked eye, turning the night sky into a map kids can read.",
+      "note": "Calm, hands-on stargazing guides plus star mythology; gets families outside looking up.",
+      "verified": true
+    },
+    {
+      "handle": "@TamithaSkov",
+      "name": "Tamitha Skov - Space Weather Woman",
+      "topics": [
+        "space",
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "A space-weather scientist forecasts solar storms and auroras, revealing that even the Sun has 'weather' that lights up our sky.",
+      "note": "Handle unconfirmed (best guess); forecasts get technical (radio, GPS) so better for older, keen kids.",
+      "verified": false
+    },
+    {
+      "handle": "@PeekabooKidz",
+      "name": "Peekaboo Kidz (The Dr. Binocs Show)",
+      "topics": [
+        "science"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "why": "Friendly animated Dr. Binocs breaks down rain, the water cycle, rainbows, thunder and seasons into bite-size 'aha' moments for young kids.",
+      "note": "Colorful animation, ~3-6 min; broad science channel with strong weather/water-cycle playlists.",
+      "verified": true
+    },
+    {
+      "handle": "@freeschool",
+      "name": "Free School",
+      "topics": [
+        "science",
+        "nature"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "why": "Gentle, clearly narrated lessons on weather, seasons and the water cycle give young learners a calm, curious first look at how the sky behaves.",
+      "note": "Ad-safe, classroom-friendly; best for K-4, medium-length videos.",
+      "verified": true
+    },
+    {
+      "handle": "@HappyLearningTVKids",
+      "name": "Happy Learning English",
+      "topics": [
+        "science",
+        "nature"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "why": "Bright, upbeat explainers on the water cycle, clouds and weather build early Earth-science vocabulary while keeping it fun.",
+      "note": "Short animated educational videos aimed at primary kids.",
+      "verified": true
+    },
+    {
+      "handle": "@crashcoursekids",
+      "name": "Crash Course Kids",
+      "topics": [
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Energetic host Sabrina unpacks weather vs. climate, severe storms and jet streams with real NGSS science that rewards curious questions.",
+      "note": "Legacy channel (archive of ~4-min episodes), strong weather/climate playlist; handle follows the /user/crashcoursekids channel.",
+      "verified": true
+    }
+  ]
+}

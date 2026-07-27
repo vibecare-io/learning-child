@@ -1,0 +1,39 @@
+# Human body & biology
+_12 channels_
+
+- **@OperationOuch-OfficialChannel** — Operation Ouch! · [science] · [little, big]
+  - Twin doctors Chris and Xand run gross, hands-on experiments that make organs, senses, and biology feel thrilling and answerable.
+  - _CBBC show; long-form segments; occasional mildly gross-out medical bits, all kid-safe. Central to this niche._
+- **@amoebasisters** — Amoeba Sisters · [science] · [big]
+  - Playful cartoon doodles demystify cells, DNA, and body systems so a curious 10-year-old feels the 'aha' without jargon.
+  - _Geared to upper-elementary/middle biology; long-form; light humor throughout._
+- **@journeytomicro** — Journey to the Microcosmos · [science, nature] · [big]
+  - Mesmerizing real microscope footage of cells and microorganisms turns 'what lives inside a drop of water' into pure wonder.
+  - _Calm narration by Hank Green; series concluded 2024 but large archive remains; long-form._
+- **@NucleusBiology** — Nucleus Biology · [science] · [big]
+  - Crisp medical-grade animations show exactly how cells, organs, and body systems work inside you.
+  - _Education arm of Nucleus Medical Media; clinical but clean animation; long-form._
+- **@biointeractive** — HHMI BioInteractive · [science, nature] · [big]
+  - Research-grade molecular animations of the immune response, DNA, and cells are the best free visuals of the living world anywhere.
+  - _Made for high-school classrooms; some films skew older; long-form 10-30 min._
+- **@Peekaboo_Kidz** — Peekaboo Kidz (Dr. Binocs Show) · [science] · [little, big]
+  - Dr. Binocs answers 'how does my heart beat?' with bright animation that sparks the next question.
+  - _Animated explainers; upbeat but not dopamine-bait; broad science, strong human-body set._
+- **@freeschool** — Free School · [science, art] · [little, big]
+  - Gentle, friendly tours of the human body and cells make big biology ideas approachable for the youngest learners.
+  - _Kindergarten-and-up; calm narration; covers art/nature too, not body-only._
+- **@NemoursKidsHealth** — Nemours KidsHealth · [science] · [little, big]
+  - Chloe and Nurb tour the body's organs and senses in doctor-reviewed 'How the Body Works' shorts kids trust.
+  - _Pediatric-authority source; some videos under 3 min; advertiser-safe and accurate._
+- **@neurotransmissions** — Neuro Transmissions · [science] · [big]
+  - A neuroscientist explains how your brain sees, hears, and thinks in a way that makes the mind feel like an adventure.
+  - _Founded by neuroscientist Alie Astrocyte; long-form; some episodes touch mental health, skews older kids._
+- **@neurochallenged** — Neuroscientifically Challenged · [science] · [big]
+  - Two-minute hand-drawn breakdowns of neurons and nervous-system parts give curious kids a clean map of the brain.
+  - _Very short 2-min format (an exception to long-form); precise, dry, professor-made._
+- **@homeschoolpop** — Homeschool Pop · [science] · [little, big]
+  - A warm homeschool dad walks K-5 kids through the brain, heart, and body parts at a pace built for questions.
+  - _Elementary-focused; mixes animation and voiceover; covers many subjects, solid human-body set._
+- **@instituteofhumananatomy** — Institute of Human Anatomy · [science] · [big]
+  - Real anatomists show actual human organs to reveal how the body truly looks and works beneath the skin.
+  - _CAVEAT: uses real cadaver specimens; fascinating but intense - best for older kids with parent context. A giant, but genuinely central to real anatomy._

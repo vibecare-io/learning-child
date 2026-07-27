@@ -1,0 +1,188 @@
+{
+  "slug": "physics-motion",
+  "title": "Physics & how things move",
+  "channels": [
+    {
+      "handle": "@SteveMould",
+      "name": "Steve Mould",
+      "topics": [
+        "science",
+        "engineering"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "He chases the hidden physics behind everyday oddities, showing why chains fountain out of a beaker or a spinning top defies gravity so kids keep asking 'but WHY?'",
+      "note": "Long-form explainers, roughly weekly; calm, witty, advertiser-safe; best for 8-12 who can follow a chain of reasoning.",
+      "verified": true
+    },
+    {
+      "handle": "@TheActionLab",
+      "name": "The Action Lab",
+      "topics": [
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Vacuum chambers, magnets, and pressure experiments answer wild 'what would happen if...' questions with real forces you can see.",
+      "note": "Long-form demos, frequent uploads; occasional high-energy setups (hydraulic press, liquid nitrogen) but framed safely and non-clickbait.",
+      "verified": true
+    },
+    {
+      "handle": "@PhysicsGirlOfficial",
+      "name": "Physics Girl",
+      "topics": [
+        "science",
+        "space"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Dianna Cowern turns light, sound, and motion into hands-on adventures that make physics feel like play and discovery.",
+      "note": "Long-form; this is the current official channel (the original is defunct after the creator lost access). Warm, kid-friendly host.",
+      "verified": true
+    },
+    {
+      "handle": "@theslowmoguys",
+      "name": "The Slow Mo Guys",
+      "topics": [
+        "science"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "why": "Filming everyday events at thousands of frames per second reveals the physics of impacts, ripples, and bouncing that the eye can never catch.",
+      "note": "Long-form, visually mesmerizing for all ages; occasional loud bangs/mild peril and some balloon-pop startle moments, generally advertiser-safe.",
+      "verified": true
+    },
+    {
+      "handle": "@PracticalEngineeringChannel",
+      "name": "Practical Engineering",
+      "topics": [
+        "engineering",
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Grady builds tabletop models of dams, bridges, and arches to show the invisible forces holding up the human-made world.",
+      "note": "Long-form, roughly biweekly; clear narration with hands-on physical demos; best for 8-12.",
+      "verified": true
+    },
+    {
+      "handle": "@tomstantonengineering",
+      "name": "Tom Stanton",
+      "topics": [
+        "engineering",
+        "making"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "He designs, 3D-prints, and tests his own machines, so kids watch aerodynamics, friction, and momentum play out in real builds.",
+      "note": "Long-form DIY engineering projects; methodical build-and-test format that models the design process.",
+      "verified": true
+    },
+    {
+      "handle": "@Lesics",
+      "name": "Lesics",
+      "topics": [
+        "engineering",
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Crisp 3D animations crack open engines, gears, and machines to reveal exactly how motion and force travel through them.",
+      "note": "Long-form animated explainers; occasionally dense/technical, so pair with a curious 10-12 year old.",
+      "verified": true
+    },
+    {
+      "handle": "@JaredOwen",
+      "name": "Jared Owen",
+      "topics": [
+        "engineering",
+        "science"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "why": "Beautiful Blender animations take apart rockets, locks, and instruments so kids can see every moving part and how it works.",
+      "note": "Long-form 3D animation; visually accessible enough for younger viewers with an adult, great for 8-12 solo.",
+      "verified": true
+    },
+    {
+      "handle": "@BranchEducation",
+      "name": "Branch Education",
+      "topics": [
+        "tech",
+        "engineering"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Ultra-detailed 3D tours inside phones, screens, and hard drives show the electromagnetism and mechanics powering modern gadgets.",
+      "note": "Long-form animated deep-dives; fairly advanced, best for older curious kids (10-12).",
+      "verified": true
+    },
+    {
+      "handle": "@TheEfficientEngineer",
+      "name": "The Efficient Engineer",
+      "topics": [
+        "engineering",
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Clean animations explain stress, forces, and how structures bend or break, connecting Newton's laws to real bridges and beams.",
+      "note": "Long-form; leans toward the upper end of 8-12 and beyond; calm, textbook-clear.",
+      "verified": true
+    },
+    {
+      "handle": "@AppliedScience",
+      "name": "Applied Science",
+      "topics": [
+        "science",
+        "engineering"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Ben Krasnow builds real lab instruments (electron microscopes, X-ray machines) revealing the physics of electrons, light, and magnetism up close.",
+      "note": "Long-form, infrequent; genuinely advanced/adult-leaning, best for the most science-hungry 11-12 year olds; advertiser-safe.",
+      "verified": true
+    },
+    {
+      "handle": "@physicsfun",
+      "name": "physicsfun",
+      "topics": [
+        "science"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "why": "Mesmerizing desk toys, gyroscopes, and magnets make gravity, inertia, and magnetism feel like real-life magic that begs to be explained.",
+      "note": "Caveat: mostly short-form clips rather than long-form; each captures one physics-toy phenomenon, superb for sparking 'how does that work?' wonder in all ages.",
+      "verified": true
+    },
+    {
+      "handle": "@smartereveryday",
+      "name": "SmarterEveryDay",
+      "topics": [
+        "science",
+        "engineering"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Destin uses slow-motion and clever experiments to unpack the physics of spinning, flying, and everyday motion with infectious curiosity.",
+      "note": "Larger channel but genuinely central to the how-things-move niche; long-form, family-friendly. Handle is my best guess (@smartereveryday) pending the downstream check.",
+      "verified": false
+    }
+  ]
+}

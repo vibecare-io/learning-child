@@ -1,0 +1,204 @@
+{
+  "slug": "robotics-ai",
+  "title": "Robotics & AI for kids",
+  "channels": [
+    {
+      "handle": "@KidsInventStuff",
+      "name": "Kids Invent Stuff",
+      "topics": [
+        "engineering",
+        "making"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "why": "Real engineers Ruth and Shawn actually build the wild invention ideas kids send in, showing that a child's sketch can become a working machine.",
+      "note": "Long-form, roughly monthly builds; UK; explicitly aimed at ages 4-11, one of the few genuinely little-friendly engineering channels.",
+      "verified": true
+    },
+    {
+      "handle": "@CrunchLabs",
+      "name": "CrunchLabs",
+      "topics": [
+        "engineering",
+        "making"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Breaks down how real robots and mechanisms work with hands-on build-alongs that make kids want to think like an engineer.",
+      "note": "Founded by Mark Rober but a distinct build/robotics channel central to this niche; long-form, upbeat, advertiser-safe.",
+      "verified": true
+    },
+    {
+      "handle": "@jamesbruton",
+      "name": "James Bruton",
+      "topics": [
+        "engineering",
+        "tech"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "A former toy designer builds real self-balancing robots, robot dogs and BB-8 from scratch, narrating the engineering decisions as he goes.",
+      "note": "Long-form DIY robotics; calm and clean; some 3D-printing/electronics detail skews to ages 9+.",
+      "verified": true
+    },
+    {
+      "handle": "@TheCodingTrain",
+      "name": "The Coding Train",
+      "topics": [
+        "coding",
+        "tech"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Daniel Shiffman's infectiously enthusiastic tutorials turn coding, neural networks and machine learning into playful creative experiments kids can copy.",
+      "note": "Long-form beginner-friendly coding; energetic but not dopamine-bait; ages 9+ who can follow along on a computer.",
+      "verified": true
+    },
+    {
+      "handle": "@BostonDynamics",
+      "name": "Boston Dynamics",
+      "topics": [
+        "tech",
+        "engineering"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "why": "Jaw-dropping footage of Atlas and Spot walking, dancing and doing parkour sparks endless 'how does it do that?' wonder about real robots.",
+      "note": "Official showcase channel; many clips are short (under 3 min) so pair with longer 'behind the scenes' videos; no narration on some.",
+      "verified": true
+    },
+    {
+      "handle": "@adafruit",
+      "name": "Adafruit Industries",
+      "topics": [
+        "making",
+        "tech"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Founder Limor 'Ladyada' Fried and team demystify circuits, sensors and microcontrollers so kids see the electronics that make robots move.",
+      "note": "Long-form maker/electronics show-and-tell; some segments technical, best for motivated ages 10+.",
+      "verified": true
+    },
+    {
+      "handle": "@Jeremy_Fielding",
+      "name": "Jeremy Fielding",
+      "topics": [
+        "engineering"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "He explains the mechanical heart of robots-motors, gears and actuators-by taking real machines apart and building his own.",
+      "note": "Long-form mechanical engineering; patient teacher tone; ages 9+ interested in how motion works.",
+      "verified": true
+    },
+    {
+      "handle": "@StuffMadeHere",
+      "name": "Stuff Made Here",
+      "topics": [
+        "engineering",
+        "making"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Shane Wighton builds absurdly ambitious robots-a haircut robot, an unmissable basketball hoop-showing real iterative engineering and failure.",
+      "note": "Long-form, brilliant problem-solving; occasional very mild language and a few power tools, best for ages 10+.",
+      "verified": true
+    },
+    {
+      "handle": "@codeorg",
+      "name": "Code.org",
+      "topics": [
+        "coding",
+        "tech"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Clear short explainers on how AI and neural networks actually work help kids understand the tech behind the tools they use.",
+      "note": "Nonprofit; classroom-oriented 'How AI Works' series plus coding videos; ages 9+.",
+      "verified": true
+    },
+    {
+      "handle": "@TwoMinutePapers",
+      "name": "Two Minute Papers",
+      "topics": [
+        "tech",
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Bite-sized, awe-filled tours of cutting-edge AI research show kids what machines are newly able to do and why it is amazing.",
+      "note": "Advertiser-safe and visual, but concepts skew older; best for curious ages 11-12.",
+      "verified": true
+    },
+    {
+      "handle": "@TeachKidsRobotics",
+      "name": "Teach Kids Robotics",
+      "topics": [
+        "tech",
+        "engineering"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "why": "Simple, visual explanations of what robots are and how they sense and move, pitched directly at young learners.",
+      "note": "Niche kid-focused channel; smaller catalog and lighter production; good entry point for younger kids.",
+      "verified": true
+    },
+    {
+      "handle": "@STEMpedia",
+      "name": "STEMpedia",
+      "topics": [
+        "coding",
+        "tech"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Hands-on projects using block coding and PictoBlox let kids train simple AI models and build line-follower robots themselves.",
+      "note": "Tutorial/product-adjacent (PictoBlox) but genuinely teaches AI/ML for kids; ages 9+. Handle is best guess.",
+      "verified": false
+    },
+    {
+      "handle": "@FIRSTRoboticsCompetition",
+      "name": "FIRST Robotics Competition",
+      "topics": [
+        "engineering",
+        "tech"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Watching student teams design and drive competition robots shows kids that building robots is a real, thrilling team sport.",
+      "note": "Official competition channel; some content is match streams, so pick the highlight/behind-the-scenes videos; handle unconfirmed.",
+      "verified": false
+    },
+    {
+      "handle": "@VEXRobotics",
+      "name": "VEX Robotics",
+      "topics": [
+        "engineering",
+        "tech"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Reveals of yearly robotics challenges and student builds inspire kids to imagine designing and programming their own competition robot.",
+      "note": "Official channel spanning VEX IQ (elementary) to V5; multiple regional channels exist, so handle is a best guess.",
+      "verified": false
+    }
+  ]
+}

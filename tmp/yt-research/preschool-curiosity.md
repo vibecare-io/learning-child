@@ -1,0 +1,39 @@
+# Preschool & toddler curiosity (ages 3-5)
+_12 channels_
+
+- **@freeschool** — Free School · [science, nature, reading] · [little]
+  - Calm, warm narration walks little ones through real animals, famous art, and how-things-work topics one gentle idea at a time.
+  - _Long-form (5-10 min) narrated slideshows with real photos; sophisticated but soothing, no screaming or fast cuts._
+- **@FreeSchoolEarlyBirds** — FreeSchool Early Birds · [animals, nature, science] · [little] ⚠︎unverified
+  - A toddler-tuned spin-off that introduces one creature or concept per video with sweet, simple, slow narration for the very youngest.
+  - _Made specifically for ages 3-5; could not confirm an @handle (channel ID UC3OV62x86XHwaqsxLsuy8dA), so handle is a best guess._
+- **@maddiemoate** — Maddie Moate · [science, nature] · [little, big]
+  - BAFTA-winning presenter models genuine wonder, asking curious 'why' questions about plants, animals, and everyday tech and hunting down the answers.
+  - _Warm live-action presenter; some videos skew a touch older (5-9), so pair with a parent for the youngest._
+- **@SuperSimplePlay** — Super Simple Play with Caitie · [music, making] · [little]
+  - Ms. Caitie's gentle, face-to-camera classroom invites toddlers to sing, move, craft, and explore real objects together.
+  - _Warm human presenter, slow pace, follow-along songs and simple crafts; from the Super Simple team but not the nursery-rhyme mega-channel._
+- **@Numberblocks** — Numberblocks · [maths] · [little] _(already in catalog)_
+  - Turns numbers into lovable characters so preschoolers intuitively discover counting, adding, and patterns through playful stories.
+  - _BBC/Learning Blocks show; bright but thoughtfully structured, genuinely central to early-maths curiosity._
+- **@officialalphablocks** — Alphablocks · [reading] · [little]
+  - Living letters hold hands to build words, giving kids a delightful, sound-by-sound foundation in phonics.
+  - _Companion to Numberblocks; short animated episodes built on a real synthetic-phonics scheme._
+- **@ArtforKidsHub** — Art for Kids Hub · [art, making] · [little, big] _(already in catalog)_
+  - A warm dad draws alongside his own kids, guiding step-by-step so children feel they can create anything.
+  - _Follow-along drawing/craft lessons; simplest tutorials suit 3-5, harder ones skew older; family-run but purely instructional, not a vlog._
+- **@thedadlab** — TheDadLab · [making, science, engineering] · [little]
+  - A dad and his young sons run simple kitchen-table STEM experiments that reveal everyday science hands-on.
+  - _Some clips are short; longer compilation videos exist. Gentle, curiosity-first, uses household materials._
+- **@KidzLearningTube** — Kids Learning Tube · [space, geography, science] · [little, big]
+  - Catchy original songs and animation teach the planets, the body, and the map of the world so facts actually stick.
+  - _Music-video format; each planet/country/system gets its own song. Handle spelled with a 'z' (@KidzLearningTube)._
+- **@PancakeManor** — Pancake Manor - Kids Songs · [music] · [little]
+  - Puppets Zach and Reggie sing warm, alt-rock-flavored original songs about counting, colors, and feelings without any hyper nursery-rhyme churn.
+  - _Made by two parents; friendly puppet music videos, calm and genuinely musical._
+- **@WildKratts** — Wild Kratts · [animals, nature] · [little, big]
+  - The Kratt brothers zoom into animals' 'creature powers,' sparking real curiosity about how wildlife lives and survives.
+  - _PBS animated/live-action series; energetic but educational and advertiser-safe, skews 4-8._
+- **@PeepWGBH** — Peep and the Big Wide World · [science, nature] · [little]
+  - A hatchling and friends stumble into everyday science questions in a park, modeling gentle observation and discovery for preschoolers.
+  - _Emmy-winning PBS science-for-preschoolers show; calm pace, mixes animation with real kids experimenting._

@@ -1,0 +1,173 @@
+{
+  "slug": "drawing-painting",
+  "title": "Drawing & painting techniques",
+  "channels": [
+    {
+      "handle": "@artforkidshub",
+      "name": "Art for Kids Hub",
+      "topics": [
+        "art",
+        "making"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "why": "A dad and his kids break every drawing into simple step-by-step shapes so any child feels like a real artist after one video.",
+      "note": "Draw-along and watercolor/origami lessons, ~5-10 min, near-daily; the whole family model makes it warm and beginner-safe.",
+      "verified": true
+    },
+    {
+      "handle": "@DrawSoCute",
+      "name": "Draw So Cute",
+      "topics": [
+        "art"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "why": "Turns everyday objects, animals and food into cute cartoon characters, showing kids how a few lines become an expressive drawing.",
+      "note": "How-to-draw plus coloring and simple crafts, calm narration, long-form; advertiser-safe.",
+      "verified": true
+    },
+    {
+      "handle": "@muffalopotato",
+      "name": "Muffalo Potato",
+      "topics": [
+        "art",
+        "maths"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "why": "Teaches kids to build cartoons entirely out of numbers and letters, quietly reinforcing letter/number recognition through art.",
+      "note": "Weekly draw-alongs, gentle host, ~5-8 min; clever shape-from-symbols method.",
+      "verified": true
+    },
+    {
+      "handle": "@cartooningclub",
+      "name": "Cartooning Club How to Draw",
+      "topics": [
+        "art"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "why": "Slow, clear cartoon-drawing lessons that show the underlying construction shapes before adding detail, shading and color.",
+      "note": "Very high cadence (near-daily), pop-culture and original characters; kid-friendly and easy to follow.",
+      "verified": true
+    },
+    {
+      "handle": "@markcrilley",
+      "name": "Mark Crilley",
+      "topics": [
+        "art"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "A published manga author demystifies faces, figures and realistic drawing with narrated step-by-step technique that builds real skill.",
+      "note": "Manga/comics and realism, long-form tutorials; skews to older, more patient kids.",
+      "verified": true
+    },
+    {
+      "handle": "@Circlelineartschool",
+      "name": "Circle Line Art School",
+      "topics": [
+        "art",
+        "maths"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Makes perspective and optical illusions click, teaching kids how 1- and 2-point perspective turns flat lines into 3D rooms and cities.",
+      "note": "Weekly perspective/technique tutorials, spare narration, long-form; great for spatial thinkers.",
+      "verified": true
+    },
+    {
+      "handle": "@watercolor4KIDS",
+      "name": "Watercolor4KIDS",
+      "topics": [
+        "art"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "why": "Introduces real watercolor technique - wet-on-wet, blending, layering - in short projects designed specifically for young hands.",
+      "note": "Emily Olson teaches with her daughter using affordable paints; friendly and low-pressure.",
+      "verified": true
+    },
+    {
+      "handle": "@DrawWithRob",
+      "name": "Draw With Rob (Rob Biddulph)",
+      "topics": [
+        "art"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "why": "A bestselling children's illustrator leads joyful draw-alongs that convince kids anyone can make a great picture together.",
+      "note": "#DrawWithRob draw-along series, ~15-20 min, upbeat; excellent for shared parent-child drawing time.",
+      "verified": true
+    },
+    {
+      "handle": "@DrawWithJazza",
+      "name": "Draw with Jazza",
+      "topics": [
+        "art",
+        "making"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Explores digital and traditional art through inventive challenges that show kids how professionals experiment, iterate and problem-solve.",
+      "note": "Digital art, animation and art challenges, long-form; energetic pacing, best for older kids and occasional mild goofiness.",
+      "verified": true
+    },
+    {
+      "handle": "@kaseythegolden",
+      "name": "Kasey Golden (Kasey The Golden)",
+      "topics": [
+        "art"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Playful watercolor and gouache tutorials and tip lists that teach color mixing and technique while celebrating creative experimentation.",
+      "note": "Watercolor/illustration, long-form, calm and encouraging; some content is supply reviews so curate to the tutorials.",
+      "verified": true
+    },
+    {
+      "handle": "@fun2draw",
+      "name": "Fun2draw (Mei Yu)",
+      "topics": [
+        "art"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "why": "An award-winning illustrator teaches easy chibi, cartoon and anime drawing that gives kids quick, confidence-building wins.",
+      "note": "Cute cartoon/anime style, long-form, cheerful; large back catalog of simple characters.",
+      "verified": true
+    },
+    {
+      "handle": "@CarlaSonheim",
+      "name": "Carla Sonheim",
+      "topics": [
+        "art"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Encourages imaginative, loose drawing and painting of invented animals, freeing kids from the fear of a 'wrong' way to draw.",
+      "note": "Creative process and mixed-media lessons incl. a Kids Art Week series; mostly adult-oriented so pick the kid lessons. Handle not fully confirmed.",
+      "verified": false
+    }
+  ]
+}

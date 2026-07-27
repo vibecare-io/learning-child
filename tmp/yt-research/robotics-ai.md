@@ -1,0 +1,45 @@
+# Robotics & AI for kids
+_14 channels_
+
+- **@KidsInventStuff** — Kids Invent Stuff · [engineering, making] · [little, big]
+  - Real engineers Ruth and Shawn actually build the wild invention ideas kids send in, showing that a child's sketch can become a working machine.
+  - _Long-form, roughly monthly builds; UK; explicitly aimed at ages 4-11, one of the few genuinely little-friendly engineering channels._
+- **@CrunchLabs** — CrunchLabs · [engineering, making] · [big]
+  - Breaks down how real robots and mechanisms work with hands-on build-alongs that make kids want to think like an engineer.
+  - _Founded by Mark Rober but a distinct build/robotics channel central to this niche; long-form, upbeat, advertiser-safe._
+- **@jamesbruton** — James Bruton · [engineering, tech] · [big]
+  - A former toy designer builds real self-balancing robots, robot dogs and BB-8 from scratch, narrating the engineering decisions as he goes.
+  - _Long-form DIY robotics; calm and clean; some 3D-printing/electronics detail skews to ages 9+._
+- **@TheCodingTrain** — The Coding Train · [coding, tech] · [big]
+  - Daniel Shiffman's infectiously enthusiastic tutorials turn coding, neural networks and machine learning into playful creative experiments kids can copy.
+  - _Long-form beginner-friendly coding; energetic but not dopamine-bait; ages 9+ who can follow along on a computer._
+- **@BostonDynamics** — Boston Dynamics · [tech, engineering] · [little, big]
+  - Jaw-dropping footage of Atlas and Spot walking, dancing and doing parkour sparks endless 'how does it do that?' wonder about real robots.
+  - _Official showcase channel; many clips are short (under 3 min) so pair with longer 'behind the scenes' videos; no narration on some._
+- **@adafruit** — Adafruit Industries · [making, tech] · [big]
+  - Founder Limor 'Ladyada' Fried and team demystify circuits, sensors and microcontrollers so kids see the electronics that make robots move.
+  - _Long-form maker/electronics show-and-tell; some segments technical, best for motivated ages 10+._
+- **@Jeremy_Fielding** — Jeremy Fielding · [engineering] · [big]
+  - He explains the mechanical heart of robots-motors, gears and actuators-by taking real machines apart and building his own.
+  - _Long-form mechanical engineering; patient teacher tone; ages 9+ interested in how motion works._
+- **@StuffMadeHere** — Stuff Made Here · [engineering, making] · [big]
+  - Shane Wighton builds absurdly ambitious robots-a haircut robot, an unmissable basketball hoop-showing real iterative engineering and failure.
+  - _Long-form, brilliant problem-solving; occasional very mild language and a few power tools, best for ages 10+._
+- **@codeorg** — Code.org · [coding, tech] · [big]
+  - Clear short explainers on how AI and neural networks actually work help kids understand the tech behind the tools they use.
+  - _Nonprofit; classroom-oriented 'How AI Works' series plus coding videos; ages 9+._
+- **@TwoMinutePapers** — Two Minute Papers · [tech, science] · [big]
+  - Bite-sized, awe-filled tours of cutting-edge AI research show kids what machines are newly able to do and why it is amazing.
+  - _Advertiser-safe and visual, but concepts skew older; best for curious ages 11-12._
+- **@TeachKidsRobotics** — Teach Kids Robotics · [tech, engineering] · [little, big]
+  - Simple, visual explanations of what robots are and how they sense and move, pitched directly at young learners.
+  - _Niche kid-focused channel; smaller catalog and lighter production; good entry point for younger kids._
+- **@STEMpedia** — STEMpedia · [coding, tech] · [big] ⚠︎unverified
+  - Hands-on projects using block coding and PictoBlox let kids train simple AI models and build line-follower robots themselves.
+  - _Tutorial/product-adjacent (PictoBlox) but genuinely teaches AI/ML for kids; ages 9+. Handle is best guess._
+- **@FIRSTRoboticsCompetition** — FIRST Robotics Competition · [engineering, tech] · [big] ⚠︎unverified
+  - Watching student teams design and drive competition robots shows kids that building robots is a real, thrilling team sport.
+  - _Official competition channel; some content is match streams, so pick the highlight/behind-the-scenes videos; handle unconfirmed._
+- **@VEXRobotics** — VEX Robotics · [engineering, tech] · [big] ⚠︎unverified
+  - Reveals of yearly robotics challenges and student builds inspire kids to imagine designing and programming their own competition robot.
+  - _Official channel spanning VEX IQ (elementary) to V5; multiple regional channels exist, so handle is a best guess._

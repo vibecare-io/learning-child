@@ -1,0 +1,42 @@
+# Electronics, circuits & tinkering
+_13 channels_
+
+- **@KidsInventStuff** — Kids Invent Stuff · [making, engineering] · [little, big]
+  - Real engineers Ruth and Shawn build kids' own invention ideas into working motorized, wired contraptions, showing that a child's sketch can become a real machine.
+  - _UK educational channel aimed at 5-11; roughly monthly long-form builds; the most kid-facing pick in this niche._
+- **@Science.Buddies** — Science Buddies · [science, making, engineering] · [little, big]
+  - Step-by-step hands-on projects turn LEDs, buzzers, motors and simple circuits into doable at-home experiments a kid can actually build.
+  - _Nonprofit; short-to-medium how-to videos tied to a free written project library; parent/teacher supervised builds._
+- **@Theengineeringmindset** — The Engineering Mindset · [engineering, science] · [big]
+  - Clean animations trace electricity from electrons in an atom through voltage, current, resistors, LEDs and capacitors, making invisible circuit behavior visible.
+  - _Long-form animated explainers; some videos skew toward older students/adults but the electricity basics are very accessible._
+- **@Dronebotworkshop** — DroneBot Workshop · [engineering, coding, tech] · [big]
+  - Calm, thorough walkthroughs of Arduino, sensors and motors show how to wire and program real electronics projects from scratch.
+  - _Solo maker; long, methodical tutorials with matching written articles; best for motivated 10-12 year olds._
+- **@ElectroBOOM** — ElectroBOOM · [science, engineering] · [big]
+  - Comedic self-shocking experiments teach how electricity, current and safety really work, making circuit theory hilarious and memorable.
+  - _Educational comedy with intentional (staged) shocks and mild slapstick pain plus rare mild language; frames hazards as what NOT to do, so pair with a reminder never to copy mains experiments._
+- **@greatscottlab** — GreatScott! · [making, engineering, tech] · [big]
+  - Bite-sized electronics basics and DIY builds explain components like resistors, capacitors and transistors while making gadgets from scratch.
+  - _Long-form beginner-friendly tutorials; some projects involve soldering/lithium batteries, so build-along needs adult help._
+- **@sparkfun** — SparkFun Electronics · [making, engineering, coding] · [big]
+  - A maker company's engineers demo breadboards, microcontrollers and sensors, turning parts on a bench into blinking, sensing, moving projects.
+  - _Huge 1500+ video library ranging from beginner tutorials to advanced; curate to the intro/tutorial playlists for kids._
+- **@beneater** — Ben Eater · [engineering, tech, coding] · [big]
+  - Builds an entire working 8-bit computer from simple logic gates on breadboards, revealing that a computer is just carefully wired circuits.
+  - _Long, deep, patient series; ambitious for the top of the 8-12 range but genuinely inspiring for curious tinkerers._
+- **@BranchEducation** — Branch Education · [tech, engineering, science] · [big]
+  - Gorgeous 3D animations zoom inside microchips, circuit boards and Bluetooth to show the hidden electronics powering everyday gadgets.
+  - _Long-form animated explainers; polished, ad-safe, and a great bridge from 'using tech' to 'understanding the circuits inside it'._
+- **@adafruit** — Adafruit Industries · [making, engineering, coding] · [big]
+  - Home of Collin's Lab, where friendly tours of breadboards, multimeters, LEDs and wearables invite kids to start building electronics.
+  - _Large mixed library; steer to the Collin's Lab and beginner tutorial series, which are the most kid-approachable segments._
+- **@microbit_edu** — Micro:bit Educational Foundation · [coding, engineering, making] · [big]
+  - Official BBC micro:bit videos show kids coding a tiny circuit board to light LEDs, sense motion and talk to the physical world.
+  - _Nonprofit; project and getting-started videos designed for classrooms and 8-12 beginners with block-based coding._
+- **@BeckyStern** — Becky Stern · [making, tech, art] · [big]
+  - A maker fuses electronics with crafts, sewing LEDs and microcontrollers into wearables so circuits become creative, personal projects.
+  - _Long-form DIY tutorials blending soldering, sewing and code; craft-forward angle appeals to kids who like making things, not just wiring._
+- **@Afrotechmods** — Afrotechmods · [engineering, science, tech] · [big]
+  - A professional engineer gives fast, clear, practical explanations of resistors, transistors, multimeters and Arduino that make electronics click.
+  - _Straight-to-the-point 5-15 min tutorials; upbeat and beginner-focused, ideal first stop for the fundamentals._

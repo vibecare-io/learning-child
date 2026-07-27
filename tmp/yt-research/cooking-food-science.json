@@ -1,0 +1,177 @@
+{
+  "slug": "cooking-food-science",
+  "title": "Cooking & food science for kids",
+  "channels": [
+    {
+      "handle": "@AmericasTestKitchenKids",
+      "name": "America's Test Kitchen Kids",
+      "topics": [
+        "making",
+        "science"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "why": "Real kid chefs cook fan-favorite recipes while learning why techniques work, turning the kitchen into a hands-on science lab.",
+      "note": "Recipe-tested-by-kids cooking show; clear step-by-step technique, advertiser-safe; skews 8-12 but has simple recipes for younger with an adult.",
+      "verified": false
+    },
+    {
+      "handle": "@FunWithFoodKids",
+      "name": "Fun With Food",
+      "topics": [
+        "making",
+        "science",
+        "reading"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "why": "Miss Megan, a registered dietitian, turns each recipe into a discovery of colors, numbers, nutrition and where food comes from.",
+      "note": "Preschool-friendly educational cooking show; calm, follow-along, no clickbait; best for ages 3-7.",
+      "verified": true
+    },
+    {
+      "handle": "@CookWithAmber",
+      "name": "Amber Kelley (Cook With Amber)",
+      "topics": [
+        "making",
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "A teen chef proves kids can make fresh, real food from scratch, modeling confidence and curiosity in the kitchen.",
+      "note": "Kid-hosted, upbeat but safe follow-along recipes; legacy URLs youtube.com/AmberKelley and /CookWithAmber, handle unconfirmed.",
+      "verified": false
+    },
+    {
+      "handle": "@EatsAmazingCoUK",
+      "name": "Eats Amazing",
+      "topics": [
+        "making",
+        "art"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "why": "Transforms healthy ingredients into playful food art, sparking creativity and making veggies exciting for little ones.",
+      "note": "UK mum/food artist; short, gentle, craft-style food art tutorials from healthy ingredients; handle unconfirmed (legacy youtube.com/EatsAmazingCoUK).",
+      "verified": false
+    },
+    {
+      "handle": "@HowToCookThat",
+      "name": "How To Cook That (Ann Reardon)",
+      "topics": [
+        "science",
+        "making"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Food scientist Ann Reardon runs real experiments and debunks viral food hacks, teaching kids to think critically about what they see online.",
+      "note": "Australian dietitian/food scientist; long-form, evidence-based; some debunks cover dangerous fake hacks (framed as warnings), best for 8-12.",
+      "verified": true
+    },
+    {
+      "handle": "@WeirdExplorer",
+      "name": "Weird Explorer",
+      "topics": [
+        "nature",
+        "exploration",
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Jared travels the world tasting 800+ rare fruits, sparking wonder about biodiversity and where food really comes from.",
+      "note": "Calm exotic-fruit reviews with botany and geography; advertiser-safe, occasional foraging travel; great for curious 8-12s.",
+      "verified": true
+    },
+    {
+      "handle": "@AbbeytheFoodScientist",
+      "name": "Abbey the Food Scientist",
+      "topics": [
+        "science",
+        "making"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "A PhD food scientist explains the hidden chemistry behind everyday foods, from why bread rises to what makes chips crunchy.",
+      "note": "Approachable explainers on food science careers and phenomena; handle unconfirmed (legacy /c/AbbeytheFoodScientist); best for 8-12.",
+      "verified": false
+    },
+    {
+      "handle": "@ACSReactions",
+      "name": "Reactions (American Chemical Society)",
+      "topics": [
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Uses food as the gateway to chemistry, explaining the Maillard browning reaction, why fruit turns brown, and other kitchen science.",
+      "note": "ACS/PBS-produced; polished animated science, broader chemistry channel with strong food-chemistry episodes; best for 8-12.",
+      "verified": true
+    },
+    {
+      "handle": "@KatieKimball",
+      "name": "Katie Kimball - Kids Cook Real Food",
+      "topics": [
+        "making",
+        "science"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "why": "Builds real kitchen skills step by step, empowering kids to cook whole, healthy food themselves.",
+      "note": "Companion to the Kids Cook Real Food course; knife-safety and technique focus; content for a range of ages.",
+      "verified": true
+    },
+    {
+      "handle": "@cookingwithkyler",
+      "name": "Cooking with Kyler",
+      "topics": [
+        "making"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "why": "A young cook and his dad make simple healthy dishes together, showing kids that cooking is achievable and fun.",
+      "note": "Warm father-son follow-along cooking; short demos; legacy /c/cookingwithkyler, handle unconfirmed.",
+      "verified": false
+    },
+    {
+      "handle": "@ChainBaker",
+      "name": "ChainBaker",
+      "topics": [
+        "science",
+        "making"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "A master baker treats bread as an experiment, teaching the science of yeast, gluten, temperature and time behind every loaf.",
+      "note": "Calm, methodical principles-of-baking series; adult-hosted but advertiser-safe and deeply educational for science-minded 8-12s.",
+      "verified": true
+    },
+    {
+      "handle": "@FoodDeepDive",
+      "name": "Food Deep Dive",
+      "topics": [
+        "science",
+        "making"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Answers not just how to bake but why it works, exploring the physics and chemistry of dough, heat and fermentation.",
+      "note": "Lesser-known baking science lab channel; long-form and analytical; adult-hosted, advertiser-safe; best for older curious kids.",
+      "verified": true
+    }
+  ]
+}

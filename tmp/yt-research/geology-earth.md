@@ -1,0 +1,36 @@
+# Geology, volcanoes & rocks
+_11 channels_
+
+- **@GeologyHub** — GeologyHub · [science, geography] · [big]
+  - A working volcanologist breaks down live eruptions, geologic oddities, and how the planet reshapes itself, turning today's headlines into earth-science lessons.
+  - _Explainer/news style, mostly 5-15 min, calm narration over maps and footage; frequent uploads. Volcano-eruption focus is central to this niche._
+- **@shawnwillsey** — Shawn Willsey: Geology Explained · [science, geography] · [big]
+  - A geology professor reads landscapes like a story, showing how eruptions, floods, and faults left clues you can spot on any road trip.
+  - _Long-form lectures and live eruption updates plus a beginner 'Rock ID with Willsey' series; 15-60 min, professorial pace, best for motivated big kids._
+- **@myroncook** — Myron Cook · [science, geography] · [big]
+  - A retired field geologist tells the deep-time backstory of canyons, mountains, and rock layers in plain, unhurried language that makes ordinary scenery feel epic.
+  - _Long-form field-geology storytelling, calm Bob-Ross-like delivery; 15-40 min. Slower pace suits patient viewers._
+- **@GeologyNick** — Nick Zentner · [science, geography, history] · [big]
+  - A charismatic professor makes plate collisions, ice-age megafloods, and ancient terranes feel like detective stories about how a landscape came to be.
+  - _University-instructor lectures and field talks, Pacific Northwest focus; often 30-60 min. Long lecture format skews older/patient._
+- **@GEOGIRL** — GEO GIRL · [science] · [big]
+  - A young geoscientist enthusiastically unpacks minerals, rock cycles, and earth history, showing kids what a real scientist's curiosity looks like.
+  - _Whiteboard/slide lessons; many are college-level mineralogy and geochemistry, so best for older, advanced big kids or with a parent._
+- **@VolcanoDiscovery** — VolcanoDiscovery · [science, nature] · [big]
+  - Real expedition footage of glowing lava, ash plumes, and bubbling craters lets kids witness active volcanoes up close from a safe distance.
+  - _Mostly raw eruption/tour footage and webcam time-lapse with little narration; some scenes are intense (close-range lava). Best paired with an explainer channel._
+- **@minimegeology** — Mini Me Geology with Tracy Diane · [science, making] · [little, big]
+  - A professional geologist answers kids' rock and mineral questions and shows hands-on ways to identify and collect specimens at home.
+  - _Kid-directed 'Ask-a-Geologist' and how-to segments; short-to-medium length, gentle and accessible for the youngest viewers._
+- **@theruggedrockhound** — The Rugged Rockhound · [science, nature] · [big]
+  - A geologist and science teacher hunts for agates, crystals, and fossils in the field while explaining exactly how each specimen formed.
+  - _Field rockhounding adventures with real geology explanation; 10-20 min, advertiser-safe outdoor content._
+- **@CurrentlyRockhounding** — Currently Rockhounding · [science, exploration, nature] · [big]
+  - A family follows the thrill of the hunt across real dig sites, modeling patient exploration and the payoff of finding rocks and minerals in the wild.
+  - _Outdoor field-trip vlog style but content-rich and educational (not family-drama vlogging); 10-20 min._
+- **@EarthScope_science** — EarthScope Consortium Science · [science, geography] · [big]
+  - Clean scientific animations show how earthquakes rupture, seismic waves ripple through the planet, and plates grind together beneath our feet.
+  - _Formerly IRIS; short animations and outreach clips explaining seismology and plate tectonics. Some clips are brief; mix with longer explainers._
+- **@GeologyKitchen** — Geology Kitchen · [science, making] · [little, big] ⚠︎unverified
+  - Dr. Devin Dennie uses kitchen demos to make the three rock types, minerals, and plate tectonics tangible and fun for young learners.
+  - _Kid-aimed classroom series by Explorer Multimedia; short episodes. Handle unconfirmed and channel may be inactive/reposted under another name._

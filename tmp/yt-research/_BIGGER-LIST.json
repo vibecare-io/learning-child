@@ -1,0 +1,4232 @@
+{
+  "generatedAt": "2026-07-26",
+  "method": "32-niche parallel research (20 niches completed); handles HTTP-verified; 404s dropped.",
+  "counts": {
+    "researched_unique": 226,
+    "dropped_dead_handle": 19,
+    "valid_total": 207,
+    "valid_new": 205,
+    "already_in_catalog": 2
+  },
+  "channels": [
+    {
+      "handle": "@adayinancientrome",
+      "name": "A Day In Ancient Rome",
+      "topics": [
+        "history"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Zooms in on the everyday details (markets, meals, what a poor family's morning looked like) that turn 'Rome' from a name into people a kid can imagine being.",
+      "note": "Daily-life focused narrated docs; newer channel, also posts Shorts, so preview for occasional clickbait-styled thumbnails; big kids.",
+      "verified": true,
+      "niches": [
+        "ancient-civilizations"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@ancientamericas",
+      "name": "Ancient Americas",
+      "topics": [
+        "history",
+        "exploration"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Fills the huge gap most kids never see: deep, respectful tours of Maya, Aztec, Inca, Olmec and other pre-Columbian civilizations and how their cities worked.",
+      "note": "Long-form illustrated documentaries by host 'Pete'; measured pacing, map-heavy, no sensationalism; big kids and curious families.",
+      "verified": true,
+      "niches": [
+        "ancient-civilizations"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@ancientromelive",
+      "name": "Ancient Rome Live",
+      "topics": [
+        "history",
+        "exploration"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Archaeologist Darius Arya walks you through real ruins on location, showing that ancient Rome is a place you can still stand inside and read like a book.",
+      "note": "On-site walking tours and lectures from the American Institute for Roman Culture; documentary tone; handle is a best guess, downstream check will confirm.",
+      "verified": false,
+      "niches": [
+        "ancient-civilizations"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@happylearningenglish",
+      "name": "Happy Learning English",
+      "topics": [
+        "history",
+        "geography"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "why": "Short, clear animated tours of the great early empires spark 'who were these people?' questions without overwhelming young viewers.",
+      "note": "Animated classroom-style videos, elementary level; teacher-friendly; some content is dubbed/translated.",
+      "verified": true,
+      "niches": [
+        "ancient-civilizations"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@historywithcy",
+      "name": "History with Cy",
+      "topics": [
+        "history"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Gentle, atmospheric storytelling brings Mesopotamia, Egypt and the Bronze Age to life through their own myths and everyday objects.",
+      "note": "Soft-spoken narration over illustrations, meditative pace; some mythology involves gods/violence told non-graphically; big kids.",
+      "verified": true,
+      "niches": [
+        "ancient-civilizations"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@invictahistory",
+      "name": "Invicta",
+      "topics": [
+        "history",
+        "engineering"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Its 'A Day in the Life' and 'How They Did It' series drop you inside an ordinary ancient person's day, sparking 'how did they actually build/eat/live?' curiosity.",
+      "note": "Animated documentaries, 10-20 min; some episodes touch on slavery and warfare matter-of-factly, non-graphic; best for big kids.",
+      "verified": true,
+      "niches": [
+        "ancient-civilizations"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@smileandlearnenglish",
+      "name": "Smile and Learn - English",
+      "topics": [
+        "history",
+        "geography"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "why": "Bright animated explainers on ancient Egypt, Rome, Greece and Mesopotamia give little kids their first map-and-timeline picture of the deep past.",
+      "note": "Animated, ages 3-12, curriculum-aligned; upbeat but not frantic; part of a larger edutainment platform.",
+      "verified": true,
+      "niches": [
+        "ancient-civilizations"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@toldinstone",
+      "name": "toldinstone",
+      "topics": [
+        "history"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Answers the small, strange questions of daily life in Rome and Greece (what they ate, how they bathed, what streets smelled like) that make an ancient city feel real.",
+      "note": "Long-form essays by a PhD historian, calm narration over maps and artifacts; occasional 'gross reality' topics handled tastefully; advertiser-safe, skews upper big.",
+      "verified": true,
+      "niches": [
+        "ancient-civilizations"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@worldhistoryencyclopedia",
+      "name": "World History Encyclopedia",
+      "topics": [
+        "history"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Presenter Kelly Macquire retells myths and everyday history from Egypt, Greece and the Bronze Age with an archaeologist's eye for real artifacts.",
+      "note": "From the nonprofit encyclopedia; reliable, source-based short docs; handle is a best guess pending downstream check; big kids.",
+      "verified": false,
+      "niches": [
+        "ancient-civilizations"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@worldofantiquity",
+      "name": "World of Antiquity",
+      "topics": [
+        "history",
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Dr. David Miano models how historians actually know things, cheerfully debunking pyramid/Atlantis myths so kids learn to weigh evidence instead of hype.",
+      "note": "Talking-head plus visuals by a historian with 20+ years teaching; strong media-literacy angle; upper big kids, advertiser-safe.",
+      "verified": true,
+      "niches": [
+        "ancient-civilizations"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@articulations",
+      "name": "ARTiculations",
+      "topics": [
+        "art",
+        "history"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Betty Chen explores the art and ideas behind architecture—Gothic cathedrals, brutalism, city design—inviting kids to see buildings as creative choices.",
+      "note": "Essay-style, ~8-12 min; thoughtful, best for older big kids. Handle unconfirmed (uses /c/ARTiculations).",
+      "verified": false,
+      "niches": [
+        "architecture-cities"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@citybeautiful",
+      "name": "City Beautiful",
+      "topics": [
+        "geography",
+        "history"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Dave Amos makes how-cities-work fun, explaining why streets, parks and neighborhoods are laid out the way they are.",
+      "note": "Animated explainers, ~10 min; planning-professor host, best for 9-12.",
+      "verified": true,
+      "niches": [
+        "architecture-cities"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@handymanhal",
+      "name": "Handyman Hal",
+      "topics": [
+        "engineering",
+        "making"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "why": "Real visits to excavators, cranes, garbage trucks and construction sites let young kids see big machines up close and learn what each one does.",
+      "note": "Live-action host, ~10-15 min; energetic but genuinely educational, not unboxing. Ages 3-7.",
+      "verified": true,
+      "niches": [
+        "architecture-cities"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@jagohazzard",
+      "name": "Jago Hazzard",
+      "topics": [
+        "history",
+        "geography"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Charming deep-dives into railways, tube stations and London's hidden transport history make infrastructure feel like detective stories.",
+      "note": "Short-to-medium, dry British humor; UK-rail focused, occasional light innuendo—mostly over kids' heads.",
+      "verified": true,
+      "niches": [
+        "architecture-cities"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@notjustbikes",
+      "name": "Not Just Bikes",
+      "topics": [
+        "geography",
+        "engineering"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Playful comparisons of city design around the world get kids noticing and questioning how their own streets, bikes and transit work.",
+      "note": "Long-form, opinionated but advertiser-safe; occasional mild frustration/sarcasm about bad design.",
+      "verified": true,
+      "niches": [
+        "architecture-cities"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@rmtransit",
+      "name": "RMTransit",
+      "topics": [
+        "engineering",
+        "geography"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Enthusiastic breakdowns of metros, trams and high-speed trains show how good transit is designed and why it matters.",
+      "note": "Explainer format, ~10-15 min; fairly technical, best for 10-12 train fans.",
+      "verified": true,
+      "niches": [
+        "architecture-cities"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@stewarthicks",
+      "name": "Stewart Hicks",
+      "topics": [
+        "art",
+        "engineering"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "An architecture professor decodes why famous buildings look and feel the way they do, teaching kids to read the built world.",
+      "note": "Lecture-style, ~15 min; conceptual, best for older, design-minded big kids.",
+      "verified": true,
+      "niches": [
+        "architecture-cities"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@theb1m",
+      "name": "The B1M",
+      "topics": [
+        "engineering",
+        "tech"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Cinematic stories of how the world's biggest skyscrapers, bridges and tunnels actually get built spark awe at real construction.",
+      "note": "Documentary-style, weekly; the niche's central channel. Some business/finance framing skews older.",
+      "verified": true,
+      "niches": [
+        "architecture-cities"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@thetimtraveller",
+      "name": "The Tim Traveller",
+      "topics": [
+        "geography",
+        "engineering"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Short, joyful field trips to the world's oddest bridges, funiculars, tiny railways and infrastructure curiosities.",
+      "note": "Bite-size (3-6 min) but substantive; upbeat and wholesome.",
+      "verified": true,
+      "niches": [
+        "architecture-cities"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@tibothetoucan",
+      "name": "Tibo the Toucan",
+      "topics": [
+        "engineering",
+        "science"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "why": "A friendly time-traveling toucan introduces little kids to bridges, buildings and how things are built through colorful cartoons.",
+      "note": "Animated, kid-narrated, ~5-10 min; broad early-learning channel with strong engineering episodes. Ages 3-7.",
+      "verified": true,
+      "niches": [
+        "architecture-cities"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@amyshirateitel",
+      "name": "The Vintage Space",
+      "topics": [
+        "space",
+        "history"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Deep-dive stories of the early space race and forgotten astronauts make history feel like adventure.",
+      "note": "Spaceflight-history video essays; talking-head plus archival footage.",
+      "verified": true,
+      "niches": [
+        "astronomy-extra"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@astrobackyard",
+      "name": "AstroBackyard",
+      "topics": [
+        "space",
+        "making",
+        "tech"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Shows kids they can photograph real galaxies and nebulae from their own backyard.",
+      "note": "Beginner-friendly astrophotography how-to; includes gear discussion.",
+      "verified": true,
+      "niches": [
+        "astronomy-extra"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@astrumspace",
+      "name": "Astrum",
+      "topics": [
+        "space",
+        "science",
+        "exploration"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "why": "Calm, gorgeous tours of every planet and moon built from real spacecraft imagery spark pure awe.",
+      "note": "Long-form documentary style; younger kids can wonder-watch the visuals while narration suits big kids.",
+      "verified": true,
+      "niches": [
+        "astronomy-extra"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@coolworldslab",
+      "name": "Cool Worlds",
+      "topics": [
+        "space",
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "A Columbia astronomer contemplates exoplanets, alien life and the universe's biggest open questions.",
+      "note": "Slow, thoughtful essays; conceptually advanced, best for upper-big kids/tweens.",
+      "verified": true,
+      "niches": [
+        "astronomy-extra"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@deepskyvideos",
+      "name": "Deep Sky Videos",
+      "topics": [
+        "space",
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Real astronomers tour galaxies, nebulae and every Messier object seen through actual telescopes.",
+      "note": "From Brady Haran with the University of Nottingham; interview + telescope imagery.",
+      "verified": true,
+      "niches": [
+        "astronomy-extra"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@drbecky",
+      "name": "Dr. Becky",
+      "topics": [
+        "space",
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "An Oxford black-hole researcher unpacks the newest real astronomy discoveries with contagious enthusiasm.",
+      "note": "Includes a monthly 'Night Sky News' series; research-news focus, best for older kids.",
+      "verified": true,
+      "niches": [
+        "astronomy-extra"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@everydayastronaut",
+      "name": "Everyday Astronaut",
+      "topics": [
+        "space",
+        "engineering"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Turns rocket science into approachable questions like 'why do rockets look the way they do?'",
+      "note": "Hour-long documentaries plus live launch coverage; some long streams.",
+      "verified": true,
+      "niches": [
+        "astronomy-extra"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@frasercain",
+      "name": "Fraser Cain",
+      "topics": [
+        "space",
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "The Universe Today host gives down-to-earth answers to viewers' biggest astronomy questions.",
+      "note": "Q&A and space-news format; can get information-dense.",
+      "verified": true,
+      "niches": [
+        "astronomy-extra"
+      ],
+      "status": "new",
+      "http": "303",
+      "live": true
+    },
+    {
+      "handle": "@launchpadastronomy",
+      "name": "Launch Pad Astronomy",
+      "topics": [
+        "space",
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "A friendly neighborhood astronomer explains how the universe works, from eclipses to black holes.",
+      "note": "Explainer videos plus occasional live Q&A streams.",
+      "verified": true,
+      "niches": [
+        "astronomy-extra"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@primalspace",
+      "name": "Primal Space",
+      "topics": [
+        "space",
+        "engineering"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Crisp animations reveal how rockets, satellites and space tech actually work under the hood.",
+      "note": "Faceless animated explainer documentaries.",
+      "verified": true,
+      "niches": [
+        "astronomy-extra"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@scottmanley",
+      "name": "Scott Manley",
+      "topics": [
+        "space",
+        "engineering",
+        "tech"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "An astrophysicist-gamer makes orbital mechanics and rocket science genuinely intuitive.",
+      "note": "Some Kerbal Space Program gameplay woven in; best for upper-big kids/tweens.",
+      "verified": true,
+      "niches": [
+        "astronomy-extra"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@thesecretsoftheuniverse",
+      "name": "The Secrets of the Universe",
+      "topics": [
+        "space",
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Builds astrophysics and cosmology up step by step, from the basics to quasars.",
+      "note": "Structured multi-part series; leans toward older big kids.",
+      "verified": true,
+      "niches": [
+        "astronomy-extra"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@whatdamath",
+      "name": "Anton Petrov",
+      "topics": [
+        "space",
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "A calm, warm daily tour of the newest discoveries happening across the universe right now.",
+      "note": "Near-daily uploads; recent-discovery news heavy, clean thumbnails.",
+      "verified": true,
+      "niches": [
+        "astronomy-extra"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@acsreactions",
+      "name": "Reactions (American Chemical Society)",
+      "topics": [
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Answers 'why does this happen?' about everyday chemistry (why onions make you cry, how soap works) with tidy animated explainers.",
+      "note": "Animated explainers ~3-6 min from the ACS; advertiser-safe.",
+      "verified": true,
+      "niches": [
+        "chemistry",
+        "cooking-food-science"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@funsciencedemos",
+      "name": "FunScienceDemos",
+      "topics": [
+        "science",
+        "making"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "why": "Simple, warm classroom-style demos make first encounters with matter and reactions approachable for young kids.",
+      "note": "Teacher-made (Temple University), all ages; handle is a best guess, unconfirmed.",
+      "verified": false,
+      "niches": [
+        "chemistry"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@melscience1",
+      "name": "MEL Science",
+      "topics": [
+        "science",
+        "making"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "why": "Shows colorful hands-on home chemistry experiments kids can actually watch and safely try with an adult.",
+      "note": "Short demo/DIY clips tied to their kits; kid-focused.",
+      "verified": true,
+      "niches": [
+        "chemistry"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@periodicvideos",
+      "name": "Periodic Videos",
+      "topics": [
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Every single element on the periodic table gets its own short film with real University of Nottingham lab demos, turning a wall chart into a gallery of characters.",
+      "note": "Long-form demos/interviews, weekly uploads; genial and safe, skews older but very accessible.",
+      "verified": true,
+      "niches": [
+        "chemistry"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@philmccordic3490",
+      "name": "Science Max (Phil McCordic)",
+      "topics": [
+        "science",
+        "making"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "why": "Takes classic small kitchen experiments and super-sizes them, showing the same chemistry at giant scale.",
+      "note": "Award-winning kids TV show full episodes; verified handle is host's channel.",
+      "verified": true,
+      "niches": [
+        "chemistry"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@professordaveexplains",
+      "name": "Professor Dave Explains",
+      "topics": [
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Clear, step-by-step whiteboard walkthroughs of atoms, molecules and chemical reactions build real conceptual understanding.",
+      "note": "Teen/study level; channel also hosts unrelated science-debate content.",
+      "verified": true,
+      "niches": [
+        "chemistry"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@socratica",
+      "name": "Socratica",
+      "topics": [
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Beautifully filmed, calm chemistry lessons on elements, pH and reactions that treat viewers as capable thinkers.",
+      "note": "Academic tone, skews high-school/older; chemistry is one strand of a broader STEM channel.",
+      "verified": true,
+      "niches": [
+        "chemistry"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@tdewitt451",
+      "name": "Tyler DeWitt",
+      "topics": [
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "A former teacher makes intimidating chemistry ideas like atoms, bonding and reactions feel friendly and click into place.",
+      "note": "Tutorial style, exam-oriented; best for older kids/middle-school.",
+      "verified": true,
+      "niches": [
+        "chemistry"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@theactionlab",
+      "name": "The Action Lab",
+      "topics": [
+        "science",
+        "engineering"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Tests wild 'what if' questions with physics and chemistry demos that reward curiosity over spectacle.",
+      "note": "Occasional risky/high-energy demos and a few punchy titles; mostly long-form and explained.",
+      "verified": true,
+      "niches": [
+        "chemistry",
+        "physics-motion"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@theroyalinstitution",
+      "name": "The Royal Institution",
+      "topics": [
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Dramatic live chemistry demonstrations from its famous lecture theatre make elements and reactions feel like theatre.",
+      "note": "Lecture/talk format, long-form; older kids, includes classic Christmas Lectures.",
+      "verified": true,
+      "niches": [
+        "chemistry"
+      ],
+      "status": "new",
+      "http": "303",
+      "live": true
+    },
+    {
+      "handle": "@thesciguys",
+      "name": "The Sci Guys",
+      "topics": [
+        "science",
+        "making"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Friends run at-home experiments then explain the chemistry behind each one so kids can repeat and understand them.",
+      "note": "Science-at-home series; handle is a best guess, unconfirmed.",
+      "verified": false,
+      "niches": [
+        "chemistry"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@thoisoi2",
+      "name": "Thoisoi2 - Chemical Experiments!",
+      "topics": [
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Mesmerizing close-up reactions of rare elements (cesium, gallium, thermite) with clear narration of what is chemically happening.",
+      "note": "Some hazardous reactions shown (never replicate at home); older kids.",
+      "verified": true,
+      "niches": [
+        "chemistry"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@alvinblox",
+      "name": "AlvinBlox",
+      "topics": [
+        "coding",
+        "tech"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Clear beginner-to-pro Roblox Studio and Lua scripting lessons let kids see how a real game is built line by line.",
+      "note": "Long-form scripting tutorials; best for motivated 9-12s ready for text-based code, from a veteran Roblox dev.",
+      "verified": true,
+      "niches": [
+        "coding-gamedev"
+      ],
+      "status": "new",
+      "http": "303",
+      "live": true
+    },
+    {
+      "handle": "@brawldevrblx",
+      "name": "BrawlDev",
+      "topics": [
+        "coding",
+        "tech"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Friendly, well-paced Roblox beginner scripting guides make a kid's first working game feel achievable and exciting.",
+      "note": "Beginner/advanced/GUI playlists with 50+ episodes; approachable entry point to Roblox Studio for ages 8+.",
+      "verified": true,
+      "niches": [
+        "coding-gamedev"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@codakid9517",
+      "name": "CodaKid",
+      "topics": [
+        "coding",
+        "making"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Project-based tutorials teach real coding by building things kids love, from Roblox games to Minecraft mods, connecting code to creation.",
+      "note": "Kids-coding academy (ages 8+); some course-promo content mixed with genuine tutorial walkthroughs.",
+      "verified": true,
+      "niches": [
+        "coding-gamedev"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@griffpatch",
+      "name": "griffpatch",
+      "topics": [
+        "coding",
+        "making"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Step-by-step Scratch tutorials turn kids from players into makers by building real games like platformers and space shooters block by block.",
+      "note": "Long-form project series; the gold standard for Scratch game-making, best for ages 8+ who can follow multi-step builds.",
+      "verified": true,
+      "niches": [
+        "coding-gamedev"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@griffpatchacademy",
+      "name": "Griffpatch Academy",
+      "topics": [
+        "coding",
+        "making"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "A structured 'gamer to game creator' path guides kids through building complete Scratch games with clear milestones.",
+      "note": "Griffpatch's dedicated beginner academy channel; more scaffolded than the main channel, handle unconfirmed.",
+      "verified": false,
+      "niches": [
+        "coding-gamedev"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@scratchteam",
+      "name": "Scratch Team",
+      "topics": [
+        "coding",
+        "making",
+        "art"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "why": "The official MIT Scratch channel shows kids how to program their own interactive stories, animations and games with friendly starter ideas.",
+      "note": "Official nonprofit (scratch.mit.edu); mix of short inspiration clips and tutorials, gentle enough to introduce coding to younger kids.",
+      "verified": true,
+      "niches": [
+        "coding-gamedev"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@thatmumbojumbo",
+      "name": "Mumbo Jumbo",
+      "topics": [
+        "engineering",
+        "making"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Redstone builds turn Minecraft into a logic-and-engineering playground, sparking wonder at how circuits, gates and machines actually work.",
+      "note": "Large, central redstone channel; upbeat but substantive engineering content, occasional fast-paced editing, great for ages 8+.",
+      "verified": true,
+      "niches": [
+        "coding-gamedev"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@thedevking",
+      "name": "TheDevKing",
+      "topics": [
+        "coding",
+        "tech"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Numbered Roblox scripting series build coding confidence step by step, teaching variables, events and functions through game-making.",
+      "note": "Structured beginner and advanced playlists; text-scripting focus suits ages 9+.",
+      "verified": true,
+      "niches": [
+        "coding-gamedev"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@tynker",
+      "name": "Tynker",
+      "topics": [
+        "coding",
+        "making"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "why": "Playful walkthroughs show kids how block coding leads into building Minecraft mods and their own games, giving creativity a clear on-ramp.",
+      "note": "Company channel with some promotional videos; strongest content is the coding walkthroughs for beginners.",
+      "verified": true,
+      "niches": [
+        "coding-gamedev"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@abbeythefoodscientist",
+      "name": "Abbey the Food Scientist",
+      "topics": [
+        "science",
+        "making"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "A PhD food scientist explains the hidden chemistry behind everyday foods, from why bread rises to what makes chips crunchy.",
+      "note": "Approachable explainers on food science careers and phenomena; handle unconfirmed (legacy /c/AbbeytheFoodScientist); best for 8-12.",
+      "verified": false,
+      "niches": [
+        "cooking-food-science"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@americastestkitchenkids",
+      "name": "America's Test Kitchen Kids",
+      "topics": [
+        "making",
+        "science"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "why": "Real kid chefs cook fan-favorite recipes while learning why techniques work, turning the kitchen into a hands-on science lab.",
+      "note": "Recipe-tested-by-kids cooking show; clear step-by-step technique, advertiser-safe; skews 8-12 but has simple recipes for younger with an adult.",
+      "verified": false,
+      "niches": [
+        "cooking-food-science"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@chainbaker",
+      "name": "ChainBaker",
+      "topics": [
+        "science",
+        "making"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "A master baker treats bread as an experiment, teaching the science of yeast, gluten, temperature and time behind every loaf.",
+      "note": "Calm, methodical principles-of-baking series; adult-hosted but advertiser-safe and deeply educational for science-minded 8-12s.",
+      "verified": true,
+      "niches": [
+        "cooking-food-science"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@cookingwithkyler",
+      "name": "Cooking with Kyler",
+      "topics": [
+        "making"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "why": "A young cook and his dad make simple healthy dishes together, showing kids that cooking is achievable and fun.",
+      "note": "Warm father-son follow-along cooking; short demos; legacy /c/cookingwithkyler, handle unconfirmed.",
+      "verified": false,
+      "niches": [
+        "cooking-food-science"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@cookwithamber",
+      "name": "Amber Kelley (Cook With Amber)",
+      "topics": [
+        "making",
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "A teen chef proves kids can make fresh, real food from scratch, modeling confidence and curiosity in the kitchen.",
+      "note": "Kid-hosted, upbeat but safe follow-along recipes; legacy URLs youtube.com/AmberKelley and /CookWithAmber, handle unconfirmed.",
+      "verified": false,
+      "niches": [
+        "cooking-food-science"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@eatsamazingcouk",
+      "name": "Eats Amazing",
+      "topics": [
+        "making",
+        "art"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "why": "Transforms healthy ingredients into playful food art, sparking creativity and making veggies exciting for little ones.",
+      "note": "UK mum/food artist; short, gentle, craft-style food art tutorials from healthy ingredients; handle unconfirmed (legacy youtube.com/EatsAmazingCoUK).",
+      "verified": false,
+      "niches": [
+        "cooking-food-science"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@fooddeepdive",
+      "name": "Food Deep Dive",
+      "topics": [
+        "science",
+        "making"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Answers not just how to bake but why it works, exploring the physics and chemistry of dough, heat and fermentation.",
+      "note": "Lesser-known baking science lab channel; long-form and analytical; adult-hosted, advertiser-safe; best for older curious kids.",
+      "verified": true,
+      "niches": [
+        "cooking-food-science"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@funwithfoodkids",
+      "name": "Fun With Food",
+      "topics": [
+        "making",
+        "science",
+        "reading"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "why": "Miss Megan, a registered dietitian, turns each recipe into a discovery of colors, numbers, nutrition and where food comes from.",
+      "note": "Preschool-friendly educational cooking show; calm, follow-along, no clickbait; best for ages 3-7.",
+      "verified": true,
+      "niches": [
+        "cooking-food-science"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@howtocookthat",
+      "name": "How To Cook That (Ann Reardon)",
+      "topics": [
+        "science",
+        "making"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Food scientist Ann Reardon runs real experiments and debunks viral food hacks, teaching kids to think critically about what they see online.",
+      "note": "Australian dietitian/food scientist; long-form, evidence-based; some debunks cover dangerous fake hacks (framed as warnings), best for 8-12.",
+      "verified": true,
+      "niches": [
+        "cooking-food-science"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@katiekimball",
+      "name": "Katie Kimball - Kids Cook Real Food",
+      "topics": [
+        "making",
+        "science"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "why": "Builds real kitchen skills step by step, empowering kids to cook whole, healthy food themselves.",
+      "note": "Companion to the Kids Cook Real Food course; knife-safety and technique focus; content for a range of ages.",
+      "verified": true,
+      "niches": [
+        "cooking-food-science"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@weirdexplorer",
+      "name": "Weird Explorer",
+      "topics": [
+        "nature",
+        "exploration",
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Jared travels the world tasting 800+ rare fruits, sparking wonder about biodiversity and where food really comes from.",
+      "note": "Calm exotic-fruit reviews with botany and geography; advertiser-safe, occasional foraging travel; great for curious 8-12s.",
+      "verified": true,
+      "niches": [
+        "cooking-food-science"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@bengthomas",
+      "name": "Ben G Thomas",
+      "topics": [
+        "science",
+        "animals",
+        "nature"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "A palaeontology PhD student breaks down fresh fossil discoveries and prehistoric animal profiles, modeling how real scientists reason from bones.",
+      "note": "Long-form species deep-dives plus a weekly science-news roundup; calm, fact-first delivery.",
+      "verified": true,
+      "niches": [
+        "dinosaurs-paleontology"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@dinosaurgeorge",
+      "name": "The Dinosaur George Company",
+      "topics": [
+        "science",
+        "animals",
+        "history"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "why": "A veteran paleo-educator answers kids' real dinosaur questions and shows fossil prep, rewarding curiosity with patient, myth-busting answers.",
+      "note": "Q&A and behind-the-scenes fossil-prep series; family-oriented and gentle.",
+      "verified": true,
+      "niches": [
+        "dinosaurs-paleontology"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@eons",
+      "name": "PBS Eons",
+      "topics": [
+        "history",
+        "science",
+        "animals"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Cinematic deep-time episodes walk kids through the whole story of life on Earth, showing why weird extinct creatures existed and how we know.",
+      "note": "Documentary-style, ~10 min; the definitive paleontology channel on YouTube. Skews older elementary and up.",
+      "verified": true,
+      "niches": [
+        "dinosaurs-paleontology"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@henrythepaleoguy",
+      "name": "Henry the PaleoGuy",
+      "topics": [
+        "science",
+        "animals",
+        "nature"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "An enthusiastic young paleontologist geeks out over fossils, dinosaurs and modern birds as living dinosaurs, making the science feel current and joyful.",
+      "note": "Mix of longer explainers and shorts; occasional excited pacing but content is substantive.",
+      "verified": true,
+      "niches": [
+        "dinosaurs-paleontology"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@mothlightmedia1936",
+      "name": "Moth Light Media",
+      "topics": [
+        "science",
+        "nature",
+        "animals"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Beautifully animated stories trace how creatures evolved across millions of years, connecting today's animals to their prehistoric ancestors.",
+      "note": "Evolutionary-biology essays with soothing narration and hand-drawn animation; some cover deep-time extinction.",
+      "verified": true,
+      "niches": [
+        "dinosaurs-paleontology"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@raptorchatter",
+      "name": "Raptor Chatter",
+      "topics": [
+        "science",
+        "animals"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Fact-focused updates on the latest dinosaur research show kids that paleontology is a living, changing science, not a settled list of names.",
+      "note": "No-fluff explainers of new studies; illustrated with paleoart. Great for the dinosaur-obsessed 8-12 crowd.",
+      "verified": true,
+      "niches": [
+        "dinosaurs-paleontology"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@thedinofeed",
+      "name": "The Dino Feed",
+      "topics": [
+        "animals",
+        "science",
+        "nature"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "why": "Bite-sized animated mini-documentaries introduce one dinosaur at a time like a pocket Walking With Dinosaurs, perfect for younger dino fans.",
+      "note": "Short animated fact clips; accessible for little kids while still accurate. Custom URL youtube.com/c/TheDinoFeed.",
+      "verified": true,
+      "niches": [
+        "dinosaurs-paleontology"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@thedinosaurshow",
+      "name": "The Dinosaur Show (Dustin Growick)",
+      "topics": [
+        "science",
+        "animals",
+        "exploration"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "why": "A friendly museum educator visits collections and interviews experts, letting kids peek behind the scenes at how dinosaurs are studied and displayed.",
+      "note": "Host-led episodes and museum tours; warm, kid-directed tone. Handle inferred from youtube.com/TheDinosaurShow.",
+      "verified": true,
+      "niches": [
+        "dinosaurs-paleontology"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@treytheexplainer",
+      "name": "TREY the Explainer",
+      "topics": [
+        "science",
+        "animals",
+        "history"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Patient, evidence-driven explainers on prehistoric animals and how paleontologists reconstruct them reward curious kids who want the reasoning, not just the answer.",
+      "note": "Long videos; also covers cryptozoology/debunking. Skews upper end of 8-12 and teens; preview for length.",
+      "verified": true,
+      "niches": [
+        "dinosaurs-paleontology"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@yourdinosaursarewrong",
+      "name": "Your Dinosaurs Are Wrong",
+      "topics": [
+        "science",
+        "animals",
+        "making"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Compares inaccurate toy dinosaurs to real anatomy and shows how to reshape them, teaching kids to spot the difference between pop-culture myth and evidence.",
+      "note": "Animated corrections over toy photos; mild dry humor, advertiser-safe. Sparks critical thinking about accuracy.",
+      "verified": true,
+      "niches": [
+        "dinosaurs-paleontology"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@carlasonheim",
+      "name": "Carla Sonheim",
+      "topics": [
+        "art"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Encourages imaginative, loose drawing and painting of invented animals, freeing kids from the fear of a 'wrong' way to draw.",
+      "note": "Creative process and mixed-media lessons incl. a Kids Art Week series; mostly adult-oriented so pick the kid lessons. Handle not fully confirmed.",
+      "verified": false,
+      "niches": [
+        "drawing-painting"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@cartooningclub",
+      "name": "Cartooning Club How to Draw",
+      "topics": [
+        "art"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "why": "Slow, clear cartoon-drawing lessons that show the underlying construction shapes before adding detail, shading and color.",
+      "note": "Very high cadence (near-daily), pop-culture and original characters; kid-friendly and easy to follow.",
+      "verified": true,
+      "niches": [
+        "drawing-painting"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@circlelineartschool",
+      "name": "Circle Line Art School",
+      "topics": [
+        "art",
+        "maths"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Makes perspective and optical illusions click, teaching kids how 1- and 2-point perspective turns flat lines into 3D rooms and cities.",
+      "note": "Weekly perspective/technique tutorials, spare narration, long-form; great for spatial thinkers.",
+      "verified": true,
+      "niches": [
+        "drawing-painting"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@drawsocute",
+      "name": "Draw So Cute",
+      "topics": [
+        "art"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "why": "Turns everyday objects, animals and food into cute cartoon characters, showing kids how a few lines become an expressive drawing.",
+      "note": "How-to-draw plus coloring and simple crafts, calm narration, long-form; advertiser-safe.",
+      "verified": true,
+      "niches": [
+        "drawing-painting"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@drawwithrob",
+      "name": "Draw With Rob (Rob Biddulph)",
+      "topics": [
+        "art"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "why": "A bestselling children's illustrator leads joyful draw-alongs that convince kids anyone can make a great picture together.",
+      "note": "#DrawWithRob draw-along series, ~15-20 min, upbeat; excellent for shared parent-child drawing time.",
+      "verified": true,
+      "niches": [
+        "drawing-painting"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@kaseythegolden",
+      "name": "Kasey Golden (Kasey The Golden)",
+      "topics": [
+        "art"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Playful watercolor and gouache tutorials and tip lists that teach color mixing and technique while celebrating creative experimentation.",
+      "note": "Watercolor/illustration, long-form, calm and encouraging; some content is supply reviews so curate to the tutorials.",
+      "verified": true,
+      "niches": [
+        "drawing-painting"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@markcrilley",
+      "name": "Mark Crilley",
+      "topics": [
+        "art"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "A published manga author demystifies faces, figures and realistic drawing with narrated step-by-step technique that builds real skill.",
+      "note": "Manga/comics and realism, long-form tutorials; skews to older, more patient kids.",
+      "verified": true,
+      "niches": [
+        "drawing-painting"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@muffalopotato",
+      "name": "Muffalo Potato",
+      "topics": [
+        "art",
+        "maths"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "why": "Teaches kids to build cartoons entirely out of numbers and letters, quietly reinforcing letter/number recognition through art.",
+      "note": "Weekly draw-alongs, gentle host, ~5-8 min; clever shape-from-symbols method.",
+      "verified": true,
+      "niches": [
+        "drawing-painting"
+      ],
+      "status": "new",
+      "http": "303",
+      "live": true
+    },
+    {
+      "handle": "@watercolor4kids",
+      "name": "Watercolor4KIDS",
+      "topics": [
+        "art"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "why": "Introduces real watercolor technique - wet-on-wet, blending, layering - in short projects designed specifically for young hands.",
+      "note": "Emily Olson teaches with her daughter using affordable paints; friendly and low-pressure.",
+      "verified": true,
+      "niches": [
+        "drawing-painting"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@afrotechmods",
+      "name": "Afrotechmods",
+      "topics": [
+        "engineering",
+        "science",
+        "tech"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "A professional engineer gives fast, clear, practical explanations of resistors, transistors, multimeters and Arduino that make electronics click.",
+      "note": "Straight-to-the-point 5-15 min tutorials; upbeat and beginner-focused, ideal first stop for the fundamentals.",
+      "verified": true,
+      "niches": [
+        "electronics-tinkering"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@beckystern",
+      "name": "Becky Stern",
+      "topics": [
+        "making",
+        "tech",
+        "art"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "A maker fuses electronics with crafts, sewing LEDs and microcontrollers into wearables so circuits become creative, personal projects.",
+      "note": "Long-form DIY tutorials blending soldering, sewing and code; craft-forward angle appeals to kids who like making things, not just wiring.",
+      "verified": true,
+      "niches": [
+        "electronics-tinkering"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@beneater",
+      "name": "Ben Eater",
+      "topics": [
+        "engineering",
+        "tech",
+        "coding"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Builds an entire working 8-bit computer from simple logic gates on breadboards, revealing that a computer is just carefully wired circuits.",
+      "note": "Long, deep, patient series; ambitious for the top of the 8-12 range but genuinely inspiring for curious tinkerers.",
+      "verified": true,
+      "niches": [
+        "electronics-tinkering"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@dronebotworkshop",
+      "name": "DroneBot Workshop",
+      "topics": [
+        "engineering",
+        "coding",
+        "tech"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Calm, thorough walkthroughs of Arduino, sensors and motors show how to wire and program real electronics projects from scratch.",
+      "note": "Solo maker; long, methodical tutorials with matching written articles; best for motivated 10-12 year olds.",
+      "verified": true,
+      "niches": [
+        "electronics-tinkering"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@electroboom",
+      "name": "ElectroBOOM",
+      "topics": [
+        "science",
+        "engineering"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Comedic self-shocking experiments teach how electricity, current and safety really work, making circuit theory hilarious and memorable.",
+      "note": "Educational comedy with intentional (staged) shocks and mild slapstick pain plus rare mild language; frames hazards as what NOT to do, so pair with a reminder never to copy mains experiments.",
+      "verified": true,
+      "niches": [
+        "electronics-tinkering"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@greatscottlab",
+      "name": "GreatScott!",
+      "topics": [
+        "making",
+        "engineering",
+        "tech"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Bite-sized electronics basics and DIY builds explain components like resistors, capacitors and transistors while making gadgets from scratch.",
+      "note": "Long-form beginner-friendly tutorials; some projects involve soldering/lithium batteries, so build-along needs adult help.",
+      "verified": true,
+      "niches": [
+        "electronics-tinkering"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@microbit_edu",
+      "name": "Micro:bit Educational Foundation",
+      "topics": [
+        "coding",
+        "engineering",
+        "making"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Official BBC micro:bit videos show kids coding a tiny circuit board to light LEDs, sense motion and talk to the physical world.",
+      "note": "Nonprofit; project and getting-started videos designed for classrooms and 8-12 beginners with block-based coding.",
+      "verified": true,
+      "niches": [
+        "electronics-tinkering"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@science.buddies",
+      "name": "Science Buddies",
+      "topics": [
+        "science",
+        "making",
+        "engineering"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "why": "Step-by-step hands-on projects turn LEDs, buzzers, motors and simple circuits into doable at-home experiments a kid can actually build.",
+      "note": "Nonprofit; short-to-medium how-to videos tied to a free written project library; parent/teacher supervised builds.",
+      "verified": true,
+      "niches": [
+        "electronics-tinkering"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@sparkfun",
+      "name": "SparkFun Electronics",
+      "topics": [
+        "making",
+        "engineering",
+        "coding"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "A maker company's engineers demo breadboards, microcontrollers and sensors, turning parts on a bench into blinking, sensing, moving projects.",
+      "note": "Huge 1500+ video library ranging from beginner tutorials to advanced; curate to the intro/tutorial playlists for kids.",
+      "verified": true,
+      "niches": [
+        "electronics-tinkering"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@boxlapse",
+      "name": "Boxlapse",
+      "topics": [
+        "science",
+        "nature"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "why": "Mesmerizing seed-to-fruit time-lapses let kids watch weeks of hidden root and shoot growth unfold in minutes, sparking pure botanical wonder.",
+      "note": "Finland-based; mostly music/no narration; compilation videos run several minutes; universally kid-safe.",
+      "verified": true,
+      "niches": [
+        "gardening-plants"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@carnivorousplantshub",
+      "name": "Carnivorous Plants Hub",
+      "topics": [
+        "nature",
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Care guides and close-ups of Venus flytraps and pitcher plants tap into kids' fascination with plants that catch and eat insects.",
+      "note": "Enthusiast-run carnivorous-plant growing; how-to and update videos; mild bug-eating footage, fine for curious 8-12s.",
+      "verified": true,
+      "niches": [
+        "gardening-plants"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@epicgardening",
+      "name": "Epic Gardening",
+      "topics": [
+        "nature",
+        "making"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "In-depth, well-shot grow guides answer endless how-and-why plant questions, making it the go-to hub for kids ready to garden seriously.",
+      "note": "Large channel central to the niche (Kevin Espiritu); long-form, advertiser-safe; adult-oriented but broadly kid-appropriate.",
+      "verified": true,
+      "niches": [
+        "gardening-plants"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@gardenmarcuskids",
+      "name": "Discover, Grow, Bloom with Garden Marcus",
+      "topics": [
+        "nature",
+        "making"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "why": "Calm, warm garden lessons with songs and movement invite little ones to touch soil, plant seeds, and wonder how living things grow.",
+      "note": "Kids' spin-off of Garden Marcus (Marcus Bridgewater); low-stimulation, wholesome, aimed at toddlers/preschool; short-to-medium episodes.",
+      "verified": true,
+      "niches": [
+        "gardening-plants"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@growveg",
+      "name": "GrowVeg",
+      "topics": [
+        "nature",
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Friendly animated diagrams and garden walkthroughs explain the why behind planting, crop rotation, and composting so growing makes sense.",
+      "note": "Ben Vanheems; polished, no-nonsense vegetable-gardening guides; long-form, very advertiser-safe.",
+      "verified": true,
+      "niches": [
+        "gardening-plants"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@guidinggreenthumbs",
+      "name": "Guiding Green Thumbs",
+      "topics": [
+        "nature",
+        "making"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Gentle, clear how-to videos on planting, saving seeds, and welcoming bees and butterflies spark the urge to start a real backyard garden.",
+      "note": "Zone-5 organic kitchen and flower gardening; calm long-form; adult host but easy for older kids to follow.",
+      "verified": true,
+      "niches": [
+        "gardening-plants"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@huwrichards",
+      "name": "Huw Richards",
+      "topics": [
+        "nature",
+        "making"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "A grower who started his own channel at age 12 shows how to raise loads of food from almost nothing, proving kids can grow real harvests.",
+      "note": "Permaculture / grow-your-own; long-form; some episodes are advanced but inspiring for tweens.",
+      "verified": true,
+      "niches": [
+        "gardening-plants"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@kidsgardeningorg",
+      "name": "KidsGardening.org",
+      "topics": [
+        "nature",
+        "making",
+        "science"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "why": "A nonprofit that turns real garden projects into hands-on discovery, showing kids how to sprout seeds, build planters, and observe plant life cycles.",
+      "note": "Educator/parent-facing how-to and activity videos; steady library, family- and classroom-friendly.",
+      "verified": true,
+      "niches": [
+        "gardening-plants"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@migardener",
+      "name": "MIgardener",
+      "topics": [
+        "nature",
+        "making"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Started at 16, Luke shows how a few cheap seeds become a whole garden, teaching frugal, organic growing that empowers kids to start their own plot.",
+      "note": "Organic grow-from-seed and homesteading; frequent long-form uploads; adult host, great for motivated tweens.",
+      "verified": true,
+      "niches": [
+        "gardening-plants"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@currentlyrockhounding",
+      "name": "Currently Rockhounding",
+      "topics": [
+        "science",
+        "exploration",
+        "nature"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "A family follows the thrill of the hunt across real dig sites, modeling patient exploration and the payoff of finding rocks and minerals in the wild.",
+      "note": "Outdoor field-trip vlog style but content-rich and educational (not family-drama vlogging); 10-20 min.",
+      "verified": true,
+      "niches": [
+        "geology-earth"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@earthscope_science",
+      "name": "EarthScope Consortium Science",
+      "topics": [
+        "science",
+        "geography"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Clean scientific animations show how earthquakes rupture, seismic waves ripple through the planet, and plates grind together beneath our feet.",
+      "note": "Formerly IRIS; short animations and outreach clips explaining seismology and plate tectonics. Some clips are brief; mix with longer explainers.",
+      "verified": true,
+      "niches": [
+        "geology-earth"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@geogirl",
+      "name": "GEO GIRL",
+      "topics": [
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "A young geoscientist enthusiastically unpacks minerals, rock cycles, and earth history, showing kids what a real scientist's curiosity looks like.",
+      "note": "Whiteboard/slide lessons; many are college-level mineralogy and geochemistry, so best for older, advanced big kids or with a parent.",
+      "verified": true,
+      "niches": [
+        "geology-earth"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@geologyhub",
+      "name": "GeologyHub",
+      "topics": [
+        "science",
+        "geography"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "A working volcanologist breaks down live eruptions, geologic oddities, and how the planet reshapes itself, turning today's headlines into earth-science lessons.",
+      "note": "Explainer/news style, mostly 5-15 min, calm narration over maps and footage; frequent uploads. Volcano-eruption focus is central to this niche.",
+      "verified": true,
+      "niches": [
+        "geology-earth"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@geologynick",
+      "name": "Nick Zentner",
+      "topics": [
+        "science",
+        "geography",
+        "history"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "A charismatic professor makes plate collisions, ice-age megafloods, and ancient terranes feel like detective stories about how a landscape came to be.",
+      "note": "University-instructor lectures and field talks, Pacific Northwest focus; often 30-60 min. Long lecture format skews older/patient.",
+      "verified": true,
+      "niches": [
+        "geology-earth"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@myroncook",
+      "name": "Myron Cook",
+      "topics": [
+        "science",
+        "geography"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "A retired field geologist tells the deep-time backstory of canyons, mountains, and rock layers in plain, unhurried language that makes ordinary scenery feel epic.",
+      "note": "Long-form field-geology storytelling, calm Bob-Ross-like delivery; 15-40 min. Slower pace suits patient viewers.",
+      "verified": true,
+      "niches": [
+        "geology-earth"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@shawnwillsey",
+      "name": "Shawn Willsey: Geology Explained",
+      "topics": [
+        "science",
+        "geography"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "A geology professor reads landscapes like a story, showing how eruptions, floods, and faults left clues you can spot on any road trip.",
+      "note": "Long-form lectures and live eruption updates plus a beginner 'Rock ID with Willsey' series; 15-60 min, professorial pace, best for motivated big kids.",
+      "verified": true,
+      "niches": [
+        "geology-earth"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@theruggedrockhound",
+      "name": "The Rugged Rockhound",
+      "topics": [
+        "science",
+        "nature"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "A geologist and science teacher hunts for agates, crystals, and fossils in the field while explaining exactly how each specimen formed.",
+      "note": "Field rockhounding adventures with real geology explanation; 10-20 min, advertiser-safe outdoor content.",
+      "verified": true,
+      "niches": [
+        "geology-earth"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@volcanodiscovery",
+      "name": "VolcanoDiscovery",
+      "topics": [
+        "science",
+        "nature"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Real expedition footage of glowing lava, ash plumes, and bubbling craters lets kids witness active volcanoes up close from a safe distance.",
+      "note": "Mostly raw eruption/tour footage and webcam time-lapse with little narration; some scenes are intense (close-range lava). Best paired with an explainer channel.",
+      "verified": true,
+      "niches": [
+        "geology-earth"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@amoebasisters",
+      "name": "Amoeba Sisters",
+      "topics": [
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Playful cartoon doodles demystify cells, DNA, and body systems so a curious 10-year-old feels the 'aha' without jargon.",
+      "note": "Geared to upper-elementary/middle biology; long-form; light humor throughout.",
+      "verified": true,
+      "niches": [
+        "human-body-biology"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@biointeractive",
+      "name": "HHMI BioInteractive",
+      "topics": [
+        "science",
+        "nature"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Research-grade molecular animations of the immune response, DNA, and cells are the best free visuals of the living world anywhere.",
+      "note": "Made for high-school classrooms; some films skew older; long-form 10-30 min.",
+      "verified": true,
+      "niches": [
+        "human-body-biology"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@homeschoolpop",
+      "name": "Homeschool Pop",
+      "topics": [
+        "science",
+        "geography",
+        "history"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "why": "A warm homeschool dad walks K-5 kids through the brain, heart, and body parts at a pace built for questions.",
+      "note": "Elementary-focused; mixes animation and voiceover; covers many subjects, solid human-body set.",
+      "verified": true,
+      "niches": [
+        "human-body-biology",
+        "maps-geography",
+        "ancient-civilizations"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@journeytomicro",
+      "name": "Journey to the Microcosmos",
+      "topics": [
+        "science",
+        "nature"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Mesmerizing real microscope footage of cells and microorganisms turns 'what lives inside a drop of water' into pure wonder.",
+      "note": "Calm narration by Hank Green; series concluded 2024 but large archive remains; long-form.",
+      "verified": true,
+      "niches": [
+        "human-body-biology"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@nemourskidshealth",
+      "name": "Nemours KidsHealth",
+      "topics": [
+        "science"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "why": "Chloe and Nurb tour the body's organs and senses in doctor-reviewed 'How the Body Works' shorts kids trust.",
+      "note": "Pediatric-authority source; some videos under 3 min; advertiser-safe and accurate.",
+      "verified": true,
+      "niches": [
+        "human-body-biology"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@neurochallenged",
+      "name": "Neuroscientifically Challenged",
+      "topics": [
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Two-minute hand-drawn breakdowns of neurons and nervous-system parts give curious kids a clean map of the brain.",
+      "note": "Very short 2-min format (an exception to long-form); precise, dry, professor-made.",
+      "verified": true,
+      "niches": [
+        "human-body-biology"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@neurotransmissions",
+      "name": "Neuro Transmissions",
+      "topics": [
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "A neuroscientist explains how your brain sees, hears, and thinks in a way that makes the mind feel like an adventure.",
+      "note": "Founded by neuroscientist Alie Astrocyte; long-form; some episodes touch mental health, skews older kids.",
+      "verified": true,
+      "niches": [
+        "human-body-biology"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@nucleusbiology",
+      "name": "Nucleus Biology",
+      "topics": [
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Crisp medical-grade animations show exactly how cells, organs, and body systems work inside you.",
+      "note": "Education arm of Nucleus Medical Media; clinical but clean animation; long-form.",
+      "verified": true,
+      "niches": [
+        "human-body-biology"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@operationouch-officialchannel",
+      "name": "Operation Ouch!",
+      "topics": [
+        "science"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "why": "Twin doctors Chris and Xand run gross, hands-on experiments that make organs, senses, and biology feel thrilling and answerable.",
+      "note": "CBBC show; long-form segments; occasional mildly gross-out medical bits, all kid-safe. Central to this niche.",
+      "verified": true,
+      "niches": [
+        "human-body-biology"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@peekaboo_kidz",
+      "name": "Peekaboo Kidz (Dr. Binocs Show)",
+      "topics": [
+        "science"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "why": "Dr. Binocs answers 'how does my heart beat?' with bright animation that sparks the next question.",
+      "note": "Animated explainers; upbeat but not dopamine-bait; broad science, strong human-body set.",
+      "verified": true,
+      "niches": [
+        "human-body-biology"
+      ],
+      "status": "new",
+      "http": "303",
+      "live": true
+    },
+    {
+      "handle": "@atlaspro1",
+      "name": "Atlas Pro",
+      "topics": [
+        "geography",
+        "nature",
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Explains why mountains, deserts, rivers and biomes sit where they do, turning a world map into a giant cause-and-effect puzzle.",
+      "note": "Long-form physical-geography and biogeography documentaries; calm, well-illustrated; more recent videos lean toward biology/extinct animals.",
+      "verified": true,
+      "niches": [
+        "maps-geography"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@cgpgrey",
+      "name": "CGP Grey",
+      "topics": [
+        "geography",
+        "history",
+        "tech"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "His signature videos on strange borders, flag design and 'what counts as a country' are core map-curiosity fuel.",
+      "note": "Crisp animated explainers; central to the maps/flags niche despite being well-known; some non-geography topics in the catalog.",
+      "verified": true,
+      "niches": [
+        "maps-geography"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@flagpedia_net",
+      "name": "Flagpedia",
+      "topics": [
+        "geography"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Breaking down what every flag's colors and symbols actually mean turns flag-spotting into decoding each country's story.",
+      "note": "Flag-explainer and guess-the-flag content; mix of longer explainers and quick quiz videos; kid-safe.",
+      "verified": true,
+      "niches": [
+        "maps-geography"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@geodiode",
+      "name": "Geodiode",
+      "topics": [
+        "geography",
+        "nature",
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Beautiful tours of Earth's climate zones and biomes show kids how latitude and landscape decide whether a place is rainforest, tundra or desert.",
+      "note": "Long-form documentary style with stunning footage; a full 'biomes course'; slower pace suits focused viewing.",
+      "verified": true,
+      "niches": [
+        "maps-geography"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@geographynow",
+      "name": "Geography Now",
+      "topics": [
+        "geography",
+        "history"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "An energetic country-by-country tour of flags, landforms and culture that makes every nation on the map feel like a real place worth knowing.",
+      "note": "Fast, funny host; covered every UN country A-Z; mostly culture/geography, occasional light political mentions; ~10-15 min episodes.",
+      "verified": true,
+      "niches": [
+        "maps-geography"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@geowizard",
+      "name": "GeoWizard",
+      "topics": [
+        "geography",
+        "exploration"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Straight-line missions and GeoGuessr feats show kids you can 'read' any landscape from clues, making real-world navigation feel like a superpower.",
+      "note": "Long-form UK adventure/geoguessing; upbeat; occasional mild language and fatigue-driven grumbling; best for older kids.",
+      "verified": true,
+      "niches": [
+        "maps-geography"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@jayforeman",
+      "name": "Map Men (Jay Foreman & Mark Cooper-Jones)",
+      "topics": [
+        "geography",
+        "history"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Comedy explainers on why borders, place names and maps look so weird spark 'wait, why IS it like that?' curiosity.",
+      "note": "British musical-comedy edutainment; snappy but genuinely educational; also has Unfinished London; occasional dry adult-aimed jokes.",
+      "verified": true,
+      "niches": [
+        "maps-geography"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@kltgeography",
+      "name": "KLT Geography",
+      "topics": [
+        "geography",
+        "music"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "why": "A geography-only spinoff of song-based lessons on countries, continents, oceans and natural features made just for little explorers.",
+      "note": "Dedicated kids' geography channel; musical/animated; short-to-medium songs.",
+      "verified": true,
+      "niches": [
+        "maps-geography"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@bizkidstv",
+      "name": "Biz Kid$",
+      "topics": [
+        "maths",
+        "making"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Emmy-winning show where real kids launch and run their own businesses, sparking the thought 'I could build something too.'",
+      "note": "Full public-TV episodes (creators of Bill Nye the Science Guy); long-form, entrepreneurship plus personal finance; older archive but timeless.",
+      "verified": true,
+      "niches": [
+        "money-entrepreneurship"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@cashvillekidz",
+      "name": "CashVille Kidz",
+      "topics": [
+        "maths",
+        "history"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Asia's first animated financial-literacy series follows town characters through budgeting, banking and the history of money, one lesson per episode.",
+      "note": "24-part animated series (MoneyTree Asia Pacific) for ages 8-11; long-form episodes. Handle inferred from youtube.com/c/CashVilleKidz custom URL.",
+      "verified": false,
+      "niches": [
+        "money-entrepreneurship"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@chachingvideos",
+      "name": "Cha-Ching Money Smart Kids",
+      "topics": [
+        "music",
+        "maths"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "why": "Catchy three-minute animated band music videos turn Earn, Save, Spend and Donate into songs kids can't stop humming, making money choices feel exciting.",
+      "note": "Animated music-video series (Prudence Foundation with Cartoon Network Asia), aimed at ages 7-12 but songs land for younger kids too; advertiser-safe.",
+      "verified": true,
+      "niches": [
+        "money-entrepreneurship"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@easypeasyfinance",
+      "name": "Easy Peasy Finance",
+      "topics": [
+        "maths"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "A kid who started at age 8 explains banking, saving, investing and needs-vs-wants in plain language, proving finance is learnable by children.",
+      "note": "Kid-created explainer channel; many clips run under ~3 minutes and it posts Shorts, so lean on the full explainer videos; no sponsorships.",
+      "verified": true,
+      "niches": [
+        "money-entrepreneurship"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@kideconomist",
+      "name": "Kid Economist",
+      "topics": [
+        "maths",
+        "history"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Blends storytelling with real economics so kids ages 8-13 start seeing scarcity, trade and value in the world around them.",
+      "note": "Story-driven economics-for-kids explainers; classroom-friendly, advertiser-safe.",
+      "verified": true,
+      "niches": [
+        "money-entrepreneurship"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@learnbright",
+      "name": "Learn Bright",
+      "topics": [
+        "maths",
+        "history"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Clear classroom-style explainers on economics, saving and spending help kids grasp why money and markets work the way they do.",
+      "note": "General K-6 educational channel; look to its Economics/money-for-kids videos. Long-form, advertiser-safe.",
+      "verified": true,
+      "niches": [
+        "money-entrepreneurship"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@sammyrabbit",
+      "name": "Sammy Rabbit",
+      "topics": [
+        "music",
+        "reading",
+        "maths"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "why": "Sing-along money songs and Big Dream storybooks build saving habits and money vocabulary in kids as young as three.",
+      "note": "Songs and read-along stories for the youngest savers. Handle inferred (channel found via channel-ID UCVU1Al-AMbNqPa2qwSsRd8A), not confirmed in @ form.",
+      "verified": false,
+      "niches": [
+        "money-entrepreneurship"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@scratchgarden",
+      "name": "Scratch Garden",
+      "topics": [
+        "maths",
+        "music"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "why": "Its country-specific Money Songs teach coin and bill values with humor, so counting real cash finally clicks.",
+      "note": "General educational channel; money is a subset (coins/bills songs for USA, UK, Canada, Euro, etc.). Handle is a confident best guess.",
+      "verified": false,
+      "niches": [
+        "money-entrepreneurship"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@secretmillionairesclub",
+      "name": "Warren Buffett's Secret Millionaires Club",
+      "topics": [
+        "making",
+        "maths"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Warren Buffett secretly mentors a crew of pre-teen entrepreneurs through business adventures, planting real lessons about smart, responsible money.",
+      "note": "Animated series; long-form episodes plus shorter minis. Channel may only expose a channel-ID URL (UCaf88EBmtZuBFOifL0i5DFw), so handle is a best guess.",
+      "verified": false,
+      "niches": [
+        "money-entrepreneurship"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@themoneymammals",
+      "name": "The Money Mammals (Snigglezoo)",
+      "topics": [
+        "music",
+        "maths"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "why": "Puppety animal characters and addictive songs make Save, Share and Spend Smart feel like play for preschoolers.",
+      "note": "Snigglezoo's award-winning early-childhood money program; short songs and clips; advertiser-safe.",
+      "verified": true,
+      "niches": [
+        "money-entrepreneurship"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@blueworldtv",
+      "name": "Jonathan Bird's Blue World",
+      "topics": [
+        "animals",
+        "nature",
+        "exploration"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "why": "Emmy-winning underwater cinematographer Jonathan Bird dives with sharks, whales, octopuses and reef life, narrating each encounter like a friendly guide who makes kids want to swim along.",
+      "note": "Long-form documentary episodes, kid-safe and warmly narrated; the single best all-ages anchor for this niche.",
+      "verified": true,
+      "niches": [
+        "ocean-marine"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@evnautilus",
+      "name": "EVNautilus (Nautilus Live)",
+      "topics": [
+        "exploration",
+        "animals",
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Live-narrated ROV dives where scientists gasp and puzzle over creatures on the seafloor let kids eavesdrop on genuine 'what IS that?' moments of discovery.",
+      "note": "Live-dive highlight clips with scientist commentary; the excited reactions model real curiosity. Kid-safe.",
+      "verified": true,
+      "niches": [
+        "ocean-marine"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@kpassionate",
+      "name": "KPassionate",
+      "topics": [
+        "animals",
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Marine biologist Kristyn Plancarte answers 'why do sharks/octopuses/whales do that?' with research-backed mini-documentaries that treat kids as capable of real science.",
+      "note": "Long-form conversational explainers by a working marine biologist; occasional mild predator/feeding talk. Best for 8-12.",
+      "verified": true,
+      "niches": [
+        "ocean-marine"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@kqeddeeplook",
+      "name": "Deep Look",
+      "topics": [
+        "science",
+        "animals",
+        "nature"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "why": "Ultra-macro 4K photography reveals sea urchins, plankton, sea stars and pygmy seahorses in jaw-dropping detail, showing kids the ocean's tiniest life is as wild as any monster.",
+      "note": "Short (3-5 min) but exquisitely produced PBS/KQED episodes; not every episode is marine, and a few insect ones may look intense. Kid-safe.",
+      "verified": true,
+      "niches": [
+        "ocean-marine"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@mbarivideo",
+      "name": "MBARI (Monterey Bay Aquarium Research Institute)",
+      "topics": [
+        "science",
+        "animals",
+        "exploration"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Real ROV footage of gelatinous, glowing and never-before-seen deep-sea animals, paired with the robotics and science that captured them, shows kids discovery happening in real time.",
+      "note": "Short-to-medium research clips and 'Fresh from the Deep' series; sparse narration, high wow-factor. Advertiser-safe.",
+      "verified": true,
+      "niches": [
+        "ocean-marine"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@montereybayaquarium",
+      "name": "Monterey Bay Aquarium",
+      "topics": [
+        "animals",
+        "nature"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "why": "Gentle close-ups of sea otters, jellies, sharks and octopuses plus behind-the-scenes care stories make ocean animals feel knowable and worth protecting for even the youngest viewers.",
+      "note": "Mix of short creature features, live-cam clips and longer explainers; some very short videos but all calm and kid-safe.",
+      "verified": true,
+      "niches": [
+        "ocean-marine"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@naturalworldfacts",
+      "name": "Natural World Facts",
+      "topics": [
+        "science",
+        "nature",
+        "animals"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Its 'Deep Sea Wonders' series takes kids on a layer-by-layer descent into the ocean's darkest zones, revealing bioluminescent and bizarre creatures with calm, documentary-grade storytelling.",
+      "note": "Long-form, narrated like a nature doc; some eerie deep-sea footage but not gory. Best for 8-12.",
+      "verified": true,
+      "niches": [
+        "ocean-marine"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@oceanexplorergov",
+      "name": "NOAA Ocean Exploration",
+      "topics": [
+        "exploration",
+        "science",
+        "animals"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "The US government's deep-sea expedition footage maps and films unexplored seafloor, giving kids the sense that huge parts of our own planet are still being seen for the very first time.",
+      "note": "Official NOAA channel; ROV dive footage and expedition recaps, mostly long-form and calmly narrated.",
+      "verified": true,
+      "niches": [
+        "ocean-marine"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@oceanx",
+      "name": "OceanX",
+      "topics": [
+        "exploration",
+        "science",
+        "tech"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Cinematic expeditions aboard a high-tech research ship, complete with submersibles and sharks, make ocean exploration feel like a real-life adventure mission.",
+      "note": "Cinematic long-form and some shorts; National Geographic/BBC collaborations. A larger channel but central to marine exploration.",
+      "verified": true,
+      "niches": [
+        "ocean-marine"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@schmidtocean",
+      "name": "Schmidt Ocean Institute",
+      "topics": [
+        "exploration",
+        "science",
+        "nature"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Livestreamed dives from ROV SuBastian discover new coral and crab species in 4K, letting kids witness science that hasn't even made it into books yet.",
+      "note": "Long livestream dives plus edited highlights; scientist narration explains sightings. Advertiser-safe.",
+      "verified": true,
+      "niches": [
+        "ocean-marine"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@themarinediaries",
+      "name": "The Marine Diaries",
+      "topics": [
+        "nature",
+        "science",
+        "animals"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "A marine-science nonprofit tells the stories of the ocean through creature spotlights and conservation tales, bridging real research and a young audience's questions.",
+      "note": "Educational storytelling videos from a conservation nonprofit; long-form and advertiser-safe.",
+      "verified": true,
+      "niches": [
+        "ocean-marine"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@whoi",
+      "name": "Woods Hole Oceanographic Institution",
+      "topics": [
+        "science",
+        "exploration",
+        "engineering"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "The world's top ocean research institute shows kids the submersibles (like Alvin) and science used to study hydrothermal vents, deep reefs and shipwrecks, linking curiosity to how discovery actually works.",
+      "note": "Research-oriented explainers and expedition footage; somewhat drier, best for motivated 8-12 viewers.",
+      "verified": true,
+      "niches": [
+        "ocean-marine"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@appliedscience",
+      "name": "Applied Science",
+      "topics": [
+        "science",
+        "engineering"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Ben Krasnow builds real lab instruments (electron microscopes, X-ray machines) revealing the physics of electrons, light, and magnetism up close.",
+      "note": "Long-form, infrequent; genuinely advanced/adult-leaning, best for the most science-hungry 11-12 year olds; advertiser-safe.",
+      "verified": true,
+      "niches": [
+        "physics-motion"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@brancheducation",
+      "name": "Branch Education",
+      "topics": [
+        "tech",
+        "engineering",
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Ultra-detailed 3D tours inside phones, screens, and hard drives show the electromagnetism and mechanics powering modern gadgets.",
+      "note": "Long-form animated deep-dives; fairly advanced, best for older curious kids (10-12).",
+      "verified": true,
+      "niches": [
+        "physics-motion",
+        "electronics-tinkering",
+        "architecture-cities"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@jaredowen",
+      "name": "Jared Owen",
+      "topics": [
+        "engineering",
+        "science"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "why": "Beautiful Blender animations take apart rockets, locks, and instruments so kids can see every moving part and how it works.",
+      "note": "Long-form 3D animation; visually accessible enough for younger viewers with an adult, great for 8-12 solo.",
+      "verified": true,
+      "niches": [
+        "physics-motion"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@physicsfun",
+      "name": "physicsfun",
+      "topics": [
+        "science"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "why": "Mesmerizing desk toys, gyroscopes, and magnets make gravity, inertia, and magnetism feel like real-life magic that begs to be explained.",
+      "note": "Caveat: mostly short-form clips rather than long-form; each captures one physics-toy phenomenon, superb for sparking 'how does that work?' wonder in all ages.",
+      "verified": true,
+      "niches": [
+        "physics-motion"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@practicalengineeringchannel",
+      "name": "Practical Engineering",
+      "topics": [
+        "engineering",
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Grady builds tabletop models of dams, bridges, and arches to show the invisible forces holding up the human-made world.",
+      "note": "Long-form, roughly biweekly; clear narration with hands-on physical demos; best for 8-12.",
+      "verified": true,
+      "niches": [
+        "physics-motion",
+        "architecture-cities"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@smartereveryday",
+      "name": "SmarterEveryDay",
+      "topics": [
+        "science",
+        "engineering"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Destin uses slow-motion and clever experiments to unpack the physics of spinning, flying, and everyday motion with infectious curiosity.",
+      "note": "Larger channel but genuinely central to the how-things-move niche; long-form, family-friendly. Handle is my best guess (@smartereveryday) pending the downstream check.",
+      "verified": false,
+      "niches": [
+        "physics-motion"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@stevemould",
+      "name": "Steve Mould",
+      "topics": [
+        "science",
+        "engineering"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "He chases the hidden physics behind everyday oddities, showing why chains fountain out of a beaker or a spinning top defies gravity so kids keep asking 'but WHY?'",
+      "note": "Long-form explainers, roughly weekly; calm, witty, advertiser-safe; best for 8-12 who can follow a chain of reasoning.",
+      "verified": true,
+      "niches": [
+        "physics-motion"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@theefficientengineer",
+      "name": "The Efficient Engineer",
+      "topics": [
+        "engineering",
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Clean animations explain stress, forces, and how structures bend or break, connecting Newton's laws to real bridges and beams.",
+      "note": "Long-form; leans toward the upper end of 8-12 and beyond; calm, textbook-clear.",
+      "verified": true,
+      "niches": [
+        "physics-motion",
+        "architecture-cities"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@theslowmoguys",
+      "name": "The Slow Mo Guys",
+      "topics": [
+        "science"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "why": "Filming everyday events at thousands of frames per second reveals the physics of impacts, ripples, and bouncing that the eye can never catch.",
+      "note": "Long-form, visually mesmerizing for all ages; occasional loud bangs/mild peril and some balloon-pop startle moments, generally advertiser-safe.",
+      "verified": true,
+      "niches": [
+        "physics-motion"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@tomstantonengineering",
+      "name": "Tom Stanton",
+      "topics": [
+        "engineering",
+        "making"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "He designs, 3D-prints, and tests his own machines, so kids watch aerodynamics, friction, and momentum play out in real builds.",
+      "note": "Long-form DIY engineering projects; methodical build-and-test format that models the design process.",
+      "verified": true,
+      "niches": [
+        "physics-motion"
+      ],
+      "status": "new",
+      "http": "303",
+      "live": true
+    },
+    {
+      "handle": "@artforkidshub",
+      "name": "Art for Kids Hub",
+      "topics": [
+        "art",
+        "making"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "why": "A warm dad draws alongside his own kids, guiding step-by-step so children feel they can create anything.",
+      "note": "Follow-along drawing/craft lessons; simplest tutorials suit 3-5, harder ones skew older; family-run but purely instructional, not a vlog.",
+      "verified": true,
+      "niches": [
+        "preschool-curiosity",
+        "drawing-painting"
+      ],
+      "status": "existing",
+      "http": "existing",
+      "live": true
+    },
+    {
+      "handle": "@freeschool",
+      "name": "Free School",
+      "topics": [
+        "science",
+        "nature",
+        "reading",
+        "art",
+        "geography",
+        "history"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "why": "Calm, warm narration walks little ones through real animals, famous art, and how-things-work topics one gentle idea at a time.",
+      "note": "Long-form (5-10 min) narrated slideshows with real photos; sophisticated but soothing, no screaming or fast cuts.",
+      "verified": true,
+      "niches": [
+        "preschool-curiosity",
+        "human-body-biology",
+        "weather-climate",
+        "maps-geography",
+        "ancient-civilizations"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@kidzlearningtube",
+      "name": "Kids Learning Tube",
+      "topics": [
+        "space",
+        "geography",
+        "science"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "why": "Catchy original songs and animation teach the planets, the body, and the map of the world so facts actually stick.",
+      "note": "Music-video format; each planet/country/system gets its own song. Handle spelled with a 'z' (@KidzLearningTube).",
+      "verified": true,
+      "niches": [
+        "preschool-curiosity"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@maddiemoate",
+      "name": "Maddie Moate",
+      "topics": [
+        "science",
+        "nature"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "why": "BAFTA-winning presenter models genuine wonder, asking curious 'why' questions about plants, animals, and everyday tech and hunting down the answers.",
+      "note": "Warm live-action presenter; some videos skew a touch older (5-9), so pair with a parent for the youngest.",
+      "verified": true,
+      "niches": [
+        "preschool-curiosity"
+      ],
+      "status": "new",
+      "http": "303",
+      "live": true
+    },
+    {
+      "handle": "@numberblocks",
+      "name": "Numberblocks",
+      "topics": [
+        "maths"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "why": "Turns numbers into lovable characters so preschoolers intuitively discover counting, adding, and patterns through playful stories.",
+      "note": "BBC/Learning Blocks show; bright but thoughtfully structured, genuinely central to early-maths curiosity.",
+      "verified": true,
+      "niches": [
+        "preschool-curiosity"
+      ],
+      "status": "existing",
+      "http": "existing",
+      "live": true
+    },
+    {
+      "handle": "@officialalphablocks",
+      "name": "Alphablocks",
+      "topics": [
+        "reading"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "why": "Living letters hold hands to build words, giving kids a delightful, sound-by-sound foundation in phonics.",
+      "note": "Companion to Numberblocks; short animated episodes built on a real synthetic-phonics scheme.",
+      "verified": true,
+      "niches": [
+        "preschool-curiosity"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@pancakemanor",
+      "name": "Pancake Manor - Kids Songs",
+      "topics": [
+        "music"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "why": "Puppets Zach and Reggie sing warm, alt-rock-flavored original songs about counting, colors, and feelings without any hyper nursery-rhyme churn.",
+      "note": "Made by two parents; friendly puppet music videos, calm and genuinely musical.",
+      "verified": true,
+      "niches": [
+        "preschool-curiosity"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@peepwgbh",
+      "name": "Peep and the Big Wide World",
+      "topics": [
+        "science",
+        "nature"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "why": "A hatchling and friends stumble into everyday science questions in a park, modeling gentle observation and discovery for preschoolers.",
+      "note": "Emmy-winning PBS science-for-preschoolers show; calm pace, mixes animation with real kids experimenting.",
+      "verified": true,
+      "niches": [
+        "preschool-curiosity"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@supersimpleplay",
+      "name": "Super Simple Play with Caitie",
+      "topics": [
+        "music",
+        "making"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "why": "Ms. Caitie's gentle, face-to-camera classroom invites toddlers to sing, move, craft, and explore real objects together.",
+      "note": "Warm human presenter, slow pace, follow-along songs and simple crafts; from the Super Simple team but not the nursery-rhyme mega-channel.",
+      "verified": true,
+      "niches": [
+        "preschool-curiosity"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@thedadlab",
+      "name": "TheDadLab",
+      "topics": [
+        "making",
+        "science",
+        "engineering"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "why": "A dad and his young sons run simple kitchen-table STEM experiments that reveal everyday science hands-on.",
+      "note": "Some clips are short; longer compilation videos exist. Gentle, curiosity-first, uses household materials.",
+      "verified": true,
+      "niches": [
+        "preschool-curiosity"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@wildkratts",
+      "name": "Wild Kratts",
+      "topics": [
+        "animals",
+        "nature"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "why": "The Kratt brothers zoom into animals' 'creature powers,' sparking real curiosity about how wildlife lives and survives.",
+      "note": "PBS animated/live-action series; energetic but educational and advertiser-safe, skews 4-8.",
+      "verified": true,
+      "niches": [
+        "preschool-curiosity"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@adafruit",
+      "name": "Adafruit Industries",
+      "topics": [
+        "making",
+        "tech",
+        "engineering",
+        "coding"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Founder Limor 'Ladyada' Fried and team demystify circuits, sensors and microcontrollers so kids see the electronics that make robots move.",
+      "note": "Long-form maker/electronics show-and-tell; some segments technical, best for motivated ages 10+.",
+      "verified": true,
+      "niches": [
+        "robotics-ai",
+        "electronics-tinkering"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@bostondynamics",
+      "name": "Boston Dynamics",
+      "topics": [
+        "tech",
+        "engineering"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "why": "Jaw-dropping footage of Atlas and Spot walking, dancing and doing parkour sparks endless 'how does it do that?' wonder about real robots.",
+      "note": "Official showcase channel; many clips are short (under 3 min) so pair with longer 'behind the scenes' videos; no narration on some.",
+      "verified": true,
+      "niches": [
+        "robotics-ai"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@codeorg",
+      "name": "Code.org",
+      "topics": [
+        "coding",
+        "tech"
+      ],
+      "profiles": [
+        "big",
+        "little"
+      ],
+      "why": "Clear short explainers on how AI and neural networks actually work help kids understand the tech behind the tools they use.",
+      "note": "Nonprofit; classroom-oriented 'How AI Works' series plus coding videos; ages 9+.",
+      "verified": true,
+      "niches": [
+        "robotics-ai",
+        "coding-gamedev"
+      ],
+      "status": "new",
+      "http": "303",
+      "live": true
+    },
+    {
+      "handle": "@crunchlabs",
+      "name": "CrunchLabs",
+      "topics": [
+        "engineering",
+        "making"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Breaks down how real robots and mechanisms work with hands-on build-alongs that make kids want to think like an engineer.",
+      "note": "Founded by Mark Rober but a distinct build/robotics channel central to this niche; long-form, upbeat, advertiser-safe.",
+      "verified": true,
+      "niches": [
+        "robotics-ai"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@firstroboticscompetition",
+      "name": "FIRST Robotics Competition",
+      "topics": [
+        "engineering",
+        "tech"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Watching student teams design and drive competition robots shows kids that building robots is a real, thrilling team sport.",
+      "note": "Official competition channel; some content is match streams, so pick the highlight/behind-the-scenes videos; handle unconfirmed.",
+      "verified": false,
+      "niches": [
+        "robotics-ai"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@jamesbruton",
+      "name": "James Bruton",
+      "topics": [
+        "engineering",
+        "tech"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "A former toy designer builds real self-balancing robots, robot dogs and BB-8 from scratch, narrating the engineering decisions as he goes.",
+      "note": "Long-form DIY robotics; calm and clean; some 3D-printing/electronics detail skews to ages 9+.",
+      "verified": true,
+      "niches": [
+        "robotics-ai"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@jeremy_fielding",
+      "name": "Jeremy Fielding",
+      "topics": [
+        "engineering"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "He explains the mechanical heart of robots-motors, gears and actuators-by taking real machines apart and building his own.",
+      "note": "Long-form mechanical engineering; patient teacher tone; ages 9+ interested in how motion works.",
+      "verified": true,
+      "niches": [
+        "robotics-ai"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@kidsinventstuff",
+      "name": "Kids Invent Stuff",
+      "topics": [
+        "engineering",
+        "making"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "why": "Real engineers Ruth and Shawn actually build the wild invention ideas kids send in, showing that a child's sketch can become a working machine.",
+      "note": "Long-form, roughly monthly builds; UK; explicitly aimed at ages 4-11, one of the few genuinely little-friendly engineering channels.",
+      "verified": true,
+      "niches": [
+        "robotics-ai",
+        "electronics-tinkering"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@stempedia",
+      "name": "STEMpedia",
+      "topics": [
+        "coding",
+        "tech"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Hands-on projects using block coding and PictoBlox let kids train simple AI models and build line-follower robots themselves.",
+      "note": "Tutorial/product-adjacent (PictoBlox) but genuinely teaches AI/ML for kids; ages 9+. Handle is best guess.",
+      "verified": false,
+      "niches": [
+        "robotics-ai"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@stuffmadehere",
+      "name": "Stuff Made Here",
+      "topics": [
+        "engineering",
+        "making"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Shane Wighton builds absurdly ambitious robots-a haircut robot, an unmissable basketball hoop-showing real iterative engineering and failure.",
+      "note": "Long-form, brilliant problem-solving; occasional very mild language and a few power tools, best for ages 10+.",
+      "verified": true,
+      "niches": [
+        "robotics-ai"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@teachkidsrobotics",
+      "name": "Teach Kids Robotics",
+      "topics": [
+        "tech",
+        "engineering"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "why": "Simple, visual explanations of what robots are and how they sense and move, pitched directly at young learners.",
+      "note": "Niche kid-focused channel; smaller catalog and lighter production; good entry point for younger kids.",
+      "verified": true,
+      "niches": [
+        "robotics-ai"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@thecodingtrain",
+      "name": "The Coding Train",
+      "topics": [
+        "coding",
+        "tech"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Daniel Shiffman's infectiously enthusiastic tutorials turn coding, neural networks and machine learning into playful creative experiments kids can copy.",
+      "note": "Long-form beginner-friendly coding; energetic but not dopamine-bait; ages 9+ who can follow along on a computer.",
+      "verified": true,
+      "niches": [
+        "robotics-ai"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@twominutepapers",
+      "name": "Two Minute Papers",
+      "topics": [
+        "tech",
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Bite-sized, awe-filled tours of cutting-edge AI research show kids what machines are newly able to do and why it is amazing.",
+      "note": "Advertiser-safe and visual, but concepts skew older; best for curious ages 11-12.",
+      "verified": true,
+      "niches": [
+        "robotics-ai"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@vexrobotics",
+      "name": "VEX Robotics",
+      "topics": [
+        "engineering",
+        "tech"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Reveals of yearly robotics challenges and student builds inspire kids to imagine designing and programming their own competition robot.",
+      "note": "Official channel spanning VEX IQ (elementary) to V5; multiple regional channels exist, so handle is a best guess.",
+      "verified": false,
+      "niches": [
+        "robotics-ai"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@biglifejournal",
+      "name": "Big Life Journal",
+      "topics": [
+        "reading",
+        "art"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "why": "Warm animated 'Buddies' episodes spark growth-mindset thinking, helping kids reframe mistakes and keep trying.",
+      "note": "Growth-mindset/SEL animated series plus parent resources; niche gem. Channel URL uses /c/BigLifeJournal.",
+      "verified": false,
+      "niches": [
+        "sel-mindfulness"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@classdojo",
+      "name": "ClassDojo (Big Ideas / Mojo)",
+      "topics": [
+        "reading",
+        "science"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "why": "Mojo the monster learns about growth mindset, empathy, gratitude and mindfulness in short animated stories that make brain-and-feelings science fun.",
+      "note": "'Big Ideas' SEL animated series is the draw; channel also hosts teacher tutorials. Warm and kid-friendly.",
+      "verified": false,
+      "niches": [
+        "sel-mindfulness"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@cosmickidsyoga",
+      "name": "Cosmic Kids Yoga",
+      "topics": [
+        "reading",
+        "nature"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "why": "Jaime turns breathing, stretching and calm-down into interactive story adventures so kids feel their feelings settle while they move.",
+      "note": "Storytelling yoga plus 'Zen Den' and 'Peace Out' mindfulness/relaxation series; long-form, calm, advertiser-safe. Core channel of this niche.",
+      "verified": true,
+      "niches": [
+        "sel-mindfulness"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@everydayspeech",
+      "name": "Everyday Speech",
+      "topics": [
+        "reading"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Short video-modeling scenarios show real kids navigating friendship, sharing feelings and self-regulation, sparking 'what would I do?' reflection.",
+      "note": "Evidence-based social-skills / video-modeling clips; instructional/classroom tone. Niche SEL gem.",
+      "verified": false,
+      "niches": [
+        "sel-mindfulness"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@gozenonline",
+      "name": "GoZen!",
+      "topics": [
+        "reading",
+        "science"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "why": "Animated stories make anxiety, worry and big feelings visible so kids get curious about the science of their own emotions and simple coping skills.",
+      "note": "Animated SEL/anxiety-relief shorts and lessons; some content aimed at parents/teachers. Lesser-known gem.",
+      "verified": false,
+      "niches": [
+        "sel-mindfulness"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@mindyeti",
+      "name": "Mind Yeti",
+      "topics": [
+        "music",
+        "nature"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "why": "Guided 'hums' with soothing soundscapes teach kids to focus attention, calm down and connect with kindness and gratitude.",
+      "note": "Research-based guided mindfulness audio from nonprofit Committee for Children; ages 5-12. Calm, lesser-known.",
+      "verified": false,
+      "niches": [
+        "sel-mindfulness"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@moshikids",
+      "name": "Moshi Kids",
+      "topics": [
+        "reading",
+        "nature"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "why": "Dreamy bedtime stories and guided SEL meditations help kids wind down, name feelings and fall asleep calm.",
+      "note": "Sleep/mindfulness bedtime stories and mindful exercises; wind-down content, not active learning. Handle best-guess.",
+      "verified": false,
+      "niches": [
+        "sel-mindfulness"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@newhorizonholisticcentre",
+      "name": "New Horizon - Meditation & Sleep Stories",
+      "topics": [
+        "reading",
+        "nature"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "why": "Gentle guided sleep stories and meditations that let kids drift into imagined worlds while learning to relax their bodies and minds.",
+      "note": "Long-form bedtime meditations/sleep stories; very calm and warm. Best for wind-down; not active-learning.",
+      "verified": true,
+      "niches": [
+        "sel-mindfulness"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@sesamestreet",
+      "name": "Sesame Street",
+      "topics": [
+        "reading",
+        "music"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "why": "Elmo and friends sing and story their way through emotions, kindness and empathy, giving little kids warm language for big feelings.",
+      "note": "Large channel, but feelings/kindness SEL is genuinely central to its mission; use emotions/kindness playlists. Best for ages 3-6.",
+      "verified": true,
+      "niches": [
+        "sel-mindfulness"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@slumberkins",
+      "name": "Slumberkins",
+      "topics": [
+        "reading"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "why": "Cuddly creature characters read gentle storybooks that name feelings and model kindness, self-esteem and calm.",
+      "note": "SEL storytime with plush characters (from family therapist + educator); best for ages 3-6. Lesser-known gem.",
+      "verified": false,
+      "niches": [
+        "sel-mindfulness"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@smilingmind",
+      "name": "Smiling Mind",
+      "topics": [
+        "nature",
+        "music"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "why": "Animated mindfulness intros and short practices (like 'Bubble Bounce' mindful looking) teach kids simple attention and calming skills.",
+      "note": "Australian mental-health nonprofit; mix of kids and some adult meditation content. Handle unconfirmed; also /user/SmilingMindTV.",
+      "verified": false,
+      "niches": [
+        "sel-mindfulness"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@climateadam",
+      "name": "ClimateAdam",
+      "topics": [
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "An Oxford-trained atmospheric physicist uses playful sketches and props to answer real climate-science questions kids actually wonder about.",
+      "note": "Comedic explainer videos, mostly 5-12 min; upbeat and hopeful tone rather than doom-y.",
+      "verified": true,
+      "niches": [
+        "weather-climate"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@crashcoursekids",
+      "name": "Crash Course Kids",
+      "topics": [
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Energetic host Sabrina unpacks weather vs. climate, severe storms and jet streams with real NGSS science that rewards curious questions.",
+      "note": "Legacy channel (archive of ~4-min episodes), strong weather/climate playlist; handle follows the /user/crashcoursekids channel.",
+      "verified": true,
+      "niches": [
+        "weather-climate"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@learnthesky",
+      "name": "Learn the Sky",
+      "topics": [
+        "space",
+        "science"
+      ],
+      "profiles": [
+        "big",
+        "little"
+      ],
+      "why": "A science teacher shows how to find constellations, planets and celestial events with the naked eye, turning the night sky into a map kids can read.",
+      "note": "Calm, hands-on stargazing guides plus star mythology; gets families outside looking up.",
+      "verified": true,
+      "niches": [
+        "weather-climate"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@metofficelearnaboutweather",
+      "name": "Met Office - Learn About Weather",
+      "topics": [
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "The UK's national forecaster explains clouds, wind, the water cycle and climate with real meteorologists and clean graphics.",
+      "note": "Educational sub-channel of the Met Office; short-to-medium explainers, advertiser-safe and authoritative.",
+      "verified": true,
+      "niches": [
+        "weather-climate"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@minuteearth",
+      "name": "MinuteEarth",
+      "topics": [
+        "science",
+        "nature",
+        "geography"
+      ],
+      "profiles": [
+        "big",
+        "little"
+      ],
+      "why": "Snappy animated shorts answer surprising questions about weather, seasons, clouds and climate that make kids go 'wait, why IS that?'",
+      "note": "Large channel but central to Earth/weather science; 2-5 min animated explainers, some read-along pace for little ones.",
+      "verified": true,
+      "niches": [
+        "weather-climate",
+        "maps-geography"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@pbsterra",
+      "name": "PBS Terra",
+      "topics": [
+        "science",
+        "nature"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "The 'Weathered' series, hosted by a meteorologist, investigates why extreme weather is changing and how communities adapt, connecting sky science to the real world.",
+      "note": "Documentary-style, ~10-15 min; disaster themes (fires, floods) handled thoughtfully but suit older kids.",
+      "verified": true,
+      "niches": [
+        "weather-climate"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@pecoshank",
+      "name": "Pecos Hank",
+      "topics": [
+        "science",
+        "nature"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Cinematic, patiently narrated storm-chasing films turn tornadoes, supercells, lightning and rare sky phenomena into awe-filled natural-history lessons.",
+      "note": "Long-form documentary style; genuinely educational but contains intense real tornado/storm footage, so best for older kids.",
+      "verified": true,
+      "niches": [
+        "weather-climate"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@peekabookidz",
+      "name": "Peekaboo Kidz (The Dr. Binocs Show)",
+      "topics": [
+        "science"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "why": "Friendly animated Dr. Binocs breaks down rain, the water cycle, rainbows, thunder and seasons into bite-size 'aha' moments for young kids.",
+      "note": "Colorful animation, ~3-6 min; broad science channel with strong weather/water-cycle playlists.",
+      "verified": true,
+      "niches": [
+        "weather-climate"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@simonclark",
+      "name": "Simon Clark",
+      "topics": [
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "A PhD atmospheric physicist clearly explains how the atmosphere, jet streams and climate actually work, sparking deeper 'how does the sky work' curiosity.",
+      "note": "Long-form explainers; skews to upper end of the age range (11-12) and older teens.",
+      "verified": true,
+      "niches": [
+        "weather-climate"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    },
+    {
+      "handle": "@tamithaskov",
+      "name": "Tamitha Skov - Space Weather Woman",
+      "topics": [
+        "space",
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "A space-weather scientist forecasts solar storms and auroras, revealing that even the Sun has 'weather' that lights up our sky.",
+      "note": "Handle unconfirmed (best guess); forecasts get technical (radio, GPS) so better for older, keen kids.",
+      "verified": false,
+      "niches": [
+        "weather-climate"
+      ],
+      "status": "new",
+      "http": "200",
+      "live": true
+    }
+  ]
+}

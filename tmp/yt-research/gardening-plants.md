@@ -1,0 +1,36 @@
+# Gardening, plants & growing
+_11 channels_
+
+- **@gardenmarcuskids** — Discover, Grow, Bloom with Garden Marcus · [nature, making] · [little]
+  - Calm, warm garden lessons with songs and movement invite little ones to touch soil, plant seeds, and wonder how living things grow.
+  - _Kids' spin-off of Garden Marcus (Marcus Bridgewater); low-stimulation, wholesome, aimed at toddlers/preschool; short-to-medium episodes._
+- **@KidsGardeningorg** — KidsGardening.org · [nature, making, science] · [little, big]
+  - A nonprofit that turns real garden projects into hands-on discovery, showing kids how to sprout seeds, build planters, and observe plant life cycles.
+  - _Educator/parent-facing how-to and activity videos; steady library, family- and classroom-friendly._
+- **@SkinnyJeanGardener** — Children's Gardening Coach (Skinny Jean Gardener) · [nature, making] · [little, big] ⚠︎unverified
+  - UK children's gardening coach (Blue Peter's) makes growing feel like a playful adventure with school-garden tours and easy grow-along projects for kids.
+  - _Lee Connelly; recently rebranded from Skinny Jean Gardener; energetic but advertiser-safe, kid-focused._
+- **@GuidingGreenThumbs** — Guiding Green Thumbs · [nature, making] · [big]
+  - Gentle, clear how-to videos on planting, saving seeds, and welcoming bees and butterflies spark the urge to start a real backyard garden.
+  - _Zone-5 organic kitchen and flower gardening; calm long-form; adult host but easy for older kids to follow._
+- **@HuwRichards** — Huw Richards · [nature, making] · [big]
+  - A grower who started his own channel at age 12 shows how to raise loads of food from almost nothing, proving kids can grow real harvests.
+  - _Permaculture / grow-your-own; long-form; some episodes are advanced but inspiring for tweens._
+- **@GrowVeg** — GrowVeg · [nature, science] · [big]
+  - Friendly animated diagrams and garden walkthroughs explain the why behind planting, crop rotation, and composting so growing makes sense.
+  - _Ben Vanheems; polished, no-nonsense vegetable-gardening guides; long-form, very advertiser-safe._
+- **@Boxlapse** — Boxlapse · [science, nature] · [little, big]
+  - Mesmerizing seed-to-fruit time-lapses let kids watch weeks of hidden root and shoot growth unfold in minutes, sparking pure botanical wonder.
+  - _Finland-based; mostly music/no narration; compilation videos run several minutes; universally kid-safe._
+- **@neilbromhall** — Neil Bromhall · [science, nature] · [little, big] ⚠︎unverified
+  - Beautiful studio time-lapses of germinating seeds and opening flowers reveal the secret motion of plants that kids never get to see in real time.
+  - _Professional plant/flower/fungi time-lapses; short-to-medium, calm; best-guess handle (channel also at youtube.com/user/neilbromhall)._
+- **@MIgardener** — MIgardener · [nature, making] · [big]
+  - Started at 16, Luke shows how a few cheap seeds become a whole garden, teaching frugal, organic growing that empowers kids to start their own plot.
+  - _Organic grow-from-seed and homesteading; frequent long-form uploads; adult host, great for motivated tweens._
+- **@CarnivorousPlantsHub** — Carnivorous Plants Hub · [nature, science] · [big]
+  - Care guides and close-ups of Venus flytraps and pitcher plants tap into kids' fascination with plants that catch and eat insects.
+  - _Enthusiast-run carnivorous-plant growing; how-to and update videos; mild bug-eating footage, fine for curious 8-12s._
+- **@epicgardening** — Epic Gardening · [nature, making] · [big]
+  - In-depth, well-shot grow guides answer endless how-and-why plant questions, making it the go-to hub for kids ready to garden seriously.
+  - _Large channel central to the niche (Kevin Espiritu); long-form, advertiser-safe; adult-oriented but broadly kid-appropriate._

@@ -1,0 +1,165 @@
+{
+  "slug": "coding-gamedev",
+  "title": "Coding & game-making for kids",
+  "channels": [
+    {
+      "handle": "@griffpatch",
+      "name": "griffpatch",
+      "topics": [
+        "coding",
+        "making"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Step-by-step Scratch tutorials turn kids from players into makers by building real games like platformers and space shooters block by block.",
+      "note": "Long-form project series; the gold standard for Scratch game-making, best for ages 8+ who can follow multi-step builds.",
+      "verified": true
+    },
+    {
+      "handle": "@scratchteam",
+      "name": "Scratch Team",
+      "topics": [
+        "coding",
+        "making",
+        "art"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "why": "The official MIT Scratch channel shows kids how to program their own interactive stories, animations and games with friendly starter ideas.",
+      "note": "Official nonprofit (scratch.mit.edu); mix of short inspiration clips and tutorials, gentle enough to introduce coding to younger kids.",
+      "verified": true
+    },
+    {
+      "handle": "@codeorg",
+      "name": "Code.org",
+      "topics": [
+        "coding",
+        "tech"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "why": "Bite-size, beautifully explained lessons demystify how computers, loops and conditions work using drag-and-drop block coding for all ages.",
+      "note": "Nonprofit; huge library from pre-reader Hour of Code up to CS concepts, advertiser-safe and classroom-tested.",
+      "verified": true
+    },
+    {
+      "handle": "@Tynker",
+      "name": "Tynker",
+      "topics": [
+        "coding",
+        "making"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "why": "Playful walkthroughs show kids how block coding leads into building Minecraft mods and their own games, giving creativity a clear on-ramp.",
+      "note": "Company channel with some promotional videos; strongest content is the coding walkthroughs for beginners.",
+      "verified": true
+    },
+    {
+      "handle": "@codakid9517",
+      "name": "CodaKid",
+      "topics": [
+        "coding",
+        "making"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Project-based tutorials teach real coding by building things kids love, from Roblox games to Minecraft mods, connecting code to creation.",
+      "note": "Kids-coding academy (ages 8+); some course-promo content mixed with genuine tutorial walkthroughs.",
+      "verified": true
+    },
+    {
+      "handle": "@AlvinBlox",
+      "name": "AlvinBlox",
+      "topics": [
+        "coding",
+        "tech"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Clear beginner-to-pro Roblox Studio and Lua scripting lessons let kids see how a real game is built line by line.",
+      "note": "Long-form scripting tutorials; best for motivated 9-12s ready for text-based code, from a veteran Roblox dev.",
+      "verified": true
+    },
+    {
+      "handle": "@TheDevKing",
+      "name": "TheDevKing",
+      "topics": [
+        "coding",
+        "tech"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Numbered Roblox scripting series build coding confidence step by step, teaching variables, events and functions through game-making.",
+      "note": "Structured beginner and advanced playlists; text-scripting focus suits ages 9+.",
+      "verified": true
+    },
+    {
+      "handle": "@BrawlDevRBLX",
+      "name": "BrawlDev",
+      "topics": [
+        "coding",
+        "tech"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Friendly, well-paced Roblox beginner scripting guides make a kid's first working game feel achievable and exciting.",
+      "note": "Beginner/advanced/GUI playlists with 50+ episodes; approachable entry point to Roblox Studio for ages 8+.",
+      "verified": true
+    },
+    {
+      "handle": "@ThatMumboJumbo",
+      "name": "Mumbo Jumbo",
+      "topics": [
+        "engineering",
+        "making"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Redstone builds turn Minecraft into a logic-and-engineering playground, sparking wonder at how circuits, gates and machines actually work.",
+      "note": "Large, central redstone channel; upbeat but substantive engineering content, occasional fast-paced editing, great for ages 8+.",
+      "verified": true
+    },
+    {
+      "handle": "@learnwithminecrafteducation",
+      "name": "Learn With Minecraft Education",
+      "topics": [
+        "coding",
+        "making",
+        "engineering"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Official lessons show kids how to code agents, build machines and solve challenges inside Minecraft, blending play with real CS concepts.",
+      "note": "Microsoft's education channel; classroom-oriented tutorials, advertiser-safe, handle unconfirmed.",
+      "verified": false
+    },
+    {
+      "handle": "@GriffpatchAcademy",
+      "name": "Griffpatch Academy",
+      "topics": [
+        "coding",
+        "making"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "A structured 'gamer to game creator' path guides kids through building complete Scratch games with clear milestones.",
+      "note": "Griffpatch's dedicated beginner academy channel; more scaffolded than the main channel, handle unconfirmed.",
+      "verified": false
+    }
+  ]
+}

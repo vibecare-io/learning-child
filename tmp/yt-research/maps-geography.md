@@ -1,0 +1,39 @@
+# Maps & geography
+_12 channels_
+
+- **@AtlasPro1** — Atlas Pro · [geography, nature, science] · [big]
+  - Explains why mountains, deserts, rivers and biomes sit where they do, turning a world map into a giant cause-and-effect puzzle.
+  - _Long-form physical-geography and biogeography documentaries; calm, well-illustrated; more recent videos lean toward biology/extinct animals._
+- **@geodiode** — Geodiode · [geography, nature, science] · [big]
+  - Beautiful tours of Earth's climate zones and biomes show kids how latitude and landscape decide whether a place is rainforest, tundra or desert.
+  - _Long-form documentary style with stunning footage; a full 'biomes course'; slower pace suits focused viewing._
+- **@GeographyNow** — Geography Now · [geography, history] · [big]
+  - An energetic country-by-country tour of flags, landforms and culture that makes every nation on the map feel like a real place worth knowing.
+  - _Fast, funny host; covered every UN country A-Z; mostly culture/geography, occasional light political mentions; ~10-15 min episodes._
+- **@JayForeman** — Map Men (Jay Foreman & Mark Cooper-Jones) · [geography, history] · [big]
+  - Comedy explainers on why borders, place names and maps look so weird spark 'wait, why IS it like that?' curiosity.
+  - _British musical-comedy edutainment; snappy but genuinely educational; also has Unfinished London; occasional dry adult-aimed jokes._
+- **@CGPGrey** — CGP Grey · [geography, history, tech] · [big]
+  - His signature videos on strange borders, flag design and 'what counts as a country' are core map-curiosity fuel.
+  - _Crisp animated explainers; central to the maps/flags niche despite being well-known; some non-geography topics in the catalog._
+- **@GeoWizard** — GeoWizard · [geography, exploration] · [big]
+  - Straight-line missions and GeoGuessr feats show kids you can 'read' any landscape from clues, making real-world navigation feel like a superpower.
+  - _Long-form UK adventure/geoguessing; upbeat; occasional mild language and fatigue-driven grumbling; best for older kids._
+- **@MinuteEarth** — MinuteEarth · [science, nature, geography] · [big]
+  - Short animated answers to why coastlines, rivers and continents look the way they do connect the map to the science under it.
+  - _~3-5 min stick-figure animations; broad earth-science scope with many geography topics; advertiser-safe._
+- **@KidsLearningTube_** — Kids Learning Tube · [geography, music, science] · [little]
+  - Catchy animated songs about continents, countries and flags help the youngest kids sing the world map into memory.
+  - _Sing-along animation for early learners; large geography catalog; animation style changed after 2022 acquisition._
+- **@KLTGeography** — KLT Geography · [geography, music] · [little]
+  - A geography-only spinoff of song-based lessons on countries, continents, oceans and natural features made just for little explorers.
+  - _Dedicated kids' geography channel; musical/animated; short-to-medium songs._
+- **@freeschool** — Free School · [geography, history, art] · [little, big]
+  - Gentle, safe tours of landforms, oceans and famous places invite young kids to explore the world without any hype or noise.
+  - _Calm narrated educational videos for grades ~K-6; also covers art, science and biographies; very advertiser-safe._
+- **@homeschoolpop** — Homeschool Pop · [geography, science] · [little, big]
+  - Friendly continent, country and landform lessons with quizzes turn map basics into a fun classroom-style adventure.
+  - _Elementary-focused host with simple animation and interactive questions; broad K-5 subject range._
+- **@flagpedia_net** — Flagpedia · [geography] · [big]
+  - Breaking down what every flag's colors and symbols actually mean turns flag-spotting into decoding each country's story.
+  - _Flag-explainer and guess-the-flag content; mix of longer explainers and quick quiz videos; kid-safe._

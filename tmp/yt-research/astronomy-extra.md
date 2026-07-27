@@ -1,0 +1,42 @@
+# Astronomy & space (deep cuts)
+_13 channels_
+
+- **@drbecky** — Dr. Becky · [space, science] · [big]
+  - An Oxford black-hole researcher unpacks the newest real astronomy discoveries with contagious enthusiasm.
+  - _Includes a monthly 'Night Sky News' series; research-news focus, best for older kids._
+- **@astrumspace** — Astrum · [space, science, exploration] · [little, big]
+  - Calm, gorgeous tours of every planet and moon built from real spacecraft imagery spark pure awe.
+  - _Long-form documentary style; younger kids can wonder-watch the visuals while narration suits big kids._
+- **@CoolWorldsLab** — Cool Worlds · [space, science] · [big]
+  - A Columbia astronomer contemplates exoplanets, alien life and the universe's biggest open questions.
+  - _Slow, thoughtful essays; conceptually advanced, best for upper-big kids/tweens._
+- **@LaunchPadAstronomy** — Launch Pad Astronomy · [space, science] · [big]
+  - A friendly neighborhood astronomer explains how the universe works, from eclipses to black holes.
+  - _Explainer videos plus occasional live Q&A streams._
+- **@AmyShiraTeitel** — The Vintage Space · [space, history] · [big]
+  - Deep-dive stories of the early space race and forgotten astronauts make history feel like adventure.
+  - _Spaceflight-history video essays; talking-head plus archival footage._
+- **@DeepSkyVideos** — Deep Sky Videos · [space, science] · [big]
+  - Real astronomers tour galaxies, nebulae and every Messier object seen through actual telescopes.
+  - _From Brady Haran with the University of Nottingham; interview + telescope imagery._
+- **@PrimalSpace** — Primal Space · [space, engineering] · [big]
+  - Crisp animations reveal how rockets, satellites and space tech actually work under the hood.
+  - _Faceless animated explainer documentaries._
+- **@everydayastronaut** — Everyday Astronaut · [space, engineering] · [big]
+  - Turns rocket science into approachable questions like 'why do rockets look the way they do?'
+  - _Hour-long documentaries plus live launch coverage; some long streams._
+- **@frasercain** — Fraser Cain · [space, science] · [big]
+  - The Universe Today host gives down-to-earth answers to viewers' biggest astronomy questions.
+  - _Q&A and space-news format; can get information-dense._
+- **@scottmanley** — Scott Manley · [space, engineering, tech] · [big]
+  - An astrophysicist-gamer makes orbital mechanics and rocket science genuinely intuitive.
+  - _Some Kerbal Space Program gameplay woven in; best for upper-big kids/tweens._
+- **@TheSecretsoftheUniverse** — The Secrets of the Universe · [space, science] · [big]
+  - Builds astrophysics and cosmology up step by step, from the basics to quasars.
+  - _Structured multi-part series; leans toward older big kids._
+- **@AstroBackyard** — AstroBackyard · [space, making, tech] · [big]
+  - Shows kids they can photograph real galaxies and nebulae from their own backyard.
+  - _Beginner-friendly astrophotography how-to; includes gear discussion._
+- **@whatdamath** — Anton Petrov · [space, science] · [big]
+  - A calm, warm daily tour of the newest discoveries happening across the universe right now.
+  - _Near-daily uploads; recent-discovery news heavy, clean thumbnails._

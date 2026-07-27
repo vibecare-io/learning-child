@@ -1,0 +1,39 @@
+# Cooking & food science for kids
+_12 channels_
+
+- **@AmericasTestKitchenKids** — America's Test Kitchen Kids · [making, science] · [little, big] ⚠︎unverified
+  - Real kid chefs cook fan-favorite recipes while learning why techniques work, turning the kitchen into a hands-on science lab.
+  - _Recipe-tested-by-kids cooking show; clear step-by-step technique, advertiser-safe; skews 8-12 but has simple recipes for younger with an adult._
+- **@FunWithFoodKids** — Fun With Food · [making, science, reading] · [little]
+  - Miss Megan, a registered dietitian, turns each recipe into a discovery of colors, numbers, nutrition and where food comes from.
+  - _Preschool-friendly educational cooking show; calm, follow-along, no clickbait; best for ages 3-7._
+- **@CookWithAmber** — Amber Kelley (Cook With Amber) · [making, science] · [big] ⚠︎unverified
+  - A teen chef proves kids can make fresh, real food from scratch, modeling confidence and curiosity in the kitchen.
+  - _Kid-hosted, upbeat but safe follow-along recipes; legacy URLs youtube.com/AmberKelley and /CookWithAmber, handle unconfirmed._
+- **@EatsAmazingCoUK** — Eats Amazing · [making, art] · [little] ⚠︎unverified
+  - Transforms healthy ingredients into playful food art, sparking creativity and making veggies exciting for little ones.
+  - _UK mum/food artist; short, gentle, craft-style food art tutorials from healthy ingredients; handle unconfirmed (legacy youtube.com/EatsAmazingCoUK)._
+- **@HowToCookThat** — How To Cook That (Ann Reardon) · [science, making] · [big]
+  - Food scientist Ann Reardon runs real experiments and debunks viral food hacks, teaching kids to think critically about what they see online.
+  - _Australian dietitian/food scientist; long-form, evidence-based; some debunks cover dangerous fake hacks (framed as warnings), best for 8-12._
+- **@WeirdExplorer** — Weird Explorer · [nature, exploration, science] · [big]
+  - Jared travels the world tasting 800+ rare fruits, sparking wonder about biodiversity and where food really comes from.
+  - _Calm exotic-fruit reviews with botany and geography; advertiser-safe, occasional foraging travel; great for curious 8-12s._
+- **@AbbeytheFoodScientist** — Abbey the Food Scientist · [science, making] · [big] ⚠︎unverified
+  - A PhD food scientist explains the hidden chemistry behind everyday foods, from why bread rises to what makes chips crunchy.
+  - _Approachable explainers on food science careers and phenomena; handle unconfirmed (legacy /c/AbbeytheFoodScientist); best for 8-12._
+- **@ACSReactions** — Reactions (American Chemical Society) · [science] · [big]
+  - Uses food as the gateway to chemistry, explaining the Maillard browning reaction, why fruit turns brown, and other kitchen science.
+  - _ACS/PBS-produced; polished animated science, broader chemistry channel with strong food-chemistry episodes; best for 8-12._
+- **@KatieKimball** — Katie Kimball - Kids Cook Real Food · [making, science] · [little, big]
+  - Builds real kitchen skills step by step, empowering kids to cook whole, healthy food themselves.
+  - _Companion to the Kids Cook Real Food course; knife-safety and technique focus; content for a range of ages._
+- **@cookingwithkyler** — Cooking with Kyler · [making] · [little, big] ⚠︎unverified
+  - A young cook and his dad make simple healthy dishes together, showing kids that cooking is achievable and fun.
+  - _Warm father-son follow-along cooking; short demos; legacy /c/cookingwithkyler, handle unconfirmed._
+- **@ChainBaker** — ChainBaker · [science, making] · [big]
+  - A master baker treats bread as an experiment, teaching the science of yeast, gluten, temperature and time behind every loaf.
+  - _Calm, methodical principles-of-baking series; adult-hosted but advertiser-safe and deeply educational for science-minded 8-12s._
+- **@FoodDeepDive** — Food Deep Dive · [science, making] · [big]
+  - Answers not just how to bake but why it works, exploring the physics and chemistry of dough, heat and fermentation.
+  - _Lesser-known baking science lab channel; long-form and analytical; adult-hosted, advertiser-safe; best for older curious kids._

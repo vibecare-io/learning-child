@@ -1,0 +1,42 @@
+# Physics & how things move
+_13 channels_
+
+- **@SteveMould** — Steve Mould · [science, engineering] · [big]
+  - He chases the hidden physics behind everyday oddities, showing why chains fountain out of a beaker or a spinning top defies gravity so kids keep asking 'but WHY?'
+  - _Long-form explainers, roughly weekly; calm, witty, advertiser-safe; best for 8-12 who can follow a chain of reasoning._
+- **@TheActionLab** — The Action Lab · [science] · [big]
+  - Vacuum chambers, magnets, and pressure experiments answer wild 'what would happen if...' questions with real forces you can see.
+  - _Long-form demos, frequent uploads; occasional high-energy setups (hydraulic press, liquid nitrogen) but framed safely and non-clickbait._
+- **@PhysicsGirlOfficial** — Physics Girl · [science, space] · [big]
+  - Dianna Cowern turns light, sound, and motion into hands-on adventures that make physics feel like play and discovery.
+  - _Long-form; this is the current official channel (the original is defunct after the creator lost access). Warm, kid-friendly host._
+- **@theslowmoguys** — The Slow Mo Guys · [science] · [little, big]
+  - Filming everyday events at thousands of frames per second reveals the physics of impacts, ripples, and bouncing that the eye can never catch.
+  - _Long-form, visually mesmerizing for all ages; occasional loud bangs/mild peril and some balloon-pop startle moments, generally advertiser-safe._
+- **@PracticalEngineeringChannel** — Practical Engineering · [engineering, science] · [big]
+  - Grady builds tabletop models of dams, bridges, and arches to show the invisible forces holding up the human-made world.
+  - _Long-form, roughly biweekly; clear narration with hands-on physical demos; best for 8-12._
+- **@tomstantonengineering** — Tom Stanton · [engineering, making] · [big]
+  - He designs, 3D-prints, and tests his own machines, so kids watch aerodynamics, friction, and momentum play out in real builds.
+  - _Long-form DIY engineering projects; methodical build-and-test format that models the design process._
+- **@Lesics** — Lesics · [engineering, science] · [big]
+  - Crisp 3D animations crack open engines, gears, and machines to reveal exactly how motion and force travel through them.
+  - _Long-form animated explainers; occasionally dense/technical, so pair with a curious 10-12 year old._
+- **@JaredOwen** — Jared Owen · [engineering, science] · [little, big]
+  - Beautiful Blender animations take apart rockets, locks, and instruments so kids can see every moving part and how it works.
+  - _Long-form 3D animation; visually accessible enough for younger viewers with an adult, great for 8-12 solo._
+- **@BranchEducation** — Branch Education · [tech, engineering] · [big]
+  - Ultra-detailed 3D tours inside phones, screens, and hard drives show the electromagnetism and mechanics powering modern gadgets.
+  - _Long-form animated deep-dives; fairly advanced, best for older curious kids (10-12)._
+- **@TheEfficientEngineer** — The Efficient Engineer · [engineering, science] · [big]
+  - Clean animations explain stress, forces, and how structures bend or break, connecting Newton's laws to real bridges and beams.
+  - _Long-form; leans toward the upper end of 8-12 and beyond; calm, textbook-clear._
+- **@AppliedScience** — Applied Science · [science, engineering] · [big]
+  - Ben Krasnow builds real lab instruments (electron microscopes, X-ray machines) revealing the physics of electrons, light, and magnetism up close.
+  - _Long-form, infrequent; genuinely advanced/adult-leaning, best for the most science-hungry 11-12 year olds; advertiser-safe._
+- **@physicsfun** — physicsfun · [science] · [little, big]
+  - Mesmerizing desk toys, gyroscopes, and magnets make gravity, inertia, and magnetism feel like real-life magic that begs to be explained.
+  - _Caveat: mostly short-form clips rather than long-form; each captures one physics-toy phenomenon, superb for sparking 'how does that work?' wonder in all ages._
+- **@smartereveryday** — SmarterEveryDay · [science, engineering] · [big] ⚠︎unverified
+  - Destin uses slow-motion and clever experiments to unpack the physics of spinning, flying, and everyday motion with infectious curiosity.
+  - _Larger channel but genuinely central to the how-things-move niche; long-form, family-friendly. Handle is my best guess (@smartereveryday) pending the downstream check._

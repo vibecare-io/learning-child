@@ -1,0 +1,179 @@
+{
+  "slug": "preschool-curiosity",
+  "title": "Preschool & toddler curiosity (ages 3-5)",
+  "channels": [
+    {
+      "handle": "@freeschool",
+      "name": "Free School",
+      "topics": [
+        "science",
+        "nature",
+        "reading"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "why": "Calm, warm narration walks little ones through real animals, famous art, and how-things-work topics one gentle idea at a time.",
+      "note": "Long-form (5-10 min) narrated slideshows with real photos; sophisticated but soothing, no screaming or fast cuts.",
+      "verified": true
+    },
+    {
+      "handle": "@FreeSchoolEarlyBirds",
+      "name": "FreeSchool Early Birds",
+      "topics": [
+        "animals",
+        "nature",
+        "science"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "why": "A toddler-tuned spin-off that introduces one creature or concept per video with sweet, simple, slow narration for the very youngest.",
+      "note": "Made specifically for ages 3-5; could not confirm an @handle (channel ID UC3OV62x86XHwaqsxLsuy8dA), so handle is a best guess.",
+      "verified": false
+    },
+    {
+      "handle": "@maddiemoate",
+      "name": "Maddie Moate",
+      "topics": [
+        "science",
+        "nature"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "why": "BAFTA-winning presenter models genuine wonder, asking curious 'why' questions about plants, animals, and everyday tech and hunting down the answers.",
+      "note": "Warm live-action presenter; some videos skew a touch older (5-9), so pair with a parent for the youngest.",
+      "verified": true
+    },
+    {
+      "handle": "@SuperSimplePlay",
+      "name": "Super Simple Play with Caitie",
+      "topics": [
+        "music",
+        "making"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "why": "Ms. Caitie's gentle, face-to-camera classroom invites toddlers to sing, move, craft, and explore real objects together.",
+      "note": "Warm human presenter, slow pace, follow-along songs and simple crafts; from the Super Simple team but not the nursery-rhyme mega-channel.",
+      "verified": true
+    },
+    {
+      "handle": "@Numberblocks",
+      "name": "Numberblocks",
+      "topics": [
+        "maths"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "why": "Turns numbers into lovable characters so preschoolers intuitively discover counting, adding, and patterns through playful stories.",
+      "note": "BBC/Learning Blocks show; bright but thoughtfully structured, genuinely central to early-maths curiosity.",
+      "verified": true
+    },
+    {
+      "handle": "@officialalphablocks",
+      "name": "Alphablocks",
+      "topics": [
+        "reading"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "why": "Living letters hold hands to build words, giving kids a delightful, sound-by-sound foundation in phonics.",
+      "note": "Companion to Numberblocks; short animated episodes built on a real synthetic-phonics scheme.",
+      "verified": true
+    },
+    {
+      "handle": "@ArtforKidsHub",
+      "name": "Art for Kids Hub",
+      "topics": [
+        "art",
+        "making"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "why": "A warm dad draws alongside his own kids, guiding step-by-step so children feel they can create anything.",
+      "note": "Follow-along drawing/craft lessons; simplest tutorials suit 3-5, harder ones skew older; family-run but purely instructional, not a vlog.",
+      "verified": true
+    },
+    {
+      "handle": "@thedadlab",
+      "name": "TheDadLab",
+      "topics": [
+        "making",
+        "science",
+        "engineering"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "why": "A dad and his young sons run simple kitchen-table STEM experiments that reveal everyday science hands-on.",
+      "note": "Some clips are short; longer compilation videos exist. Gentle, curiosity-first, uses household materials.",
+      "verified": true
+    },
+    {
+      "handle": "@KidzLearningTube",
+      "name": "Kids Learning Tube",
+      "topics": [
+        "space",
+        "geography",
+        "science"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "why": "Catchy original songs and animation teach the planets, the body, and the map of the world so facts actually stick.",
+      "note": "Music-video format; each planet/country/system gets its own song. Handle spelled with a 'z' (@KidzLearningTube).",
+      "verified": true
+    },
+    {
+      "handle": "@PancakeManor",
+      "name": "Pancake Manor - Kids Songs",
+      "topics": [
+        "music"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "why": "Puppets Zach and Reggie sing warm, alt-rock-flavored original songs about counting, colors, and feelings without any hyper nursery-rhyme churn.",
+      "note": "Made by two parents; friendly puppet music videos, calm and genuinely musical.",
+      "verified": true
+    },
+    {
+      "handle": "@WildKratts",
+      "name": "Wild Kratts",
+      "topics": [
+        "animals",
+        "nature"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "why": "The Kratt brothers zoom into animals' 'creature powers,' sparking real curiosity about how wildlife lives and survives.",
+      "note": "PBS animated/live-action series; energetic but educational and advertiser-safe, skews 4-8.",
+      "verified": true
+    },
+    {
+      "handle": "@PeepWGBH",
+      "name": "Peep and the Big Wide World",
+      "topics": [
+        "science",
+        "nature"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "why": "A hatchling and friends stumble into everyday science questions in a park, modeling gentle observation and discovery for preschoolers.",
+      "note": "Emmy-winning PBS science-for-preschoolers show; calm pace, mixes animation with real kids experimenting.",
+      "verified": true
+    }
+  ]
+}

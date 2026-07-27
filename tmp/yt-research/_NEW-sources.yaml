@@ -1,0 +1,659 @@
+# Expanded candidate channels (NEW — not yet in catalog.yaml)
+# From 20-niche parallel research, 2026-07-26. Handles HTTP-verified (dead dropped).
+# These are a vetted CANDIDATE POOL — promote into catalog.yaml selectively.
+# ⚠︎ = handle was not agent-confirmed but passed the HTTP check; sanity-check before use.
+
+  # ---------- ancient-civilizations ----------
+  - channel: "@adayinancientrome"
+    topics: [history]
+    profiles: [big]
+  - channel: "@ancientamericas"
+    topics: [history, exploration]
+    profiles: [big]
+  - channel: "@ancientromelive"   # ⚠︎ handle not agent-confirmed
+    topics: [history, exploration]
+    profiles: [big]
+  - channel: "@happylearningenglish"
+    topics: [history, geography]
+    profiles: [little, big]
+  - channel: "@historywithcy"
+    topics: [history]
+    profiles: [big]
+  - channel: "@invictahistory"
+    topics: [history, engineering]
+    profiles: [big]
+  - channel: "@smileandlearnenglish"
+    topics: [history, geography]
+    profiles: [little, big]
+  - channel: "@toldinstone"
+    topics: [history]
+    profiles: [big]
+  - channel: "@worldhistoryencyclopedia"   # ⚠︎ handle not agent-confirmed
+    topics: [history]
+    profiles: [big]
+  - channel: "@worldofantiquity"
+    topics: [history, science]
+    profiles: [big]
+
+  # ---------- architecture-cities ----------
+  - channel: "@articulations"   # ⚠︎ handle not agent-confirmed
+    topics: [art, history]
+    profiles: [big]
+  - channel: "@citybeautiful"
+    topics: [geography, history]
+    profiles: [big]
+  - channel: "@handymanhal"
+    topics: [engineering, making]
+    profiles: [little]
+  - channel: "@jagohazzard"
+    topics: [history, geography]
+    profiles: [big]
+  - channel: "@notjustbikes"
+    topics: [geography, engineering]
+    profiles: [big]
+  - channel: "@rmtransit"
+    topics: [engineering, geography]
+    profiles: [big]
+  - channel: "@stewarthicks"
+    topics: [art, engineering]
+    profiles: [big]
+  - channel: "@theb1m"
+    topics: [engineering, tech]
+    profiles: [big]
+  - channel: "@thetimtraveller"
+    topics: [geography, engineering]
+    profiles: [big]
+  - channel: "@tibothetoucan"
+    topics: [engineering, science]
+    profiles: [little]
+
+  # ---------- astronomy-extra ----------
+  - channel: "@amyshirateitel"
+    topics: [space, history]
+    profiles: [big]
+  - channel: "@astrobackyard"
+    topics: [space, making, tech]
+    profiles: [big]
+  - channel: "@astrumspace"
+    topics: [space, science, exploration]
+    profiles: [little, big]
+  - channel: "@coolworldslab"
+    topics: [space, science]
+    profiles: [big]
+  - channel: "@deepskyvideos"
+    topics: [space, science]
+    profiles: [big]
+  - channel: "@drbecky"
+    topics: [space, science]
+    profiles: [big]
+  - channel: "@everydayastronaut"
+    topics: [space, engineering]
+    profiles: [big]
+  - channel: "@frasercain"
+    topics: [space, science]
+    profiles: [big]
+  - channel: "@launchpadastronomy"
+    topics: [space, science]
+    profiles: [big]
+  - channel: "@primalspace"
+    topics: [space, engineering]
+    profiles: [big]
+  - channel: "@scottmanley"
+    topics: [space, engineering, tech]
+    profiles: [big]
+  - channel: "@thesecretsoftheuniverse"
+    topics: [space, science]
+    profiles: [big]
+  - channel: "@whatdamath"
+    topics: [space, science]
+    profiles: [big]
+
+  # ---------- chemistry ----------
+  - channel: "@acsreactions"
+    topics: [science]
+    profiles: [big]
+  - channel: "@funsciencedemos"   # ⚠︎ handle not agent-confirmed
+    topics: [science, making]
+    profiles: [little, big]
+  - channel: "@melscience1"
+    topics: [science, making]
+    profiles: [little, big]
+  - channel: "@periodicvideos"
+    topics: [science]
+    profiles: [big]
+  - channel: "@philmccordic3490"
+    topics: [science, making]
+    profiles: [little, big]
+  - channel: "@professordaveexplains"
+    topics: [science]
+    profiles: [big]
+  - channel: "@socratica"
+    topics: [science]
+    profiles: [big]
+  - channel: "@tdewitt451"
+    topics: [science]
+    profiles: [big]
+  - channel: "@theactionlab"
+    topics: [science, engineering]
+    profiles: [big]
+  - channel: "@theroyalinstitution"
+    topics: [science]
+    profiles: [big]
+  - channel: "@thesciguys"   # ⚠︎ handle not agent-confirmed
+    topics: [science, making]
+    profiles: [big]
+  - channel: "@thoisoi2"
+    topics: [science]
+    profiles: [big]
+
+  # ---------- coding-gamedev ----------
+  - channel: "@alvinblox"
+    topics: [coding, tech]
+    profiles: [big]
+  - channel: "@brawldevrblx"
+    topics: [coding, tech]
+    profiles: [big]
+  - channel: "@codakid9517"
+    topics: [coding, making]
+    profiles: [big]
+  - channel: "@griffpatch"
+    topics: [coding, making]
+    profiles: [big]
+  - channel: "@griffpatchacademy"   # ⚠︎ handle not agent-confirmed
+    topics: [coding, making]
+    profiles: [big]
+  - channel: "@scratchteam"
+    topics: [coding, making, art]
+    profiles: [little, big]
+  - channel: "@thatmumbojumbo"
+    topics: [engineering, making]
+    profiles: [big]
+  - channel: "@thedevking"
+    topics: [coding, tech]
+    profiles: [big]
+  - channel: "@tynker"
+    topics: [coding, making]
+    profiles: [little, big]
+
+  # ---------- cooking-food-science ----------
+  - channel: "@abbeythefoodscientist"   # ⚠︎ handle not agent-confirmed
+    topics: [science, making]
+    profiles: [big]
+  - channel: "@americastestkitchenkids"   # ⚠︎ handle not agent-confirmed
+    topics: [making, science]
+    profiles: [little, big]
+  - channel: "@chainbaker"
+    topics: [science, making]
+    profiles: [big]
+  - channel: "@cookingwithkyler"   # ⚠︎ handle not agent-confirmed
+    topics: [making]
+    profiles: [little, big]
+  - channel: "@cookwithamber"   # ⚠︎ handle not agent-confirmed
+    topics: [making, science]
+    profiles: [big]
+  - channel: "@eatsamazingcouk"   # ⚠︎ handle not agent-confirmed
+    topics: [making, art]
+    profiles: [little]
+  - channel: "@fooddeepdive"
+    topics: [science, making]
+    profiles: [big]
+  - channel: "@funwithfoodkids"
+    topics: [making, science, reading]
+    profiles: [little]
+  - channel: "@howtocookthat"
+    topics: [science, making]
+    profiles: [big]
+  - channel: "@katiekimball"
+    topics: [making, science]
+    profiles: [little, big]
+  - channel: "@weirdexplorer"
+    topics: [nature, exploration, science]
+    profiles: [big]
+
+  # ---------- dinosaurs-paleontology ----------
+  - channel: "@bengthomas"
+    topics: [science, animals, nature]
+    profiles: [big]
+  - channel: "@dinosaurgeorge"
+    topics: [science, animals, history]
+    profiles: [little, big]
+  - channel: "@eons"
+    topics: [history, science, animals]
+    profiles: [big]
+  - channel: "@henrythepaleoguy"
+    topics: [science, animals, nature]
+    profiles: [big]
+  - channel: "@mothlightmedia1936"
+    topics: [science, nature, animals]
+    profiles: [big]
+  - channel: "@raptorchatter"
+    topics: [science, animals]
+    profiles: [big]
+  - channel: "@thedinofeed"
+    topics: [animals, science, nature]
+    profiles: [little, big]
+  - channel: "@thedinosaurshow"
+    topics: [science, animals, exploration]
+    profiles: [little, big]
+  - channel: "@treytheexplainer"
+    topics: [science, animals, history]
+    profiles: [big]
+  - channel: "@yourdinosaursarewrong"
+    topics: [science, animals, making]
+    profiles: [big]
+
+  # ---------- drawing-painting ----------
+  - channel: "@carlasonheim"   # ⚠︎ handle not agent-confirmed
+    topics: [art]
+    profiles: [big]
+  - channel: "@cartooningclub"
+    topics: [art]
+    profiles: [little, big]
+  - channel: "@circlelineartschool"
+    topics: [art, maths]
+    profiles: [big]
+  - channel: "@drawsocute"
+    topics: [art]
+    profiles: [little, big]
+  - channel: "@drawwithrob"
+    topics: [art]
+    profiles: [little, big]
+  - channel: "@kaseythegolden"
+    topics: [art]
+    profiles: [big]
+  - channel: "@markcrilley"
+    topics: [art]
+    profiles: [big]
+  - channel: "@muffalopotato"
+    topics: [art, maths]
+    profiles: [little, big]
+  - channel: "@watercolor4kids"
+    topics: [art]
+    profiles: [little, big]
+
+  # ---------- electronics-tinkering ----------
+  - channel: "@afrotechmods"
+    topics: [engineering, science, tech]
+    profiles: [big]
+  - channel: "@beckystern"
+    topics: [making, tech, art]
+    profiles: [big]
+  - channel: "@beneater"
+    topics: [engineering, tech, coding]
+    profiles: [big]
+  - channel: "@dronebotworkshop"
+    topics: [engineering, coding, tech]
+    profiles: [big]
+  - channel: "@electroboom"
+    topics: [science, engineering]
+    profiles: [big]
+  - channel: "@greatscottlab"
+    topics: [making, engineering, tech]
+    profiles: [big]
+  - channel: "@microbit_edu"
+    topics: [coding, engineering, making]
+    profiles: [big]
+  - channel: "@science.buddies"
+    topics: [science, making, engineering]
+    profiles: [little, big]
+  - channel: "@sparkfun"
+    topics: [making, engineering, coding]
+    profiles: [big]
+
+  # ---------- gardening-plants ----------
+  - channel: "@boxlapse"
+    topics: [science, nature]
+    profiles: [little, big]
+  - channel: "@carnivorousplantshub"
+    topics: [nature, science]
+    profiles: [big]
+  - channel: "@epicgardening"
+    topics: [nature, making]
+    profiles: [big]
+  - channel: "@gardenmarcuskids"
+    topics: [nature, making]
+    profiles: [little]
+  - channel: "@growveg"
+    topics: [nature, science]
+    profiles: [big]
+  - channel: "@guidinggreenthumbs"
+    topics: [nature, making]
+    profiles: [big]
+  - channel: "@huwrichards"
+    topics: [nature, making]
+    profiles: [big]
+  - channel: "@kidsgardeningorg"
+    topics: [nature, making, science]
+    profiles: [little, big]
+  - channel: "@migardener"
+    topics: [nature, making]
+    profiles: [big]
+
+  # ---------- geology-earth ----------
+  - channel: "@currentlyrockhounding"
+    topics: [science, exploration, nature]
+    profiles: [big]
+  - channel: "@earthscope_science"
+    topics: [science, geography]
+    profiles: [big]
+  - channel: "@geogirl"
+    topics: [science]
+    profiles: [big]
+  - channel: "@geologyhub"
+    topics: [science, geography]
+    profiles: [big]
+  - channel: "@geologynick"
+    topics: [science, geography, history]
+    profiles: [big]
+  - channel: "@myroncook"
+    topics: [science, geography]
+    profiles: [big]
+  - channel: "@shawnwillsey"
+    topics: [science, geography]
+    profiles: [big]
+  - channel: "@theruggedrockhound"
+    topics: [science, nature]
+    profiles: [big]
+  - channel: "@volcanodiscovery"
+    topics: [science, nature]
+    profiles: [big]
+
+  # ---------- human-body-biology ----------
+  - channel: "@amoebasisters"
+    topics: [science]
+    profiles: [big]
+  - channel: "@biointeractive"
+    topics: [science, nature]
+    profiles: [big]
+  - channel: "@homeschoolpop"
+    topics: [science, geography, history]
+    profiles: [little, big]
+  - channel: "@journeytomicro"
+    topics: [science, nature]
+    profiles: [big]
+  - channel: "@nemourskidshealth"
+    topics: [science]
+    profiles: [little, big]
+  - channel: "@neurochallenged"
+    topics: [science]
+    profiles: [big]
+  - channel: "@neurotransmissions"
+    topics: [science]
+    profiles: [big]
+  - channel: "@nucleusbiology"
+    topics: [science]
+    profiles: [big]
+  - channel: "@operationouch-officialchannel"
+    topics: [science]
+    profiles: [little, big]
+  - channel: "@peekaboo_kidz"
+    topics: [science]
+    profiles: [little, big]
+
+  # ---------- maps-geography ----------
+  - channel: "@atlaspro1"
+    topics: [geography, nature, science]
+    profiles: [big]
+  - channel: "@cgpgrey"
+    topics: [geography, history, tech]
+    profiles: [big]
+  - channel: "@flagpedia_net"
+    topics: [geography]
+    profiles: [big]
+  - channel: "@geodiode"
+    topics: [geography, nature, science]
+    profiles: [big]
+  - channel: "@geographynow"
+    topics: [geography, history]
+    profiles: [big]
+  - channel: "@geowizard"
+    topics: [geography, exploration]
+    profiles: [big]
+  - channel: "@jayforeman"
+    topics: [geography, history]
+    profiles: [big]
+  - channel: "@kltgeography"
+    topics: [geography, music]
+    profiles: [little]
+
+  # ---------- money-entrepreneurship ----------
+  - channel: "@bizkidstv"
+    topics: [maths, making]
+    profiles: [big]
+  - channel: "@cashvillekidz"   # ⚠︎ handle not agent-confirmed
+    topics: [maths, history]
+    profiles: [big]
+  - channel: "@chachingvideos"
+    topics: [music, maths]
+    profiles: [little, big]
+  - channel: "@easypeasyfinance"
+    topics: [maths]
+    profiles: [big]
+  - channel: "@kideconomist"
+    topics: [maths, history]
+    profiles: [big]
+  - channel: "@learnbright"
+    topics: [maths, history]
+    profiles: [big]
+  - channel: "@sammyrabbit"   # ⚠︎ handle not agent-confirmed
+    topics: [music, reading, maths]
+    profiles: [little]
+  - channel: "@scratchgarden"   # ⚠︎ handle not agent-confirmed
+    topics: [maths, music]
+    profiles: [little, big]
+  - channel: "@secretmillionairesclub"   # ⚠︎ handle not agent-confirmed
+    topics: [making, maths]
+    profiles: [big]
+  - channel: "@themoneymammals"
+    topics: [music, maths]
+    profiles: [little]
+
+  # ---------- ocean-marine ----------
+  - channel: "@blueworldtv"
+    topics: [animals, nature, exploration]
+    profiles: [little, big]
+  - channel: "@evnautilus"
+    topics: [exploration, animals, science]
+    profiles: [big]
+  - channel: "@kpassionate"
+    topics: [animals, science]
+    profiles: [big]
+  - channel: "@kqeddeeplook"
+    topics: [science, animals, nature]
+    profiles: [little, big]
+  - channel: "@mbarivideo"
+    topics: [science, animals, exploration]
+    profiles: [big]
+  - channel: "@montereybayaquarium"
+    topics: [animals, nature]
+    profiles: [little, big]
+  - channel: "@naturalworldfacts"
+    topics: [science, nature, animals]
+    profiles: [big]
+  - channel: "@oceanexplorergov"
+    topics: [exploration, science, animals]
+    profiles: [big]
+  - channel: "@oceanx"
+    topics: [exploration, science, tech]
+    profiles: [big]
+  - channel: "@schmidtocean"
+    topics: [exploration, science, nature]
+    profiles: [big]
+  - channel: "@themarinediaries"
+    topics: [nature, science, animals]
+    profiles: [big]
+  - channel: "@whoi"
+    topics: [science, exploration, engineering]
+    profiles: [big]
+
+  # ---------- physics-motion ----------
+  - channel: "@appliedscience"
+    topics: [science, engineering]
+    profiles: [big]
+  - channel: "@brancheducation"
+    topics: [tech, engineering, science]
+    profiles: [big]
+  - channel: "@jaredowen"
+    topics: [engineering, science]
+    profiles: [little, big]
+  - channel: "@physicsfun"
+    topics: [science]
+    profiles: [little, big]
+  - channel: "@practicalengineeringchannel"
+    topics: [engineering, science]
+    profiles: [big]
+  - channel: "@smartereveryday"   # ⚠︎ handle not agent-confirmed
+    topics: [science, engineering]
+    profiles: [big]
+  - channel: "@stevemould"
+    topics: [science, engineering]
+    profiles: [big]
+  - channel: "@theefficientengineer"
+    topics: [engineering, science]
+    profiles: [big]
+  - channel: "@theslowmoguys"
+    topics: [science]
+    profiles: [little, big]
+  - channel: "@tomstantonengineering"
+    topics: [engineering, making]
+    profiles: [big]
+
+  # ---------- preschool-curiosity ----------
+  - channel: "@freeschool"
+    topics: [science, nature, reading, art, geography, history]
+    profiles: [little, big]
+  - channel: "@kidzlearningtube"
+    topics: [space, geography, science]
+    profiles: [little, big]
+  - channel: "@maddiemoate"
+    topics: [science, nature]
+    profiles: [little, big]
+  - channel: "@officialalphablocks"
+    topics: [reading]
+    profiles: [little]
+  - channel: "@pancakemanor"
+    topics: [music]
+    profiles: [little]
+  - channel: "@peepwgbh"
+    topics: [science, nature]
+    profiles: [little]
+  - channel: "@supersimpleplay"
+    topics: [music, making]
+    profiles: [little]
+  - channel: "@thedadlab"
+    topics: [making, science, engineering]
+    profiles: [little]
+  - channel: "@wildkratts"
+    topics: [animals, nature]
+    profiles: [little, big]
+
+  # ---------- robotics-ai ----------
+  - channel: "@adafruit"
+    topics: [making, tech, engineering, coding]
+    profiles: [big]
+  - channel: "@bostondynamics"
+    topics: [tech, engineering]
+    profiles: [little, big]
+  - channel: "@codeorg"
+    topics: [coding, tech]
+    profiles: [big, little]
+  - channel: "@crunchlabs"
+    topics: [engineering, making]
+    profiles: [big]
+  - channel: "@firstroboticscompetition"   # ⚠︎ handle not agent-confirmed
+    topics: [engineering, tech]
+    profiles: [big]
+  - channel: "@jamesbruton"
+    topics: [engineering, tech]
+    profiles: [big]
+  - channel: "@jeremy_fielding"
+    topics: [engineering]
+    profiles: [big]
+  - channel: "@kidsinventstuff"
+    topics: [engineering, making]
+    profiles: [little, big]
+  - channel: "@stempedia"   # ⚠︎ handle not agent-confirmed
+    topics: [coding, tech]
+    profiles: [big]
+  - channel: "@stuffmadehere"
+    topics: [engineering, making]
+    profiles: [big]
+  - channel: "@teachkidsrobotics"
+    topics: [tech, engineering]
+    profiles: [little, big]
+  - channel: "@thecodingtrain"
+    topics: [coding, tech]
+    profiles: [big]
+  - channel: "@twominutepapers"
+    topics: [tech, science]
+    profiles: [big]
+  - channel: "@vexrobotics"   # ⚠︎ handle not agent-confirmed
+    topics: [engineering, tech]
+    profiles: [big]
+
+  # ---------- sel-mindfulness ----------
+  - channel: "@biglifejournal"   # ⚠︎ handle not agent-confirmed
+    topics: [reading, art]
+    profiles: [little, big]
+  - channel: "@classdojo"   # ⚠︎ handle not agent-confirmed
+    topics: [reading, science]
+    profiles: [little, big]
+  - channel: "@cosmickidsyoga"
+    topics: [reading, nature]
+    profiles: [little, big]
+  - channel: "@everydayspeech"   # ⚠︎ handle not agent-confirmed
+    topics: [reading]
+    profiles: [big]
+  - channel: "@gozenonline"   # ⚠︎ handle not agent-confirmed
+    topics: [reading, science]
+    profiles: [little, big]
+  - channel: "@mindyeti"   # ⚠︎ handle not agent-confirmed
+    topics: [music, nature]
+    profiles: [little, big]
+  - channel: "@moshikids"   # ⚠︎ handle not agent-confirmed
+    topics: [reading, nature]
+    profiles: [little]
+  - channel: "@newhorizonholisticcentre"
+    topics: [reading, nature]
+    profiles: [little, big]
+  - channel: "@sesamestreet"
+    topics: [reading, music]
+    profiles: [little]
+  - channel: "@slumberkins"   # ⚠︎ handle not agent-confirmed
+    topics: [reading]
+    profiles: [little]
+  - channel: "@smilingmind"   # ⚠︎ handle not agent-confirmed
+    topics: [nature, music]
+    profiles: [little, big]
+
+  # ---------- weather-climate ----------
+  - channel: "@climateadam"
+    topics: [science]
+    profiles: [big]
+  - channel: "@crashcoursekids"
+    topics: [science]
+    profiles: [big]
+  - channel: "@learnthesky"
+    topics: [space, science]
+    profiles: [big, little]
+  - channel: "@metofficelearnaboutweather"
+    topics: [science]
+    profiles: [big]
+  - channel: "@minuteearth"
+    topics: [science, nature, geography]
+    profiles: [big, little]
+  - channel: "@pbsterra"
+    topics: [science, nature]
+    profiles: [big]
+  - channel: "@pecoshank"
+    topics: [science, nature]
+    profiles: [big]
+  - channel: "@peekabookidz"
+    topics: [science]
+    profiles: [little, big]
+  - channel: "@simonclark"
+    topics: [science]
+    profiles: [big]
+  - channel: "@tamithaskov"   # ⚠︎ handle not agent-confirmed
+    topics: [space, science]
+    profiles: [big]
