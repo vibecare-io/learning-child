@@ -26,10 +26,10 @@ export const HIDE_SELECTORS = [
   ".ytp-endscreen-content",
 ];
 
-/** Home grid container — our curated grid is inserted before it. */
+/** Home grid container - our curated grid is inserted before it. */
 export const HOME_GRID = "ytd-browse[page-subtype='home'] ytd-rich-grid-renderer";
 
-/** Watch page right-hand column — our up-next list is prepended into it. */
+/** Watch page right-hand column - our up-next list is prepended into it. */
 export const WATCH_SIDEBAR = "#secondary.ytd-watch-flexy";
 
 /** Search results list container (observed for infinite scroll). */

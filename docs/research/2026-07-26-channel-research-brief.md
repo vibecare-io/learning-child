@@ -2,18 +2,18 @@
 
 > **For a single research agent.** This brief is self-contained: read it top to bottom,
 > then execute. Your deliverable feeds directly into `catalog-pipeline/catalog.yaml`
-> (schema below) for the Learning Child project — a Chrome extension that replaces
+> (schema below) for the Learning Child project - a Chrome extension that replaces
 > YouTube's algorithmic recommendations with a parent-curated catalog.
 > Project context: `docs/superpowers/specs/2026-07-26-kids-youtube-curation-design.md`.
 
 ## Mission
 
-Produce a vetted, justified list of **30–50 YouTube channels** (plus notable playlists)
-that genuinely develop kids' curiosity and thinking — science, maths, space, music,
-exploration, engineering, nature, history — split across two age profiles:
+Produce a vetted, justified list of **30-50 YouTube channels** (plus notable playlists)
+that genuinely develop kids' curiosity and thinking - science, maths, space, music,
+exploration, engineering, nature, history - split across two age profiles:
 
-- **`little`** — ages 3–7: gentle pacing, concrete concepts, warm presenters, safe humor.
-- **`big`** — ages 8–12: real explanations, experiments, "how things work," deeper rabbit
+- **`little`** - ages 3-7: gentle pacing, concrete concepts, warm presenters, safe humor.
+- **`big`** - ages 8-12: real explanations, experiments, "how things work," deeper rabbit
   holes that reward attention rather than hijack it.
 
 ## What "good" means here (the quality bar)
@@ -26,7 +26,7 @@ most soft ones.
    Edutainment is fine; empty stimulation is not.
 2. **No dopamine-bait format.** Reject channels whose style is: screaming thumbnails,
    1-second cuts, sirens/alarm sounds, "YOU WON'T BELIEVE," mystery-box/prank/reaction
-   formats — even if nominally "educational."
+   formats - even if nominally "educational."
 3. **Long-form.** Mostly videos over ~3 minutes. (The pipeline drops <120s uploads, so a
    Shorts-only channel contributes nothing.)
 4. **Active or evergreen.** Either still uploading, or a finished library that stays
@@ -55,7 +55,7 @@ most soft ones.
    - Confirm the **exact @handle** exists and is the real channel (imitators are common).
    - Spot-check 3 recent videos + 1 popular video against the quality bar.
    - Note typical video length, upload cadence, and whether content skews `little`/`big`/both.
-3. **Balance the portfolio.** Target rough coverage — science ~30%, maths ~10%,
+3. **Balance the portfolio.** Target rough coverage - science ~30%, maths ~10%,
    space ~10%, music ~10%, nature/exploration ~15%, engineering/making ~15%,
    history/geography/misc ~10%. At least 10 channels must fit profile `little`.
 4. **Cut ruthlessly.** A shorter list parents trust beats a padded one. If unsure, put
@@ -65,7 +65,7 @@ most soft ones.
 
 A single markdown file: `docs/research/2026-07-26-channel-research-results.md` with:
 
-**1. Ready-to-paste YAML** — the main output, valid against this exact schema:
+**1. Ready-to-paste YAML** - the main output, valid against this exact schema:
 
 ```yaml
 sources:
@@ -82,14 +82,14 @@ search_only_channels:            # fine to find via search, not pushed into the 
   - "@borderline-but-safe-channel"
 ```
 
-**2. Justification table** — one row per channel: handle, name, topics, profiles,
+**2. Justification table** - one row per channel: handle, name, topics, profiles,
 grade (A/B), one-sentence why-it's-in, typical video length, upload cadence.
 
-**3. Borderline/rejected list** — channels a parent might expect to see, with the
+**3. Borderline/rejected list** - channels a parent might expect to see, with the
 one-line reason they didn't make the cut (e.g., "great content but Shorts-dominated",
 "drifted into reaction content since 2024"). This saves the parents from re-litigating.
 
-**4. Coverage gaps** — topics/age-bands where you couldn't find enough A-grade channels,
+**4. Coverage gaps** - topics/age-bands where you couldn't find enough A-grade channels,
 so parents know where the catalog is thin.
 
 ## Rules

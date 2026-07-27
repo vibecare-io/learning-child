@@ -19,7 +19,7 @@ export function reportFailure(surface: string): void {
       chrome.runtime.sendMessage({ type: "adapter-failure", surface }),
     ).catch(() => {});
   } catch {
-    // extension context gone (e.g. reloaded) — nothing to do
+    // extension context gone (e.g. reloaded) - nothing to do
   }
 }
 

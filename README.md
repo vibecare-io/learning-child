@@ -21,7 +21,7 @@ Cloudflare Pages site at **kids.vibecare.io**.
 - A `.env` at the repo root (auto-loaded by the Justfile):
 
   ```sh
-  export YT_API_KEY=...   # YouTube Data API v3 key — builds the catalog
+  export YT_API_KEY=...   # YouTube Data API v3 key - builds the catalog
   ```
 
 ## Common commands (`just`)
@@ -43,7 +43,7 @@ Load the extension: `chrome://extensions` → enable Developer mode → **Load u
 ## Hosting on Cloudflare Pages (Git-integrated)
 
 Cloudflare Pages is connected to this repo and **rebuilds on every push to `main`**. The
-build is driven by `scripts/deploy.sh`, so all the logic lives in the repo — the dashboard
+build is driven by `scripts/deploy.sh`, so all the logic lives in the repo - the dashboard
 only needs:
 
 | Setting | Value |

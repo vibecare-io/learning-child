@@ -1,4 +1,4 @@
-# Learning Child — Kids YouTube Curation: Design
+# Learning Child - Kids YouTube Curation: Design
 
 **Date:** 2026-07-26
 **Status:** Approved
@@ -8,7 +8,7 @@
 YouTube's recommendation algorithm optimizes for watch time, and its thumbnails act as
 dopamine honeypots for kids. This project flips who controls the feed: a Chrome extension
 makes YouTube *look and feel* like normal YouTube, but every recommendation slot is filled
-from a catalog curated by parents — science, music, exploration, math, space — content that
+from a catalog curated by parents - science, music, exploration, math, space - content that
 sparks curiosity instead of hijacking it. The swap is tactful: kids browse and watch as
 usual, without knowing the algorithm has been replaced.
 
@@ -18,7 +18,7 @@ usual, without knowing the algorithm has been replaced.
 |---|---|
 | Audience | Own family first; clean path to multi-family later |
 | Surfaces | Homepage feed, watch-page sidebar/up-next, search, Shorts |
-| Swap style | Full replace — YouTube's algorithm gets zero slots |
+| Swap style | Full replace - YouTube's algorithm gets zero slots |
 | Search behavior | Real results filtered to parent-approved channels |
 | Kids | Mixed ages → per-kid profiles in the catalog |
 | Backend | Static catalog pipeline (no server): YAML → cron → static JSON |
@@ -82,16 +82,16 @@ search_only_channels:        # allowed in search results, not pushed into feeds
 
 - Channels expand to recent + top uploads, capped at 50 videos per channel by default
   (`max_videos` overridable per source). Playlists expand to all items.
-- Guardrails: drop videos shorter than a configurable minimum length (default 120s —
+- Guardrails: drop videos shorter than a configurable minimum length (default 120s -
   filters Shorts-style uploads), dedupe across sources (a video keeps the union of
   topics/profiles from all sources that include it).
 - Dead (private/deleted) videos disappear naturally on the next daily run.
 
 ### Outputs
 
-- `catalog.json` — `{ version, generatedAt, profiles, videos: [{ id, title, channel,
+- `catalog.json` - `{ version, generatedAt, profiles, videos: [{ id, title, channel,
   channelId, durationSec, publishedAt, topics, profiles, thumbnail }] }`
-- `allowed-channels.json` — every channel ID in the catalog plus `search_only_channels`.
+- `allowed-channels.json` - every channel ID in the catalog plus `search_only_channels`.
 
 YouTube Data API free quota (10k units/day) is far beyond what a daily run needs.
 
@@ -100,11 +100,11 @@ YouTube Data API free quota (10k units/day) is far beyond what a daily run needs
 Manifest V3. A shared catalog module plus one adapter per surface. YouTube is a SPA, so
 adapters re-run on YouTube's `yt-navigate-finish` event, not just page load.
 
-### Instant hide — the key trick
+### Instant hide - the key trick
 
 CSS injected at `document_start`, before YouTube paints, hides: the home recommendation
 grid, watch-page sidebar, Shorts shelves and links, comments, end-screen suggestion cards,
-the notification bell, and Trending/Explore navigation. Forbidden thumbnails never render —
+the notification bell, and Trending/Explore navigation. Forbidden thumbnails never render -
 not even a flash. During load the kid sees a normal-looking skeleton.
 
 ### Surfaces
@@ -117,12 +117,12 @@ not even a flash. During load the kid sees a normal-looking skeleton.
   Force the autoplay toggle off.
 - **Search:** keep YouTube's real results but remove any result whose channel is not in
   `allowed-channels.json`, and all Shorts results. If zero results survive, show a
-  friendly "nothing here — try these instead" panel with curated suggestions.
+  friendly "nothing here - try these instead" panel with curated suggestions.
 - **Shorts:** any navigation to `/shorts/*` redirects to the homepage.
 
 ### Feeling alive (mixed-age kids must not notice)
 
-- **Daily seeded shuffle:** feed order seeded by `date + profile` — different every day,
+- **Daily seeded shuffle:** feed order seeded by `date + profile` - different every day,
   stable within a day. Both a frozen feed and a wildly reshuffling one look suspicious.
 - **Freshness mix:** each day front-loads a rotating subset of the catalog; videos newly
   added to the catalog get a temporary boost.
@@ -141,7 +141,7 @@ Service worker refreshes the catalog every few hours via `chrome.alarms`, cachin
 - **YouTube DOM changes:** hide-selectors are broad container-level selectors that change
   rarely; every selector lives in `selectors.ts`. If an adapter fails to inject, the
   extension shows a badge on its toolbar icon so a parent notices. Failure **fails open**
-  (real YouTube shows) — a known, documented limitation, never a silent one.
+  (real YouTube shows) - a known, documented limitation, never a silent one.
 - **Kid disables/removes the extension:** out of scope for v1. Chrome extensions cannot
   protect themselves; real lockdown requires Chrome managed/supervised-account policies.
   Documented in the README as a future step.
@@ -157,10 +157,10 @@ Service worker refreshes the catalog every few hours via `chrome.alarms`, cachin
 
 ## Docs deliverables
 
-- **`README.md`** — plain-language: the why (thumbnails as dopamine honeypots; parents
+- **`README.md`** - plain-language: the why (thumbnails as dopamine honeypots; parents
   reclaiming the algorithm), what it does, parent quick-start (edit `catalog.yaml`,
   one-time YouTube API key setup, install the extension, pick a profile). Short.
-- **`AGENTS.md`** — repo map, key invariants (all selectors in `selectors.ts`; fail-open
+- **`AGENTS.md`** - repo map, key invariants (all selectors in `selectors.ts`; fail-open
   + badge on breakage; catalog schema; adapters re-run on `yt-navigate-finish`), how to
   run tests and a local pipeline build. Short.
 

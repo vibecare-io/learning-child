@@ -12,8 +12,8 @@
 
 - Node >= 20 (built-in `fetch`). TypeScript strict mode everywhere.
 - Spec: `docs/superpowers/specs/2026-07-26-kids-youtube-curation-design.md`.
-- ALL YouTube DOM selectors live in `extension/src/selectors.ts` — never inline a selector in an adapter.
-- Failure fails OPEN: if an adapter can't inject, remove the hide-style and set a badge — never leave the kid on an empty page.
+- ALL YouTube DOM selectors live in `extension/src/selectors.ts` - never inline a selector in an adapter.
+- Failure fails OPEN: if an adapter can't inject, remove the hide-style and set a badge - never leave the kid on an empty page.
 - Extension surfaces re-run on YouTube's `yt-navigate-finish` SPA event, not just page load.
 - Injected element ids are prefixed `lc-` (lc-home-grid, lc-upnext, lc-search-empty, lc-hide, lc-ui-css).
 - Catalog schema types live ONLY in `shared/types.ts`; both workspaces import them by relative path (type-only imports).
@@ -154,7 +154,7 @@ describe("shared types", () => {
 - [ ] **Step 3: Run test to verify it fails**
 
 Run: `npm install && npm test`
-Expected: FAIL — `Cannot find module './types'`
+Expected: FAIL - `Cannot find module './types'`
 
 - [ ] **Step 4: Write `shared/types.ts`**
 
@@ -199,7 +199,7 @@ git commit -m "chore: scaffold workspaces and shared catalog types"
 
 ---
 
-### Task 2: Pipeline — parse and validate `catalog.yaml`
+### Task 2: Pipeline - parse and validate `catalog.yaml`
 
 **Files:**
 - Create: `catalog-pipeline/src/config.ts`
@@ -210,7 +210,7 @@ git commit -m "chore: scaffold workspaces and shared catalog types"
 - Produces:
   - `type Source = { kind: "channel" | "playlist" | "video"; ref: string; topics: string[]; profiles: string[]; maxVideos: number }`
   - `interface Config { profiles: Record<string, { label: string }>; sources: Source[]; searchOnlyChannels: string[]; minDurationSec: number }`
-  - `parseConfig(yamlText: string): Config` — throws `Error` with a human-readable message on invalid config.
+  - `parseConfig(yamlText: string): Config` - throws `Error` with a human-readable message on invalid config.
 
 - [ ] **Step 1: Write the failing tests**
 
@@ -287,7 +287,7 @@ sources: []
 - [ ] **Step 2: Run tests to verify they fail**
 
 Run: `npm test`
-Expected: FAIL — `Cannot find module './config'`
+Expected: FAIL - `Cannot find module './config'`
 
 - [ ] **Step 3: Implement `catalog-pipeline/src/config.ts`**
 
@@ -369,7 +369,7 @@ git commit -m "feat(pipeline): parse and validate catalog.yaml"
 
 ---
 
-### Task 3: Pipeline — expand sources into the catalog (pure logic)
+### Task 3: Pipeline - expand sources into the catalog (pure logic)
 
 **Files:**
 - Create: `catalog-pipeline/src/expand.ts`
@@ -469,7 +469,7 @@ describe("buildAllowed", () => {
 - [ ] **Step 2: Run tests to verify they fail**
 
 Run: `npm test`
-Expected: FAIL — `Cannot find module './expand'`
+Expected: FAIL - `Cannot find module './expand'`
 
 - [ ] **Step 3: Implement `catalog-pipeline/src/expand.ts`**
 
@@ -548,7 +548,7 @@ git commit -m "feat(pipeline): expand sources into catalog with dedupe and guard
 
 ---
 
-### Task 4: Pipeline — YouTube Data API client
+### Task 4: Pipeline - YouTube Data API client
 
 **Files:**
 - Create: `catalog-pipeline/src/youtube-api.ts`
@@ -559,7 +559,7 @@ git commit -m "feat(pipeline): expand sources into catalog with dedupe and guard
 - Produces:
   - `interface ResolvedChannel { channelId: string; uploadsPlaylistId: string; handle?: string }`
   - `interface YouTubeClient { resolveChannel(ref: string): Promise<ResolvedChannel>; listPlaylistVideoIds(playlistId: string, max: number): Promise<string[]>; getVideos(ids: string[]): Promise<VideoData[]> }`
-  - `class YouTubeApiClient implements YouTubeClient` — constructor takes `apiKey: string`
+  - `class YouTubeApiClient implements YouTubeClient` - constructor takes `apiKey: string`
   - `parseIsoDuration(iso: string): number` (seconds)
 
 - [ ] **Step 1: Write the failing tests**
@@ -642,7 +642,7 @@ describe("YouTubeApiClient", () => {
 - [ ] **Step 2: Run tests to verify they fail**
 
 Run: `npm test`
-Expected: FAIL — `Cannot find module './youtube-api'`
+Expected: FAIL - `Cannot find module './youtube-api'`
 
 - [ ] **Step 3: Implement `catalog-pipeline/src/youtube-api.ts`**
 
@@ -752,7 +752,7 @@ git commit -m "feat(pipeline): YouTube Data API client"
 
 ---
 
-### Task 5: Pipeline — build entrypoint + starter `catalog.yaml`
+### Task 5: Pipeline - build entrypoint + starter `catalog.yaml`
 
 **Files:**
 - Create: `catalog-pipeline/src/build.ts`
@@ -762,7 +762,7 @@ git commit -m "feat(pipeline): YouTube Data API client"
 **Interfaces:**
 - Consumes: `parseConfig` (Task 2), `expandCatalog`/`buildAllowed`/`FetchedSource` (Task 3), `YouTubeClient`/`ResolvedChannel` (Task 4)
 - Produces:
-  - `runBuild(config: Config, client: YouTubeClient, now: string): Promise<{ catalog: Catalog; allowed: AllowedChannels }>` — all fetching/assembly, no filesystem
+  - `runBuild(config: Config, client: YouTubeClient, now: string): Promise<{ catalog: Catalog; allowed: AllowedChannels }>` - all fetching/assembly, no filesystem
   - CLI behavior: `YT_API_KEY=... npm run build -w catalog-pipeline` reads `catalog.yaml`, writes `catalog-pipeline/dist/catalog.json` and `catalog-pipeline/dist/allowed-channels.json`
 
 - [ ] **Step 1: Write the failing test**
@@ -824,7 +824,7 @@ search_only_channels:
 - [ ] **Step 2: Run test to verify it fails**
 
 Run: `npm test`
-Expected: FAIL — `Cannot find module './build'`
+Expected: FAIL - `Cannot find module './build'`
 
 - [ ] **Step 3: Implement `catalog-pipeline/src/build.ts`**
 
@@ -888,7 +888,7 @@ if (process.argv[1] && import.meta.url === new URL(`file://${process.argv[1]}`).
 - [ ] **Step 4: Write starter `catalog-pipeline/catalog.yaml`**
 
 ```yaml
-# Learning Child — parent-curated video sources.
+# Learning Child - parent-curated video sources.
 # Edit this file, push, and the catalog rebuilds automatically.
 # Docs: see README.md at the repo root.
 
@@ -931,7 +931,7 @@ git commit -m "feat(pipeline): build CLI and starter catalog.yaml"
 
 ---
 
-### Task 6: GitHub Action — scheduled catalog publish
+### Task 6: GitHub Action - scheduled catalog publish
 
 **Files:**
 - Create: `.github/workflows/catalog.yml`
@@ -986,11 +986,11 @@ git add .github/workflows/catalog.yml
 git commit -m "ci: daily catalog build published to GitHub Pages"
 ```
 
-Note for the human: after pushing to GitHub — add the `YT_API_KEY` repo secret (YouTube Data API v3 key from Google Cloud Console) and enable Pages from the `gh-pages` branch. Documented in README (Task 16).
+Note for the human: after pushing to GitHub - add the `YT_API_KEY` repo secret (YouTube Data API v3 key from Google Cloud Console) and enable Pages from the `gh-pages` branch. Documented in README (Task 16).
 
 ---
 
-### Task 7: Extension — scaffold, manifest, selectors, instant-hide
+### Task 7: Extension - scaffold, manifest, selectors, instant-hide
 
 **Files:**
 - Create: `extension/manifest.json`, `extension/build.mjs`
@@ -1052,7 +1052,7 @@ cpSync("seed-catalog.json", "dist/seed-catalog.json");
 if (existsSync("src/options/options.html")) cpSync("src/options/options.html", "dist/options.html");
 ```
 
-(The options entry point doesn't exist until Task 14 — create a placeholder now: `extension/src/options/options.ts` containing `export {};` and `extension/src/options/options.html` containing `<!doctype html><title>Learning Child</title><script src="options.js" defer></script>`.)
+(The options entry point doesn't exist until Task 14 - create a placeholder now: `extension/src/options/options.ts` containing `export {};` and `extension/src/options/options.html` containing `<!doctype html><title>Learning Child</title><script src="options.js" defer></script>`.)
 
 - [ ] **Step 3: Write `extension/src/selectors.ts`**
 
@@ -1085,10 +1085,10 @@ export const HIDE_SELECTORS = [
   ".ytp-endscreen-content",
 ];
 
-/** Home grid container — our curated grid is inserted before it. */
+/** Home grid container - our curated grid is inserted before it. */
 export const HOME_GRID = "ytd-browse[page-subtype='home'] ytd-rich-grid-renderer";
 
-/** Watch page right-hand column — our up-next list is prepended into it. */
+/** Watch page right-hand column - our up-next list is prepended into it. */
 export const WATCH_SIDEBAR = "#secondary.ytd-watch-flexy";
 
 /** Search results list container (observed for infinite scroll). */
@@ -1107,7 +1107,7 @@ export const SEARCH_SHELF_ITEMS = "ytd-reel-shelf-renderer, ytd-shelf-renderer, 
 export const AUTONAV_TOGGLE = ".ytp-autonav-toggle-button";
 ```
 
-- [ ] **Step 4: Write `extension/src/content.ts` (v0 — hide only, router comes in Task 11)**
+- [ ] **Step 4: Write `extension/src/content.ts` (v0 - hide only, router comes in Task 11)**
 
 ```ts
 import { HIDE_SELECTORS } from "./selectors";
@@ -1123,7 +1123,7 @@ export function installHideStyle(): void {
 installHideStyle();
 ```
 
-- [ ] **Step 5: Write `extension/src/background.ts` (v0 — badge only, refresh comes in Task 10)**
+- [ ] **Step 5: Write `extension/src/background.ts` (v0 - badge only, refresh comes in Task 10)**
 
 ```ts
 chrome.runtime.onMessage.addListener((msg) => {
@@ -1136,7 +1136,7 @@ chrome.runtime.onMessage.addListener((msg) => {
 
 - [ ] **Step 6: Write `extension/seed-catalog.json`**
 
-Bundled fallback so kids never see an empty page. Sample entries — regenerate from a real pipeline run once the catalog is live (README covers this):
+Bundled fallback so kids never see an empty page. Sample entries - regenerate from a real pipeline run once the catalog is live (README covers this):
 
 ```json
 {
@@ -1149,8 +1149,8 @@ Bundled fallback so kids never see an empty page. Sample entries — regenerate 
   "videos": [
     {
       "id": "zQGOcOUBi6s",
-      "title": "The Immune System Explained I — Bacteria Infection",
-      "channel": "Kurzgesagt – In a Nutshell",
+      "title": "The Immune System Explained I - Bacteria Infection",
+      "channel": "Kurzgesagt - In a Nutshell",
       "channelId": "UCsXVk37bltHxD1rDPwtNM8Q",
       "durationSec": 425,
       "publishedAt": "2014-07-01T00:00:00Z",
@@ -1178,7 +1178,7 @@ Bundled fallback so kids never see an empty page. Sample entries — regenerate 
 Run: `npm install && npm run build -w extension`
 Expected: esbuild reports `dist/content.js`, `dist/background.js`, `dist/options.js` written; `dist/manifest.json` exists.
 
-Manual check: `chrome://extensions` → Developer mode → Load unpacked → `extension/dist` → open youtube.com. Expected: home grid tiles, watch-sidebar suggestions, comments, Shorts shelves are all GONE (blank areas are fine at this stage — injection comes next tasks).
+Manual check: `chrome://extensions` → Developer mode → Load unpacked → `extension/dist` → open youtube.com. Expected: home grid tiles, watch-sidebar suggestions, comments, Shorts shelves are all GONE (blank areas are fine at this stage - injection comes next tasks).
 
 - [ ] **Step 8: Commit**
 
@@ -1189,7 +1189,7 @@ git commit -m "feat(extension): MV3 scaffold with pre-paint hiding of YouTube re
 
 ---
 
-### Task 8: Extension — feed logic (pure)
+### Task 8: Extension - feed logic (pure)
 
 **Files:**
 - Create: `extension/src/feed.ts`
@@ -1202,7 +1202,7 @@ git commit -m "feat(extension): MV3 scaffold with pre-paint hiding of YouTube re
   - `seededShuffle<T>(items: T[], seedStr: string): T[]` (non-mutating)
   - `dailyFeed(catalog: Catalog, profile: string, dateStr: string): CatalogVideo[]`
   - `upNext(catalog: Catalog, profile: string, currentId: string, dateStr: string, count?: number): CatalogVideo[]` (default count 15)
-  - `todayStr(): string` — `YYYY-MM-DD`
+  - `todayStr(): string` - `YYYY-MM-DD`
 
 - [ ] **Step 1: Write the failing tests**
 
@@ -1290,7 +1290,7 @@ describe("upNext", () => {
 - [ ] **Step 2: Run tests to verify they fail**
 
 Run: `npm test`
-Expected: FAIL — `Cannot find module './feed'`
+Expected: FAIL - `Cannot find module './feed'`
 
 - [ ] **Step 3: Implement `extension/src/feed.ts`**
 
@@ -1380,7 +1380,7 @@ git commit -m "feat(extension): deterministic daily feed and topic-biased up-nex
 
 ---
 
-### Task 9: Extension — tile renderer (jsdom-tested)
+### Task 9: Extension - tile renderer (jsdom-tested)
 
 **Files:**
 - Create: `extension/src/ui.ts`
@@ -1389,10 +1389,10 @@ git commit -m "feat(extension): deterministic daily feed and topic-biased up-nex
 **Interfaces:**
 - Consumes: `CatalogVideo` from `shared/types.ts`
 - Produces:
-  - `formatDuration(sec: number): string` — `754 → "12:34"`, `3723 → "1:02:03"`
-  - `renderGrid(videos: CatalogVideo[]): HTMLElement` — element with class `lc-grid`, one `a.lc-tile` per video
-  - `renderList(videos: CatalogVideo[]): HTMLElement` — element with class `lc-list`, same tiles in list layout
-  - `injectUiCss(doc?: Document): void` — idempotent, style id `lc-ui-css`
+  - `formatDuration(sec: number): string` - `754 → "12:34"`, `3723 → "1:02:03"`
+  - `renderGrid(videos: CatalogVideo[]): HTMLElement` - element with class `lc-grid`, one `a.lc-tile` per video
+  - `renderList(videos: CatalogVideo[]): HTMLElement` - element with class `lc-list`, same tiles in list layout
+  - `injectUiCss(doc?: Document): void` - idempotent, style id `lc-ui-css`
 
 - [ ] **Step 1: Write the failing tests**
 
@@ -1453,7 +1453,7 @@ describe("injectUiCss", () => {
 - [ ] **Step 2: Run tests to verify they fail**
 
 Run: `npm test`
-Expected: FAIL — `Cannot find module './ui'`
+Expected: FAIL - `Cannot find module './ui'`
 
 - [ ] **Step 3: Implement `extension/src/ui.ts`**
 
@@ -1574,19 +1574,19 @@ git commit -m "feat(extension): YouTube-styled tile grid and list renderers"
 
 ---
 
-### Task 10: Extension — catalog store + background refresher
+### Task 10: Extension - catalog store + background refresher
 
 **Files:**
 - Create: `extension/src/catalog.ts`
-- Modify: `extension/src/background.ts` (replace v0 entirely — full code below)
+- Modify: `extension/src/background.ts` (replace v0 entirely - full code below)
 - Test: `extension/src/catalog.test.ts`
 
 **Interfaces:**
 - Consumes: `Catalog`, `AllowedChannels` from `shared/types.ts`; storage keys written by background: `local.catalog`, `local.allowed`; sync keys written by options (Task 14): `sync.catalogUrl`, `sync.profile`
 - Produces:
-  - `loadCatalog(): Promise<Catalog>` — `storage.local.catalog` → bundled seed fallback
-  - `loadAllowed(): Promise<AllowedChannels>` — `storage.local.allowed` → derived from catalog
-  - `getActiveProfile(catalog: Catalog): Promise<string>` — `sync.profile` if valid, else first profile
+  - `loadCatalog(): Promise<Catalog>` - `storage.local.catalog` → bundled seed fallback
+  - `loadAllowed(): Promise<AllowedChannels>` - `storage.local.allowed` → derived from catalog
+  - `getActiveProfile(catalog: Catalog): Promise<string>` - `sync.profile` if valid, else first profile
   - Background: alarm `refresh-catalog` every 240 min fetches `<catalogUrl>/catalog.json` + `<catalogUrl>/allowed-channels.json` into `storage.local`; failures keep the cache; `adapter-failure` message sets a red `!` badge
 
 - [ ] **Step 1: Write the failing tests**
@@ -1657,7 +1657,7 @@ describe("getActiveProfile", () => {
 - [ ] **Step 2: Run tests to verify they fail**
 
 Run: `npm test`
-Expected: FAIL — `Cannot find module './catalog'`
+Expected: FAIL - `Cannot find module './catalog'`
 
 - [ ] **Step 3: Implement `extension/src/catalog.ts`**
 
@@ -1748,20 +1748,20 @@ git commit -m "feat(extension): catalog store with seed fallback and background 
 
 ---
 
-### Task 11: Extension — SPA router, home adapter, Shorts redirect, fail-open
+### Task 11: Extension - SPA router, home adapter, Shorts redirect, fail-open
 
 **Files:**
 - Create: `extension/src/dom.ts` (waitFor helper)
 - Create: `extension/src/adapters/home.ts`
-- Modify: `extension/src/content.ts` (replace entirely — full code below)
+- Modify: `extension/src/content.ts` (replace entirely - full code below)
 - Test: `extension/src/dom.test.ts`
 
 **Interfaces:**
 - Consumes: `loadCatalog`/`getActiveProfile` (Task 10), `dailyFeed`/`todayStr` (Task 8), `renderGrid` (Task 9), `HOME_GRID` (Task 7)
 - Produces:
-  - `waitFor(selector: string, timeoutMs?: number): Promise<Element>` (default 10000) — rejects on timeout
-  - `reportFailure(surface: string): void` — removes `#lc-hide` (fail open) and messages the background to set the badge
-  - `runHome(): Promise<void>` — injects `#lc-home-grid`
+  - `waitFor(selector: string, timeoutMs?: number): Promise<Element>` (default 10000) - rejects on timeout
+  - `reportFailure(surface: string): void` - removes `#lc-hide` (fail open) and messages the background to set the badge
+  - `runHome(): Promise<void>` - injects `#lc-home-grid`
   - Router in `content.ts`: routes on load + `yt-navigate-finish`; `/shorts/*` → `location.replace("/")`; every adapter wrapped in try/catch → `reportFailure`; calls the previous adapter's cleanup before routing. Adapters may return `void | (() => void)` (cleanup).
 
 - [ ] **Step 1: Write the failing test**
@@ -1798,7 +1798,7 @@ describe("waitFor", () => {
 - [ ] **Step 2: Run test to verify it fails**
 
 Run: `npm test`
-Expected: FAIL — `Cannot find module './dom'`
+Expected: FAIL - `Cannot find module './dom'`
 
 - [ ] **Step 3: Implement `extension/src/dom.ts`**
 
@@ -1865,7 +1865,7 @@ export function reportFailure(surface: string): void {
   try {
     chrome.runtime.sendMessage({ type: "adapter-failure", surface });
   } catch {
-    // extension context gone (e.g. reloaded) — nothing to do
+    // extension context gone (e.g. reloaded) - nothing to do
   }
 }
 
@@ -1923,15 +1923,15 @@ git commit -m "feat(extension): SPA router, curated homepage grid, shorts redire
 
 ---
 
-### Task 12: Extension — watch-page adapter (up next + autoplay off)
+### Task 12: Extension - watch-page adapter (up next + autoplay off)
 
 **Files:**
 - Create: `extension/src/adapters/watch.ts`
-- Modify: `extension/src/content.ts:` routes table — add the watch entry (shown below)
+- Modify: `extension/src/content.ts:` routes table - add the watch entry (shown below)
 
 **Interfaces:**
 - Consumes: `loadCatalog`/`getActiveProfile` (Task 10), `upNext`/`todayStr` (Task 8), `renderList` (Task 9), `waitFor` (Task 11), `WATCH_SIDEBAR`/`AUTONAV_TOGGLE` (Task 7)
-- Produces: `runWatch(): Promise<() => void>` — injects `#lc-upnext` into the sidebar, forces autoplay off; returns cleanup that stops the autoplay poller
+- Produces: `runWatch(): Promise<() => void>` - injects `#lc-upnext` into the sidebar, forces autoplay off; returns cleanup that stops the autoplay poller
 
 - [ ] **Step 1: Implement `extension/src/adapters/watch.ts`**
 
@@ -2004,20 +2004,20 @@ git commit -m "feat(extension): curated up-next sidebar and forced autoplay off"
 
 ---
 
-### Task 13: Extension — search filtering
+### Task 13: Extension - search filtering
 
 **Files:**
 - Create: `extension/src/search-filter.ts` (pure)
 - Create: `extension/src/adapters/search.ts`
-- Modify: `extension/src/content.ts` routes table — add the search entry (shown below)
+- Modify: `extension/src/content.ts` routes table - add the search entry (shown below)
 - Test: `extension/src/search-filter.test.ts`
 
 **Interfaces:**
 - Consumes: `AllowedChannels` from `shared/types.ts`; `loadAllowed`/`loadCatalog`/`getActiveProfile` (Task 10); `dailyFeed`/`todayStr` (Task 8); `renderGrid` (Task 9); `waitFor` (Task 11); search selectors (Task 7)
 - Produces:
-  - `channelRefFromHref(href: string): string | null` — `"/channel/UCx" → "UCx"`, `"/@Handle" → "@handle"`, full URLs accepted
+  - `channelRefFromHref(href: string): string | null` - `"/channel/UCx" → "UCx"`, `"/@Handle" → "@handle"`, full URLs accepted
   - `isAllowed(href: string | null, allowed: AllowedChannels): boolean`
-  - `runSearch(): Promise<() => void>` — removes disallowed results (initial + infinite scroll via MutationObserver), removes shelf modules, shows `#lc-search-empty` curated panel when nothing survives; cleanup disconnects the observer
+  - `runSearch(): Promise<() => void>` - removes disallowed results (initial + infinite scroll via MutationObserver), removes shelf modules, shows `#lc-search-empty` curated panel when nothing survives; cleanup disconnects the observer
 
 - [ ] **Step 1: Write the failing tests**
 
@@ -2056,7 +2056,7 @@ describe("isAllowed", () => {
 - [ ] **Step 2: Run tests to verify they fail**
 
 Run: `npm test`
-Expected: FAIL — `Cannot find module './search-filter'`
+Expected: FAIL - `Cannot find module './search-filter'`
 
 - [ ] **Step 3: Implement `extension/src/search-filter.ts`**
 
@@ -2128,7 +2128,7 @@ async function showEmptyPanel(container: Element): Promise<void> {
   const panel = document.createElement("div");
   panel.id = "lc-search-empty";
   const heading = document.createElement("h2");
-  heading.textContent = "Nothing here for that search — try one of these!";
+  heading.textContent = "Nothing here for that search - try one of these!";
   heading.style.cssText = "padding: 24px 24px 0; font-family: Roboto, Arial, sans-serif;";
   panel.append(heading, renderGrid(dailyFeed(catalog, profile, todayStr()).slice(0, EMPTY_SUGGESTION_COUNT)));
   container.prepend(panel);
@@ -2182,14 +2182,14 @@ git commit -m "feat(extension): search results filtered to approved channels wit
 
 ---
 
-### Task 14: Extension — parent options page
+### Task 14: Extension - parent options page
 
 **Files:**
 - Modify: `extension/src/options/options.html` (replace placeholder)
 - Modify: `extension/src/options/options.ts` (replace placeholder)
 
 **Interfaces:**
-- Consumes: `sync.catalogUrl` / `sync.profile` storage keys (background refetches on `catalogUrl` change — Task 10); `loadCatalog` (Task 10) for the profile list
+- Consumes: `sync.catalogUrl` / `sync.profile` storage keys (background refetches on `catalogUrl` change - Task 10); `loadCatalog` (Task 10) for the profile list
 - Produces: options page where a parent sets the catalog URL and active kid profile; saving writes both keys to `chrome.storage.sync`
 
 - [ ] **Step 1: Write `extension/src/options/options.html`**
@@ -2199,7 +2199,7 @@ git commit -m "feat(extension): search results filtered to approved channels wit
 <html>
 <head>
   <meta charset="utf-8">
-  <title>Learning Child — Parent Settings</title>
+  <title>Learning Child - Parent Settings</title>
   <style>
     body { font-family: system-ui, sans-serif; max-width: 560px; margin: 40px auto; padding: 0 16px; color: #222; }
     label { display: block; margin: 16px 0 4px; font-weight: 600; }
@@ -2210,7 +2210,7 @@ git commit -m "feat(extension): search results filtered to approved channels wit
   </style>
 </head>
 <body>
-  <h1>Learning Child — Parent Settings</h1>
+  <h1>Learning Child - Parent Settings</h1>
   <p>This page is for parents. Settings apply to this Chrome profile.</p>
 
   <label for="catalogUrl">Catalog URL</label>
@@ -2286,11 +2286,11 @@ git commit -m "feat(extension): parent options page for catalog URL and kid prof
 
 **Files:**
 - Create: `extension/e2e/smoke.spec.ts`, `extension/playwright.config.ts`
-- Modify: `extension/package.json` — add e2e script + dependency
+- Modify: `extension/package.json` - add e2e script + dependency
 
 **Interfaces:**
-- Consumes: built extension in `extension/dist` (run `npm run build -w extension` first); injected ids `lc-home-grid`, `lc-upnext` (Tasks 11–12)
-- Produces: `npm run e2e -w extension` — a canary that tells you when YouTube's DOM has drifted
+- Consumes: built extension in `extension/dist` (run `npm run build -w extension` first); injected ids `lc-home-grid`, `lc-upnext` (Tasks 11-12)
+- Produces: `npm run e2e -w extension` - a canary that tells you when YouTube's DOM has drifted
 
 - [ ] **Step 1: Add Playwright**
 
@@ -2359,7 +2359,7 @@ test("shorts redirect home", async () => {
 - [ ] **Step 4: Run the canary**
 
 Run: `npm run build -w extension && npm run e2e -w extension`
-Expected: 3 passing (a consent dialog or region wall can make this flaky — it's a canary for selector drift, never a merge gate).
+Expected: 3 passing (a consent dialog or region wall can make this flaky - it's a canary for selector drift, never a merge gate).
 
 - [ ] **Step 5: Commit**
 
@@ -2387,7 +2387,7 @@ git commit -m "test(extension): playwright smoke canary against live youtube"
 YouTube's algorithm optimizes for watch time. Its thumbnails are dopamine honeypots,
 and kids are the easiest prey. This project flips who controls the feed.
 
-A Chrome extension makes YouTube look and feel like normal YouTube — but every
+A Chrome extension makes YouTube look and feel like normal YouTube - but every
 recommendation is filled from a catalog **you** curate: science, music, space, maths,
 exploration. The swap is invisible to the kid. The algorithm just… got better taste.
 
@@ -2411,7 +2411,7 @@ No server. The "backend" is a cron job and a static file on GitHub Pages.
 ## Parent quick-start
 
 1. **Fork/clone this repo.**
-2. **Edit `catalog-pipeline/catalog.yaml`** — add channels, playlists, or single videos,
+2. **Edit `catalog-pipeline/catalog.yaml`** - add channels, playlists, or single videos,
    tag them with topics and kid profiles. Push.
 3. **One-time setup**: create a free YouTube Data API key
    ([console.cloud.google.com](https://console.cloud.google.com) → enable "YouTube Data API v3"
@@ -2427,11 +2427,11 @@ Edits to `catalog.yaml` go live within minutes; the extension refreshes every 4 
 
 ## Honest limits
 
-- If YouTube changes its page structure, the extension **fails open** — real YouTube
+- If YouTube changes its page structure, the extension **fails open** - real YouTube
   shows and the extension icon gets a red `!` badge so you notice. Fix is usually a
   one-line selector update in `extension/src/selectors.ts`.
 - A kid with admin rights can disable the extension. Real lockdown needs Chrome's
-  supervised accounts / managed policies — future work.
+  supervised accounts / managed policies - future work.
 - The bundled `extension/seed-catalog.json` is a tiny sample used before your catalog
   loads. Replace it with a real `catalog.json` from your pipeline for better offline behavior.
 ```
@@ -2451,41 +2451,41 @@ with a parent-curated video catalog for kids. Spec:
 
 ## Map
 
-- `shared/types.ts` — Catalog/AllowedChannels schema. THE contract between pipeline and
+- `shared/types.ts` - Catalog/AllowedChannels schema. THE contract between pipeline and
   extension. Change it only with both sides in the same commit.
-- `catalog-pipeline/` — `catalog.yaml` (parent-edited) → `dist/catalog.json` +
+- `catalog-pipeline/` - `catalog.yaml` (parent-edited) → `dist/catalog.json` +
   `dist/allowed-channels.json` via YouTube Data API. Entry: `src/build.ts` (needs
   `YT_API_KEY`). Published daily by `.github/workflows/catalog.yml` to GitHub Pages.
-- `extension/` — `src/content.ts` (router; runs at `document_start`, injects hide-CSS
+- `extension/` - `src/content.ts` (router; runs at `document_start`, injects hide-CSS
   pre-paint), `src/adapters/{home,watch,search}.ts`, `src/feed.ts` (pure feed logic),
   `src/ui.ts` (tile rendering), `src/catalog.ts` (storage + seed fallback),
   `src/background.ts` (4-hourly catalog refresh + failure badge).
 
-## Invariants — do not break
+## Invariants - do not break
 
 1. **Every YouTube DOM selector lives in `extension/src/selectors.ts`.** Never inline one.
-2. **Fail open**: if an adapter can't inject, call `reportFailure(surface)` — it unhides
+2. **Fail open**: if an adapter can't inject, call `reportFailure(surface)` - it unhides
    real YouTube and badges the toolbar icon. Never leave a blank page.
 3. Adapters re-run on the `yt-navigate-finish` SPA event; an adapter may return a
    cleanup function, called before the next route.
 4. Injected element ids are prefixed `lc-`.
-5. Feed logic (`feed.ts`) is pure and deterministic (seeded by date+profile) — keep it
+5. Feed logic (`feed.ts`) is pure and deterministic (seeded by date+profile) - keep it
    testable without `chrome.*`.
 
 ## Commands
 
-- `npm test` — all unit tests (vitest; DOM tests use `// @vitest-environment jsdom`)
-- `npm run typecheck` — tsc over both workspaces
-- `npm run build -w extension` — build unpacked extension into `extension/dist`
-- `YT_API_KEY=... npm run build -w catalog-pipeline` — build catalog locally
-- `npm run e2e -w extension` — Playwright canary vs live YouTube (flaky by nature; a
+- `npm test` - all unit tests (vitest; DOM tests use `// @vitest-environment jsdom`)
+- `npm run typecheck` - tsc over both workspaces
+- `npm run build -w extension` - build unpacked extension into `extension/dist`
+- `YT_API_KEY=... npm run build -w catalog-pipeline` - build catalog locally
+- `npm run e2e -w extension` - Playwright canary vs live YouTube (flaky by nature; a
   selector-drift alarm, not a CI gate)
 
 ## When YouTube breaks the extension
 
 Symptoms: red `!` badge, or real recommendations visible. Fix: update the drifted
 selector in `selectors.ts`, run the e2e canary, done. Selectors are container-level on
-purpose — prefer broad slow-churn selectors over deep brittle ones.
+purpose - prefer broad slow-churn selectors over deep brittle ones.
 ```
 
 - [ ] **Step 3: Verify docs read correctly**

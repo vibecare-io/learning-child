@@ -32,13 +32,13 @@ catalog:
     fi
     bun run --cwd catalog-pipeline build
 
-# Build the full site (landing page + /api catalog) into public/ — same as Cloudflare
+# Build the full site (landing page + /api catalog) into public/ - same as Cloudflare
 site:
     bash scripts/deploy.sh
 
 # Serve the built site at http://localhost:{{port}} (run `just site` first)
 serve port="8080":
-    @echo "Serving ./public at http://localhost:{{port}}  —  Ctrl-C to stop"
+    @echo "Serving ./public at http://localhost:{{port}}  -  Ctrl-C to stop"
     python3 -m http.server {{port}} --directory public
 
 # Full pre-commit gate: test, typecheck, bundle

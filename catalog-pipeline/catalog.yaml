@@ -1,4 +1,4 @@
-# Learning Child — parent-curated video sources.
+# Learning Child - parent-curated video sources.
 # Edit this file, push, and the catalog rebuilds automatically.
 # Docs: see README.md at the repo root.
 
@@ -9,7 +9,7 @@ profiles:
 # min_duration_sec: 120   # uncomment to change the Shorts-style filter
 
 sources:
-  # ── Little (ages 3-7) — ~25 videos ───────────────────────────────
+  # ── Little (ages 3-7) - ~25 videos ───────────────────────────────
   - channel: "@SciShowKids"
     topics: [science]
     profiles: [little]
@@ -27,7 +27,7 @@ sources:
     profiles: [little]
     max_videos: 6
 
-  # ── Big (ages 8-12) — ~25 videos ─────────────────────────────────
+  # ── Big (ages 8-12) - ~25 videos ─────────────────────────────────
   # Caps are generous: the 120s Shorts filter trims recent uploads on
   # channels that post Shorts heavily (Veritasium, Kurzgesagt, Mark Rober).
   - channel: "@TEDEd"

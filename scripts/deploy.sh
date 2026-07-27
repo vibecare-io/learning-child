@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 #
-# Cloudflare Pages build — assembles the static site into ./public.
+# Cloudflare Pages build - assembles the static site into ./public.
 #
 # Steps: install deps -> build the catalog from catalog.yaml -> copy the
 # resulting JSON into public/api (served at /api/*). The landing page and
