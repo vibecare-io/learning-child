@@ -127,6 +127,14 @@
   .step h3 { font-size: 20px; margin: 0 0 6px; }
   .step p { margin: 0; color: var(--ink-soft); font-weight: 600; }
 
+  /* ---- channels ---- */
+  .topics { display: grid; gap: 26px; max-width: 920px; margin-inline: auto; }
+  .topic-name { display: flex; align-items: center; justify-content: center; gap: 9px; font-family: "Baloo 2"; font-weight: 800; font-size: 21px; margin: 0 0 14px; }
+  .chips { display: flex; flex-wrap: wrap; gap: 12px; justify-content: center; }
+  .chan { display: inline-flex; align-items: center; gap: 10px; background: var(--card); border: 2px solid #fff; box-shadow: var(--shadow); border-radius: 999px; padding: 7px 17px 7px 7px; font-weight: 700; font-size: 15px; color: var(--ink); }
+  .chan .av { width: 30px; height: 30px; border-radius: 50%; display: grid; place-items: center; color: #fff; font-family: "Baloo 2"; font-weight: 800; font-size: 14px; }
+  .chan-note { text-align: center; color: var(--ink-soft); font-weight: 700; margin: 32px auto 0; max-width: 44ch; }
+
   /* ---- final cta ---- */
   .band {
     background: linear-gradient(135deg, #fff0f6, #eef5ff);
@@ -173,8 +181,9 @@
       VibeCare Kids
     </div>
     <div class="nav-links">
-      <a href="#how" class="hide-sm">How it works</a>
       <a href="#features" class="hide-sm">Features</a>
+      <a href="#channels" class="hide-sm">Channels</a>
+      <a href="#how" class="hide-sm">How it works</a>
       <a class="ghost" href="https://github.com/vibecare-io/learning-child" target="_blank" rel="noopener">GitHub ↗</a>
     </div>
   </nav>
@@ -250,6 +259,50 @@
         <p>If YouTube changes under the hood, it steps aside gracefully — never a broken page.</p>
       </div>
     </div>
+  </div>
+</section>
+
+<!-- ================= CHANNELS ================= -->
+<section id="channels">
+  <div class="wrap">
+    <p class="eyebrow">Handpicked for curious kids</p>
+    <h2 class="section-title">Channels worth exploring 🔭</h2>
+    <div class="topics">
+      <div class="topic">
+        <h3 class="topic-name">🔬 Science</h3>
+        <div class="chips">
+          <span class="chan"><span class="av" style="background:#2f7fed">V</span>Veritasium</span>
+          <span class="chan"><span class="av" style="background:#12a594">S</span>SciShow</span>
+          <span class="chan"><span class="av" style="background:#7c5cff">K</span>Kurzgesagt</span>
+          <span class="chan"><span class="av" style="background:#e0483b">T</span>TED-Ed</span>
+        </div>
+      </div>
+      <div class="topic">
+        <h3 class="topic-name">🌿 Life &amp; nature</h3>
+        <div class="chips">
+          <span class="chan"><span class="av" style="background:#d98e04">N</span>National Geographic</span>
+          <span class="chan"><span class="av" style="background:#2ea86a">B</span>BBC Earth</span>
+          <span class="chan"><span class="av" style="background:#f4477e">N</span>Nat Geo Kids</span>
+        </div>
+      </div>
+      <div class="topic">
+        <h3 class="topic-name">🪐 Astronomy &amp; space</h3>
+        <div class="chips">
+          <span class="chan"><span class="av" style="background:#7c5cff">K</span>Kurzgesagt</span>
+          <span class="chan"><span class="av" style="background:#3b46d6">N</span>NASA</span>
+          <span class="chan"><span class="av" style="background:#2f7fed">P</span>PBS Space Time</span>
+        </div>
+      </div>
+      <div class="topic">
+        <h3 class="topic-name">🫀 Human body</h3>
+        <div class="chips">
+          <span class="chan"><span class="av" style="background:#e0483b">T</span>TED-Ed</span>
+          <span class="chan"><span class="av" style="background:#ef5da8">O</span>Operation Ouch</span>
+          <span class="chan"><span class="av" style="background:#12a594">S</span>SciShow Kids</span>
+        </div>
+      </div>
+    </div>
+    <p class="chan-note">…and any channel you trust. You're always in control of the list. 💛</p>
   </div>
 </section>
 
