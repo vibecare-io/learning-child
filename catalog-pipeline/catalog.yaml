@@ -8,6 +8,24 @@ profiles:
 
 # min_duration_sec: 120   # uncomment to change the Shorts-style filter
 
+# Curation-time safety net (authoritative, applied at build time - see
+# README.md "Safety controls"). blocked_keywords are word-boundary matched
+# against video titles; hits are dropped and logged in the build output.
+# exclude_videos is for surgical per-video removal (e.g. parent-reported).
+safety:
+  blocked_keywords:
+    - exploding
+    - explosion
+    - fireworks
+    - firework
+    - flamethrower
+    - gun
+    - taser
+    - "do not try"
+    - "at home experiment gone wrong"
+  exclude_videos:
+    - XZ6j5-nBFyc   # parent-reported
+
 sources:
   # ── Little (ages 3-7) - ~25 videos ───────────────────────────────
   - channel: "@SciShowKids"
@@ -58,6 +76,7 @@ sources:
     topics: [science, engineering]
     profiles: [big]
     max_videos: 8
+    supervision: true   # dangerous-DIY / stunt content mixed in - see README
 
 
   # ============================================================
@@ -517,6 +536,7 @@ sources:
   - channel: "@theslowmoguys"
     topics: [science]
     profiles: [little, big]
+    supervision: true   # dangerous-DIY / stunt content mixed in - see README
   - channel: "@tomstantonengineering"
     topics: [engineering, making]
     profiles: [big]
