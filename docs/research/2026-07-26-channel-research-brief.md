@@ -83,7 +83,18 @@ search_only_channels:            # fine to find via search, not pushed into the 
 ```
 
 **2. Justification table** - one row per channel: handle, name, topics, profiles,
-grade (A/B), one-sentence why-it's-in, typical video length, upload cadence.
+grade (A/B), one-sentence why-it's-in, typical video length, upload cadence, and a
+**safety rating**: `solo-safe` | `supervision` | `mixed`.
+
+- `supervision` = content is great but involves dangerous-to-imitate activities
+  (explosions, fire, chemicals, power tools, extreme stunts). In the YAML, add
+  `supervision: true` to that source - the pipeline tags these videos and the
+  extension hides them unless a parent enables supervised mode.
+- `mixed` = mostly solo-safe but specific videos need flagging: list those video ids
+  with one-line reasons so parents can put them in `safety.exclude_videos` or a
+  supervised playlist.
+- Also suggest 5-15 `blocked_keywords` (title words like "exploding", "do not try")
+  you noticed recurring on risky videos during verification.
 
 **3. Borderline/rejected list** - channels a parent might expect to see, with the
 one-line reason they didn't make the cut (e.g., "great content but Shorts-dominated",

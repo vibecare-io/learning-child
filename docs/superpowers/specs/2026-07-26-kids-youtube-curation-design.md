@@ -134,6 +134,40 @@ not even a flash. During load the kid sees a normal-looking skeleton.
 Service worker refreshes the catalog every few hours via `chrome.alarms`, caching in
 `chrome.storage.local`.
 
+## Safety controls (added 2026-07-27)
+
+Good channels still publish videos kids shouldn't watch unsupervised (dangerous DIY,
+explosions, fire, power tools). Two-tier filtering, same semantics at both tiers:
+
+**Tier 1 - curation time (authoritative).** `catalog.yaml` gains:
+
+```yaml
+safety:
+  blocked_keywords: [exploding, explosion, firework]   # word-boundary match on title -> dropped
+  exclude_videos: [XZ6j5-nBFyc]                        # surgical per-video removal
+
+sources:
+  - channel: "@markrober"
+    supervision: true          # kept but tagged flags: ["supervision"] in catalog.json
+```
+
+Keyword/exclude hits are DROPPED from the catalog and reported in the build log for
+audit. `supervision: true` videos are KEPT and tagged - hidden at runtime unless a
+parent enables supervised mode (decision: tag-and-hide, not drop - preserves
+co-watching content). Dedupe rule: if any source marks a video supervised, the flag
+sticks. `CatalogVideo` gains optional `flags?: string[]`.
+
+**Tier 2 - runtime (instant).** A PIN-gated Parent Controls **side panel**
+(`chrome.sidePanel`) with: supervised-mode toggle; parent-editable keyword blocklist;
+per-video block list (paste a YouTube URL). Stored in `chrome.storage.sync`, applied
+as a pure filter (`applySafety`) over feed/up-next/search suggestions before render.
+Runtime rules act within seconds; promoting them into `catalog.yaml` makes them
+permanent. Keyword matching lives in `shared/safety.ts`, used by both tiers.
+
+Honest limit: title keywords can't see inside the video. The research data's per-channel
+safety assessment (solo-safe / supervision / mixed) plus `exclude_videos` is the real
+net; keywords are the tripwire.
+
 ## Failure handling & honest limits
 
 - **Catalog fetch fails:** serve the last cached catalog; a small seed catalog is bundled

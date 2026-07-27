@@ -2501,9 +2501,459 @@ git commit -m "docs: plain-language README and AGENTS guide"
 
 ---
 
+## Safety tier — Tasks 17–19 (added 2026-07-27; PRIORITIZED: execute before Tasks 12–16)
+
+Spec addition: "Safety controls" section in the design doc. Decisions: keyword/exclude
+hits are dropped at pipeline time with an audit report; `supervision: true` videos are
+kept but tagged `flags: ["supervision"]` and hidden at runtime unless supervised mode is
+on; runtime parent controls live in a PIN-gated `chrome.sidePanel` panel backed by
+`chrome.storage.sync`. Tooling note: repo now uses bun + Justfile (`just test`,
+`just typecheck`, `just bundle` = the old npm equivalents).
+
+### Task 17: Pipeline safety — blocked keywords, exclusions, supervision flags
+
+**Files:**
+- Create: `shared/safety.ts`
+- Modify: `shared/types.ts` (CatalogVideo gains `flags?: string[]`)
+- Modify: `catalog-pipeline/src/config.ts` (+ its test), `catalog-pipeline/src/expand.ts` (+ its test), `catalog-pipeline/src/build.ts` (+ its test)
+- Test: `shared/safety.test.ts`
+
+**Interfaces:**
+- Consumes: existing Config/Source/expandCatalog/runBuild shapes
+- Produces:
+  - `matchesBlockedKeyword(title: string, keywords: string[]): string | null` in `shared/safety.ts` (case-insensitive, word-boundary; multi-word phrases allowed; returns the matched keyword)
+  - `Source` gains `supervision: boolean` (yaml key `supervision`, default false)
+  - `Config` gains `safety: { blockedKeywords: string[]; excludeVideos: string[] }` (yaml `safety.blocked_keywords` / `safety.exclude_videos`, both default `[]`, must be lists of strings if present)
+  - `interface DroppedVideo { id: string; title: string; reason: string }`
+  - **SIGNATURE CHANGE:** `expandCatalog(config, fetched, generatedAt): { catalog: Catalog; dropped: DroppedVideo[] }` — update `build.ts` (`runBuild` returns `{ catalog, allowed, dropped }`; `main()` logs each drop as `Dropped <id>: <reason>`) and all existing tests that destructure the old return.
+
+- [ ] **Step 1: Write failing tests**
+
+`shared/safety.test.ts`:
+```ts
+import { describe, expect, it } from "vitest";
+import { matchesBlockedKeyword } from "./safety";
+
+describe("matchesBlockedKeyword", () => {
+  it("matches whole words case-insensitively", () => {
+    expect(matchesBlockedKeyword("EXPLODING watermelon!", ["exploding"])).toBe("exploding");
+    expect(matchesBlockedKeyword("Great explorers of the deep", ["exploding"])).toBeNull();
+    expect(matchesBlockedKeyword("nothing risky here", [])).toBeNull();
+  });
+  it("matches multi-word phrases", () => {
+    expect(matchesBlockedKeyword("DO NOT TRY this at home", ["do not try"])).toBe("do not try");
+  });
+  it("escapes regex metacharacters in keywords", () => {
+    expect(matchesBlockedKeyword("what is c++ anyway", ["c++"])).toBe("c++");
+  });
+});
+```
+
+`catalog-pipeline/src/config.test.ts` — add:
+```ts
+it("parses safety block and per-source supervision", () => {
+  const config = parseConfig(`
+profiles: { big: { label: "x" } }
+safety:
+  blocked_keywords: [exploding, "do not try"]
+  exclude_videos: [XZ6j5-nBFyc]
+sources:
+  - channel: "@markrober"
+    supervision: true
+`);
+  expect(config.safety).toEqual({
+    blockedKeywords: ["exploding", "do not try"],
+    excludeVideos: ["XZ6j5-nBFyc"],
+  });
+  expect(config.sources[0].supervision).toBe(true);
+});
+
+it("defaults safety to empty lists and supervision to false", () => {
+  const config = parseConfig(`
+profiles: { big: { label: "x" } }
+sources:
+  - channel: "@a"
+`);
+  expect(config.safety).toEqual({ blockedKeywords: [], excludeVideos: [] });
+  expect(config.sources[0].supervision).toBe(false);
+});
+
+it("rejects a non-list blocked_keywords", () => {
+  expect(() => parseConfig(`
+profiles: { big: { label: "x" } }
+safety: { blocked_keywords: "exploding" }
+sources: []
+`)).toThrow(/blocked_keywords/);
+});
+```
+(Also update the existing "parses sources with kind" expectation: source objects now
+include `supervision: false`.)
+
+`catalog-pipeline/src/expand.test.ts` — add (uses existing `video()`/`source()`/`config` helpers; give the `config` helper the new `safety: { blockedKeywords: [], excludeVideos: [] }` default and add `supervision: false` to the `source()` helper):
+```ts
+it("drops keyword-matched titles with an audit reason", () => {
+  const cfg = { ...config, safety: { blockedKeywords: ["exploding"], excludeVideos: [] } };
+  const fetched = [{ source: source({}), videos: [
+    video({ id: "boom", title: "Exploding watermelon" }),
+    video({ id: "ok", title: "Explorers of the deep" }),
+  ]}];
+  const { catalog, dropped } = expandCatalog(cfg, fetched, "x");
+  expect(catalog.videos.map((v) => v.id)).toEqual(["ok"]);
+  expect(dropped).toEqual([{ id: "boom", title: "Exploding watermelon", reason: 'blocked keyword "exploding"' }]);
+});
+
+it("drops excluded video ids", () => {
+  const cfg = { ...config, safety: { blockedKeywords: [], excludeVideos: ["banned"] } };
+  const fetched = [{ source: source({}), videos: [video({ id: "banned" }), video({ id: "ok" })] }];
+  const { catalog, dropped } = expandCatalog(cfg, fetched, "x");
+  expect(catalog.videos.map((v) => v.id)).toEqual(["ok"]);
+  expect(dropped[0]).toMatchObject({ id: "banned", reason: "excluded by exclude_videos" });
+});
+
+it("tags supervision flags and unions them across duplicate sources", () => {
+  const fetched = [
+    { source: source({ supervision: true }), videos: [video({ id: "diy" })] },
+    { source: source({ kind: "playlist", supervision: false }), videos: [video({ id: "diy" }), video({ id: "calm" })] },
+  ];
+  const { catalog } = expandCatalog(config, fetched, "x");
+  expect(catalog.videos.find((v) => v.id === "diy")!.flags).toEqual(["supervision"]);
+  expect(catalog.videos.find((v) => v.id === "calm")!.flags).toBeUndefined();
+});
+```
+(Update every existing expand/build test to the new `{ catalog, dropped }` /
+`{ catalog, allowed, dropped }` return shapes.)
+
+- [ ] **Step 2: Run tests, verify the new ones fail** (`just test`)
+
+- [ ] **Step 3: Implement**
+
+`shared/safety.ts`:
+```ts
+export function matchesBlockedKeyword(title: string, keywords: string[]): string | null {
+  for (const keyword of keywords) {
+    const escaped = keyword.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+    if (new RegExp(`(^|\\W)${escaped}(\\W|$)`, "i").test(title)) return keyword;
+  }
+  return null;
+}
+```
+(Note: `(^|\W)…(\W|$)` instead of `\b` so keywords ending in non-word chars like `c++` still match.)
+
+`shared/types.ts` — add to CatalogVideo:
+```ts
+  /** e.g. ["supervision"] - present only when non-empty */
+  flags?: string[];
+```
+
+`config.ts`: `Source` gains `supervision: (s.supervision as boolean | undefined) ?? false`;
+`Config` gains `safety`; validate `safety.blocked_keywords`/`safety.exclude_videos` are
+arrays of strings when present, else throw a human-readable Error naming the field.
+
+`expand.ts`:
+```ts
+export interface DroppedVideo { id: string; title: string; reason: string }
+
+export function expandCatalog(
+  config: Config,
+  fetched: FetchedSource[],
+  generatedAt: string,
+): { catalog: Catalog; dropped: DroppedVideo[] } {
+  const byId = new Map<string, CatalogVideo>();
+  const dropped: DroppedVideo[] = [];
+  const droppedIds = new Set<string>();
+  for (const { source, videos } of fetched) {
+    const kept: VideoData[] = [];
+    for (const v of videos) {
+      if (v.durationSec < config.minDurationSec) continue;
+      if (config.safety.excludeVideos.includes(v.id)) {
+        if (!droppedIds.has(v.id)) {
+          droppedIds.add(v.id);
+          dropped.push({ id: v.id, title: v.title, reason: "excluded by exclude_videos" });
+        }
+        continue;
+      }
+      const keyword = matchesBlockedKeyword(v.title, config.safety.blockedKeywords);
+      if (keyword) {
+        if (!droppedIds.has(v.id)) {
+          droppedIds.add(v.id);
+          dropped.push({ id: v.id, title: v.title, reason: `blocked keyword "${keyword}"` });
+        }
+        continue;
+      }
+      kept.push(v);
+      if (kept.length >= source.maxVideos) break;
+    }
+    for (const v of kept) {
+      const existing = byId.get(v.id);
+      if (existing) {
+        existing.topics = [...new Set([...existing.topics, ...source.topics])];
+        existing.profiles = [...new Set([...existing.profiles, ...source.profiles])];
+        if (source.supervision && !existing.flags) existing.flags = ["supervision"];
+        continue;
+      }
+      byId.set(v.id, {
+        id: v.id, title: v.title, channel: v.channelTitle, channelId: v.channelId,
+        durationSec: v.durationSec, publishedAt: v.publishedAt,
+        topics: [...source.topics], profiles: [...source.profiles],
+        ...(source.supervision ? { flags: ["supervision"] } : {}),
+        thumbnail: `https://i.ytimg.com/vi/${v.id}/hqdefault.jpg`,
+      });
+    }
+  }
+  return { catalog: { version: 1, generatedAt, profiles: config.profiles, videos: [...byId.values()] }, dropped };
+}
+```
+(`buildAllowed` unchanged. Import `matchesBlockedKeyword` from `../../shared/safety`.)
+
+`build.ts`: `runBuild` destructures `{ catalog, dropped }` and returns
+`{ catalog, allowed, dropped }`; `main()` prints each `Dropped <id>: <reason>` line and
+the existing summary line.
+
+- [ ] **Step 4: `just test` all green, `just typecheck` clean**
+- [ ] **Step 5: Commit** — `feat(safety): pipeline blocked keywords, exclusions, supervision flags`
+
+---
+
+### Task 18: Extension runtime safety filter
+
+**Files:**
+- Create: `extension/src/safety.ts`, `extension/src/safety.test.ts`
+- Modify: `extension/src/adapters/home.ts` (apply filter before render)
+
+**Interfaces:**
+- Consumes: `matchesBlockedKeyword` from `shared/safety.ts`; `CatalogVideo.flags`; `chrome.storage.sync` key `parentControls`
+- Produces (Tasks 12/13/19 depend on these EXACT shapes):
+  - `interface ParentControls { supervisedMode: boolean; blockedKeywords: string[]; blockedVideoIds: string[] }`
+  - `const DEFAULT_CONTROLS: ParentControls` (all off/empty)
+  - `applySafety(videos: CatalogVideo[], controls: ParentControls): CatalogVideo[]` — pure; drops blocked ids, keyword-matched titles, and (unless supervisedMode) any video whose `flags` includes `"supervision"`
+  - `loadControls(): Promise<ParentControls>` — `sync.parentControls` shallow-merged over defaults
+
+- [ ] **Step 1: Failing tests** (`extension/src/safety.test.ts`):
+```ts
+import { afterEach, describe, expect, it, vi } from "vitest";
+import { applySafety, DEFAULT_CONTROLS } from "./safety";
+import type { CatalogVideo } from "../../shared/types";
+
+function vid(over: Partial<CatalogVideo>): CatalogVideo {
+  return {
+    id: "v", title: "Calm nature walk", channel: "C", channelId: "UC1", durationSec: 300,
+    publishedAt: "2020-01-01T00:00:00Z", topics: [], profiles: ["big"], thumbnail: "t", ...over,
+  };
+}
+
+describe("applySafety", () => {
+  it("hides supervision-flagged videos unless supervised mode is on", () => {
+    const videos = [vid({ id: "diy", flags: ["supervision"] }), vid({ id: "calm" })];
+    expect(applySafety(videos, DEFAULT_CONTROLS).map((v) => v.id)).toEqual(["calm"]);
+    expect(applySafety(videos, { ...DEFAULT_CONTROLS, supervisedMode: true }).map((v) => v.id))
+      .toEqual(["diy", "calm"]);
+  });
+  it("drops blocked video ids and keyword-matched titles", () => {
+    const videos = [vid({ id: "a" }), vid({ id: "b", title: "Exploding barrel" }), vid({ id: "c" })];
+    const controls = { ...DEFAULT_CONTROLS, blockedVideoIds: ["a"], blockedKeywords: ["exploding"] };
+    expect(applySafety(videos, controls).map((v) => v.id)).toEqual(["c"]);
+  });
+});
+
+describe("loadControls", () => {
+  afterEach(() => vi.unstubAllGlobals());
+  it("merges stored partial controls over defaults", async () => {
+    vi.stubGlobal("chrome", { storage: { sync: { get: vi.fn(async () => ({ parentControls: { supervisedMode: true } })) } } });
+    const { loadControls } = await import("./safety");
+    expect(await loadControls()).toEqual({ supervisedMode: true, blockedKeywords: [], blockedVideoIds: [] });
+  });
+});
+```
+
+- [ ] **Step 2: verify fail**
+
+- [ ] **Step 3: Implement `extension/src/safety.ts`**
+
+```ts
+import { matchesBlockedKeyword } from "../../shared/safety";
+import type { CatalogVideo } from "../../shared/types";
+
+export interface ParentControls {
+  supervisedMode: boolean;
+  blockedKeywords: string[];
+  blockedVideoIds: string[];
+}
+
+export const DEFAULT_CONTROLS: ParentControls = {
+  supervisedMode: false,
+  blockedKeywords: [],
+  blockedVideoIds: [],
+};
+
+export function applySafety(videos: CatalogVideo[], controls: ParentControls): CatalogVideo[] {
+  return videos.filter((v) => {
+    if (controls.blockedVideoIds.includes(v.id)) return false;
+    if (matchesBlockedKeyword(v.title, controls.blockedKeywords)) return false;
+    if (!controls.supervisedMode && v.flags?.includes("supervision")) return false;
+    return true;
+  });
+}
+
+export async function loadControls(): Promise<ParentControls> {
+  const { parentControls } = await chrome.storage.sync.get("parentControls");
+  return { ...DEFAULT_CONTROLS, ...((parentControls as Partial<ParentControls> | undefined) ?? {}) };
+}
+```
+
+`adapters/home.ts`: wrap the feed —
+`renderGrid(applySafety(dailyFeed(catalog, profile, todayStr()), await loadControls()))`.
+(Tasks 12/13 must apply the same wrap to up-next and search suggestions.)
+
+- [ ] **Step 4: `just test` + `just typecheck` + `just bundle` green**
+- [ ] **Step 5: Commit** — `feat(safety): runtime safety filter applied to home feed`
+
+---
+
+### Task 19: Parent Controls side panel (PIN-gated)
+
+**Files:**
+- Create: `extension/src/sidepanel/sidepanel.html`, `extension/src/sidepanel/sidepanel.ts`, `extension/src/sidepanel/video-id.ts`, `extension/src/sidepanel/video-id.test.ts`
+- Modify: `extension/manifest.json` (add `"sidePanel"` permission + `"side_panel": { "default_path": "sidepanel.html" }`), `extension/build.mjs` (sidepanel entry + html copy), `extension/src/background.ts` (open panel on icon click)
+
+**Interfaces:**
+- Consumes: `ParentControls`/`DEFAULT_CONTROLS` from Task 18; `sync.parentControls`, new `sync.parentPin`
+- Produces: `extractVideoId(input: string): string | null` (raw 11-char id, `watch?v=`, `youtu.be/`, `/shorts/`, `/embed/` URLs); a side panel that gates on a PIN (set on first use) and edits `parentControls`
+
+- [ ] **Step 1: Failing tests** (`video-id.test.ts`):
+```ts
+import { describe, expect, it } from "vitest";
+import { extractVideoId } from "./video-id";
+
+describe("extractVideoId", () => {
+  it("accepts raw ids and common URL shapes", () => {
+    expect(extractVideoId("XZ6j5-nBFyc")).toBe("XZ6j5-nBFyc");
+    expect(extractVideoId("https://www.youtube.com/watch?v=XZ6j5-nBFyc&t=10")).toBe("XZ6j5-nBFyc");
+    expect(extractVideoId("https://youtu.be/XZ6j5-nBFyc?si=abc")).toBe("XZ6j5-nBFyc");
+    expect(extractVideoId("https://www.youtube.com/shorts/XZ6j5-nBFyc")).toBe("XZ6j5-nBFyc");
+  });
+  it("rejects garbage", () => {
+    expect(extractVideoId("not a video")).toBeNull();
+    expect(extractVideoId("https://example.com/")).toBeNull();
+  });
+});
+```
+
+- [ ] **Step 2: verify fail**
+
+- [ ] **Step 3: Implement**
+
+`video-id.ts`:
+```ts
+export function extractVideoId(input: string): string | null {
+  const s = input.trim();
+  if (/^[A-Za-z0-9_-]{11}$/.test(s)) return s;
+  try {
+    const u = new URL(s);
+    if (u.hostname === "youtu.be") {
+      const id = u.pathname.slice(1).split("/")[0];
+      return /^[A-Za-z0-9_-]{11}$/.test(id) ? id : null;
+    }
+    const v = u.searchParams.get("v");
+    if (v && /^[A-Za-z0-9_-]{11}$/.test(v)) return v;
+    const m = u.pathname.match(/\/(?:shorts|embed)\/([A-Za-z0-9_-]{11})/);
+    if (m) return m[1];
+  } catch { /* not a URL */ }
+  return null;
+}
+```
+
+`sidepanel.html` — plain form, same styling approach as options.html: a `#gate` section
+with `p#pin-hint`, `input#pin` (type=password), `button#unlock`; then a hidden
+`#controls` section (`hidden` attribute): `input[type=checkbox]#supervised` labeled
+"Supervised mode (show videos that need a grown-up)", `textarea#keywords` labeled
+"Blocked title words (one per line)", `textarea#blocked` labeled "Blocked videos
+(paste YouTube links, one per line)", `button#save`, `span#status`. Script tag:
+`<script src="sidepanel.js"></script>` at end of body. Title: "Learning Child — Parent
+Controls".
+
+`sidepanel.ts`:
+```ts
+import { DEFAULT_CONTROLS, type ParentControls } from "../safety";
+import { extractVideoId } from "./video-id";
+
+async function init(): Promise<void> {
+  const pinInput = document.getElementById("pin") as HTMLInputElement;
+  const unlockBtn = document.getElementById("unlock") as HTMLButtonElement;
+  const pinHint = document.getElementById("pin-hint") as HTMLElement;
+  const gate = document.getElementById("gate") as HTMLElement;
+  const controlsEl = document.getElementById("controls") as HTMLElement;
+  const supervised = document.getElementById("supervised") as HTMLInputElement;
+  const keywords = document.getElementById("keywords") as HTMLTextAreaElement;
+  const blocked = document.getElementById("blocked") as HTMLTextAreaElement;
+  const saveBtn = document.getElementById("save") as HTMLButtonElement;
+  const status = document.getElementById("status") as HTMLElement;
+
+  const { parentPin } = await chrome.storage.sync.get("parentPin");
+  pinHint.textContent = parentPin ? "Enter your PIN" : "First visit - choose a PIN (4+ digits)";
+
+  unlockBtn.addEventListener("click", async () => {
+    const entered = pinInput.value.trim();
+    if (!parentPin) {
+      if (!/^\d{4,}$/.test(entered)) {
+        pinHint.textContent = "PIN must be 4+ digits";
+        return;
+      }
+      await chrome.storage.sync.set({ parentPin: entered });
+    } else if (entered !== parentPin) {
+      pinHint.textContent = "Wrong PIN";
+      return;
+    }
+    gate.hidden = true;
+    controlsEl.hidden = false;
+    const { parentControls } = await chrome.storage.sync.get("parentControls");
+    const controls: ParentControls = { ...DEFAULT_CONTROLS, ...(parentControls ?? {}) };
+    supervised.checked = controls.supervisedMode;
+    keywords.value = controls.blockedKeywords.join("\n");
+    blocked.value = controls.blockedVideoIds.join("\n");
+  });
+
+  saveBtn.addEventListener("click", async () => {
+    const ids = blocked.value
+      .split("\n")
+      .map((line) => extractVideoId(line))
+      .filter((id): id is string => id !== null);
+    const controls: ParentControls = {
+      supervisedMode: supervised.checked,
+      blockedKeywords: keywords.value.split("\n").map((k) => k.trim().toLowerCase()).filter(Boolean),
+      blockedVideoIds: [...new Set(ids)],
+    };
+    await chrome.storage.sync.set({ parentControls: controls });
+    blocked.value = controls.blockedVideoIds.join("\n");
+    status.textContent = "Saved - takes effect on next page load";
+    setTimeout(() => (status.textContent = ""), 3000);
+  });
+}
+
+void init();
+```
+
+`manifest.json`: `"permissions": ["storage", "alarms", "sidePanel"]`,
+`"side_panel": { "default_path": "sidepanel.html" }`.
+`build.mjs`: add entry `sidepanel: "src/sidepanel/sidepanel.ts"`, copy
+`src/sidepanel/sidepanel.html` → `dist/sidepanel.html`.
+`background.ts`: add at top level
+`chrome.sidePanel.setPanelBehavior({ openPanelOnActionClick: true }).catch(() => {});`
+(badge logic unchanged — the icon click now opens the panel).
+
+- [ ] **Step 4: `just test`, `just typecheck`, `just bundle` (dist gains sidepanel.js + sidepanel.html). Manual (defer if no interactive Chrome): reload extension, click icon → panel opens, set PIN, add `https://youtu.be/XZ6j5-nBFyc` to blocked list, save; homepage reload drops it**
+
+- [ ] **Step 5: Commit** — `feat(safety): PIN-gated parent controls side panel`
+
+---
+
+**Follow-through for resumed Tasks 12–16:** watch (12) and search (13) adapters wrap
+their video lists with `applySafety(..., await loadControls())`; README (16) documents
+Parent Controls + the safety yaml keys; the whole-branch review covers the safety tier.
+
 ## Done criteria
 
-- `npm test` green; `npm run typecheck` green; `npm run build` green.
-- Manual: homepage/watch/search/Shorts behave per spec with the unpacked extension.
+- `just test` green; `just typecheck` green; `just bundle` green (bun toolchain).
+- Manual: homepage/watch/search/Shorts behave per spec with the unpacked extension;
+  Parent Controls panel gates on PIN and its rules take effect on reload.
 - A push editing `catalog.yaml` triggers the Action and updates the published catalog.
 - README quick-start is followable by a non-expert parent.
