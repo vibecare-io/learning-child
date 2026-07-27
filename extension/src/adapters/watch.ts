@@ -69,6 +69,22 @@ export function startRecorder(videoId: string, meta: { title: string; channel: s
   let lastTime: number | null = null;
   let lastEligible = false;
   let limitCleanup: (() => void) | undefined;
+  // Set by the returned cancel: an in-flight post-tick recheck must never
+  // call showLimitScreen after the recorder is torn down. Without this, a
+  // navigation landing between a tick and its async chain resolving would
+  // store the overlay's cleanup in this (by then dead) closure where nothing
+  // can ever reach it. Same-day that self-heals via showLimitScreen's
+  // idempotent singleton, but after local-midnight rollover the route()
+  // prelude skips the limit branch and the orphaned max-z-index overlay
+  // would stick until a hard reload.
+  let cancelled = false;
+  // Prefs change only when a parent edits settings - read them once per
+  // recorder instead of on every credited tick; the per-tick recheck below
+  // then only re-reads history, and skips even that when no limit is set.
+  // .catch(() => null): a storage failure here just disables the mid-video
+  // recheck (route()'s centralized enforcement still covers the next
+  // navigation), matching the fail-open posture of the rest of this file.
+  const prefsPromise = getPrefs().catch(() => null);
   const timer = setInterval(() => {
     const player = document.querySelector<HTMLVideoElement>(VIDEO_PLAYER);
     if (!player) {
@@ -87,7 +103,15 @@ export function startRecorder(videoId: string, meta: { title: string; channel: s
             // recordTick being stubbed with a non-async fn in tests as well
             // as its real Promise-returning implementation.
             await recordTick(videoId, meta, delta, localDayStr());
-            const [history, prefs] = await Promise.all([getHistory(), getPrefs()]);
+            if (cancelled) return;
+            const prefs = await prefsPromise;
+            if (cancelled) return;
+            // No limit configured -> the recheck can never trip; skip the
+            // history read entirely (isOverLimit treats null/<=0 as "no
+            // limit"; mirrored here so such ticks cost zero extra reads).
+            if (prefs === null || prefs.screenTimeMinutes === null || prefs.screenTimeMinutes <= 0) return;
+            const history = await getHistory();
+            if (cancelled) return;
             if (isOverLimit(prefs.screenTimeMinutes, secondsToday(history, localDayStr()))) {
               limitCleanup = showLimitScreen();
             }
@@ -105,6 +129,7 @@ export function startRecorder(videoId: string, meta: { title: string; channel: s
     lastEligible = eligible;
   }, RECORD_INTERVAL_MS);
   return () => {
+    cancelled = true;
     clearInterval(timer);
     limitCleanup?.();
   };

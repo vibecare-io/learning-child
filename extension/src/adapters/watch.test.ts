@@ -143,11 +143,17 @@ describe("startRecorder", () => {
   beforeEach(() => {
     vi.useFakeTimers();
     vi.mocked(recordTick).mockClear();
+    // startRecorder's post-tick limit recheck reads prefs (and, when a limit
+    // is set, history) via chrome.storage; these tests only exercise the
+    // tick predicate, so an empty store (default prefs -> no limit) keeps
+    // the recheck inert and the output free of swallowed-error noise.
+    vi.stubGlobal("chrome", { storage: { local: { get: vi.fn(async () => ({})) } } });
   });
 
   afterEach(() => {
     vi.useRealTimers();
     document.body.innerHTML = "";
+    vi.unstubAllGlobals();
   });
 
   it("credits real elapsed playback (currentTime delta), not a flat interval", () => {
@@ -334,5 +340,47 @@ describe("startRecorder mid-video limit crossing", () => {
 
     cancel();
     expect(document.getElementById("lc-limit-screen")).toBeNull();
+  });
+
+  it("never shows the takeover when cancelled while the recheck is still in flight (orphaned-overlay race)", async () => {
+    // Gate the storage read so the post-tick recheck chain is provably still
+    // pending when cancel() runs - reproducing the race where a navigation
+    // tears the recorder down between a tick and its async chain resolving.
+    // Pre-fix, the late-resolving chain would call showLimitScreen() and
+    // strand its cleanup in the dead closure (orphaned overlay after the
+    // local-midnight rollover); the cancelled guard must make it a no-op.
+    let release: () => void = () => {};
+    const gate = new Promise<void>((resolve) => { release = resolve; });
+    vi.stubGlobal("chrome", {
+      storage: {
+        local: {
+          get: vi.fn(async () => {
+            await gate;
+            return {
+              prefs: { screenTimeMinutes: 30 },
+              watchHistory: { videos: {}, daily: { [localDayStr()]: 30 * 60 } },
+            };
+          }),
+          set: vi.fn(async () => {}),
+        },
+      },
+    });
+    const video = mountPlayer(false);
+    cancel = startRecorder("v1", META);
+
+    setTime(video, 5);
+    await vi.advanceTimersByTimeAsync(5_000); // cursor sample
+    await flush();
+    setTime(video, 10);
+    await vi.advanceTimersByTimeAsync(5_000); // credited tick -> recheck now awaiting the gated read
+    await flush();
+    expect(document.getElementById("lc-limit-screen")).toBeNull();
+
+    cancel(); // navigation tears the recorder down while the chain is in flight
+    cancel = undefined;
+    release(); // storage read finally resolves - over limit, but cancelled
+    await flush();
+
+    expect(document.getElementById("lc-limit-screen"), "stale recheck must not inject the overlay").toBeNull();
   });
 });
