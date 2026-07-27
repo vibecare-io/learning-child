@@ -12,6 +12,8 @@ describe("DEFAULT_PREFS.parentControls", () => {
       supervisedMode: false,
       blockedKeywords: [],
       blockedVideoIds: [],
+      reelsLimit: 5,
+      reelsCooldownMinutes: 5,
     });
   });
 });
@@ -44,7 +46,9 @@ describe("loadControls", () => {
       storage: { local: { get: vi.fn(async () => ({ prefs: { parentControls: { supervisedMode: true } } })) } },
     });
     const { loadControls } = await import("./safety");
-    expect(await loadControls()).toEqual({ supervisedMode: true, blockedKeywords: [], blockedVideoIds: [] });
+    expect(await loadControls()).toEqual({
+      supervisedMode: true, blockedKeywords: [], blockedVideoIds: [], reelsLimit: 5, reelsCooldownMinutes: 5,
+    });
   });
   it("returns defaults when no prefs are stored", async () => {
     vi.stubGlobal("chrome", { storage: { local: { get: vi.fn(async () => ({})) } } });

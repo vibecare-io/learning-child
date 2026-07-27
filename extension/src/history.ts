@@ -96,6 +96,48 @@ export function isOverLimit(screenTimeMinutes: number | null, secondsWatchedToda
   return secondsWatchedToday >= screenTimeMinutes * 60;
 }
 
+/**
+ * Formats a seconds duration for the parent panel as "H h M m" (or just
+ * "M m" under an hour) - minutes are floored, never rounded up, so the
+ * display never claims more watch time than was actually recorded.
+ */
+export function formatHours(sec: number): string {
+  const totalMin = Math.floor(sec / 60);
+  const hours = Math.floor(totalMin / 60);
+  const mins = totalMin % 60;
+  return hours > 0 ? `${hours} h ${mins} m` : `${mins} m`;
+}
+
+/** ISO date `daysAgo` days before `dateStr` (both day-granular, UTC). */
+function dateBefore(dateStr: string, daysAgo: number): string {
+  const t = new Date(dateStr).getTime() - daysAgo * 86_400_000;
+  return new Date(t).toISOString().slice(0, 10);
+}
+
+/** Sum of the last 7 daily buckets ending on (and including) `dateStr`. */
+export function weekTotalSec(h: WatchHistory, dateStr: string): number {
+  let total = 0;
+  for (let i = 0; i < 7; i++) total += h.daily[dateBefore(dateStr, i)] ?? 0;
+  return total;
+}
+
+export interface RecentVideo extends VideoWatch {
+  id: string;
+}
+
+/**
+ * The `limit` most-recently-watched videos, newest first. Same ordering
+ * rule as feed.ts's splitWatched: lastWatchedAt is day-granular, so
+ * same-day entries tie, and Array.prototype.sort's stability keeps ties in
+ * Object.entries' insertion order rather than needing a secondary key.
+ */
+export function recentVideos(h: WatchHistory, limit: number): RecentVideo[] {
+  return Object.entries(h.videos)
+    .map(([id, v]) => ({ id, ...v }))
+    .sort((a, b) => (a.lastWatchedAt > b.lastWatchedAt ? -1 : a.lastWatchedAt < b.lastWatchedAt ? 1 : 0))
+    .slice(0, limit);
+}
+
 /** The only storage writer for history: read -> accumulate -> prune -> write. */
 export async function recordTick(
   videoId: string,

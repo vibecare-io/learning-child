@@ -43,8 +43,12 @@ test("watch page shows curated up-next and hides comments", async () => {
   await expect(page.locator("ytd-comments#comments")).toBeHidden();
 });
 
-test("shorts redirect home", async () => {
+test("shorts allowed taste shows the reels bar (no redirect)", async () => {
+  // Reels guard now allows a small taste before cooldown kicks in - a fresh
+  // profile's first /shorts visit should stay put and show the countdown
+  // bar, not hard-redirect (that only happens once the budget is spent).
   const page = await context.newPage();
   await page.goto("https://www.youtube.com/shorts/anyid");
-  await page.waitForURL("https://www.youtube.com/", { timeout: 20_000 });
+  await expect(page.locator("#lc-reels-bar")).toBeVisible({ timeout: 20_000 });
+  expect(page.url()).toContain("/shorts/");
 });

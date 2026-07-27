@@ -18,12 +18,20 @@ export interface ParentControls {
   supervisedMode: boolean;
   blockedKeywords: string[];
   blockedVideoIds: string[];
+  // Reels/Shorts budget backstop (see reels-guard.ts). reelsLimit reels are
+  // allowed before an exponential cooldown; reelsLimit = 0 blocks Shorts
+  // entirely. reelsCooldownMinutes is the first (base) cooldown; it doubles
+  // each time the cap is hit again.
+  reelsLimit: number;
+  reelsCooldownMinutes: number;
 }
 
 export const DEFAULT_CONTROLS: ParentControls = {
   supervisedMode: false,
   blockedKeywords: [],
   blockedVideoIds: [],
+  reelsLimit: 5,
+  reelsCooldownMinutes: 5,
 };
 
 export interface Prefs {
