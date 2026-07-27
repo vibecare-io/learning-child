@@ -1,0 +1,202 @@
+{
+  "slug": "ocean-marine",
+  "title": "Ocean & marine life",
+  "channels": [
+    {
+      "handle": "@BlueWorldTV",
+      "name": "Jonathan Bird's Blue World",
+      "topics": [
+        "animals",
+        "nature",
+        "exploration"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "why": "Emmy-winning underwater cinematographer Jonathan Bird dives with sharks, whales, octopuses and reef life, narrating each encounter like a friendly guide who makes kids want to swim along.",
+      "note": "Long-form documentary episodes, kid-safe and warmly narrated; the single best all-ages anchor for this niche.",
+      "verified": true
+    },
+    {
+      "handle": "@NaturalWorldFacts",
+      "name": "Natural World Facts",
+      "topics": [
+        "science",
+        "nature",
+        "animals"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Its 'Deep Sea Wonders' series takes kids on a layer-by-layer descent into the ocean's darkest zones, revealing bioluminescent and bizarre creatures with calm, documentary-grade storytelling.",
+      "note": "Long-form, narrated like a nature doc; some eerie deep-sea footage but not gory. Best for 8-12.",
+      "verified": true
+    },
+    {
+      "handle": "@MBARIvideo",
+      "name": "MBARI (Monterey Bay Aquarium Research Institute)",
+      "topics": [
+        "science",
+        "animals",
+        "exploration"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Real ROV footage of gelatinous, glowing and never-before-seen deep-sea animals, paired with the robotics and science that captured them, shows kids discovery happening in real time.",
+      "note": "Short-to-medium research clips and 'Fresh from the Deep' series; sparse narration, high wow-factor. Advertiser-safe.",
+      "verified": true
+    },
+    {
+      "handle": "@EVNautilus",
+      "name": "EVNautilus (Nautilus Live)",
+      "topics": [
+        "exploration",
+        "animals",
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Live-narrated ROV dives where scientists gasp and puzzle over creatures on the seafloor let kids eavesdrop on genuine 'what IS that?' moments of discovery.",
+      "note": "Live-dive highlight clips with scientist commentary; the excited reactions model real curiosity. Kid-safe.",
+      "verified": true
+    },
+    {
+      "handle": "@oceanexplorergov",
+      "name": "NOAA Ocean Exploration",
+      "topics": [
+        "exploration",
+        "science",
+        "animals"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "The US government's deep-sea expedition footage maps and films unexplored seafloor, giving kids the sense that huge parts of our own planet are still being seen for the very first time.",
+      "note": "Official NOAA channel; ROV dive footage and expedition recaps, mostly long-form and calmly narrated.",
+      "verified": true
+    },
+    {
+      "handle": "@SchmidtOcean",
+      "name": "Schmidt Ocean Institute",
+      "topics": [
+        "exploration",
+        "science",
+        "nature"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Livestreamed dives from ROV SuBastian discover new coral and crab species in 4K, letting kids witness science that hasn't even made it into books yet.",
+      "note": "Long livestream dives plus edited highlights; scientist narration explains sightings. Advertiser-safe.",
+      "verified": true
+    },
+    {
+      "handle": "@MontereyBayAquarium",
+      "name": "Monterey Bay Aquarium",
+      "topics": [
+        "animals",
+        "nature"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "why": "Gentle close-ups of sea otters, jellies, sharks and octopuses plus behind-the-scenes care stories make ocean animals feel knowable and worth protecting for even the youngest viewers.",
+      "note": "Mix of short creature features, live-cam clips and longer explainers; some very short videos but all calm and kid-safe.",
+      "verified": true
+    },
+    {
+      "handle": "@KPassionate",
+      "name": "KPassionate",
+      "topics": [
+        "animals",
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Marine biologist Kristyn Plancarte answers 'why do sharks/octopuses/whales do that?' with research-backed mini-documentaries that treat kids as capable of real science.",
+      "note": "Long-form conversational explainers by a working marine biologist; occasional mild predator/feeding talk. Best for 8-12.",
+      "verified": true
+    },
+    {
+      "handle": "@seandmebyM",
+      "name": "Sea&me",
+      "topics": [
+        "science",
+        "animals",
+        "nature"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "PhD marine biologist Maria Pinto unpacks weird ocean adaptations and plastic pollution with clear enthusiasm, turning curiosity about sea creatures into caring about their habitats.",
+      "note": "Long-form educational videos; some conservation/pollution themes handled age-appropriately. Best for 8-12.",
+      "verified": true
+    },
+    {
+      "handle": "@TheMarineDiaries",
+      "name": "The Marine Diaries",
+      "topics": [
+        "nature",
+        "science",
+        "animals"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "A marine-science nonprofit tells the stories of the ocean through creature spotlights and conservation tales, bridging real research and a young audience's questions.",
+      "note": "Educational storytelling videos from a conservation nonprofit; long-form and advertiser-safe.",
+      "verified": true
+    },
+    {
+      "handle": "@OceanX",
+      "name": "OceanX",
+      "topics": [
+        "exploration",
+        "science",
+        "tech"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Cinematic expeditions aboard a high-tech research ship, complete with submersibles and sharks, make ocean exploration feel like a real-life adventure mission.",
+      "note": "Cinematic long-form and some shorts; National Geographic/BBC collaborations. A larger channel but central to marine exploration.",
+      "verified": true
+    },
+    {
+      "handle": "@KQEDDeepLook",
+      "name": "Deep Look",
+      "topics": [
+        "science",
+        "animals",
+        "nature"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "why": "Ultra-macro 4K photography reveals sea urchins, plankton, sea stars and pygmy seahorses in jaw-dropping detail, showing kids the ocean's tiniest life is as wild as any monster.",
+      "note": "Short (3-5 min) but exquisitely produced PBS/KQED episodes; not every episode is marine, and a few insect ones may look intense. Kid-safe.",
+      "verified": true
+    },
+    {
+      "handle": "@WHOI",
+      "name": "Woods Hole Oceanographic Institution",
+      "topics": [
+        "science",
+        "exploration",
+        "engineering"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "The world's top ocean research institute shows kids the submersibles (like Alvin) and science used to study hydrothermal vents, deep reefs and shipwrecks, linking curiosity to how discovery actually works.",
+      "note": "Research-oriented explainers and expedition footage; somewhat drier, best for motivated 8-12 viewers.",
+      "verified": true
+    }
+  ]
+}

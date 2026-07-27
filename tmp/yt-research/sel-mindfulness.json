@@ -1,0 +1,179 @@
+{
+  "slug": "sel-mindfulness",
+  "title": "Social-emotional learning & mindfulness",
+  "channels": [
+    {
+      "handle": "@CosmicKidsYoga",
+      "name": "Cosmic Kids Yoga",
+      "topics": [
+        "reading",
+        "nature"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "why": "Jaime turns breathing, stretching and calm-down into interactive story adventures so kids feel their feelings settle while they move.",
+      "note": "Storytelling yoga plus 'Zen Den' and 'Peace Out' mindfulness/relaxation series; long-form, calm, advertiser-safe. Core channel of this niche.",
+      "verified": true
+    },
+    {
+      "handle": "@NewHorizonHolisticCentre",
+      "name": "New Horizon - Meditation & Sleep Stories",
+      "topics": [
+        "reading",
+        "nature"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "why": "Gentle guided sleep stories and meditations that let kids drift into imagined worlds while learning to relax their bodies and minds.",
+      "note": "Long-form bedtime meditations/sleep stories; very calm and warm. Best for wind-down; not active-learning.",
+      "verified": true
+    },
+    {
+      "handle": "@gozenonline",
+      "name": "GoZen!",
+      "topics": [
+        "reading",
+        "science"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "why": "Animated stories make anxiety, worry and big feelings visible so kids get curious about the science of their own emotions and simple coping skills.",
+      "note": "Animated SEL/anxiety-relief shorts and lessons; some content aimed at parents/teachers. Lesser-known gem.",
+      "verified": false
+    },
+    {
+      "handle": "@BigLifeJournal",
+      "name": "Big Life Journal",
+      "topics": [
+        "reading",
+        "art"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "why": "Warm animated 'Buddies' episodes spark growth-mindset thinking, helping kids reframe mistakes and keep trying.",
+      "note": "Growth-mindset/SEL animated series plus parent resources; niche gem. Channel URL uses /c/BigLifeJournal.",
+      "verified": false
+    },
+    {
+      "handle": "@slumberkins",
+      "name": "Slumberkins",
+      "topics": [
+        "reading"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "why": "Cuddly creature characters read gentle storybooks that name feelings and model kindness, self-esteem and calm.",
+      "note": "SEL storytime with plush characters (from family therapist + educator); best for ages 3-6. Lesser-known gem.",
+      "verified": false
+    },
+    {
+      "handle": "@EverydaySpeech",
+      "name": "Everyday Speech",
+      "topics": [
+        "reading"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Short video-modeling scenarios show real kids navigating friendship, sharing feelings and self-regulation, sparking 'what would I do?' reflection.",
+      "note": "Evidence-based social-skills / video-modeling clips; instructional/classroom tone. Niche SEL gem.",
+      "verified": false
+    },
+    {
+      "handle": "@ClassDojo",
+      "name": "ClassDojo (Big Ideas / Mojo)",
+      "topics": [
+        "reading",
+        "science"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "why": "Mojo the monster learns about growth mindset, empathy, gratitude and mindfulness in short animated stories that make brain-and-feelings science fun.",
+      "note": "'Big Ideas' SEL animated series is the draw; channel also hosts teacher tutorials. Warm and kid-friendly.",
+      "verified": false
+    },
+    {
+      "handle": "@MindYeti",
+      "name": "Mind Yeti",
+      "topics": [
+        "music",
+        "nature"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "why": "Guided 'hums' with soothing soundscapes teach kids to focus attention, calm down and connect with kindness and gratitude.",
+      "note": "Research-based guided mindfulness audio from nonprofit Committee for Children; ages 5-12. Calm, lesser-known.",
+      "verified": false
+    },
+    {
+      "handle": "@barikoral",
+      "name": "Yogapalooza with Bari Koral",
+      "topics": [
+        "music",
+        "nature"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "why": "Catchy yoga songs like 'Fly Like a Butterfly' get little kids breathing, moving and self-soothing through music and mindfulness.",
+      "note": "Kids-yoga music and mindful movement pioneer; best for ages 3-7. Niche gem; channel also at /user/barikoral.",
+      "verified": false
+    },
+    {
+      "handle": "@MoshiKids",
+      "name": "Moshi Kids",
+      "topics": [
+        "reading",
+        "nature"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "why": "Dreamy bedtime stories and guided SEL meditations help kids wind down, name feelings and fall asleep calm.",
+      "note": "Sleep/mindfulness bedtime stories and mindful exercises; wind-down content, not active learning. Handle best-guess.",
+      "verified": false
+    },
+    {
+      "handle": "@SmilingMind",
+      "name": "Smiling Mind",
+      "topics": [
+        "nature",
+        "music"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "why": "Animated mindfulness intros and short practices (like 'Bubble Bounce' mindful looking) teach kids simple attention and calming skills.",
+      "note": "Australian mental-health nonprofit; mix of kids and some adult meditation content. Handle unconfirmed; also /user/SmilingMindTV.",
+      "verified": false
+    },
+    {
+      "handle": "@SesameStreet",
+      "name": "Sesame Street",
+      "topics": [
+        "reading",
+        "music"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "why": "Elmo and friends sing and story their way through emotions, kindness and empathy, giving little kids warm language for big feelings.",
+      "note": "Large channel, but feelings/kindness SEL is genuinely central to its mission; use emotions/kindness playlists. Best for ages 3-6.",
+      "verified": true
+    }
+  ]
+}

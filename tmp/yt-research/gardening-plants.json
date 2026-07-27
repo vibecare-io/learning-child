@@ -1,0 +1,165 @@
+{
+  "slug": "gardening-plants",
+  "title": "Gardening, plants & growing",
+  "channels": [
+    {
+      "handle": "@gardenmarcuskids",
+      "name": "Discover, Grow, Bloom with Garden Marcus",
+      "topics": [
+        "nature",
+        "making"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "why": "Calm, warm garden lessons with songs and movement invite little ones to touch soil, plant seeds, and wonder how living things grow.",
+      "note": "Kids' spin-off of Garden Marcus (Marcus Bridgewater); low-stimulation, wholesome, aimed at toddlers/preschool; short-to-medium episodes.",
+      "verified": true
+    },
+    {
+      "handle": "@KidsGardeningorg",
+      "name": "KidsGardening.org",
+      "topics": [
+        "nature",
+        "making",
+        "science"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "why": "A nonprofit that turns real garden projects into hands-on discovery, showing kids how to sprout seeds, build planters, and observe plant life cycles.",
+      "note": "Educator/parent-facing how-to and activity videos; steady library, family- and classroom-friendly.",
+      "verified": true
+    },
+    {
+      "handle": "@SkinnyJeanGardener",
+      "name": "Children's Gardening Coach (Skinny Jean Gardener)",
+      "topics": [
+        "nature",
+        "making"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "why": "UK children's gardening coach (Blue Peter's) makes growing feel like a playful adventure with school-garden tours and easy grow-along projects for kids.",
+      "note": "Lee Connelly; recently rebranded from Skinny Jean Gardener; energetic but advertiser-safe, kid-focused.",
+      "verified": false
+    },
+    {
+      "handle": "@GuidingGreenThumbs",
+      "name": "Guiding Green Thumbs",
+      "topics": [
+        "nature",
+        "making"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Gentle, clear how-to videos on planting, saving seeds, and welcoming bees and butterflies spark the urge to start a real backyard garden.",
+      "note": "Zone-5 organic kitchen and flower gardening; calm long-form; adult host but easy for older kids to follow.",
+      "verified": true
+    },
+    {
+      "handle": "@HuwRichards",
+      "name": "Huw Richards",
+      "topics": [
+        "nature",
+        "making"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "A grower who started his own channel at age 12 shows how to raise loads of food from almost nothing, proving kids can grow real harvests.",
+      "note": "Permaculture / grow-your-own; long-form; some episodes are advanced but inspiring for tweens.",
+      "verified": true
+    },
+    {
+      "handle": "@GrowVeg",
+      "name": "GrowVeg",
+      "topics": [
+        "nature",
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Friendly animated diagrams and garden walkthroughs explain the why behind planting, crop rotation, and composting so growing makes sense.",
+      "note": "Ben Vanheems; polished, no-nonsense vegetable-gardening guides; long-form, very advertiser-safe.",
+      "verified": true
+    },
+    {
+      "handle": "@Boxlapse",
+      "name": "Boxlapse",
+      "topics": [
+        "science",
+        "nature"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "why": "Mesmerizing seed-to-fruit time-lapses let kids watch weeks of hidden root and shoot growth unfold in minutes, sparking pure botanical wonder.",
+      "note": "Finland-based; mostly music/no narration; compilation videos run several minutes; universally kid-safe.",
+      "verified": true
+    },
+    {
+      "handle": "@neilbromhall",
+      "name": "Neil Bromhall",
+      "topics": [
+        "science",
+        "nature"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "why": "Beautiful studio time-lapses of germinating seeds and opening flowers reveal the secret motion of plants that kids never get to see in real time.",
+      "note": "Professional plant/flower/fungi time-lapses; short-to-medium, calm; best-guess handle (channel also at youtube.com/user/neilbromhall).",
+      "verified": false
+    },
+    {
+      "handle": "@MIgardener",
+      "name": "MIgardener",
+      "topics": [
+        "nature",
+        "making"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Started at 16, Luke shows how a few cheap seeds become a whole garden, teaching frugal, organic growing that empowers kids to start their own plot.",
+      "note": "Organic grow-from-seed and homesteading; frequent long-form uploads; adult host, great for motivated tweens.",
+      "verified": true
+    },
+    {
+      "handle": "@CarnivorousPlantsHub",
+      "name": "Carnivorous Plants Hub",
+      "topics": [
+        "nature",
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Care guides and close-ups of Venus flytraps and pitcher plants tap into kids' fascination with plants that catch and eat insects.",
+      "note": "Enthusiast-run carnivorous-plant growing; how-to and update videos; mild bug-eating footage, fine for curious 8-12s.",
+      "verified": true
+    },
+    {
+      "handle": "@epicgardening",
+      "name": "Epic Gardening",
+      "topics": [
+        "nature",
+        "making"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "In-depth, well-shot grow guides answer endless how-and-why plant questions, making it the go-to hub for kids ready to garden seriously.",
+      "note": "Large channel central to the niche (Kevin Espiritu); long-form, advertiser-safe; adult-oriented but broadly kid-appropriate.",
+      "verified": true
+    }
+  ]
+}

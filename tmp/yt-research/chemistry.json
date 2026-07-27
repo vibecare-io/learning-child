@@ -1,0 +1,170 @@
+{
+  "slug": "chemistry",
+  "title": "Chemistry & reactions for kids",
+  "channels": [
+    {
+      "handle": "@periodicvideos",
+      "name": "Periodic Videos",
+      "topics": [
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Every single element on the periodic table gets its own short film with real University of Nottingham lab demos, turning a wall chart into a gallery of characters.",
+      "note": "Long-form demos/interviews, weekly uploads; genial and safe, skews older but very accessible.",
+      "verified": true
+    },
+    {
+      "handle": "@ACSReactions",
+      "name": "Reactions (American Chemical Society)",
+      "topics": [
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Answers 'why does this happen?' about everyday chemistry (why onions make you cry, how soap works) with tidy animated explainers.",
+      "note": "Animated explainers ~3-6 min from the ACS; advertiser-safe.",
+      "verified": true
+    },
+    {
+      "handle": "@tdewitt451",
+      "name": "Tyler DeWitt",
+      "topics": [
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "A former teacher makes intimidating chemistry ideas like atoms, bonding and reactions feel friendly and click into place.",
+      "note": "Tutorial style, exam-oriented; best for older kids/middle-school.",
+      "verified": true
+    },
+    {
+      "handle": "@MELScience1",
+      "name": "MEL Science",
+      "topics": [
+        "science",
+        "making"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "why": "Shows colorful hands-on home chemistry experiments kids can actually watch and safely try with an adult.",
+      "note": "Short demo/DIY clips tied to their kits; kid-focused.",
+      "verified": true
+    },
+    {
+      "handle": "@Thoisoi2",
+      "name": "Thoisoi2 - Chemical Experiments!",
+      "topics": [
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Mesmerizing close-up reactions of rare elements (cesium, gallium, thermite) with clear narration of what is chemically happening.",
+      "note": "Some hazardous reactions shown (never replicate at home); older kids.",
+      "verified": true
+    },
+    {
+      "handle": "@TheActionLab",
+      "name": "The Action Lab",
+      "topics": [
+        "science",
+        "engineering"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Tests wild 'what if' questions with physics and chemistry demos that reward curiosity over spectacle.",
+      "note": "Occasional risky/high-energy demos and a few punchy titles; mostly long-form and explained.",
+      "verified": true
+    },
+    {
+      "handle": "@ProfessorDaveExplains",
+      "name": "Professor Dave Explains",
+      "topics": [
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Clear, step-by-step whiteboard walkthroughs of atoms, molecules and chemical reactions build real conceptual understanding.",
+      "note": "Teen/study level; channel also hosts unrelated science-debate content.",
+      "verified": true
+    },
+    {
+      "handle": "@TheRoyalInstitution",
+      "name": "The Royal Institution",
+      "topics": [
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Dramatic live chemistry demonstrations from its famous lecture theatre make elements and reactions feel like theatre.",
+      "note": "Lecture/talk format, long-form; older kids, includes classic Christmas Lectures.",
+      "verified": true
+    },
+    {
+      "handle": "@philmccordic3490",
+      "name": "Science Max (Phil McCordic)",
+      "topics": [
+        "science",
+        "making"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "why": "Takes classic small kitchen experiments and super-sizes them, showing the same chemistry at giant scale.",
+      "note": "Award-winning kids TV show full episodes; verified handle is host's channel.",
+      "verified": true
+    },
+    {
+      "handle": "@Socratica",
+      "name": "Socratica",
+      "topics": [
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Beautifully filmed, calm chemistry lessons on elements, pH and reactions that treat viewers as capable thinkers.",
+      "note": "Academic tone, skews high-school/older; chemistry is one strand of a broader STEM channel.",
+      "verified": true
+    },
+    {
+      "handle": "@TheSciGuys",
+      "name": "The Sci Guys",
+      "topics": [
+        "science",
+        "making"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Friends run at-home experiments then explain the chemistry behind each one so kids can repeat and understand them.",
+      "note": "Science-at-home series; handle is a best guess, unconfirmed.",
+      "verified": false
+    },
+    {
+      "handle": "@funsciencedemos",
+      "name": "FunScienceDemos",
+      "topics": [
+        "science",
+        "making"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "why": "Simple, warm classroom-style demos make first encounters with matter and reactions approachable for young kids.",
+      "note": "Teacher-made (Temple University), all ages; handle is a best guess, unconfirmed.",
+      "verified": false
+    }
+  ]
+}

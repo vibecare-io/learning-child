@@ -1,0 +1,42 @@
+# Ocean & marine life
+_13 channels_
+
+- **@BlueWorldTV** — Jonathan Bird's Blue World · [animals, nature, exploration] · [little, big]
+  - Emmy-winning underwater cinematographer Jonathan Bird dives with sharks, whales, octopuses and reef life, narrating each encounter like a friendly guide who makes kids want to swim along.
+  - _Long-form documentary episodes, kid-safe and warmly narrated; the single best all-ages anchor for this niche._
+- **@NaturalWorldFacts** — Natural World Facts · [science, nature, animals] · [big]
+  - Its 'Deep Sea Wonders' series takes kids on a layer-by-layer descent into the ocean's darkest zones, revealing bioluminescent and bizarre creatures with calm, documentary-grade storytelling.
+  - _Long-form, narrated like a nature doc; some eerie deep-sea footage but not gory. Best for 8-12._
+- **@MBARIvideo** — MBARI (Monterey Bay Aquarium Research Institute) · [science, animals, exploration] · [big]
+  - Real ROV footage of gelatinous, glowing and never-before-seen deep-sea animals, paired with the robotics and science that captured them, shows kids discovery happening in real time.
+  - _Short-to-medium research clips and 'Fresh from the Deep' series; sparse narration, high wow-factor. Advertiser-safe._
+- **@EVNautilus** — EVNautilus (Nautilus Live) · [exploration, animals, science] · [big]
+  - Live-narrated ROV dives where scientists gasp and puzzle over creatures on the seafloor let kids eavesdrop on genuine 'what IS that?' moments of discovery.
+  - _Live-dive highlight clips with scientist commentary; the excited reactions model real curiosity. Kid-safe._
+- **@oceanexplorergov** — NOAA Ocean Exploration · [exploration, science, animals] · [big]
+  - The US government's deep-sea expedition footage maps and films unexplored seafloor, giving kids the sense that huge parts of our own planet are still being seen for the very first time.
+  - _Official NOAA channel; ROV dive footage and expedition recaps, mostly long-form and calmly narrated._
+- **@SchmidtOcean** — Schmidt Ocean Institute · [exploration, science, nature] · [big]
+  - Livestreamed dives from ROV SuBastian discover new coral and crab species in 4K, letting kids witness science that hasn't even made it into books yet.
+  - _Long livestream dives plus edited highlights; scientist narration explains sightings. Advertiser-safe._
+- **@MontereyBayAquarium** — Monterey Bay Aquarium · [animals, nature] · [little, big]
+  - Gentle close-ups of sea otters, jellies, sharks and octopuses plus behind-the-scenes care stories make ocean animals feel knowable and worth protecting for even the youngest viewers.
+  - _Mix of short creature features, live-cam clips and longer explainers; some very short videos but all calm and kid-safe._
+- **@KPassionate** — KPassionate · [animals, science] · [big]
+  - Marine biologist Kristyn Plancarte answers 'why do sharks/octopuses/whales do that?' with research-backed mini-documentaries that treat kids as capable of real science.
+  - _Long-form conversational explainers by a working marine biologist; occasional mild predator/feeding talk. Best for 8-12._
+- **@seandmebyM** — Sea&me · [science, animals, nature] · [big]
+  - PhD marine biologist Maria Pinto unpacks weird ocean adaptations and plastic pollution with clear enthusiasm, turning curiosity about sea creatures into caring about their habitats.
+  - _Long-form educational videos; some conservation/pollution themes handled age-appropriately. Best for 8-12._
+- **@TheMarineDiaries** — The Marine Diaries · [nature, science, animals] · [big]
+  - A marine-science nonprofit tells the stories of the ocean through creature spotlights and conservation tales, bridging real research and a young audience's questions.
+  - _Educational storytelling videos from a conservation nonprofit; long-form and advertiser-safe._
+- **@OceanX** — OceanX · [exploration, science, tech] · [big]
+  - Cinematic expeditions aboard a high-tech research ship, complete with submersibles and sharks, make ocean exploration feel like a real-life adventure mission.
+  - _Cinematic long-form and some shorts; National Geographic/BBC collaborations. A larger channel but central to marine exploration._
+- **@KQEDDeepLook** — Deep Look · [science, animals, nature] · [little, big]
+  - Ultra-macro 4K photography reveals sea urchins, plankton, sea stars and pygmy seahorses in jaw-dropping detail, showing kids the ocean's tiniest life is as wild as any monster.
+  - _Short (3-5 min) but exquisitely produced PBS/KQED episodes; not every episode is marine, and a few insect ones may look intense. Kid-safe._
+- **@WHOI** — Woods Hole Oceanographic Institution · [science, exploration, engineering] · [big]
+  - The world's top ocean research institute shows kids the submersibles (like Alvin) and science used to study hydrothermal vents, deep reefs and shipwrecks, linking curiosity to how discovery actually works.
+  - _Research-oriented explainers and expedition footage; somewhat drier, best for motivated 8-12 viewers._

@@ -1,0 +1,36 @@
+# Money & entrepreneurship for kids
+_11 channels_
+
+- **@ChaChingVideos** — Cha-Ching Money Smart Kids · [music, maths] · [little, big]
+  - Catchy three-minute animated band music videos turn Earn, Save, Spend and Donate into songs kids can't stop humming, making money choices feel exciting.
+  - _Animated music-video series (Prudence Foundation with Cartoon Network Asia), aimed at ages 7-12 but songs land for younger kids too; advertiser-safe._
+- **@BizKidsTV** — Biz Kid$ · [maths, making] · [big]
+  - Emmy-winning show where real kids launch and run their own businesses, sparking the thought 'I could build something too.'
+  - _Full public-TV episodes (creators of Bill Nye the Science Guy); long-form, entrepreneurship plus personal finance; older archive but timeless._
+- **@EasyPeasyFinance** — Easy Peasy Finance · [maths] · [big]
+  - A kid who started at age 8 explains banking, saving, investing and needs-vs-wants in plain language, proving finance is learnable by children.
+  - _Kid-created explainer channel; many clips run under ~3 minutes and it posts Shorts, so lean on the full explainer videos; no sponsorships._
+- **@KidEconomist** — Kid Economist · [maths, history] · [big]
+  - Blends storytelling with real economics so kids ages 8-13 start seeing scarcity, trade and value in the world around them.
+  - _Story-driven economics-for-kids explainers; classroom-friendly, advertiser-safe._
+- **@CashVilleKidz** — CashVille Kidz · [maths, history] · [big] ⚠︎unverified
+  - Asia's first animated financial-literacy series follows town characters through budgeting, banking and the history of money, one lesson per episode.
+  - _24-part animated series (MoneyTree Asia Pacific) for ages 8-11; long-form episodes. Handle inferred from youtube.com/c/CashVilleKidz custom URL._
+- **@secretmillionairesclub** — Warren Buffett's Secret Millionaires Club · [making, maths] · [big] ⚠︎unverified
+  - Warren Buffett secretly mentors a crew of pre-teen entrepreneurs through business adventures, planting real lessons about smart, responsible money.
+  - _Animated series; long-form episodes plus shorter minis. Channel may only expose a channel-ID URL (UCaf88EBmtZuBFOifL0i5DFw), so handle is a best guess._
+- **@SammyRabbit** — Sammy Rabbit · [music, reading, maths] · [little] ⚠︎unverified
+  - Sing-along money songs and Big Dream storybooks build saving habits and money vocabulary in kids as young as three.
+  - _Songs and read-along stories for the youngest savers. Handle inferred (channel found via channel-ID UCVU1Al-AMbNqPa2qwSsRd8A), not confirmed in @ form._
+- **@themoneymammals** — The Money Mammals (Snigglezoo) · [music, maths] · [little]
+  - Puppety animal characters and addictive songs make Save, Share and Spend Smart feel like play for preschoolers.
+  - _Snigglezoo's award-winning early-childhood money program; short songs and clips; advertiser-safe._
+- **@ScratchGarden** — Scratch Garden · [maths, music] · [little, big] ⚠︎unverified
+  - Its country-specific Money Songs teach coin and bill values with humor, so counting real cash finally clicks.
+  - _General educational channel; money is a subset (coins/bills songs for USA, UK, Canada, Euro, etc.). Handle is a confident best guess._
+- **@Educounting** — Money with Mak and G · [maths] · [big] ⚠︎unverified
+  - Kid twins host bite-sized episodes on allowances, the value of money and piggy-bank origins, showing money talk is for kids by kids.
+  - _Kid-hosted show/podcast (Educounting); some episodes are podcast-style/audio-forward. Handle inferred from channel name, not confirmed in @ form._
+- **@LearnBright** — Learn Bright · [maths, history] · [big]
+  - Clear classroom-style explainers on economics, saving and spending help kids grasp why money and markets work the way they do.
+  - _General K-6 educational channel; look to its Economics/money-for-kids videos. Long-form, advertiser-safe._

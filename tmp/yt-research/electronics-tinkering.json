@@ -1,0 +1,200 @@
+{
+  "slug": "electronics-tinkering",
+  "title": "Electronics, circuits & tinkering",
+  "channels": [
+    {
+      "handle": "@KidsInventStuff",
+      "name": "Kids Invent Stuff",
+      "topics": [
+        "making",
+        "engineering"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "why": "Real engineers Ruth and Shawn build kids' own invention ideas into working motorized, wired contraptions, showing that a child's sketch can become a real machine.",
+      "note": "UK educational channel aimed at 5-11; roughly monthly long-form builds; the most kid-facing pick in this niche.",
+      "verified": true
+    },
+    {
+      "handle": "@Science.Buddies",
+      "name": "Science Buddies",
+      "topics": [
+        "science",
+        "making",
+        "engineering"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "why": "Step-by-step hands-on projects turn LEDs, buzzers, motors and simple circuits into doable at-home experiments a kid can actually build.",
+      "note": "Nonprofit; short-to-medium how-to videos tied to a free written project library; parent/teacher supervised builds.",
+      "verified": true
+    },
+    {
+      "handle": "@Theengineeringmindset",
+      "name": "The Engineering Mindset",
+      "topics": [
+        "engineering",
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Clean animations trace electricity from electrons in an atom through voltage, current, resistors, LEDs and capacitors, making invisible circuit behavior visible.",
+      "note": "Long-form animated explainers; some videos skew toward older students/adults but the electricity basics are very accessible.",
+      "verified": true
+    },
+    {
+      "handle": "@Dronebotworkshop",
+      "name": "DroneBot Workshop",
+      "topics": [
+        "engineering",
+        "coding",
+        "tech"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Calm, thorough walkthroughs of Arduino, sensors and motors show how to wire and program real electronics projects from scratch.",
+      "note": "Solo maker; long, methodical tutorials with matching written articles; best for motivated 10-12 year olds.",
+      "verified": true
+    },
+    {
+      "handle": "@ElectroBOOM",
+      "name": "ElectroBOOM",
+      "topics": [
+        "science",
+        "engineering"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Comedic self-shocking experiments teach how electricity, current and safety really work, making circuit theory hilarious and memorable.",
+      "note": "Educational comedy with intentional (staged) shocks and mild slapstick pain plus rare mild language; frames hazards as what NOT to do, so pair with a reminder never to copy mains experiments.",
+      "verified": true
+    },
+    {
+      "handle": "@greatscottlab",
+      "name": "GreatScott!",
+      "topics": [
+        "making",
+        "engineering",
+        "tech"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Bite-sized electronics basics and DIY builds explain components like resistors, capacitors and transistors while making gadgets from scratch.",
+      "note": "Long-form beginner-friendly tutorials; some projects involve soldering/lithium batteries, so build-along needs adult help.",
+      "verified": true
+    },
+    {
+      "handle": "@sparkfun",
+      "name": "SparkFun Electronics",
+      "topics": [
+        "making",
+        "engineering",
+        "coding"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "A maker company's engineers demo breadboards, microcontrollers and sensors, turning parts on a bench into blinking, sensing, moving projects.",
+      "note": "Huge 1500+ video library ranging from beginner tutorials to advanced; curate to the intro/tutorial playlists for kids.",
+      "verified": true
+    },
+    {
+      "handle": "@beneater",
+      "name": "Ben Eater",
+      "topics": [
+        "engineering",
+        "tech",
+        "coding"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Builds an entire working 8-bit computer from simple logic gates on breadboards, revealing that a computer is just carefully wired circuits.",
+      "note": "Long, deep, patient series; ambitious for the top of the 8-12 range but genuinely inspiring for curious tinkerers.",
+      "verified": true
+    },
+    {
+      "handle": "@BranchEducation",
+      "name": "Branch Education",
+      "topics": [
+        "tech",
+        "engineering",
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Gorgeous 3D animations zoom inside microchips, circuit boards and Bluetooth to show the hidden electronics powering everyday gadgets.",
+      "note": "Long-form animated explainers; polished, ad-safe, and a great bridge from 'using tech' to 'understanding the circuits inside it'.",
+      "verified": true
+    },
+    {
+      "handle": "@adafruit",
+      "name": "Adafruit Industries",
+      "topics": [
+        "making",
+        "engineering",
+        "coding"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Home of Collin's Lab, where friendly tours of breadboards, multimeters, LEDs and wearables invite kids to start building electronics.",
+      "note": "Large mixed library; steer to the Collin's Lab and beginner tutorial series, which are the most kid-approachable segments.",
+      "verified": true
+    },
+    {
+      "handle": "@microbit_edu",
+      "name": "Micro:bit Educational Foundation",
+      "topics": [
+        "coding",
+        "engineering",
+        "making"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Official BBC micro:bit videos show kids coding a tiny circuit board to light LEDs, sense motion and talk to the physical world.",
+      "note": "Nonprofit; project and getting-started videos designed for classrooms and 8-12 beginners with block-based coding.",
+      "verified": true
+    },
+    {
+      "handle": "@BeckyStern",
+      "name": "Becky Stern",
+      "topics": [
+        "making",
+        "tech",
+        "art"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "A maker fuses electronics with crafts, sewing LEDs and microcontrollers into wearables so circuits become creative, personal projects.",
+      "note": "Long-form DIY tutorials blending soldering, sewing and code; craft-forward angle appeals to kids who like making things, not just wiring.",
+      "verified": true
+    },
+    {
+      "handle": "@Afrotechmods",
+      "name": "Afrotechmods",
+      "topics": [
+        "engineering",
+        "science",
+        "tech"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "A professional engineer gives fast, clear, practical explanations of resistors, transistors, multimeters and Arduino that make electronics click.",
+      "note": "Straight-to-the-point 5-15 min tutorials; upbeat and beginner-focused, ideal first stop for the fundamentals.",
+      "verified": true
+    }
+  ]
+}

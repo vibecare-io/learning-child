@@ -1,0 +1,39 @@
+# Drawing & painting techniques
+_12 channels_
+
+- **@artforkidshub** — Art for Kids Hub · [art, making] · [little, big] _(already in catalog)_
+  - A dad and his kids break every drawing into simple step-by-step shapes so any child feels like a real artist after one video.
+  - _Draw-along and watercolor/origami lessons, ~5-10 min, near-daily; the whole family model makes it warm and beginner-safe._
+- **@DrawSoCute** — Draw So Cute · [art] · [little, big]
+  - Turns everyday objects, animals and food into cute cartoon characters, showing kids how a few lines become an expressive drawing.
+  - _How-to-draw plus coloring and simple crafts, calm narration, long-form; advertiser-safe._
+- **@muffalopotato** — Muffalo Potato · [art, maths] · [little, big]
+  - Teaches kids to build cartoons entirely out of numbers and letters, quietly reinforcing letter/number recognition through art.
+  - _Weekly draw-alongs, gentle host, ~5-8 min; clever shape-from-symbols method._
+- **@cartooningclub** — Cartooning Club How to Draw · [art] · [little, big]
+  - Slow, clear cartoon-drawing lessons that show the underlying construction shapes before adding detail, shading and color.
+  - _Very high cadence (near-daily), pop-culture and original characters; kid-friendly and easy to follow._
+- **@markcrilley** — Mark Crilley · [art] · [big]
+  - A published manga author demystifies faces, figures and realistic drawing with narrated step-by-step technique that builds real skill.
+  - _Manga/comics and realism, long-form tutorials; skews to older, more patient kids._
+- **@Circlelineartschool** — Circle Line Art School · [art, maths] · [big]
+  - Makes perspective and optical illusions click, teaching kids how 1- and 2-point perspective turns flat lines into 3D rooms and cities.
+  - _Weekly perspective/technique tutorials, spare narration, long-form; great for spatial thinkers._
+- **@watercolor4KIDS** — Watercolor4KIDS · [art] · [little, big]
+  - Introduces real watercolor technique - wet-on-wet, blending, layering - in short projects designed specifically for young hands.
+  - _Emily Olson teaches with her daughter using affordable paints; friendly and low-pressure._
+- **@DrawWithRob** — Draw With Rob (Rob Biddulph) · [art] · [little, big]
+  - A bestselling children's illustrator leads joyful draw-alongs that convince kids anyone can make a great picture together.
+  - _#DrawWithRob draw-along series, ~15-20 min, upbeat; excellent for shared parent-child drawing time._
+- **@DrawWithJazza** — Draw with Jazza · [art, making] · [big]
+  - Explores digital and traditional art through inventive challenges that show kids how professionals experiment, iterate and problem-solve.
+  - _Digital art, animation and art challenges, long-form; energetic pacing, best for older kids and occasional mild goofiness._
+- **@kaseythegolden** — Kasey Golden (Kasey The Golden) · [art] · [big]
+  - Playful watercolor and gouache tutorials and tip lists that teach color mixing and technique while celebrating creative experimentation.
+  - _Watercolor/illustration, long-form, calm and encouraging; some content is supply reviews so curate to the tutorials._
+- **@fun2draw** — Fun2draw (Mei Yu) · [art] · [little, big]
+  - An award-winning illustrator teaches easy chibi, cartoon and anime drawing that gives kids quick, confidence-building wins.
+  - _Cute cartoon/anime style, long-form, cheerful; large back catalog of simple characters._
+- **@CarlaSonheim** — Carla Sonheim · [art] · [big] ⚠︎unverified
+  - Encourages imaginative, loose drawing and painting of invented animals, freeing kids from the fear of a 'wrong' way to draw.
+  - _Creative process and mixed-media lessons incl. a Kids Art Week series; mostly adult-oriented so pick the kid lessons. Handle not fully confirmed._

@@ -1,0 +1,181 @@
+{
+  "slug": "maps-geography",
+  "title": "Maps & geography",
+  "channels": [
+    {
+      "handle": "@AtlasPro1",
+      "name": "Atlas Pro",
+      "topics": [
+        "geography",
+        "nature",
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Explains why mountains, deserts, rivers and biomes sit where they do, turning a world map into a giant cause-and-effect puzzle.",
+      "note": "Long-form physical-geography and biogeography documentaries; calm, well-illustrated; more recent videos lean toward biology/extinct animals.",
+      "verified": true
+    },
+    {
+      "handle": "@geodiode",
+      "name": "Geodiode",
+      "topics": [
+        "geography",
+        "nature",
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Beautiful tours of Earth's climate zones and biomes show kids how latitude and landscape decide whether a place is rainforest, tundra or desert.",
+      "note": "Long-form documentary style with stunning footage; a full 'biomes course'; slower pace suits focused viewing.",
+      "verified": true
+    },
+    {
+      "handle": "@GeographyNow",
+      "name": "Geography Now",
+      "topics": [
+        "geography",
+        "history"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "An energetic country-by-country tour of flags, landforms and culture that makes every nation on the map feel like a real place worth knowing.",
+      "note": "Fast, funny host; covered every UN country A-Z; mostly culture/geography, occasional light political mentions; ~10-15 min episodes.",
+      "verified": true
+    },
+    {
+      "handle": "@JayForeman",
+      "name": "Map Men (Jay Foreman & Mark Cooper-Jones)",
+      "topics": [
+        "geography",
+        "history"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Comedy explainers on why borders, place names and maps look so weird spark 'wait, why IS it like that?' curiosity.",
+      "note": "British musical-comedy edutainment; snappy but genuinely educational; also has Unfinished London; occasional dry adult-aimed jokes.",
+      "verified": true
+    },
+    {
+      "handle": "@CGPGrey",
+      "name": "CGP Grey",
+      "topics": [
+        "geography",
+        "history",
+        "tech"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "His signature videos on strange borders, flag design and 'what counts as a country' are core map-curiosity fuel.",
+      "note": "Crisp animated explainers; central to the maps/flags niche despite being well-known; some non-geography topics in the catalog.",
+      "verified": true
+    },
+    {
+      "handle": "@GeoWizard",
+      "name": "GeoWizard",
+      "topics": [
+        "geography",
+        "exploration"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Straight-line missions and GeoGuessr feats show kids you can 'read' any landscape from clues, making real-world navigation feel like a superpower.",
+      "note": "Long-form UK adventure/geoguessing; upbeat; occasional mild language and fatigue-driven grumbling; best for older kids.",
+      "verified": true
+    },
+    {
+      "handle": "@MinuteEarth",
+      "name": "MinuteEarth",
+      "topics": [
+        "science",
+        "nature",
+        "geography"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Short animated answers to why coastlines, rivers and continents look the way they do connect the map to the science under it.",
+      "note": "~3-5 min stick-figure animations; broad earth-science scope with many geography topics; advertiser-safe.",
+      "verified": true
+    },
+    {
+      "handle": "@KidsLearningTube_",
+      "name": "Kids Learning Tube",
+      "topics": [
+        "geography",
+        "music",
+        "science"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "why": "Catchy animated songs about continents, countries and flags help the youngest kids sing the world map into memory.",
+      "note": "Sing-along animation for early learners; large geography catalog; animation style changed after 2022 acquisition.",
+      "verified": true
+    },
+    {
+      "handle": "@KLTGeography",
+      "name": "KLT Geography",
+      "topics": [
+        "geography",
+        "music"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "why": "A geography-only spinoff of song-based lessons on countries, continents, oceans and natural features made just for little explorers.",
+      "note": "Dedicated kids' geography channel; musical/animated; short-to-medium songs.",
+      "verified": true
+    },
+    {
+      "handle": "@freeschool",
+      "name": "Free School",
+      "topics": [
+        "geography",
+        "history",
+        "art"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "why": "Gentle, safe tours of landforms, oceans and famous places invite young kids to explore the world without any hype or noise.",
+      "note": "Calm narrated educational videos for grades ~K-6; also covers art, science and biographies; very advertiser-safe.",
+      "verified": true
+    },
+    {
+      "handle": "@homeschoolpop",
+      "name": "Homeschool Pop",
+      "topics": [
+        "geography",
+        "science"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "why": "Friendly continent, country and landform lessons with quizzes turn map basics into a fun classroom-style adventure.",
+      "note": "Elementary-focused host with simple animation and interactive questions; broad K-5 subject range.",
+      "verified": true
+    },
+    {
+      "handle": "@flagpedia_net",
+      "name": "Flagpedia",
+      "topics": [
+        "geography"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Breaking down what every flag's colors and symbols actually mean turns flag-spotting into decoding each country's story.",
+      "note": "Flag-explainer and guess-the-flag content; mix of longer explainers and quick quiz videos; kid-safe.",
+      "verified": true
+    }
+  ]
+}

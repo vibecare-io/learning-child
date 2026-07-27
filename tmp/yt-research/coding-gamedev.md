@@ -1,0 +1,36 @@
+# Coding & game-making for kids
+_11 channels_
+
+- **@griffpatch** — griffpatch · [coding, making] · [big]
+  - Step-by-step Scratch tutorials turn kids from players into makers by building real games like platformers and space shooters block by block.
+  - _Long-form project series; the gold standard for Scratch game-making, best for ages 8+ who can follow multi-step builds._
+- **@scratchteam** — Scratch Team · [coding, making, art] · [little, big]
+  - The official MIT Scratch channel shows kids how to program their own interactive stories, animations and games with friendly starter ideas.
+  - _Official nonprofit (scratch.mit.edu); mix of short inspiration clips and tutorials, gentle enough to introduce coding to younger kids._
+- **@codeorg** — Code.org · [coding, tech] · [little, big]
+  - Bite-size, beautifully explained lessons demystify how computers, loops and conditions work using drag-and-drop block coding for all ages.
+  - _Nonprofit; huge library from pre-reader Hour of Code up to CS concepts, advertiser-safe and classroom-tested._
+- **@Tynker** — Tynker · [coding, making] · [little, big]
+  - Playful walkthroughs show kids how block coding leads into building Minecraft mods and their own games, giving creativity a clear on-ramp.
+  - _Company channel with some promotional videos; strongest content is the coding walkthroughs for beginners._
+- **@codakid9517** — CodaKid · [coding, making] · [big]
+  - Project-based tutorials teach real coding by building things kids love, from Roblox games to Minecraft mods, connecting code to creation.
+  - _Kids-coding academy (ages 8+); some course-promo content mixed with genuine tutorial walkthroughs._
+- **@AlvinBlox** — AlvinBlox · [coding, tech] · [big]
+  - Clear beginner-to-pro Roblox Studio and Lua scripting lessons let kids see how a real game is built line by line.
+  - _Long-form scripting tutorials; best for motivated 9-12s ready for text-based code, from a veteran Roblox dev._
+- **@TheDevKing** — TheDevKing · [coding, tech] · [big]
+  - Numbered Roblox scripting series build coding confidence step by step, teaching variables, events and functions through game-making.
+  - _Structured beginner and advanced playlists; text-scripting focus suits ages 9+._
+- **@BrawlDevRBLX** — BrawlDev · [coding, tech] · [big]
+  - Friendly, well-paced Roblox beginner scripting guides make a kid's first working game feel achievable and exciting.
+  - _Beginner/advanced/GUI playlists with 50+ episodes; approachable entry point to Roblox Studio for ages 8+._
+- **@ThatMumboJumbo** — Mumbo Jumbo · [engineering, making] · [big]
+  - Redstone builds turn Minecraft into a logic-and-engineering playground, sparking wonder at how circuits, gates and machines actually work.
+  - _Large, central redstone channel; upbeat but substantive engineering content, occasional fast-paced editing, great for ages 8+._
+- **@learnwithminecrafteducation** — Learn With Minecraft Education · [coding, making, engineering] · [big] ⚠︎unverified
+  - Official lessons show kids how to code agents, build machines and solve challenges inside Minecraft, blending play with real CS concepts.
+  - _Microsoft's education channel; classroom-oriented tutorials, advertiser-safe, handle unconfirmed._
+- **@GriffpatchAcademy** — Griffpatch Academy · [coding, making] · [big] ⚠︎unverified
+  - A structured 'gamer to game creator' path guides kids through building complete Scratch games with clear milestones.
+  - _Griffpatch's dedicated beginner academy channel; more scaffolded than the main channel, handle unconfirmed._

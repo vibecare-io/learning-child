@@ -1,0 +1,170 @@
+{
+  "slug": "human-body-biology",
+  "title": "Human body & biology",
+  "channels": [
+    {
+      "handle": "@OperationOuch-OfficialChannel",
+      "name": "Operation Ouch!",
+      "topics": [
+        "science"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "why": "Twin doctors Chris and Xand run gross, hands-on experiments that make organs, senses, and biology feel thrilling and answerable.",
+      "note": "CBBC show; long-form segments; occasional mildly gross-out medical bits, all kid-safe. Central to this niche.",
+      "verified": true
+    },
+    {
+      "handle": "@amoebasisters",
+      "name": "Amoeba Sisters",
+      "topics": [
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Playful cartoon doodles demystify cells, DNA, and body systems so a curious 10-year-old feels the 'aha' without jargon.",
+      "note": "Geared to upper-elementary/middle biology; long-form; light humor throughout.",
+      "verified": true
+    },
+    {
+      "handle": "@journeytomicro",
+      "name": "Journey to the Microcosmos",
+      "topics": [
+        "science",
+        "nature"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Mesmerizing real microscope footage of cells and microorganisms turns 'what lives inside a drop of water' into pure wonder.",
+      "note": "Calm narration by Hank Green; series concluded 2024 but large archive remains; long-form.",
+      "verified": true
+    },
+    {
+      "handle": "@NucleusBiology",
+      "name": "Nucleus Biology",
+      "topics": [
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Crisp medical-grade animations show exactly how cells, organs, and body systems work inside you.",
+      "note": "Education arm of Nucleus Medical Media; clinical but clean animation; long-form.",
+      "verified": true
+    },
+    {
+      "handle": "@biointeractive",
+      "name": "HHMI BioInteractive",
+      "topics": [
+        "science",
+        "nature"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Research-grade molecular animations of the immune response, DNA, and cells are the best free visuals of the living world anywhere.",
+      "note": "Made for high-school classrooms; some films skew older; long-form 10-30 min.",
+      "verified": true
+    },
+    {
+      "handle": "@Peekaboo_Kidz",
+      "name": "Peekaboo Kidz (Dr. Binocs Show)",
+      "topics": [
+        "science"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "why": "Dr. Binocs answers 'how does my heart beat?' with bright animation that sparks the next question.",
+      "note": "Animated explainers; upbeat but not dopamine-bait; broad science, strong human-body set.",
+      "verified": true
+    },
+    {
+      "handle": "@freeschool",
+      "name": "Free School",
+      "topics": [
+        "science",
+        "art"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "why": "Gentle, friendly tours of the human body and cells make big biology ideas approachable for the youngest learners.",
+      "note": "Kindergarten-and-up; calm narration; covers art/nature too, not body-only.",
+      "verified": true
+    },
+    {
+      "handle": "@NemoursKidsHealth",
+      "name": "Nemours KidsHealth",
+      "topics": [
+        "science"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "why": "Chloe and Nurb tour the body's organs and senses in doctor-reviewed 'How the Body Works' shorts kids trust.",
+      "note": "Pediatric-authority source; some videos under 3 min; advertiser-safe and accurate.",
+      "verified": true
+    },
+    {
+      "handle": "@neurotransmissions",
+      "name": "Neuro Transmissions",
+      "topics": [
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "A neuroscientist explains how your brain sees, hears, and thinks in a way that makes the mind feel like an adventure.",
+      "note": "Founded by neuroscientist Alie Astrocyte; long-form; some episodes touch mental health, skews older kids.",
+      "verified": true
+    },
+    {
+      "handle": "@neurochallenged",
+      "name": "Neuroscientifically Challenged",
+      "topics": [
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Two-minute hand-drawn breakdowns of neurons and nervous-system parts give curious kids a clean map of the brain.",
+      "note": "Very short 2-min format (an exception to long-form); precise, dry, professor-made.",
+      "verified": true
+    },
+    {
+      "handle": "@homeschoolpop",
+      "name": "Homeschool Pop",
+      "topics": [
+        "science"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "why": "A warm homeschool dad walks K-5 kids through the brain, heart, and body parts at a pace built for questions.",
+      "note": "Elementary-focused; mixes animation and voiceover; covers many subjects, solid human-body set.",
+      "verified": true
+    },
+    {
+      "handle": "@instituteofhumananatomy",
+      "name": "Institute of Human Anatomy",
+      "topics": [
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Real anatomists show actual human organs to reveal how the body truly looks and works beneath the skin.",
+      "note": "CAVEAT: uses real cadaver specimens; fascinating but intense - best for older kids with parent context. A giant, but genuinely central to real anatomy.",
+      "verified": true
+    }
+  ]
+}

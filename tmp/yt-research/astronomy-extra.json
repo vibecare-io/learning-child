@@ -1,0 +1,192 @@
+{
+  "slug": "astronomy-extra",
+  "title": "Astronomy & space (deep cuts)",
+  "channels": [
+    {
+      "handle": "@drbecky",
+      "name": "Dr. Becky",
+      "topics": [
+        "space",
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "An Oxford black-hole researcher unpacks the newest real astronomy discoveries with contagious enthusiasm.",
+      "note": "Includes a monthly 'Night Sky News' series; research-news focus, best for older kids.",
+      "verified": true
+    },
+    {
+      "handle": "@astrumspace",
+      "name": "Astrum",
+      "topics": [
+        "space",
+        "science",
+        "exploration"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "why": "Calm, gorgeous tours of every planet and moon built from real spacecraft imagery spark pure awe.",
+      "note": "Long-form documentary style; younger kids can wonder-watch the visuals while narration suits big kids.",
+      "verified": true
+    },
+    {
+      "handle": "@CoolWorldsLab",
+      "name": "Cool Worlds",
+      "topics": [
+        "space",
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "A Columbia astronomer contemplates exoplanets, alien life and the universe's biggest open questions.",
+      "note": "Slow, thoughtful essays; conceptually advanced, best for upper-big kids/tweens.",
+      "verified": true
+    },
+    {
+      "handle": "@LaunchPadAstronomy",
+      "name": "Launch Pad Astronomy",
+      "topics": [
+        "space",
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "A friendly neighborhood astronomer explains how the universe works, from eclipses to black holes.",
+      "note": "Explainer videos plus occasional live Q&A streams.",
+      "verified": true
+    },
+    {
+      "handle": "@AmyShiraTeitel",
+      "name": "The Vintage Space",
+      "topics": [
+        "space",
+        "history"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Deep-dive stories of the early space race and forgotten astronauts make history feel like adventure.",
+      "note": "Spaceflight-history video essays; talking-head plus archival footage.",
+      "verified": true
+    },
+    {
+      "handle": "@DeepSkyVideos",
+      "name": "Deep Sky Videos",
+      "topics": [
+        "space",
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Real astronomers tour galaxies, nebulae and every Messier object seen through actual telescopes.",
+      "note": "From Brady Haran with the University of Nottingham; interview + telescope imagery.",
+      "verified": true
+    },
+    {
+      "handle": "@PrimalSpace",
+      "name": "Primal Space",
+      "topics": [
+        "space",
+        "engineering"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Crisp animations reveal how rockets, satellites and space tech actually work under the hood.",
+      "note": "Faceless animated explainer documentaries.",
+      "verified": true
+    },
+    {
+      "handle": "@everydayastronaut",
+      "name": "Everyday Astronaut",
+      "topics": [
+        "space",
+        "engineering"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Turns rocket science into approachable questions like 'why do rockets look the way they do?'",
+      "note": "Hour-long documentaries plus live launch coverage; some long streams.",
+      "verified": true
+    },
+    {
+      "handle": "@frasercain",
+      "name": "Fraser Cain",
+      "topics": [
+        "space",
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "The Universe Today host gives down-to-earth answers to viewers' biggest astronomy questions.",
+      "note": "Q&A and space-news format; can get information-dense.",
+      "verified": true
+    },
+    {
+      "handle": "@scottmanley",
+      "name": "Scott Manley",
+      "topics": [
+        "space",
+        "engineering",
+        "tech"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "An astrophysicist-gamer makes orbital mechanics and rocket science genuinely intuitive.",
+      "note": "Some Kerbal Space Program gameplay woven in; best for upper-big kids/tweens.",
+      "verified": true
+    },
+    {
+      "handle": "@TheSecretsoftheUniverse",
+      "name": "The Secrets of the Universe",
+      "topics": [
+        "space",
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Builds astrophysics and cosmology up step by step, from the basics to quasars.",
+      "note": "Structured multi-part series; leans toward older big kids.",
+      "verified": true
+    },
+    {
+      "handle": "@AstroBackyard",
+      "name": "AstroBackyard",
+      "topics": [
+        "space",
+        "making",
+        "tech"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Shows kids they can photograph real galaxies and nebulae from their own backyard.",
+      "note": "Beginner-friendly astrophotography how-to; includes gear discussion.",
+      "verified": true
+    },
+    {
+      "handle": "@whatdamath",
+      "name": "Anton Petrov",
+      "topics": [
+        "space",
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "A calm, warm daily tour of the newest discoveries happening across the universe right now.",
+      "note": "Near-daily uploads; recent-discovery news heavy, clean thumbnails.",
+      "verified": true
+    }
+  ]
+}

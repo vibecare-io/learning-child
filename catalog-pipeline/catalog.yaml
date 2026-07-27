@@ -281,6 +281,327 @@ sources:
     topics: [tech, coding]
     profiles: [big]
 
+
+  # ============================================================
+  # Expanded channels — research round 2 (2026-07-26)
+  # 98 channels, agent-confirmed + HTTP-verified, <=5 per niche.
+  # Full candidate pool (205): tmp/yt-research/_NEW-sources.yaml
+  # ============================================================
+  # ---------- ancient-civilizations ----------
+  - channel: "@adayinancientrome"
+    topics: [history]
+    profiles: [big]
+  - channel: "@ancientamericas"
+    topics: [history, exploration]
+    profiles: [big]
+  - channel: "@happylearningenglish"
+    topics: [history, geography]
+    profiles: [little, big]
+  - channel: "@historywithcy"
+    topics: [history]
+    profiles: [big]
+  - channel: "@invictahistory"
+    topics: [history, engineering]
+    profiles: [big]
+  # ---------- architecture-cities ----------
+  - channel: "@citybeautiful"
+    topics: [geography, history]
+    profiles: [big]
+  - channel: "@jagohazzard"
+    topics: [history, geography]
+    profiles: [big]
+  - channel: "@notjustbikes"
+    topics: [geography, engineering]
+    profiles: [big]
+  - channel: "@rmtransit"
+    topics: [engineering, geography]
+    profiles: [big]
+  - channel: "@stewarthicks"
+    topics: [art, engineering]
+    profiles: [big]
+  # ---------- astronomy-extra ----------
+  - channel: "@amyshirateitel"
+    topics: [space, history]
+    profiles: [big]
+  - channel: "@astrobackyard"
+    topics: [space, making, tech]
+    profiles: [big]
+  - channel: "@coolworldslab"
+    topics: [space, science]
+    profiles: [big]
+  - channel: "@deepskyvideos"
+    topics: [space, science]
+    profiles: [big]
+  - channel: "@drbecky"
+    topics: [space, science]
+    profiles: [big]
+  # ---------- chemistry ----------
+  - channel: "@acsreactions"
+    topics: [science]
+    profiles: [big]
+  - channel: "@melscience1"
+    topics: [science, making]
+    profiles: [little, big]
+  - channel: "@periodicvideos"
+    topics: [science]
+    profiles: [big]
+  - channel: "@philmccordic3490"
+    topics: [science, making]
+    profiles: [little, big]
+  - channel: "@professordaveexplains"
+    topics: [science]
+    profiles: [big]
+  # ---------- coding-gamedev ----------
+  - channel: "@alvinblox"
+    topics: [coding, tech]
+    profiles: [big]
+  - channel: "@brawldevrblx"
+    topics: [coding, tech]
+    profiles: [big]
+  - channel: "@codakid9517"
+    topics: [coding, making]
+    profiles: [big]
+  - channel: "@thatmumbojumbo"
+    topics: [engineering, making]
+    profiles: [big]
+  - channel: "@thedevking"
+    topics: [coding, tech]
+    profiles: [big]
+  # ---------- cooking-food-science ----------
+  - channel: "@chainbaker"
+    topics: [science, making]
+    profiles: [big]
+  - channel: "@fooddeepdive"
+    topics: [science, making]
+    profiles: [big]
+  - channel: "@funwithfoodkids"
+    topics: [making, science, reading]
+    profiles: [little]
+  - channel: "@howtocookthat"
+    topics: [science, making]
+    profiles: [big]
+  - channel: "@katiekimball"
+    topics: [making, science]
+    profiles: [little, big]
+  # ---------- dinosaurs-paleontology ----------
+  - channel: "@bengthomas"
+    topics: [science, animals, nature]
+    profiles: [big]
+  - channel: "@dinosaurgeorge"
+    topics: [science, animals, history]
+    profiles: [little, big]
+  - channel: "@eons"
+    topics: [history, science, animals]
+    profiles: [big]
+  - channel: "@henrythepaleoguy"
+    topics: [science, animals, nature]
+    profiles: [big]
+  - channel: "@mothlightmedia1936"
+    topics: [science, nature, animals]
+    profiles: [big]
+  # ---------- drawing-painting ----------
+  - channel: "@circlelineartschool"
+    topics: [art, maths]
+    profiles: [big]
+  - channel: "@drawwithrob"
+    topics: [art]
+    profiles: [little, big]
+  - channel: "@kaseythegolden"
+    topics: [art]
+    profiles: [big]
+  - channel: "@markcrilley"
+    topics: [art]
+    profiles: [big]
+  - channel: "@muffalopotato"
+    topics: [art, maths]
+    profiles: [little, big]
+  # ---------- electronics-tinkering ----------
+  - channel: "@afrotechmods"
+    topics: [engineering, science, tech]
+    profiles: [big]
+  - channel: "@beckystern"
+    topics: [making, tech, art]
+    profiles: [big]
+  - channel: "@beneater"
+    topics: [engineering, tech, coding]
+    profiles: [big]
+  - channel: "@dronebotworkshop"
+    topics: [engineering, coding, tech]
+    profiles: [big]
+  - channel: "@electroboom"
+    topics: [science, engineering]
+    profiles: [big]
+  # ---------- gardening-plants ----------
+  - channel: "@boxlapse"
+    topics: [science, nature]
+    profiles: [little, big]
+  - channel: "@carnivorousplantshub"
+    topics: [nature, science]
+    profiles: [big]
+  - channel: "@gardenmarcuskids"
+    topics: [nature, making]
+    profiles: [little]
+  - channel: "@growveg"
+    topics: [nature, science]
+    profiles: [big]
+  - channel: "@guidinggreenthumbs"
+    topics: [nature, making]
+    profiles: [big]
+  # ---------- geology-earth ----------
+  - channel: "@currentlyrockhounding"
+    topics: [science, exploration, nature]
+    profiles: [big]
+  - channel: "@earthscope_science"
+    topics: [science, geography]
+    profiles: [big]
+  - channel: "@geogirl"
+    topics: [science]
+    profiles: [big]
+  - channel: "@geologyhub"
+    topics: [science, geography]
+    profiles: [big]
+  - channel: "@geologynick"
+    topics: [science, geography, history]
+    profiles: [big]
+  # ---------- human-body-biology ----------
+  - channel: "@amoebasisters"
+    topics: [science]
+    profiles: [big]
+  - channel: "@biointeractive"
+    topics: [science, nature]
+    profiles: [big]
+  - channel: "@nemourskidshealth"
+    topics: [science]
+    profiles: [little, big]
+  - channel: "@neurochallenged"
+    topics: [science]
+    profiles: [big]
+  - channel: "@neurotransmissions"
+    topics: [science]
+    profiles: [big]
+  # ---------- maps-geography ----------
+  - channel: "@atlaspro1"
+    topics: [geography, nature, science]
+    profiles: [big]
+  - channel: "@cgpgrey"
+    topics: [geography, history, tech]
+    profiles: [big]
+  - channel: "@flagpedia_net"
+    topics: [geography]
+    profiles: [big]
+  - channel: "@geodiode"
+    topics: [geography, nature, science]
+    profiles: [big]
+  - channel: "@geowizard"
+    topics: [geography, exploration]
+    profiles: [big]
+  # ---------- money-entrepreneurship ----------
+  - channel: "@bizkidstv"
+    topics: [maths, making]
+    profiles: [big]
+  - channel: "@chachingvideos"
+    topics: [music, maths]
+    profiles: [little, big]
+  - channel: "@easypeasyfinance"
+    topics: [maths]
+    profiles: [big]
+  - channel: "@kideconomist"
+    topics: [maths, history]
+    profiles: [big]
+  - channel: "@learnbright"
+    topics: [maths, history]
+    profiles: [big]
+  # ---------- ocean-marine ----------
+  - channel: "@blueworldtv"
+    topics: [animals, nature, exploration]
+    profiles: [little, big]
+  - channel: "@kpassionate"
+    topics: [animals, science]
+    profiles: [big]
+  - channel: "@mbarivideo"
+    topics: [science, animals, exploration]
+    profiles: [big]
+  - channel: "@naturalworldfacts"
+    topics: [science, nature, animals]
+    profiles: [big]
+  - channel: "@oceanexplorergov"
+    topics: [exploration, science, animals]
+    profiles: [big]
+  # ---------- physics-motion ----------
+  - channel: "@appliedscience"
+    topics: [science, engineering]
+    profiles: [big]
+  - channel: "@physicsfun"
+    topics: [science]
+    profiles: [little, big]
+  - channel: "@theefficientengineer"
+    topics: [engineering, science]
+    profiles: [big]
+  - channel: "@theslowmoguys"
+    topics: [science]
+    profiles: [little, big]
+  - channel: "@tomstantonengineering"
+    topics: [engineering, making]
+    profiles: [big]
+  # ---------- preschool-curiosity ----------
+  - channel: "@kidzlearningtube"
+    topics: [space, geography, science]
+    profiles: [little, big]
+  - channel: "@pancakemanor"
+    topics: [music]
+    profiles: [little]
+  - channel: "@peepwgbh"
+    topics: [science, nature]
+    profiles: [little]
+  - channel: "@supersimpleplay"
+    topics: [music, making]
+    profiles: [little]
+  - channel: "@wildkratts"
+    topics: [animals, nature]
+    profiles: [little, big]
+  # ---------- robotics-ai ----------
+  - channel: "@adafruit"
+    topics: [making, tech, engineering, coding]
+    profiles: [big]
+  - channel: "@bostondynamics"
+    topics: [tech, engineering]
+    profiles: [little, big]
+  - channel: "@crunchlabs"
+    topics: [engineering, making]
+    profiles: [big]
+  - channel: "@jamesbruton"
+    topics: [engineering, tech]
+    profiles: [big]
+  - channel: "@jeremy_fielding"
+    topics: [engineering]
+    profiles: [big]
+  # ---------- sel-mindfulness ----------
+  - channel: "@cosmickidsyoga"
+    topics: [reading, nature]
+    profiles: [little, big]
+  - channel: "@newhorizonholisticcentre"
+    topics: [reading, nature]
+    profiles: [little, big]
+  - channel: "@sesamestreet"
+    topics: [reading, music]
+    profiles: [little]
+  # ---------- weather-climate ----------
+  - channel: "@climateadam"
+    topics: [science]
+    profiles: [big]
+  - channel: "@learnthesky"
+    topics: [space, science]
+    profiles: [big, little]
+  - channel: "@metofficelearnaboutweather"
+    topics: [science]
+    profiles: [big]
+  - channel: "@pbsterra"
+    topics: [science, nature]
+    profiles: [big]
+  - channel: "@pecoshank"
+    topics: [science, nature]
+    profiles: [big]
+
   # --- Hero videos: auto-generated from docs/data/curated-videos.json ---
   # Every id verified live via YouTube oEmbed. expandCatalog dedupes these against the
   # channel expansions above, so overlap is harmless. Regenerate rather than hand-edit.

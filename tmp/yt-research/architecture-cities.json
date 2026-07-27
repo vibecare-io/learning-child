@@ -1,0 +1,202 @@
+{
+  "slug": "architecture-cities",
+  "title": "Architecture, cities & infrastructure",
+  "channels": [
+    {
+      "handle": "@PracticalEngineeringChannel",
+      "name": "Practical Engineering",
+      "topics": [
+        "engineering",
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Civil engineer Grady Hillhouse uses backyard demos and clear models to reveal the hidden systems behind dams, power grids, roads and water pipes.",
+      "note": "Long-form (10-20 min), calm and demo-driven; bi-monthly. Great for curious 8-12s.",
+      "verified": true
+    },
+    {
+      "handle": "@TheB1M",
+      "name": "The B1M",
+      "topics": [
+        "engineering",
+        "tech"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Cinematic stories of how the world's biggest skyscrapers, bridges and tunnels actually get built spark awe at real construction.",
+      "note": "Documentary-style, weekly; the niche's central channel. Some business/finance framing skews older.",
+      "verified": true
+    },
+    {
+      "handle": "@CityBeautiful",
+      "name": "City Beautiful",
+      "topics": [
+        "geography",
+        "history"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Dave Amos makes how-cities-work fun, explaining why streets, parks and neighborhoods are laid out the way they are.",
+      "note": "Animated explainers, ~10 min; planning-professor host, best for 9-12.",
+      "verified": true
+    },
+    {
+      "handle": "@NotJustBikes",
+      "name": "Not Just Bikes",
+      "topics": [
+        "geography",
+        "engineering"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Playful comparisons of city design around the world get kids noticing and questioning how their own streets, bikes and transit work.",
+      "note": "Long-form, opinionated but advertiser-safe; occasional mild frustration/sarcasm about bad design.",
+      "verified": true
+    },
+    {
+      "handle": "@TheTimTraveller",
+      "name": "The Tim Traveller",
+      "topics": [
+        "geography",
+        "engineering"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Short, joyful field trips to the world's oddest bridges, funiculars, tiny railways and infrastructure curiosities.",
+      "note": "Bite-size (3-6 min) but substantive; upbeat and wholesome.",
+      "verified": true
+    },
+    {
+      "handle": "@stewarthicks",
+      "name": "Stewart Hicks",
+      "topics": [
+        "art",
+        "engineering"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "An architecture professor decodes why famous buildings look and feel the way they do, teaching kids to read the built world.",
+      "note": "Lecture-style, ~15 min; conceptual, best for older, design-minded big kids.",
+      "verified": true
+    },
+    {
+      "handle": "@JagoHazzard",
+      "name": "Jago Hazzard",
+      "topics": [
+        "history",
+        "geography"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Charming deep-dives into railways, tube stations and London's hidden transport history make infrastructure feel like detective stories.",
+      "note": "Short-to-medium, dry British humor; UK-rail focused, occasional light innuendo—mostly over kids' heads.",
+      "verified": true
+    },
+    {
+      "handle": "@RMTransit",
+      "name": "RMTransit",
+      "topics": [
+        "engineering",
+        "geography"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Enthusiastic breakdowns of metros, trams and high-speed trains show how good transit is designed and why it matters.",
+      "note": "Explainer format, ~10-15 min; fairly technical, best for 10-12 train fans.",
+      "verified": true
+    },
+    {
+      "handle": "@TheEfficientEngineer",
+      "name": "The Efficient Engineer",
+      "topics": [
+        "engineering",
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Crisp 3D animations reveal the forces, trusses and materials that keep bridges and buildings standing up.",
+      "note": "Animated, ~10-15 min; some content aimed at students—pick structural/bridge episodes for kids.",
+      "verified": true
+    },
+    {
+      "handle": "@Lesics",
+      "name": "Lesics",
+      "topics": [
+        "engineering",
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Detailed animations explain how tunnels, dams, cranes and engines work, turning big machines into understandable ideas.",
+      "note": "Animated explainers; accented narration, slower pace. Large archive even amid channel rebranding.",
+      "verified": true
+    },
+    {
+      "handle": "@BranchEducation",
+      "name": "Branch Education",
+      "topics": [
+        "engineering",
+        "tech"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Gorgeous 3D teardowns show the inner workings of the tech and infrastructure kids use every day.",
+      "note": "High-production animations, 10-20 min; more tech than buildings but same curiosity-sparking rigor.",
+      "verified": true
+    },
+    {
+      "handle": "@ARTiculations",
+      "name": "ARTiculations",
+      "topics": [
+        "art",
+        "history"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "why": "Betty Chen explores the art and ideas behind architecture—Gothic cathedrals, brutalism, city design—inviting kids to see buildings as creative choices.",
+      "note": "Essay-style, ~8-12 min; thoughtful, best for older big kids. Handle unconfirmed (uses /c/ARTiculations).",
+      "verified": false
+    },
+    {
+      "handle": "@TibotheToucan",
+      "name": "Tibo the Toucan",
+      "topics": [
+        "engineering",
+        "science"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "why": "A friendly time-traveling toucan introduces little kids to bridges, buildings and how things are built through colorful cartoons.",
+      "note": "Animated, kid-narrated, ~5-10 min; broad early-learning channel with strong engineering episodes. Ages 3-7.",
+      "verified": true
+    },
+    {
+      "handle": "@handymanhal",
+      "name": "Handyman Hal",
+      "topics": [
+        "engineering",
+        "making"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "why": "Real visits to excavators, cranes, garbage trucks and construction sites let young kids see big machines up close and learn what each one does.",
+      "note": "Live-action host, ~10-15 min; energetic but genuinely educational, not unboxing. Ages 3-7.",
+      "verified": true
+    }
+  ]
+}

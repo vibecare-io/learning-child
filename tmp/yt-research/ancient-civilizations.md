@@ -1,0 +1,39 @@
+# Ancient civilizations (kid-safe)
+_12 channels_
+
+- **@toldinstone** — toldinstone · [history] · [big]
+  - Answers the small, strange questions of daily life in Rome and Greece (what they ate, how they bathed, what streets smelled like) that make an ancient city feel real.
+  - _Long-form essays by a PhD historian, calm narration over maps and artifacts; occasional 'gross reality' topics handled tastefully; advertiser-safe, skews upper big._
+- **@InvictaHistory** — Invicta · [history, engineering] · [big]
+  - Its 'A Day in the Life' and 'How They Did It' series drop you inside an ordinary ancient person's day, sparking 'how did they actually build/eat/live?' curiosity.
+  - _Animated documentaries, 10-20 min; some episodes touch on slavery and warfare matter-of-factly, non-graphic; best for big kids._
+- **@AncientAmericas** — Ancient Americas · [history, exploration] · [big]
+  - Fills the huge gap most kids never see: deep, respectful tours of Maya, Aztec, Inca, Olmec and other pre-Columbian civilizations and how their cities worked.
+  - _Long-form illustrated documentaries by host 'Pete'; measured pacing, map-heavy, no sensationalism; big kids and curious families._
+- **@WorldofAntiquity** — World of Antiquity · [history, science] · [big]
+  - Dr. David Miano models how historians actually know things, cheerfully debunking pyramid/Atlantis myths so kids learn to weigh evidence instead of hype.
+  - _Talking-head plus visuals by a historian with 20+ years teaching; strong media-literacy angle; upper big kids, advertiser-safe._
+- **@HistorywithCy** — History with Cy · [history] · [big]
+  - Gentle, atmospheric storytelling brings Mesopotamia, Egypt and the Bronze Age to life through their own myths and everyday objects.
+  - _Soft-spoken narration over illustrations, meditative pace; some mythology involves gods/violence told non-graphically; big kids._
+- **@AncientRomeLive** — Ancient Rome Live · [history, exploration] · [big] ⚠︎unverified
+  - Archaeologist Darius Arya walks you through real ruins on location, showing that ancient Rome is a place you can still stand inside and read like a book.
+  - _On-site walking tours and lectures from the American Institute for Roman Culture; documentary tone; handle is a best guess, downstream check will confirm._
+- **@ADayInAncientRome** — A Day In Ancient Rome · [history] · [big]
+  - Zooms in on the everyday details (markets, meals, what a poor family's morning looked like) that turn 'Rome' from a name into people a kid can imagine being.
+  - _Daily-life focused narrated docs; newer channel, also posts Shorts, so preview for occasional clickbait-styled thumbnails; big kids._
+- **@WorldHistoryEncyclopedia** — World History Encyclopedia · [history] · [big] ⚠︎unverified
+  - Presenter Kelly Macquire retells myths and everyday history from Egypt, Greece and the Bronze Age with an archaeologist's eye for real artifacts.
+  - _From the nonprofit encyclopedia; reliable, source-based short docs; handle is a best guess pending downstream check; big kids._
+- **@freeschool** — Free School · [history, art] · [little]
+  - Introduces the youngest kids to ancient Egypt, the Maya and famous art in a calm, friendly voice that treats them as capable of real ideas.
+  - _Gentle narrated slideshows for roughly K-4; broad topics beyond history (art, science, literature); classic little-kid pace._
+- **@SmileandLearnEnglish** — Smile and Learn - English · [history, geography] · [little, big]
+  - Bright animated explainers on ancient Egypt, Rome, Greece and Mesopotamia give little kids their first map-and-timeline picture of the deep past.
+  - _Animated, ages 3-12, curriculum-aligned; upbeat but not frantic; part of a larger edutainment platform._
+- **@HappyLearningEnglish** — Happy Learning English · [history, geography] · [little, big]
+  - Short, clear animated tours of the great early empires spark 'who were these people?' questions without overwhelming young viewers.
+  - _Animated classroom-style videos, elementary level; teacher-friendly; some content is dubbed/translated._
+- **@HomeschoolPop** — Homeschool Pop · [history, geography] · [little, big]
+  - A homeschool dad walks elementary kids through ancient Egypt, Rome and Greece with warm, question-driven narration that invites them to think along.
+  - _Simple animation plus voiceover for K-5; energetic delivery but substantive; also covers math and science._

@@ -1,0 +1,39 @@
+# Chemistry & reactions for kids
+_12 channels_
+
+- **@periodicvideos** — Periodic Videos · [science] · [big]
+  - Every single element on the periodic table gets its own short film with real University of Nottingham lab demos, turning a wall chart into a gallery of characters.
+  - _Long-form demos/interviews, weekly uploads; genial and safe, skews older but very accessible._
+- **@ACSReactions** — Reactions (American Chemical Society) · [science] · [big]
+  - Answers 'why does this happen?' about everyday chemistry (why onions make you cry, how soap works) with tidy animated explainers.
+  - _Animated explainers ~3-6 min from the ACS; advertiser-safe._
+- **@tdewitt451** — Tyler DeWitt · [science] · [big]
+  - A former teacher makes intimidating chemistry ideas like atoms, bonding and reactions feel friendly and click into place.
+  - _Tutorial style, exam-oriented; best for older kids/middle-school._
+- **@MELScience1** — MEL Science · [science, making] · [little, big]
+  - Shows colorful hands-on home chemistry experiments kids can actually watch and safely try with an adult.
+  - _Short demo/DIY clips tied to their kits; kid-focused._
+- **@Thoisoi2** — Thoisoi2 - Chemical Experiments! · [science] · [big]
+  - Mesmerizing close-up reactions of rare elements (cesium, gallium, thermite) with clear narration of what is chemically happening.
+  - _Some hazardous reactions shown (never replicate at home); older kids._
+- **@TheActionLab** — The Action Lab · [science, engineering] · [big]
+  - Tests wild 'what if' questions with physics and chemistry demos that reward curiosity over spectacle.
+  - _Occasional risky/high-energy demos and a few punchy titles; mostly long-form and explained._
+- **@ProfessorDaveExplains** — Professor Dave Explains · [science] · [big]
+  - Clear, step-by-step whiteboard walkthroughs of atoms, molecules and chemical reactions build real conceptual understanding.
+  - _Teen/study level; channel also hosts unrelated science-debate content._
+- **@TheRoyalInstitution** — The Royal Institution · [science] · [big]
+  - Dramatic live chemistry demonstrations from its famous lecture theatre make elements and reactions feel like theatre.
+  - _Lecture/talk format, long-form; older kids, includes classic Christmas Lectures._
+- **@philmccordic3490** — Science Max (Phil McCordic) · [science, making] · [little, big]
+  - Takes classic small kitchen experiments and super-sizes them, showing the same chemistry at giant scale.
+  - _Award-winning kids TV show full episodes; verified handle is host's channel._
+- **@Socratica** — Socratica · [science] · [big]
+  - Beautifully filmed, calm chemistry lessons on elements, pH and reactions that treat viewers as capable thinkers.
+  - _Academic tone, skews high-school/older; chemistry is one strand of a broader STEM channel._
+- **@TheSciGuys** — The Sci Guys · [science, making] · [big] ⚠︎unverified
+  - Friends run at-home experiments then explain the chemistry behind each one so kids can repeat and understand them.
+  - _Science-at-home series; handle is a best guess, unconfirmed._
+- **@funsciencedemos** — FunScienceDemos · [science, making] · [little, big] ⚠︎unverified
+  - Simple, warm classroom-style demos make first encounters with matter and reactions approachable for young kids.
+  - _Teacher-made (Temple University), all ages; handle is a best guess, unconfirmed._

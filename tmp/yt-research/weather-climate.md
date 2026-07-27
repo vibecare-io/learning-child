@@ -1,0 +1,39 @@
+# Weather, climate & the sky
+_12 channels_
+
+- **@PecosHank** — Pecos Hank · [science, nature] · [big]
+  - Cinematic, patiently narrated storm-chasing films turn tornadoes, supercells, lightning and rare sky phenomena into awe-filled natural-history lessons.
+  - _Long-form documentary style; genuinely educational but contains intense real tornado/storm footage, so best for older kids._
+- **@ClimateAdam** — ClimateAdam · [science] · [big]
+  - An Oxford-trained atmospheric physicist uses playful sketches and props to answer real climate-science questions kids actually wonder about.
+  - _Comedic explainer videos, mostly 5-12 min; upbeat and hopeful tone rather than doom-y._
+- **@SimonClark** — Simon Clark · [science] · [big]
+  - A PhD atmospheric physicist clearly explains how the atmosphere, jet streams and climate actually work, sparking deeper 'how does the sky work' curiosity.
+  - _Long-form explainers; skews to upper end of the age range (11-12) and older teens._
+- **@MetOfficeLearnAboutWeather** — Met Office - Learn About Weather · [science] · [big]
+  - The UK's national forecaster explains clouds, wind, the water cycle and climate with real meteorologists and clean graphics.
+  - _Educational sub-channel of the Met Office; short-to-medium explainers, advertiser-safe and authoritative._
+- **@pbsterra** — PBS Terra · [science, nature] · [big]
+  - The 'Weathered' series, hosted by a meteorologist, investigates why extreme weather is changing and how communities adapt, connecting sky science to the real world.
+  - _Documentary-style, ~10-15 min; disaster themes (fires, floods) handled thoughtfully but suit older kids._
+- **@MinuteEarth** — MinuteEarth · [science, nature] · [big, little]
+  - Snappy animated shorts answer surprising questions about weather, seasons, clouds and climate that make kids go 'wait, why IS that?'
+  - _Large channel but central to Earth/weather science; 2-5 min animated explainers, some read-along pace for little ones._
+- **@Learnthesky** — Learn the Sky · [space, science] · [big, little]
+  - A science teacher shows how to find constellations, planets and celestial events with the naked eye, turning the night sky into a map kids can read.
+  - _Calm, hands-on stargazing guides plus star mythology; gets families outside looking up._
+- **@TamithaSkov** — Tamitha Skov - Space Weather Woman · [space, science] · [big] ⚠︎unverified
+  - A space-weather scientist forecasts solar storms and auroras, revealing that even the Sun has 'weather' that lights up our sky.
+  - _Handle unconfirmed (best guess); forecasts get technical (radio, GPS) so better for older, keen kids._
+- **@PeekabooKidz** — Peekaboo Kidz (The Dr. Binocs Show) · [science] · [little, big]
+  - Friendly animated Dr. Binocs breaks down rain, the water cycle, rainbows, thunder and seasons into bite-size 'aha' moments for young kids.
+  - _Colorful animation, ~3-6 min; broad science channel with strong weather/water-cycle playlists._
+- **@freeschool** — Free School · [science, nature] · [little, big]
+  - Gentle, clearly narrated lessons on weather, seasons and the water cycle give young learners a calm, curious first look at how the sky behaves.
+  - _Ad-safe, classroom-friendly; best for K-4, medium-length videos._
+- **@HappyLearningTVKids** — Happy Learning English · [science, nature] · [little, big]
+  - Bright, upbeat explainers on the water cycle, clouds and weather build early Earth-science vocabulary while keeping it fun.
+  - _Short animated educational videos aimed at primary kids._
+- **@crashcoursekids** — Crash Course Kids · [science] · [big]
+  - Energetic host Sabrina unpacks weather vs. climate, severe storms and jet streams with real NGSS science that rewards curious questions.
+  - _Legacy channel (archive of ~4-min episodes), strong weather/climate playlist; handle follows the /user/crashcoursekids channel._

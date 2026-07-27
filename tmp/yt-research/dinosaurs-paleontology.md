@@ -1,0 +1,39 @@
+# Dinosaurs & paleontology
+_12 channels_
+
+- **@eons** — PBS Eons · [history, science, animals] · [big]
+  - Cinematic deep-time episodes walk kids through the whole story of life on Earth, showing why weird extinct creatures existed and how we know.
+  - _Documentary-style, ~10 min; the definitive paleontology channel on YouTube. Skews older elementary and up._
+- **@BenGThomas** — Ben G Thomas · [science, animals, nature] · [big]
+  - A palaeontology PhD student breaks down fresh fossil discoveries and prehistoric animal profiles, modeling how real scientists reason from bones.
+  - _Long-form species deep-dives plus a weekly science-news roundup; calm, fact-first delivery._
+- **@HenrythePaleoGuy** — Henry the PaleoGuy · [science, animals, nature] · [big]
+  - An enthusiastic young paleontologist geeks out over fossils, dinosaurs and modern birds as living dinosaurs, making the science feel current and joyful.
+  - _Mix of longer explainers and shorts; occasional excited pacing but content is substantive._
+- **@RaptorChatter** — Raptor Chatter · [science, animals] · [big]
+  - Fact-focused updates on the latest dinosaur research show kids that paleontology is a living, changing science, not a settled list of names.
+  - _No-fluff explainers of new studies; illustrated with paleoart. Great for the dinosaur-obsessed 8-12 crowd._
+- **@YourDinosaursAreWrong** — Your Dinosaurs Are Wrong · [science, animals, making] · [big]
+  - Compares inaccurate toy dinosaurs to real anatomy and shows how to reshape them, teaching kids to spot the difference between pop-culture myth and evidence.
+  - _Animated corrections over toy photos; mild dry humor, advertiser-safe. Sparks critical thinking about accuracy._
+- **@mothlightmedia1936** — Moth Light Media · [science, nature, animals] · [big]
+  - Beautifully animated stories trace how creatures evolved across millions of years, connecting today's animals to their prehistoric ancestors.
+  - _Evolutionary-biology essays with soothing narration and hand-drawn animation; some cover deep-time extinction._
+- **@treytheexplainer** — TREY the Explainer · [science, animals, history] · [big]
+  - Patient, evidence-driven explainers on prehistoric animals and how paleontologists reconstruct them reward curious kids who want the reasoning, not just the answer.
+  - _Long videos; also covers cryptozoology/debunking. Skews upper end of 8-12 and teens; preview for length._
+- **@DinosaursReanimated** — Brian Engh Paleoart · [art, science, animals] · [little, big]
+  - A working paleoartist shows how scientists and artists turn fossil clues into pictures of living dinosaurs, directly sparking kids to draw prehistoric life themselves.
+  - _Paleoart demos plus field-dig footage; creativity-forward. Channel legacy URL youtube.com/user/DinosaursReanimated._
+- **@TheDinosaurShow** — The Dinosaur Show (Dustin Growick) · [science, animals, exploration] · [little, big]
+  - A friendly museum educator visits collections and interviews experts, letting kids peek behind the scenes at how dinosaurs are studied and displayed.
+  - _Host-led episodes and museum tours; warm, kid-directed tone. Handle inferred from youtube.com/TheDinosaurShow._
+- **@dinosaurgeorge** — The Dinosaur George Company · [science, animals, history] · [little, big]
+  - A veteran paleo-educator answers kids' real dinosaur questions and shows fossil prep, rewarding curiosity with patient, myth-busting answers.
+  - _Q&A and behind-the-scenes fossil-prep series; family-oriented and gentle._
+- **@TheDinoFeed** — The Dino Feed · [animals, science, nature] · [little, big]
+  - Bite-sized animated mini-documentaries introduce one dinosaur at a time like a pocket Walking With Dinosaurs, perfect for younger dino fans.
+  - _Short animated fact clips; accessible for little kids while still accurate. Custom URL youtube.com/c/TheDinoFeed._
+- **@RoyalTyrrellMuseum** — Royal Tyrrell Museum of Palaeontology · [science, history, animals] · [big] ⚠︎unverified
+  - Canada's premier dinosaur museum shares real specimens, new discoveries and researcher talks, connecting kids to actual working paleontology.
+  - _Curator talks and Fossils in Focus segments; some lectures skew advanced. Handle inferred from c/RoyalTyrrellMuseumofPalaeontology._
