@@ -1,0 +1,8 @@
+# Cloudflare Pages headers.
+# Docs: https://developers.cloudflare.com/pages/configuration/headers/
+
+# Catalog API — let the extension (any origin) fetch it, cache at the edge.
+/api/*
+  Access-Control-Allow-Origin: *
+  Cache-Control: public, max-age=3600
+  X-Content-Type-Options: nosniff
