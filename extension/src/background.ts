@@ -1,3 +1,5 @@
+import { getPrefs, onPrefsChanged } from "./prefs";
+
 const REFRESH_ALARM = "refresh-catalog";
 const REFRESH_MINUTES = 240;
 
@@ -24,8 +26,21 @@ async function refreshCatalog(): Promise<void> {
   }
 }
 
-// Open the settings side panel when the toolbar icon is clicked.
+// The toolbar icon opens the side panel. Route it to onboarding until the
+// parent finishes setup, then to the settings panel.
 chrome.sidePanel?.setPanelBehavior({ openPanelOnActionClick: true }).catch(() => {});
+
+async function syncSidePanel(): Promise<void> {
+  try {
+    const { onboarded } = await getPrefs();
+    await chrome.sidePanel.setOptions({ path: onboarded ? "settings.html" : "onboarding.html" });
+  } catch {
+    // sidePanel API unavailable on older Chrome; nothing to do.
+  }
+}
+void syncSidePanel();
+chrome.runtime.onStartup.addListener(() => void syncSidePanel());
+onPrefsChanged(() => void syncSidePanel());
 
 chrome.runtime.onInstalled.addListener((details) => {
   chrome.alarms.create(REFRESH_ALARM, { periodInMinutes: REFRESH_MINUTES, delayInMinutes: 0 });

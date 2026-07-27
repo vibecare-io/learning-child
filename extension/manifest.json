@@ -6,7 +6,7 @@
   "action": { "default_title": "VibeCare Kids settings" },
   "background": { "service_worker": "background.js" },
   "options_page": "settings.html",
-  "side_panel": { "default_path": "settings.html" },
+  "side_panel": { "default_path": "onboarding.html" },
   "permissions": ["storage", "alarms", "sidePanel"],
   "host_permissions": [
     "https://www.youtube.com/*",

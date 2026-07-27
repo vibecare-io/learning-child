@@ -83,7 +83,8 @@ $("#google").addEventListener("click", () => {
   $(".fine").textContent = "Google sign-in is coming soon. Continue below to finish setup.";
 });
 $("#open").addEventListener("click", () => {
-  location.href = "https://www.youtube.com/";
+  // Works whether onboarding runs in a full tab or the side panel.
+  chrome.tabs.create({ url: "https://www.youtube.com/" });
 });
 
 async function finish(): Promise<void> {
