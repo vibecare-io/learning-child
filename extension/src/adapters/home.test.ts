@@ -2,6 +2,7 @@
 import { afterEach, beforeEach, describe, expect, it, vi } from "vitest";
 import type { Catalog, CatalogVideo } from "../../../shared/types";
 import type { WatchHistory } from "../history";
+import { todayStr } from "../feed";
 
 function vid(over: Partial<CatalogVideo>): CatalogVideo {
   return {
@@ -165,5 +166,48 @@ describe("runHome watched chip", () => {
 
     expect(document.querySelector('.lc-chip[data-topic="watched"]')).toBeNull();
     expect(document.querySelectorAll("#lc-grid-holder .lc-tile")).toHaveLength(10);
+  });
+});
+
+describe("runHome over the daily screen-time limit", () => {
+  async function boot(prefsPatch: { screenTimeMinutes: number | null }, dailySeconds: number): Promise<void> {
+    document.body.innerHTML =
+      `<ytd-browse page-subtype="home"><ytd-rich-grid-renderer></ytd-rich-grid-renderer></ytd-browse>`;
+    vi.stubGlobal("chrome", {
+      storage: {
+        local: {
+          get: vi.fn(async () => ({
+            prefs: prefsPatch,
+            watchHistory: { videos: {}, daily: { [todayStr()]: dailySeconds } },
+          })),
+        },
+      },
+    });
+    const { runHome } = await import("./home");
+    await runHome();
+  }
+
+  it("renders the calm done-today panel instead of the grid/chips once the limit is reached", async () => {
+    await boot({ screenTimeMinutes: 30 }, 30 * 60);
+
+    expect(document.getElementById("lc-done-today"), "done-today panel should render").not.toBeNull();
+    expect(document.getElementById("lc-chips")).toBeNull();
+    expect(document.getElementById("lc-grid-holder")).toBeNull();
+    expect(document.querySelectorAll(".lc-tile")).toHaveLength(0);
+  });
+
+  it("renders the normal grid/chips when still under the limit", async () => {
+    await boot({ screenTimeMinutes: 30 }, 30 * 60 - 1);
+
+    expect(document.getElementById("lc-done-today")).toBeNull();
+    expect(document.getElementById("lc-chips"), "chips should render").not.toBeNull();
+    expect(document.getElementById("lc-grid-holder"), "grid holder should render").not.toBeNull();
+  });
+
+  it("never applies the limit when screenTimeMinutes is null", async () => {
+    await boot({ screenTimeMinutes: null }, 999_999);
+
+    expect(document.getElementById("lc-done-today")).toBeNull();
+    expect(document.getElementById("lc-chips"), "chips should render").not.toBeNull();
   });
 });

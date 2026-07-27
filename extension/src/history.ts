@@ -85,6 +85,17 @@ export function secondsToday(h: WatchHistory, dateStr: string): number {
   return h.daily[dateStr] ?? 0;
 }
 
+/**
+ * Whether today's watch time has reached the parent's daily screen-time
+ * limit. A null/0/negative limit means "no limit" (never over) - prefs.ts
+ * uses null for "not set", and 0/negative are treated the same way rather
+ * than trapping a kid at zero seconds from a bad/placeholder value.
+ */
+export function isOverLimit(screenTimeMinutes: number | null, secondsWatchedToday: number): boolean {
+  if (screenTimeMinutes === null || screenTimeMinutes <= 0) return false;
+  return secondsWatchedToday >= screenTimeMinutes * 60;
+}
+
 /** The only storage writer for history: read -> accumulate -> prune -> write. */
 export async function recordTick(
   videoId: string,

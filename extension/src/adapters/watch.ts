@@ -4,7 +4,8 @@ import { renderList } from "../ui";
 import { waitFor } from "../dom";
 import { WATCH_SIDEBAR, AUTONAV_TOGGLE, VIDEO_PLAYER } from "../selectors";
 import { applySafety, loadControls } from "../safety";
-import { recordTick } from "../history";
+import { getHistory, isOverLimit, recordTick, secondsToday } from "../history";
+import { getPrefs } from "../prefs";
 
 const AUTOPLAY_POLL_MS = 500;
 const AUTOPLAY_GIVE_UP_MS = 15_000;
@@ -69,6 +70,21 @@ export async function runWatch(): Promise<() => void> {
     ? { title: current.title, channel: current.channel }
     : { title: document.title, channel: "" };
   const cancelRecorder = startRecorder(currentId, meta);
+
+  // Over the daily screen-time limit: never interrupt the video that's
+  // already playing (autoplay-blocking and the recorder both keep running
+  // above) - just skip handing the kid a fresh up-next list to click into.
+  // Also clear out any list injected on a prior navigation, in case the kid
+  // crossed the limit mid-session.
+  const [history, prefs] = await Promise.all([getHistory(), getPrefs()]);
+  if (isOverLimit(prefs.screenTimeMinutes, secondsToday(history, todayStr()))) {
+    document.getElementById("lc-upnext")?.remove();
+    return () => {
+      cancelAutoplay();
+      cancelRecorder();
+    };
+  }
+
   const host = await waitFor(WATCH_SIDEBAR);
   document.getElementById("lc-upnext")?.remove();
   // Pull a larger pool before filtering so a few safety-blocked videos don't

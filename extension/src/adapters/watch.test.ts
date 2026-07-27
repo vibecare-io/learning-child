@@ -1,14 +1,44 @@
 // @vitest-environment jsdom
 import { afterEach, beforeEach, describe, expect, it, vi } from "vitest";
-import { disableAutoplay, startRecorder } from "./watch";
-import { AUTONAV_TOGGLE, VIDEO_PLAYER } from "../selectors";
+import { disableAutoplay, runWatch, startRecorder } from "./watch";
+import { AUTONAV_TOGGLE, VIDEO_PLAYER, WATCH_SIDEBAR } from "../selectors";
+import type { Catalog } from "../../../shared/types";
 
 // recordTick is the only chrome.storage writer history.ts exposes; stub it
 // so the recorder tests exercise only the tick predicate (player present,
 // playing, tab visible) with fake timers, not the storage round-trip
-// (covered by history.test.ts).
-vi.mock("../history", () => ({ recordTick: vi.fn() }));
+// (covered by history.test.ts). isOverLimit/secondsToday/getHistory stay
+// real (pure / trivially chrome-stubbed) so runWatch's screen-time-limit
+// wiring is exercised for real below.
+vi.mock("../history", async (importOriginal) => {
+  const actual = await importOriginal<typeof import("../history")>();
+  return { ...actual, recordTick: vi.fn() };
+});
 import { recordTick } from "../history";
+
+const CATALOG: Catalog = {
+  version: 1, generatedAt: "x",
+  profiles: { little: { label: "l" }, big: { label: "b" } },
+  videos: [
+    {
+      id: "cur", title: "Current video", channel: "C", channelId: "UC1", durationSec: 300,
+      publishedAt: "2020-01-01T00:00:00Z", topics: [], profiles: ["big"], thumbnail: "t",
+    },
+    {
+      id: "next1", title: "Next video", channel: "C", channelId: "UC1", durationSec: 300,
+      publishedAt: "2020-01-01T00:00:00Z", topics: [], profiles: ["big"], thumbnail: "t",
+    },
+  ],
+};
+
+vi.mock("../catalog", () => ({
+  loadCatalog: async () => CATALOG,
+  getActiveProfile: async () => "big",
+}));
+// waitFor just resolves the sidebar runWatch prepends the up-next list into.
+vi.mock("../dom", () => ({
+  waitFor: async (sel: string) => document.querySelector(sel),
+}));
 
 function mountToggle(checked: boolean): HTMLButtonElement {
   const toggle = document.createElement("button");
@@ -160,5 +190,68 @@ describe("startRecorder", () => {
 
     vi.advanceTimersByTime(20_000);
     expect(recordTick).not.toHaveBeenCalled();
+  });
+});
+
+describe("runWatch over the daily screen-time limit", () => {
+  let cleanup: () => void = () => {};
+
+  function stubPrefsAndHistory(screenTimeMinutes: number | null, dailySeconds: number): void {
+    vi.stubGlobal("chrome", {
+      storage: {
+        local: {
+          get: vi.fn(async () => ({
+            prefs: { screenTimeMinutes },
+            watchHistory: { videos: {}, daily: { [new Date().toISOString().slice(0, 10)]: dailySeconds } },
+          })),
+        },
+      },
+    });
+  }
+
+  beforeEach(() => {
+    window.history.pushState({}, "", "/watch?v=cur");
+    document.body.innerHTML = `<div id="secondary" class="ytd-watch-flexy"></div>`;
+  });
+
+  afterEach(() => {
+    cleanup();
+    cleanup = () => {};
+    document.body.innerHTML = "";
+    vi.unstubAllGlobals();
+    vi.mocked(recordTick).mockClear();
+  });
+
+  it("skips injecting the up-next list once the daily limit is reached", async () => {
+    stubPrefsAndHistory(30, 30 * 60);
+
+    cleanup = await runWatch();
+
+    expect(document.getElementById("lc-upnext")).toBeNull();
+  });
+
+  it("removes a stale up-next list left over from before the limit was hit", async () => {
+    stubPrefsAndHistory(30, 30 * 60);
+    document.querySelector(WATCH_SIDEBAR)!.appendChild(document.createElement("div")).id = "lc-upnext";
+
+    cleanup = await runWatch();
+
+    expect(document.getElementById("lc-upnext")).toBeNull();
+  });
+
+  it("still injects the up-next list while under the limit", async () => {
+    stubPrefsAndHistory(30, 30 * 60 - 1);
+
+    cleanup = await runWatch();
+
+    expect(document.getElementById("lc-upnext")).not.toBeNull();
+  });
+
+  it("never applies the limit when screenTimeMinutes is null", async () => {
+    stubPrefsAndHistory(null, 999_999);
+
+    cleanup = await runWatch();
+
+    expect(document.getElementById("lc-upnext")).not.toBeNull();
   });
 });

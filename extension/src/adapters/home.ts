@@ -1,10 +1,11 @@
 import { loadCatalog, getActiveProfile } from "../catalog";
 import { backfill, dailyFeed, splitWatched, todayStr } from "../feed";
-import { renderGrid, renderChips } from "../ui";
+import { renderGrid, renderChips, renderDoneToday } from "../ui";
 import { waitFor } from "../dom";
 import { HOME_GRID } from "../selectors";
 import { applySafety, loadControls } from "../safety";
-import { getHistory } from "../history";
+import { getHistory, isOverLimit, secondsToday } from "../history";
+import { getPrefs } from "../prefs";
 
 /** Canonical topic order for the chip bar (only the ones present in the feed show). */
 const TOPIC_ORDER = [
@@ -21,8 +22,22 @@ export async function runHome(): Promise<void> {
   const host = await waitFor(HOME_GRID);
   document.getElementById("lc-home")?.remove();
 
+  const [history, prefs] = await Promise.all([getHistory(), getPrefs()]);
+  const wrap = document.createElement("div");
+  wrap.id = "lc-home";
+
+  // Over the parent's daily screen-time limit: swap the whole grid+chips UI
+  // for a calm, non-shaming panel instead - no thumbnails, no chips, no
+  // Watched tab. Checked before touching the feed since there's nothing to
+  // build in this branch.
+  if (isOverLimit(prefs.screenTimeMinutes, secondsToday(history, todayStr()))) {
+    wrap.append(renderDoneToday());
+    if (!host.parentElement) return;
+    host.parentElement.insertBefore(wrap, host);
+    return;
+  }
+
   const feed = applySafety(dailyFeed(catalog, profile, todayStr()), await loadControls());
-  const history = await getHistory();
   // Watched videos are hidden from the default grid (behind the Watched chip);
   // backfill tops the grid back up to MIN_GRID from the least-recently-watched
   // so it's never empty while the catalog has videos. The Watched chip shows
@@ -36,9 +51,6 @@ export async function runHome(): Promise<void> {
   // too - the Watched chip goes last, and only when it has something to show
   // (every watched video may have been backfilled into the grid).
   const topics = ["all", ...present, ...(watchedRest.length > 0 ? [WATCHED_CHIP] : [])];
-
-  const wrap = document.createElement("div");
-  wrap.id = "lc-home";
 
   const gridHolder = document.createElement("div");
   gridHolder.id = "lc-grid-holder";

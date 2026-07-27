@@ -3,6 +3,7 @@ import {
   EMPTY_HISTORY,
   accumulate,
   getHistory,
+  isOverLimit,
   isWatched,
   pruneHistory,
   recordTick,
@@ -120,6 +121,32 @@ describe("secondsToday", () => {
   it("returns the recorded seconds for a day that has them", () => {
     const h: WatchHistory = { videos: {}, daily: { "2026-07-26": 42 } };
     expect(secondsToday(h, "2026-07-26")).toBe(42);
+  });
+});
+
+describe("isOverLimit", () => {
+  it("is never over limit when screenTimeMinutes is null (no limit set)", () => {
+    expect(isOverLimit(null, 999_999)).toBe(false);
+  });
+
+  it("is never over limit when screenTimeMinutes is 0 (treated as no limit)", () => {
+    expect(isOverLimit(0, 999_999)).toBe(false);
+  });
+
+  it("is never over limit when screenTimeMinutes is negative", () => {
+    expect(isOverLimit(-5, 999_999)).toBe(false);
+  });
+
+  it("is not over limit while under the threshold", () => {
+    expect(isOverLimit(30, 30 * 60 - 1)).toBe(false);
+  });
+
+  it("is over limit exactly at the threshold", () => {
+    expect(isOverLimit(30, 30 * 60)).toBe(true);
+  });
+
+  it("is over limit once past the threshold", () => {
+    expect(isOverLimit(30, 30 * 60 + 1)).toBe(true);
   });
 });
 
