@@ -1,9 +1,12 @@
 import { HIDE_SELECTORS } from "./selectors";
 import { runHome } from "./adapters/home";
-import { runWatch } from "./adapters/watch";
+import { runWatch, startRecorder } from "./adapters/watch";
 import { runSearch } from "./adapters/search";
 import { guardReel, syncReelsBar, type ReelsConfig } from "./reels-guard";
 import { loadControls } from "./safety";
+import { getHistory, isOverLimit, secondsToday } from "./history";
+import { getPrefs } from "./prefs";
+import { todayStr } from "./feed";
 
 export function installHideStyle(): void {
   if (document.getElementById("lc-hide")) return;
@@ -37,7 +40,10 @@ let nav = 0;
 // route() fires on both DOMContentLoaded and yt-navigate-finish for the same
 // hard-loaded navigation, so a naive counter (guardReel) would burn 2 budget
 // units for one reel view. Track the last shorts URL that was actually
-// counted and skip re-counting it if location.href hasn't changed since.
+// counted and skip re-counting it if location.href hasn't changed since -
+// but still re-run the blocklist/limit checks and restart the recorder
+// below (cleanup is wiped on every route() call, so it must be re-created
+// every time regardless of whether this firing counts against the budget).
 let lastCountedShortsHref: string | undefined;
 
 const routes: [RegExp, string, () => Promise<Cleanup>][] = [
@@ -45,6 +51,12 @@ const routes: [RegExp, string, () => Promise<Cleanup>][] = [
   [/^\/watch$/, "watch", runWatch],
   [/^\/results$/, "search", runSearch],
 ];
+
+/** Extracts the video id from a `/shorts/<id>` path, or null if absent. */
+function shortsVideoId(path: string): string | null {
+  const m = path.match(/^\/shorts\/([A-Za-z0-9_-]+)/);
+  return m ? m[1] : null;
+}
 
 async function route(): Promise<void> {
   const myNav = ++nav;
@@ -74,6 +86,7 @@ async function route(): Promise<void> {
       limit: controls.reelsLimit,
       baseCooldownMs: controls.reelsCooldownMinutes * 60_000,
     };
+
     if (onShorts) {
       const href = location.href;
       if (href !== lastCountedShortsHref) {
@@ -87,7 +100,30 @@ async function route(): Promise<void> {
         }
         lastCountedShortsHref = href;
       }
+
+      // The taste is otherwise invisible to parent stats/limits/blocklists -
+      // enforce and record it same as a curated page would. blockedKeywords
+      // can't be checked here (title isn't known from the URL pre-nav);
+      // accepted per the guardrails spec.
+      const videoId = shortsVideoId(path);
+      if (videoId && controls.blockedVideoIds.includes(videoId)) {
+        location.replace("https://www.youtube.com/");
+        return;
+      }
+      const [history, prefs] = await Promise.all([getHistory(), getPrefs()]);
+      if (myNav !== nav) return;
+      if (isOverLimit(prefs.screenTimeMinutes, secondsToday(history, todayStr()))) {
+        // The taste counts as watching; the done-today rule applies here too.
+        location.replace("https://www.youtube.com/");
+        return;
+      }
+      if (videoId) {
+        // Stands in as this route's cleanup so time on Shorts lands in
+        // history/daily totals same as a watch page.
+        cleanup = startRecorder(videoId, { title: document.title, channel: "" });
+      }
     }
+
     // Reflect the reels budget / cooldown in the top-of-page bar on every
     // page. Best-effort: a failure here shouldn't fail the whole prelude.
     void syncReelsBar(onShorts, reelsConfig).catch(() => {});
