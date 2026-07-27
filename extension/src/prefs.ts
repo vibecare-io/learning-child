@@ -1,0 +1,54 @@
+// Onboarding / parent preferences store.
+//
+// Backed by chrome.storage.local so every extension context (onboarding page,
+// settings panel, background worker, and the content script on youtube.com)
+// can read it — localStorage is per-origin and would not reach the content
+// script. If this ever moves to React, this module maps 1:1 onto a Zustand store.
+
+export interface Prefs {
+  onboarded: boolean;
+  auth: { provider: "google"; email: string } | null;
+  profile: string; // age profile id, e.g. "little" | "big"
+  interests: string[]; // catalog topic ids, e.g. ["science", "space"]
+  screenTimeMinutes: number | null; // daily limit; null = no limit
+}
+
+export const DEFAULT_PREFS: Prefs = {
+  onboarded: false,
+  auth: null,
+  profile: "little",
+  interests: [],
+  screenTimeMinutes: null,
+};
+
+const KEY = "prefs";
+
+export async function getPrefs(): Promise<Prefs> {
+  const { prefs } = await chrome.storage.local.get(KEY);
+  return { ...DEFAULT_PREFS, ...(prefs as Partial<Prefs> | undefined) };
+}
+
+export async function setPrefs(patch: Partial<Prefs>): Promise<Prefs> {
+  const next = { ...(await getPrefs()), ...patch };
+  await chrome.storage.local.set({ [KEY]: next });
+  // Mirror the age profile into sync storage so the feed logic (getActiveProfile)
+  // picks it up with no extra plumbing.
+  if (patch.profile !== undefined) {
+    await chrome.storage.sync.set({ profile: next.profile });
+  }
+  return next;
+}
+
+/** Subscribe to preference changes across contexts. Returns an unsubscribe fn. */
+export function onPrefsChanged(cb: (prefs: Prefs) => void): () => void {
+  const listener = (
+    changes: Record<string, chrome.storage.StorageChange>,
+    area: string,
+  ) => {
+    if (area === "local" && changes[KEY]) {
+      cb({ ...DEFAULT_PREFS, ...(changes[KEY].newValue as Partial<Prefs>) });
+    }
+  };
+  chrome.storage.onChanged.addListener(listener);
+  return () => chrome.storage.onChanged.removeListener(listener);
+}

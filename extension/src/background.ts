@@ -27,8 +27,12 @@ async function refreshCatalog(): Promise<void> {
 // Open the settings side panel when the toolbar icon is clicked.
 chrome.sidePanel?.setPanelBehavior({ openPanelOnActionClick: true }).catch(() => {});
 
-chrome.runtime.onInstalled.addListener(() => {
+chrome.runtime.onInstalled.addListener((details) => {
   chrome.alarms.create(REFRESH_ALARM, { periodInMinutes: REFRESH_MINUTES, delayInMinutes: 0 });
+  // First install: walk the parent through onboarding (age, interests, screen time).
+  if (details.reason === "install") {
+    chrome.tabs.create({ url: chrome.runtime.getURL("onboarding.html") });
+  }
 });
 
 chrome.alarms.onAlarm.addListener((alarm) => {
