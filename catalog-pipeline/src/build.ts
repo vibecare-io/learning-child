@@ -1,4 +1,4 @@
-import { mkdirSync, readFileSync, writeFileSync } from "node:fs";
+import { cpSync, existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs";
 import { fileURLToPath } from "node:url";
 import { dirname, join } from "node:path";
 import { parseConfig, type Config } from "./config";
@@ -46,6 +46,10 @@ async function main() {
   mkdirSync(dist, { recursive: true });
   writeFileSync(join(dist, "catalog.json"), JSON.stringify(catalog, null, 2));
   writeFileSync(join(dist, "allowed-channels.json"), JSON.stringify(allowed, null, 2));
+  // Ship Cloudflare Pages headers (CORS + cache) alongside the JSON so the
+  // hosted output is self-contained on a Git-integrated build.
+  const headers = join(root, "..", "_headers");
+  if (existsSync(headers)) cpSync(headers, join(dist, "_headers"));
   console.log(`Wrote ${catalog.videos.length} videos across ${new Set(catalog.videos.map((v) => v.channelId)).size} channels`);
 }
 
