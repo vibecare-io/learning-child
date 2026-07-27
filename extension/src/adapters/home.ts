@@ -25,12 +25,17 @@ export async function runHome(): Promise<void> {
   const history = await getHistory();
   // Watched videos are hidden from the default grid (behind the Watched chip);
   // backfill tops the grid back up to MIN_GRID from the least-recently-watched
-  // so it's never empty while the catalog has videos.
+  // so it's never empty while the catalog has videos. The Watched chip shows
+  // watchedRest (not the full watched list) so a backfilled video never appears
+  // both in the default grid and under Watched.
   const { unwatched, watched } = splitWatched(feed, history);
-  const { grid } = backfill(unwatched, watched);
+  const { grid, watchedRest } = backfill(unwatched, watched);
 
   const present = TOPIC_ORDER.filter((t) => grid.some((v) => v.topics.includes(t)));
-  const topics = watched.length > 0 ? [WATCHED_CHIP, "all", ...present] : ["all", ...present];
+  // Real YouTube's chip bar always starts with a highlighted "All", so ours must
+  // too - the Watched chip goes last, and only when it has something to show
+  // (every watched video may have been backfilled into the grid).
+  const topics = ["all", ...present, ...(watchedRest.length > 0 ? [WATCHED_CHIP] : [])];
 
   const wrap = document.createElement("div");
   wrap.id = "lc-home";
@@ -39,7 +44,7 @@ export async function runHome(): Promise<void> {
   gridHolder.id = "lc-grid-holder";
   const showGrid = (topic: string): void => {
     const videos =
-      topic === WATCHED_CHIP ? watched : topic === "all" ? grid : grid.filter((v) => v.topics.includes(topic));
+      topic === WATCHED_CHIP ? watchedRest : topic === "all" ? grid : grid.filter((v) => v.topics.includes(topic));
     gridHolder.replaceChildren(renderGrid(videos));
   };
 

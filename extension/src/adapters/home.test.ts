@@ -63,48 +63,59 @@ describe("runHome chip bar", () => {
 });
 
 describe("runHome watched chip", () => {
-  // 12 unwatched (>= MIN_GRID, so no backfill kicks in) + 3 watched, so the
-  // default grid cleanly hides the watched ones without also demonstrating
-  // the backfill floor (that's covered directly in feed.test.ts).
-  const unwatchedVideos = Array.from({ length: 12 }, (_, i) => vid({ id: `u${i}` }));
-  const watchedVideos = [
-    vid({ id: "w-old", title: "Old watch" }),
-    vid({ id: "w-mid", title: "Mid watch" }),
-    vid({ id: "w-new", title: "New watch" }),
-  ];
-  const bigCatalog: Catalog = {
-    version: 1, generatedAt: "x",
-    profiles: { little: { label: "l" }, big: { label: "b" } },
-    videos: [...unwatchedVideos, ...watchedVideos],
-  };
-  const history: WatchHistory = {
-    videos: {
-      "w-old": { title: "t", channel: "c", lastWatchedAt: "2026-07-01", totalSec: 200 },
-      "w-mid": { title: "t", channel: "c", lastWatchedAt: "2026-07-15", totalSec: 200 },
-      "w-new": { title: "t", channel: "c", lastWatchedAt: "2026-07-25", totalSec: 200 },
-    },
-    daily: {},
-  };
+  function makeCatalog(videos: CatalogVideo[]): Catalog {
+    return {
+      version: 1, generatedAt: "x",
+      profiles: { little: { label: "l" }, big: { label: "b" } },
+      videos,
+    };
+  }
+  /** Builds a history where each id was watched (200s) on the given day. */
+  function makeHistory(days: Record<string, string>): WatchHistory {
+    return {
+      videos: Object.fromEntries(
+        Object.entries(days).map(([id, day]) => [id, { title: "t", channel: "c", lastWatchedAt: day, totalSec: 200 }]),
+      ),
+      daily: {},
+    };
+  }
 
-  it("hides watched videos from the default grid and lists them newest-watched-first behind a Watched chip", async () => {
+  async function boot(catalog: Catalog, history: WatchHistory): Promise<void> {
     document.body.innerHTML =
       `<ytd-browse page-subtype="home"><ytd-rich-grid-renderer></ytd-rich-grid-renderer></ytd-browse>`;
     vi.doMock("../catalog", () => ({
-      loadCatalog: async () => bigCatalog,
+      loadCatalog: async () => catalog,
       getActiveProfile: async () => "big",
     }));
     vi.stubGlobal("chrome", {
       storage: { local: { get: vi.fn(async () => ({ watchHistory: history })) } },
     });
-
     const { runHome } = await import("./home");
     await runHome();
+  }
+
+  const gridIds = (): string[] =>
+    [...document.querySelectorAll<HTMLAnchorElement>("#lc-grid-holder .lc-tile")]
+      .map((a) => new URL(a.href, "https://www.youtube.com").searchParams.get("v")!);
+
+  it("hides watched videos from the default grid and lists them newest-watched-first behind a trailing Watched chip", async () => {
+    // 12 unwatched (>= MIN_GRID, so no backfill kicks in) + 3 watched, so the
+    // default grid cleanly hides the watched ones without also demonstrating
+    // the backfill floor (that's covered directly in feed.test.ts).
+    const catalog = makeCatalog([
+      ...Array.from({ length: 12 }, (_, i) => vid({ id: `u${i}` })),
+      vid({ id: "w-old", title: "Old watch" }),
+      vid({ id: "w-mid", title: "Mid watch" }),
+      vid({ id: "w-new", title: "New watch" }),
+    ]);
+    await boot(catalog, makeHistory({ "w-old": "2026-07-01", "w-mid": "2026-07-15", "w-new": "2026-07-25" }));
 
     const chips = document.getElementById("lc-chips")!;
     const labels = [...chips.querySelectorAll(".lc-chip")].map((c) => c.textContent);
-    // Watched is prepended, ahead of "All".
-    expect(labels[0]).toBe("Watched");
-    expect(labels).toContain("All");
+    // Stealth: like real YouTube, the bar starts with a highlighted "All";
+    // our special Watched chip goes last.
+    expect(labels[0]).toBe("All");
+    expect(labels[labels.length - 1]).toBe("Watched");
 
     // Default ("All") grid: only the 12 unwatched videos - watched ones are hidden.
     expect(document.querySelectorAll("#lc-grid-holder .lc-tile")).toHaveLength(12);
@@ -116,5 +127,43 @@ describe("runHome watched chip", () => {
     const titles = [...document.querySelectorAll("#lc-grid-holder .lc-title")].map((el) => el.textContent);
     expect(titles).toEqual(["New watch", "Mid watch", "Old watch"]);
     expect(watchedChip.classList.contains("lc-chip-on")).toBe(true);
+  });
+
+  it("does not duplicate backfilled videos between the default grid and the Watched tab", async () => {
+    // 8 unwatched + 5 watched: backfill pulls the 4 least-recently-watched
+    // into the grid to hit MIN_GRID = 12; the Watched tab must show only the
+    // 1 remaining (newest) watched video, with no id in both places.
+    const catalog = makeCatalog([
+      ...Array.from({ length: 8 }, (_, i) => vid({ id: `u${i}` })),
+      ...Array.from({ length: 5 }, (_, i) => vid({ id: `w${i}` })),
+    ]);
+    // w0 oldest .. w4 newest
+    await boot(catalog, makeHistory({
+      w0: "2026-07-01", w1: "2026-07-05", w2: "2026-07-10", w3: "2026-07-15", w4: "2026-07-20",
+    }));
+
+    const defaultIds = gridIds();
+    expect(defaultIds).toHaveLength(12); // 8 unwatched + 4 backfilled
+
+    const watchedChip = document.querySelector<HTMLElement>('.lc-chip[data-topic="watched"]')!;
+    watchedChip.click();
+    const watchedIds = gridIds();
+    expect(watchedIds).toEqual(["w4"]); // only the newest-watched remains hidden
+
+    // No video appears in both the default grid and the Watched tab.
+    expect(defaultIds.filter((id) => watchedIds.includes(id))).toEqual([]);
+  });
+
+  it("hides the Watched chip entirely when every watched video was backfilled into the grid", async () => {
+    // 8 unwatched + 2 watched: both watched videos get backfilled (grid still
+    // short of MIN_GRID), leaving watchedRest empty - no Watched chip.
+    const catalog = makeCatalog([
+      ...Array.from({ length: 8 }, (_, i) => vid({ id: `u${i}` })),
+      vid({ id: "w0" }), vid({ id: "w1" }),
+    ]);
+    await boot(catalog, makeHistory({ w0: "2026-07-01", w1: "2026-07-05" }));
+
+    expect(document.querySelector('.lc-chip[data-topic="watched"]')).toBeNull();
+    expect(document.querySelectorAll("#lc-grid-holder .lc-tile")).toHaveLength(10);
   });
 });
