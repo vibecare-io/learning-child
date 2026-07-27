@@ -1,4 +1,5 @@
 import type { Catalog, CatalogVideo } from "../../shared/types";
+import { isWatched, type WatchHistory } from "./history";
 
 const FRESH_DAYS = 30;
 const FRESH_SLOTS = 4;
@@ -47,6 +48,57 @@ export function dailyFeed(catalog: Catalog, profile: string, dateStr: string): C
     .slice(0, FRESH_SLOTS);
   const freshIds = new Set(fresh.map((v) => v.id));
   return [...fresh, ...shuffled.filter((v) => !freshIds.has(v.id))];
+}
+
+/**
+ * Splits `videos` into unwatched (kept in input order) and watched
+ * (per `isWatched`), the latter sorted newest-watched-first by
+ * `lastWatchedAt`. `lastWatchedAt` is only day-granular, so same-day
+ * entries tie; Array.prototype.sort is a stable sort (guaranteed since
+ * ES2019), so ties keep their relative input order rather than needing
+ * an explicit secondary key.
+ */
+export function splitWatched(
+  videos: CatalogVideo[],
+  history: WatchHistory,
+): { unwatched: CatalogVideo[]; watched: CatalogVideo[] } {
+  const unwatched: CatalogVideo[] = [];
+  const watched: CatalogVideo[] = [];
+  for (const v of videos) {
+    (isWatched(history, v.id, v.durationSec) ? watched : unwatched).push(v);
+  }
+  watched.sort((a, b) => {
+    const aDate = history.videos[a.id]!.lastWatchedAt;
+    const bDate = history.videos[b.id]!.lastWatchedAt;
+    if (aDate > bDate) return -1;
+    if (aDate < bDate) return 1;
+    return 0;
+  });
+  return { unwatched, watched };
+}
+
+/** Floor for the main grid: it must never look empty while the catalog has videos. */
+export const MIN_GRID = 12;
+
+/**
+ * Tops `unwatched` up to `min` by pulling from the tail of `watched` (the
+ * least-recently-watched videos, since `watched` is sorted newest-first) -
+ * so freshly rewatched videos are held back longest. If `watched` can't
+ * cover the shortfall, the grid just ends up shorter than `min`; it's only
+ * ever empty when both lists are empty (i.e. the catalog itself is empty).
+ */
+export function backfill(
+  unwatched: CatalogVideo[],
+  watched: CatalogVideo[],
+  min: number = MIN_GRID,
+): { grid: CatalogVideo[]; watchedRest: CatalogVideo[] } {
+  const needed = min - unwatched.length;
+  if (needed <= 0) return { grid: unwatched, watchedRest: watched };
+  const takeCount = Math.min(needed, watched.length);
+  const splitAt = watched.length - takeCount;
+  const toBackfill = watched.slice(splitAt);
+  const watchedRest = watched.slice(0, splitAt);
+  return { grid: [...unwatched, ...toBackfill], watchedRest };
 }
 
 export function upNext(

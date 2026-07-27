@@ -1,6 +1,7 @@
 import { describe, expect, it } from "vitest";
-import { dailyFeed, seededShuffle, upNext } from "./feed";
+import { MIN_GRID, backfill, dailyFeed, seededShuffle, splitWatched, upNext } from "./feed";
 import type { Catalog, CatalogVideo } from "../../shared/types";
+import { EMPTY_HISTORY, type WatchHistory } from "./history";
 
 function vid(over: Partial<CatalogVideo>): CatalogVideo {
   return {
@@ -73,5 +74,101 @@ describe("upNext", () => {
     const catalog = makeCatalog(many);
     const next = upNext(catalog, "big", "notInCatalog", "2026-07-26");
     expect(next).toHaveLength(15);
+  });
+});
+
+function historyWith(entries: Record<string, { lastWatchedAt: string; totalSec: number }>): WatchHistory {
+  const videos = Object.fromEntries(
+    Object.entries(entries).map(([id, e]) => [id, { title: "t", channel: "c", ...e }]),
+  );
+  return { ...EMPTY_HISTORY, videos };
+}
+
+describe("splitWatched", () => {
+  it("keeps unwatched videos in their original input order", () => {
+    const videos = [vid({ id: "v1" }), vid({ id: "v2" }), vid({ id: "v3" })];
+    const { unwatched, watched } = splitWatched(videos, EMPTY_HISTORY);
+    expect(unwatched.map((v) => v.id)).toEqual(["v1", "v2", "v3"]);
+    expect(watched).toEqual([]);
+  });
+
+  it("sorts watched videos by lastWatchedAt descending (newest-watched first)", () => {
+    const videos = [vid({ id: "old" }), vid({ id: "new" }), vid({ id: "mid" }), vid({ id: "unwatched" })];
+    const history = historyWith({
+      old: { lastWatchedAt: "2026-07-01", totalSec: 200 },
+      new: { lastWatchedAt: "2026-07-25", totalSec: 200 },
+      mid: { lastWatchedAt: "2026-07-15", totalSec: 200 },
+    });
+    const { unwatched, watched } = splitWatched(videos, history);
+    expect(watched.map((v) => v.id)).toEqual(["new", "mid", "old"]);
+    expect(unwatched.map((v) => v.id)).toEqual(["unwatched"]);
+  });
+
+  it("keeps relative input order for same-day (tie) lastWatchedAt entries", () => {
+    // lastWatchedAt is day-granular, so two videos watched the same day tie -
+    // splitWatched must not reorder them; it keeps their relative input order.
+    const videos = [vid({ id: "b" }), vid({ id: "a" }), vid({ id: "c" })];
+    const history = historyWith({
+      b: { lastWatchedAt: "2026-07-20", totalSec: 200 },
+      a: { lastWatchedAt: "2026-07-20", totalSec: 200 },
+      c: { lastWatchedAt: "2026-07-20", totalSec: 200 },
+    });
+    const { watched } = splitWatched(videos, history);
+    expect(watched.map((v) => v.id)).toEqual(["b", "a", "c"]);
+  });
+
+  it("uses isWatched's duration-relative threshold, not just presence in history", () => {
+    const videos = [vid({ id: "barely", durationSec: 1000 })];
+    // 59s of a 1000s video: below both the 60s floor and the 25% fraction -> not watched.
+    const history = historyWith({ barely: { lastWatchedAt: "2026-07-20", totalSec: 59 } });
+    const { unwatched, watched } = splitWatched(videos, history);
+    expect(unwatched.map((v) => v.id)).toEqual(["barely"]);
+    expect(watched).toEqual([]);
+  });
+});
+
+describe("MIN_GRID", () => {
+  it("is 12", () => {
+    expect(MIN_GRID).toBe(12);
+  });
+});
+
+describe("backfill", () => {
+  it("returns unwatched unchanged when it already meets the minimum", () => {
+    const unwatched = Array.from({ length: 12 }, (_, i) => vid({ id: `u${i}` }));
+    const watched = [vid({ id: "w1" })];
+    const { grid, watchedRest } = backfill(unwatched, watched);
+    expect(grid.map((v) => v.id)).toEqual(unwatched.map((v) => v.id));
+    expect(watchedRest).toEqual(watched);
+  });
+
+  it("appends the least-recently-watched (tail of watched) until the minimum is reached", () => {
+    const unwatched = [vid({ id: "u1" }), vid({ id: "u2" })];
+    // watched is sorted newest-watched-first by convention; tail = least-recently-watched.
+    const watched = Array.from({ length: 5 }, (_, i) => vid({ id: `w${i}` })); // w0 newest .. w4 oldest
+    const { grid, watchedRest } = backfill(unwatched, watched, 5);
+    // needs 3 more; takes the 3 least-recently-watched (tail): w2, w3, w4
+    expect(grid.map((v) => v.id)).toEqual(["u1", "u2", "w2", "w3", "w4"]);
+    expect(watchedRest.map((v) => v.id)).toEqual(["w0", "w1"]);
+  });
+
+  it("never leaves the grid empty when the catalog has videos, even below the minimum", () => {
+    const unwatched: CatalogVideo[] = [];
+    const watched = [vid({ id: "w1" }), vid({ id: "w2" })];
+    const { grid, watchedRest } = backfill(unwatched, watched, 12);
+    expect(grid.map((v) => v.id)).toEqual(["w1", "w2"]);
+    expect(watchedRest).toEqual([]);
+  });
+
+  it("returns an empty grid only when there are truly no videos at all", () => {
+    const { grid } = backfill([], [], 12);
+    expect(grid).toEqual([]);
+  });
+
+  it("respects a custom min", () => {
+    const unwatched = [vid({ id: "u1" })];
+    const watched = Array.from({ length: 5 }, (_, i) => vid({ id: `w${i}` }));
+    const { grid } = backfill(unwatched, watched, 3);
+    expect(grid.map((v) => v.id)).toEqual(["u1", "w3", "w4"]);
   });
 });
