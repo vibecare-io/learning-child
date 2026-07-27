@@ -55,23 +55,38 @@ async function route(): Promise<void> {
 
   const path = location.pathname;
   const onShorts = path === "/shorts" || path.startsWith("/shorts/");
-  const controls = await loadControls();
-  const reelsConfig: ReelsConfig = {
-    limit: controls.reelsLimit,
-    baseCooldownMs: controls.reelsCooldownMinutes * 60_000,
-  };
-  if (onShorts) {
-    // Allow a small taste (reelsLimit), then redirect away and start the
-    // exponential cooldown. The bar (synced below) shows the countdown.
-    const decision = await guardReel(reelsConfig);
-    if (!decision.allow) {
-      location.replace("https://www.youtube.com/");
-      return;
+
+  // The whole reels/shorts prelude (storage reads + the shorts guard) must
+  // fail OPEN: if chrome.storage rejects (e.g. extension context invalidated
+  // mid-navigation), the kid must not be left on a blank hidden page with no
+  // adapter and no badge. Any throw in here unhides the page and flags the
+  // toolbar instead of leaving route() to reject before the routes loop runs.
+  try {
+    const controls = await loadControls();
+    if (myNav !== nav) return; // a newer navigation started; abandon quietly
+    const reelsConfig: ReelsConfig = {
+      limit: controls.reelsLimit,
+      baseCooldownMs: controls.reelsCooldownMinutes * 60_000,
+    };
+    if (onShorts) {
+      // Allow a small taste (reelsLimit), then redirect away and start the
+      // exponential cooldown. The bar (synced below) shows the countdown.
+      const decision = await guardReel(reelsConfig);
+      if (myNav !== nav) return;
+      if (!decision.allow) {
+        location.replace("https://www.youtube.com/");
+        return;
+      }
     }
+    // Reflect the reels budget / cooldown in the top-of-page bar on every
+    // page. Best-effort: a failure here shouldn't fail the whole prelude.
+    void syncReelsBar(onShorts, reelsConfig).catch(() => {});
+    if (onShorts) return; // shorts is not one of our curated adapter surfaces
+  } catch {
+    if (myNav !== nav) return;
+    reportFailure("reels-guard");
+    return;
   }
-  // Reflect the reels budget / cooldown in the top-of-page bar on every page.
-  void syncReelsBar(onShorts, reelsConfig);
-  if (onShorts) return; // shorts is not one of our curated adapter surfaces
 
   for (const [pattern, surface, run] of routes) {
     if (pattern.test(path)) {
