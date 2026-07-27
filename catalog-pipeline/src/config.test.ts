@@ -122,4 +122,12 @@ safety: { blocked_keywords: "exploding" }
 sources: []
 `)).toThrow(/blocked_keywords/);
   });
+
+  it("rejects a malformed (non-mapping) safety block instead of silently disabling it", () => {
+    expect(() => parseConfig(`
+profiles: { big: { label: "x" } }
+safety: nope
+sources: []
+`)).toThrow(/safety/);
+  });
 });

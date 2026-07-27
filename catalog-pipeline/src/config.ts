@@ -76,6 +76,9 @@ export function parseConfig(yamlText: string): Config {
     }
   }
 
+  if (raw.safety != null && (typeof raw.safety !== "object" || Array.isArray(raw.safety))) {
+    throw new Error("'safety' must be a mapping with blocked_keywords/exclude_videos");
+  }
   const safetyRaw = (raw.safety ?? {}) as Record<string, unknown>;
   const blockedKeywords = parseStringList(safetyRaw.blocked_keywords, "safety.blocked_keywords");
   const excludeVideos = parseStringList(safetyRaw.exclude_videos, "safety.exclude_videos");
