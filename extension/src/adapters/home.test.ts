@@ -2,7 +2,6 @@
 import { afterEach, beforeEach, describe, expect, it, vi } from "vitest";
 import type { Catalog, CatalogVideo } from "../../../shared/types";
 import type { WatchHistory } from "../history";
-import { todayStr } from "../feed";
 
 function vid(over: Partial<CatalogVideo>): CatalogVideo {
   return {
@@ -169,45 +168,8 @@ describe("runHome watched chip", () => {
   });
 });
 
-describe("runHome over the daily screen-time limit", () => {
-  async function boot(prefsPatch: { screenTimeMinutes: number | null }, dailySeconds: number): Promise<void> {
-    document.body.innerHTML =
-      `<ytd-browse page-subtype="home"><ytd-rich-grid-renderer></ytd-rich-grid-renderer></ytd-browse>`;
-    vi.stubGlobal("chrome", {
-      storage: {
-        local: {
-          get: vi.fn(async () => ({
-            prefs: prefsPatch,
-            watchHistory: { videos: {}, daily: { [todayStr()]: dailySeconds } },
-          })),
-        },
-      },
-    });
-    const { runHome } = await import("./home");
-    await runHome();
-  }
-
-  it("renders the calm done-today panel instead of the grid/chips once the limit is reached", async () => {
-    await boot({ screenTimeMinutes: 30 }, 30 * 60);
-
-    expect(document.getElementById("lc-done-today"), "done-today panel should render").not.toBeNull();
-    expect(document.getElementById("lc-chips")).toBeNull();
-    expect(document.getElementById("lc-grid-holder")).toBeNull();
-    expect(document.querySelectorAll(".lc-tile")).toHaveLength(0);
-  });
-
-  it("renders the normal grid/chips when still under the limit", async () => {
-    await boot({ screenTimeMinutes: 30 }, 30 * 60 - 1);
-
-    expect(document.getElementById("lc-done-today")).toBeNull();
-    expect(document.getElementById("lc-chips"), "chips should render").not.toBeNull();
-    expect(document.getElementById("lc-grid-holder"), "grid holder should render").not.toBeNull();
-  });
-
-  it("never applies the limit when screenTimeMinutes is null", async () => {
-    await boot({ screenTimeMinutes: null }, 999_999);
-
-    expect(document.getElementById("lc-done-today")).toBeNull();
-    expect(document.getElementById("lc-chips"), "chips should render").not.toBeNull();
-  });
-});
+// The daily screen-time limit is no longer checked inside runHome: it's
+// enforced once, centrally, in content.ts's route() prelude (which shows
+// the full-page kawaii takeover and never calls runHome at all once the kid
+// is over limit). See limit-screen.test.ts and content.ts for that behavior;
+// runHome itself has no over-limit branch left to test.

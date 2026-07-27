@@ -55,9 +55,15 @@ function mountPlayer(paused: boolean, ended = false): HTMLVideoElement {
   // jsdom's HTMLMediaElement.paused/.ended/.currentTime are read-only prototype
   // getters (play()/pause() aren't implemented) - override per-instance so tests
   // can drive playback state and advance the clock.
-  Object.defineProperty(video, "paused", { value: paused, configurable: true });
+  Object.defineProperty(video, "paused", { value: paused, writable: true, configurable: true });
   Object.defineProperty(video, "ended", { value: ended, configurable: true });
   Object.defineProperty(video, "currentTime", { value: 0, writable: true, configurable: true });
+  // jsdom doesn't implement pause() either (throws "not implemented"); stub it
+  // so the limit-screen takeover's video-pausing behavior can be exercised
+  // without noisy jsdom virtual-console errors.
+  video.pause = () => {
+    Object.defineProperty(video, "paused", { value: true, writable: true, configurable: true });
+  };
   document.body.appendChild(video);
   return video;
 }
@@ -228,8 +234,42 @@ describe("startRecorder", () => {
   });
 });
 
-describe("runWatch over the daily screen-time limit", () => {
-  let cleanup: () => void = () => {};
+// The daily screen-time limit is no longer checked inside runWatch itself:
+// it's enforced once, centrally, in content.ts's route() prelude, which
+// shows the full-page kawaii takeover and never calls runWatch at all once
+// the kid is over limit before a navigation. What runWatch's own recorder
+// (startRecorder) *does* still need to handle is the mid-video case: the
+// kid crosses the limit while a video that was already allowed keeps
+// playing. That's covered directly below.
+describe("startRecorder mid-video limit crossing", () => {
+  const META = { title: "Calm nature walk", channel: "Nature Co" };
+  let cancel: (() => void) | undefined;
+
+  // The post-tick limit re-check chains several awaits (recordTick, then
+  // Promise.all of two chrome.storage reads); advanceTimersByTimeAsync
+  // drains the microtask queue for timer-driven callbacks, but give it a
+  // few extra spins to be sure a multi-hop await chain fully settles before
+  // the test's assertions (or the next test's afterEach) run.
+  async function flush(): Promise<void> {
+    for (let i = 0; i < 10; i++) await Promise.resolve();
+  }
+
+  beforeEach(() => {
+    vi.useFakeTimers();
+    vi.mocked(recordTick).mockClear();
+  });
+
+  afterEach(async () => {
+    cancel?.();
+    cancel = undefined;
+    await flush();
+    vi.useRealTimers();
+    document.body.innerHTML = "";
+    document.getElementById("lc-limit-screen")?.remove();
+    document.getElementById("lc-limit-screen-css")?.remove();
+    document.body.style.overflow = "";
+    vi.unstubAllGlobals();
+  });
 
   function stubPrefsAndHistory(screenTimeMinutes: number | null, dailySeconds: number): void {
     vi.stubGlobal("chrome", {
@@ -239,54 +279,60 @@ describe("runWatch over the daily screen-time limit", () => {
             prefs: { screenTimeMinutes },
             watchHistory: { videos: {}, daily: { [localDayStr()]: dailySeconds } },
           })),
+          set: vi.fn(async () => {}),
         },
       },
     });
   }
 
-  beforeEach(() => {
-    window.history.pushState({}, "", "/watch?v=cur");
-    document.body.innerHTML = `<div id="secondary" class="ytd-watch-flexy"></div>`;
-  });
-
-  afterEach(() => {
-    cleanup();
-    cleanup = () => {};
-    document.body.innerHTML = "";
-    vi.unstubAllGlobals();
-    vi.mocked(recordTick).mockClear();
-  });
-
-  it("skips injecting the up-next list once the daily limit is reached", async () => {
+  it("shows the full-page takeover immediately once a tick pushes the kid over the limit", async () => {
+    // recordTick is stubbed (see the module mock above) so it never actually
+    // writes storage; stub chrome.storage.local.get to already reflect the
+    // over-limit state that a real recordTick write would have produced, so
+    // this exercises the recorder's post-tick re-check + takeover wiring.
     stubPrefsAndHistory(30, 30 * 60);
+    const video = mountPlayer(false);
+    cancel = startRecorder("v1", META);
 
-    cleanup = await runWatch();
+    setTime(video, 5);
+    await vi.advanceTimersByTimeAsync(5_000); // cursor sample, nothing credited yet
+    await flush();
+    setTime(video, 10); // +5s credited, crosses the 3s of remaining headroom
+    await vi.advanceTimersByTimeAsync(5_000);
+    await flush();
 
-    expect(document.getElementById("lc-upnext")).toBeNull();
+    expect(document.getElementById("lc-limit-screen"), "takeover should be injected").not.toBeNull();
   });
 
-  it("removes a stale up-next list left over from before the limit was hit", async () => {
+  it("does not show the takeover while still under the limit", async () => {
+    stubPrefsAndHistory(30, 0);
+    const video = mountPlayer(false);
+    cancel = startRecorder("v1", META);
+
+    setTime(video, 5);
+    await vi.advanceTimersByTimeAsync(5_000);
+    await flush();
+    setTime(video, 10);
+    await vi.advanceTimersByTimeAsync(5_000);
+    await flush();
+
+    expect(document.getElementById("lc-limit-screen")).toBeNull();
+  });
+
+  it("tears down the takeover when the recorder's own cleanup runs", async () => {
     stubPrefsAndHistory(30, 30 * 60);
-    document.querySelector(WATCH_SIDEBAR)!.appendChild(document.createElement("div")).id = "lc-upnext";
+    const video = mountPlayer(false);
+    cancel = startRecorder("v1", META);
 
-    cleanup = await runWatch();
+    setTime(video, 5);
+    await vi.advanceTimersByTimeAsync(5_000);
+    await flush();
+    setTime(video, 10);
+    await vi.advanceTimersByTimeAsync(5_000);
+    await flush();
+    expect(document.getElementById("lc-limit-screen")).not.toBeNull();
 
-    expect(document.getElementById("lc-upnext")).toBeNull();
-  });
-
-  it("still injects the up-next list while under the limit", async () => {
-    stubPrefsAndHistory(30, 30 * 60 - 1);
-
-    cleanup = await runWatch();
-
-    expect(document.getElementById("lc-upnext")).not.toBeNull();
-  });
-
-  it("never applies the limit when screenTimeMinutes is null", async () => {
-    stubPrefsAndHistory(null, 999_999);
-
-    cleanup = await runWatch();
-
-    expect(document.getElementById("lc-upnext")).not.toBeNull();
+    cancel();
+    expect(document.getElementById("lc-limit-screen")).toBeNull();
   });
 });

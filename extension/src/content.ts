@@ -6,6 +6,7 @@ import { guardReel, syncReelsBar, type ReelsConfig } from "./reels-guard";
 import { loadControls } from "./safety";
 import { getHistory, isOverLimit, localDayStr, secondsToday } from "./history";
 import { getPrefs } from "./prefs";
+import { showLimitScreen } from "./limit-screen";
 
 export function installHideStyle(): void {
   if (document.getElementById("lc-hide")) return;
@@ -81,6 +82,19 @@ async function route(): Promise<void> {
   try {
     const controls = await loadControls();
     if (myNav !== nav) return; // a newer navigation started; abandon quietly
+
+    // Single, centralized daily-limit enforcement point: checked before the
+    // shorts branch and before the routes loop below, so it covers EVERY
+    // surface - home, every watch page, every shorts page, search - with one
+    // check. Over limit -> block the whole page with the kawaii takeover and
+    // bail out before any adapter (or the shorts guard) ever runs.
+    const [history, prefs] = await Promise.all([getHistory(), getPrefs()]);
+    if (myNav !== nav) return;
+    if (isOverLimit(prefs.screenTimeMinutes, secondsToday(history, localDayStr()))) {
+      cleanup = showLimitScreen();
+      return;
+    }
+
     const reelsConfig: ReelsConfig = {
       limit: controls.reelsLimit,
       baseCooldownMs: controls.reelsCooldownMinutes * 60_000,
@@ -109,16 +123,11 @@ async function route(): Promise<void> {
         location.replace("https://www.youtube.com/");
         return;
       }
-      const [history, prefs] = await Promise.all([getHistory(), getPrefs()]);
-      if (myNav !== nav) return;
-      if (isOverLimit(prefs.screenTimeMinutes, secondsToday(history, localDayStr()))) {
-        // The taste counts as watching; the done-today rule applies here too.
-        location.replace("https://www.youtube.com/");
-        return;
-      }
       if (videoId) {
         // Stands in as this route's cleanup so time on Shorts lands in
-        // history/daily totals same as a watch page.
+        // history/daily totals same as a watch page. startRecorder itself
+        // watches for the limit being crossed mid-taste and triggers the
+        // same takeover immediately (see watch.ts).
         cleanup = startRecorder(videoId, { title: document.title, channel: "" });
       }
     }

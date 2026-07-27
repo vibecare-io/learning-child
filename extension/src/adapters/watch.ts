@@ -6,6 +6,7 @@ import { WATCH_SIDEBAR, AUTONAV_TOGGLE, VIDEO_PLAYER } from "../selectors";
 import { applySafety, loadControls } from "../safety";
 import { getHistory, isOverLimit, localDayStr, recordTick, secondsToday } from "../history";
 import { getPrefs } from "../prefs";
+import { showLimitScreen } from "../limit-screen";
 
 const AUTOPLAY_POLL_MS = 500;
 const AUTOPLAY_GIVE_UP_MS = 15_000;
@@ -53,10 +54,21 @@ export function disableAutoplay(): () => void {
  * or pausing never racks up seconds. Exported standalone (like
  * disableAutoplay) so it's unit-testable with fake timers without touching
  * chrome.* (recordTick is the only chrome.storage call, stubbed in tests).
+ *
+ * The user's explicit block-everything decision supersedes the old
+ * never-interrupt rule: after crediting a tick, this also re-checks the
+ * daily limit and - if the credited time just pushed the kid over it -
+ * triggers the same full-page kawaii takeover (showLimitScreen) immediately,
+ * mid-video. Its cleanup is composed into the cleanup this function returns,
+ * so tearing down the recorder (on navigation) also tears down the overlay,
+ * and route()'s centralized check re-shows it on the next page if the kid
+ * is still over the limit. Shared by both the watch adapter and the shorts
+ * taste path in content.ts, so the crossing check covers both for free.
  */
 export function startRecorder(videoId: string, meta: { title: string; channel: string }): () => void {
   let lastTime: number | null = null;
   let lastEligible = false;
+  let limitCleanup: (() => void) | undefined;
   const timer = setInterval(() => {
     const player = document.querySelector<HTMLVideoElement>(VIDEO_PLAYER);
     if (!player) {
@@ -69,13 +81,33 @@ export function startRecorder(videoId: string, meta: { title: string; channel: s
     if (eligible && lastEligible && lastTime !== null) {
       const delta = now - lastTime;
       if (delta > 0 && delta <= MAX_TICK_SEC) {
-        void recordTick(videoId, meta, delta, localDayStr());
+        void (async () => {
+          try {
+            // `await` (rather than chaining .then on the call) tolerates
+            // recordTick being stubbed with a non-async fn in tests as well
+            // as its real Promise-returning implementation.
+            await recordTick(videoId, meta, delta, localDayStr());
+            const [history, prefs] = await Promise.all([getHistory(), getPrefs()]);
+            if (isOverLimit(prefs.screenTimeMinutes, secondsToday(history, localDayStr()))) {
+              limitCleanup = showLimitScreen();
+            }
+          } catch (err) {
+            // Best-effort: a storage hiccup (or extension context gone
+            // mid-tick) shouldn't crash the recorder or surface as an
+            // unhandled rejection - route()'s centralized check still
+            // covers this on the next navigation regardless.
+            console.warn("[learning-child] limit re-check failed", err);
+          }
+        })();
       }
     }
     lastTime = now;
     lastEligible = eligible;
   }, RECORD_INTERVAL_MS);
-  return () => clearInterval(timer);
+  return () => {
+    clearInterval(timer);
+    limitCleanup?.();
+  };
 }
 
 export async function runWatch(): Promise<() => void> {
@@ -89,20 +121,6 @@ export async function runWatch(): Promise<() => void> {
     ? { title: current.title, channel: current.channel }
     : { title: document.title, channel: "" };
   const cancelRecorder = startRecorder(currentId, meta);
-
-  // Over the daily screen-time limit: never interrupt the video that's
-  // already playing (autoplay-blocking and the recorder both keep running
-  // above) - just skip handing the kid a fresh up-next list to click into.
-  // Also clear out any list injected on a prior navigation, in case the kid
-  // crossed the limit mid-session.
-  const [history, prefs] = await Promise.all([getHistory(), getPrefs()]);
-  if (isOverLimit(prefs.screenTimeMinutes, secondsToday(history, localDayStr()))) {
-    document.getElementById("lc-upnext")?.remove();
-    return () => {
-      cancelAutoplay();
-      cancelRecorder();
-    };
-  }
 
   const host = await waitFor(WATCH_SIDEBAR);
   document.getElementById("lc-upnext")?.remove();

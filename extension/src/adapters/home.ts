@@ -1,11 +1,10 @@
 import { loadCatalog, getActiveProfile } from "../catalog";
 import { backfill, dailyFeed, splitWatched, todayStr } from "../feed";
-import { renderGrid, renderChips, renderDoneToday } from "../ui";
+import { renderGrid, renderChips } from "../ui";
 import { waitFor } from "../dom";
 import { HOME_GRID } from "../selectors";
 import { applySafety, loadControls } from "../safety";
-import { getHistory, isOverLimit, localDayStr, secondsToday } from "../history";
-import { getPrefs } from "../prefs";
+import { getHistory } from "../history";
 
 /** Canonical topic order for the chip bar (only the ones present in the feed show). */
 const TOPIC_ORDER = [
@@ -22,20 +21,13 @@ export async function runHome(): Promise<void> {
   const host = await waitFor(HOME_GRID);
   document.getElementById("lc-home")?.remove();
 
-  const [history, prefs] = await Promise.all([getHistory(), getPrefs()]);
+  // The daily screen-time limit is enforced once, centrally, in content.ts's
+  // route() prelude - over limit never reaches runHome (route() shows the
+  // full-page kawaii takeover instead). getHistory() is still needed here
+  // purely for splitWatched's watched/unwatched split below.
+  const history = await getHistory();
   const wrap = document.createElement("div");
   wrap.id = "lc-home";
-
-  // Over the parent's daily screen-time limit: swap the whole grid+chips UI
-  // for a calm, non-shaming panel instead - no thumbnails, no chips, no
-  // Watched tab. Checked before touching the feed since there's nothing to
-  // build in this branch.
-  if (isOverLimit(prefs.screenTimeMinutes, secondsToday(history, localDayStr()))) {
-    wrap.append(renderDoneToday());
-    if (!host.parentElement) return;
-    host.parentElement.insertBefore(wrap, host);
-    return;
-  }
 
   const feed = applySafety(dailyFeed(catalog, profile, todayStr()), await loadControls());
   // Watched videos are hidden from the default grid (behind the Watched chip);

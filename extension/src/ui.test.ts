@@ -1,6 +1,6 @@
 // @vitest-environment jsdom
 import { describe, expect, it } from "vitest";
-import { formatDuration, injectUiCss, renderDoneToday, renderGrid, renderList } from "./ui";
+import { formatDuration, injectUiCss, renderGrid, renderList } from "./ui";
 import type { CatalogVideo } from "../../shared/types";
 
 const videos: CatalogVideo[] = [
@@ -38,17 +38,6 @@ describe("renderList", () => {
     const list = renderList(videos);
     expect(list.classList.contains("lc-list")).toBe(true);
     expect(list.querySelectorAll("a.lc-tile")).toHaveLength(1);
-  });
-});
-
-describe("renderDoneToday", () => {
-  it("renders a calm full-width panel with warm copy and no thumbnails/chips", () => {
-    const panel = renderDoneToday();
-    expect(panel.id).toBe("lc-done-today");
-    expect(panel.querySelectorAll("img")).toHaveLength(0);
-    expect(panel.querySelectorAll(".lc-tile")).toHaveLength(0);
-    expect(panel.querySelectorAll(".lc-chip")).toHaveLength(0);
-    expect(panel.textContent).toContain("time for real-world adventures");
   });
 });
 

@@ -84,31 +84,6 @@ export function renderList(videos: CatalogVideo[]): HTMLElement {
   return renderContainer(videos, "lc-list");
 }
 
-/**
- * Replaces the grid + chips entirely once the kid has hit the parent's daily
- * screen-time limit (see history.ts:isOverLimit). Calm and non-shaming - no
- * thumbnails, no countdown, no "you have used up X minutes" accounting -
- * just a warm nudge toward stopping for the day.
- */
-export function renderDoneToday(): HTMLElement {
-  const doc = document;
-  injectUiCss(doc);
-  const panel = doc.createElement("div");
-  panel.id = "lc-done-today";
-  panel.className = "lc-done-today";
-
-  const emoji = doc.createElement("div");
-  emoji.className = "lc-done-today-emoji";
-  emoji.textContent = "🌤️";
-
-  const message = doc.createElement("p");
-  message.className = "lc-done-today-message";
-  message.textContent = "That's plenty of watching for today — time for real-world adventures! See you tomorrow.";
-
-  panel.append(emoji, message);
-  return panel;
-}
-
 /** Uses YouTube's own CSS variables so tiles follow light/dark theme. */
 const UI_CSS = `
 .lc-grid {
@@ -167,20 +142,6 @@ const UI_CSS = `
   color: var(--yt-spec-text-secondary, #606060);
   font-family: "Roboto", Arial, sans-serif;
   font-size: 13px; margin-top: 4px;
-}
-.lc-done-today {
-  width: 100%; box-sizing: border-box;
-  display: flex; flex-direction: column; align-items: center; text-align: center;
-  gap: 12px; padding: 64px 24px; margin: 24px;
-  background: var(--yt-spec-badge-chip-background, rgba(0,0,0,0.05));
-  border-radius: 16px;
-}
-.lc-done-today-emoji { font-size: 40px; line-height: 1; }
-.lc-done-today-message {
-  margin: 0; max-width: 480px;
-  color: var(--yt-spec-text-primary, #0f0f0f);
-  font-family: "Roboto", Arial, sans-serif;
-  font-size: 16px; font-weight: 500; line-height: 1.5;
 }
 `;
 
