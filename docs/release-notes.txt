@@ -1,0 +1,18 @@
+#0.0.3
+
+- Reels/Shorts budget: kids get a small taste (5 by default), then a cooldown that
+  grows each time the limit is hit again  surfaced as a live countdown banner below
+  the YouTube header instead of a hard block.
+- Reels limit and cooldown length are now parent-configurable in Settings.
+- Gentle daily screen-time limit: when today's watch time is used up, a friendly
+  full-page "all done for today" screen replaces videos with a countdown to tomorrow.
+- Watch activity moved to the Home tab: recently-watched videos (newest first, expandable)
+  plus "watched today" and "this week" totals, shown in minutes and seconds and updating
+  in real time as videos play.
+- Accurate watch-time recording: credits real elapsed play time and buckets it by the
+  parent's local calendar day, with a manual refresh button on the activity view.
+- Redesigned Settings: searchable settings, organized sections, a bottom tab bar
+  (Home / Settings / Configuration), and a PIN lock. When locked, only the PIN entry
+  screen is shown.
+
+Stores the extension's own configuration and activity data locally: parent settings (approved catalog/channels, daily screen-time limit, PIN, reels budget) and the child's watch history and reels-cooldown state. Keeping this in chrome.storage is what lets the child's activity stay on the device and gives every part of the extension  content script, options page, side panel, and service worker  one shared source of truth. The data is only read and written, never executed

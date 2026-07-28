@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Learning Child",
-  "version": "0.1.0",
+  "version": "0.0.3",
   "description": "Shows parent-curated videos on YouTube instead of algorithmic recommendations.",
   "action": { "default_title": "VibeCare Kids settings" },
   "background": { "service_worker": "background.js" },
@@ -11,7 +11,6 @@
   "host_permissions": [
     "https://www.youtube.com/*",
     "https://kids.vibecare.io/*",
-    "https://*.pages.dev/*",
     "http://localhost/*",
     "http://127.0.0.1/*"
   ],

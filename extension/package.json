@@ -2,7 +2,7 @@
   "name": "extension",
   "private": true,
   "type": "module",
-  "scripts": { "build": "bun build.mjs", "e2e": "playwright test" },
+  "scripts": { "build": "bun build.mjs", "build:release": "bun build.mjs --release", "e2e": "playwright test" },
   "devDependencies": {
     "esbuild": "^0.24.0",
     "@types/chrome": "^0.0.280",

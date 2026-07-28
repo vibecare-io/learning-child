@@ -22,6 +22,24 @@ bundle:
     bun run --cwd extension build
     @echo "Load it: chrome://extensions -> Load unpacked -> extension/dist"
 
+# Build the store-ready extension (drops localhost/pages.dev dev host permissions)
+bundle-release:
+    bun run --cwd extension build:release
+    @echo "Release build in extension/dist (dev hosts stripped)"
+
+# Package the release build into a Chrome Web Store upload zip (manifest at zip root)
+zip: bundle-release
+    #!/usr/bin/env bash
+    set -euo pipefail
+    root="$PWD"
+    version=$(node -p "require('./extension/manifest.json').version")
+    name=$(node -p "require('./extension/manifest.json').name.toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/(^-|-$)/g,'')")
+    out="dist/${name}-${version}.zip"
+    mkdir -p "$root/dist"
+    rm -f "$root/$out"
+    cd extension/dist && zip -qr "$root/$out" . -x '*.DS_Store'
+    echo "Packaged $out ($(du -h "$root/$out" | cut -f1)) - upload at https://chrome.google.com/webstore/devconsole"
+
 # Build the catalog locally (requires YT_API_KEY)
 catalog:
     #!/usr/bin/env bash
