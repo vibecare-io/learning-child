@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-07-28T11:08:43.262Z",
+  "generatedAt": "2026-07-29T11:12:57.978Z",
   "profiles": {
     "little": {
       "label": "Ages 3-7"
@@ -227,20 +227,19 @@
       "thumbnail": "https://i.ytimg.com/vi/UAqbU6fooxU/hqdefault.jpg"
     },
     {
-      "id": "1VVRj_jx0-8",
-      "title": "Testing a Space Suit for Mars 👨‍🚀 | You Wanna Be a What?! | Nat Geo Kids",
-      "channel": "Nat Geo Kids",
-      "channelId": "UCXVCgDuD_QCkI7gTKU7-tpg",
-      "durationSec": 145,
-      "publishedAt": "2026-07-22T11:00:01Z",
+      "id": "NwYgv1ghdYQ",
+      "title": "How To Draw Pandy Paws From Gabby's Dollhouse",
+      "channel": "Art for Kids Hub",
+      "channelId": "UC5XMF3Inoi8R9nSI8ChOsdQ",
+      "durationSec": 583,
+      "publishedAt": "2026-07-28T14:00:38Z",
       "topics": [
-        "animals",
-        "science"
+        "art"
       ],
       "profiles": [
         "little"
       ],
-      "thumbnail": "https://i.ytimg.com/vi/1VVRj_jx0-8/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/NwYgv1ghdYQ/hqdefault.jpg"
     },
     {
       "id": "lXSh3i6yOMQ",
@@ -303,21 +302,6 @@
       "thumbnail": "https://i.ytimg.com/vi/BqzZvCoaFJM/hqdefault.jpg"
     },
     {
-      "id": "qqY2lJCvQR4",
-      "title": "How To Draw Lilypad From Toy Story 5",
-      "channel": "Art for Kids Hub",
-      "channelId": "UC5XMF3Inoi8R9nSI8ChOsdQ",
-      "durationSec": 599,
-      "publishedAt": "2026-07-21T14:00:15Z",
-      "topics": [
-        "art"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/qqY2lJCvQR4/hqdefault.jpg"
-    },
-    {
       "id": "NyUgWdMCOUM",
       "title": "Super Summer Sports Day! | Learn to Count for Kids Compilation | Number Cartoon | Numberblocks",
       "channel": "Numberblocks",
@@ -376,6 +360,22 @@
         "little"
       ],
       "thumbnail": "https://i.ytimg.com/vi/nNJ2x3QvHY8/hqdefault.jpg"
+    },
+    {
+      "id": "krNP8RlDsbw",
+      "title": "Red gold: The world's most expensive spice - Carolyn Beans",
+      "channel": "TED-Ed",
+      "channelId": "UCsooa4yRKGN_zEE8iknghZA",
+      "durationSec": 401,
+      "publishedAt": "2026-07-28T15:00:28Z",
+      "topics": [
+        "science",
+        "history"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/krNP8RlDsbw/hqdefault.jpg"
     },
     {
       "id": "5jPCAlE0z7I",
@@ -458,20 +458,19 @@
       "thumbnail": "https://i.ytimg.com/vi/DbEZmLoGDbk/hqdefault.jpg"
     },
     {
-      "id": "6hCo4S_1Fhw",
-      "title": "Why avalanches are most deadly when they stop - Simon Trautman",
-      "channel": "TED-Ed",
-      "channelId": "UCsooa4yRKGN_zEE8iknghZA",
-      "durationSec": 334,
-      "publishedAt": "2026-06-23T15:00:20Z",
+      "id": "JEPqrqNqkHw",
+      "title": "The Mountain Climbing Theorem - Numberphile",
+      "channel": "Numberphile",
+      "channelId": "UCoxcjq-8xIDTYp3uz647V5A",
+      "durationSec": 1085,
+      "publishedAt": "2026-07-28T14:00:08Z",
       "topics": [
-        "science",
-        "history"
+        "maths"
       ],
       "profiles": [
         "big"
       ],
-      "thumbnail": "https://i.ytimg.com/vi/6hCo4S_1Fhw/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/JEPqrqNqkHw/hqdefault.jpg"
     },
     {
       "id": "cOTf_YEmSOU",
@@ -534,19 +533,19 @@
       "thumbnail": "https://i.ytimg.com/vi/6PmuWFWVKDE/hqdefault.jpg"
     },
     {
-      "id": "fwLsCgibGw4",
-      "title": "Palindrome Ages - Numberphile",
-      "channel": "Numberphile",
-      "channelId": "UCoxcjq-8xIDTYp3uz647V5A",
-      "durationSec": 553,
-      "publishedAt": "2026-06-15T15:02:15Z",
+      "id": "F0_xwHMbPCA",
+      "title": "Axolotls Are In Danger. Here's Why That's Bad For YOU.",
+      "channel": "SciShow",
+      "channelId": "UCZYTClx2T1of7BRZ86-8fow",
+      "durationSec": 727,
+      "publishedAt": "2026-07-28T17:00:31Z",
       "topics": [
-        "maths"
+        "science"
       ],
       "profiles": [
         "big"
       ],
-      "thumbnail": "https://i.ytimg.com/vi/fwLsCgibGw4/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/F0_xwHMbPCA/hqdefault.jpg"
     },
     {
       "id": "tqnBeuWoOEk",
@@ -592,21 +591,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/yi90GFBgQ60/hqdefault.jpg"
-    },
-    {
-      "id": "_8Lk9YeovbE",
-      "title": "Ontario is Getting Taller",
-      "channel": "SciShow",
-      "channelId": "UCZYTClx2T1of7BRZ86-8fow",
-      "durationSec": 768,
-      "publishedAt": "2026-07-21T17:00:14Z",
-      "topics": [
-        "science"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/_8Lk9YeovbE/hqdefault.jpg"
     },
     {
       "id": "GlYgs6v2YfU",
@@ -2905,23 +2889,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/8OFX3STTgSM/hqdefault.jpg"
-    },
-    {
-      "id": "3XprgDBX0ws",
-      "title": "Making Pennies Into Gold",
-      "channel": "Sick Science!",
-      "channelId": "UCDom90xOqP4avehFjSJO6NA",
-      "durationSec": 140,
-      "publishedAt": "2026-03-05T21:22:23Z",
-      "topics": [
-        "science",
-        "making"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/3XprgDBX0ws/hqdefault.jpg"
     },
     {
       "id": "1EyN9_QO4_A",
@@ -10008,21 +9975,6 @@
       "thumbnail": "https://i.ytimg.com/vi/DOqbVvOAJP8/hqdefault.jpg"
     },
     {
-      "id": "U8eauvjE1Nw",
-      "title": "🔴 LIVE!  A Laurie Berkner Animals Special - 1 Hour! 🐓🐘🐠🦋🐧🦖 | For Kids",
-      "channel": "The Laurie Berkner Band - Kids Songs",
-      "channelId": "UCQ9o9F8HYJV85XjciUS86_Q",
-      "durationSec": 1223,
-      "publishedAt": "2026-04-24T21:37:50Z",
-      "topics": [
-        "music"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/U8eauvjE1Nw/hqdefault.jpg"
-    },
-    {
       "id": "RideGnMsclM",
       "title": "Kids | Learn Music from the Civil Rights Era and Beyond",
       "channel": "Carnegie Hall Kids",
@@ -11735,6 +11687,23 @@
       "thumbnail": "https://i.ytimg.com/vi/w9u4fCD-sj0/hqdefault.jpg"
     },
     {
+      "id": "HuYvn-Zaq0o",
+      "title": "How to Draw Dolly Doll | Toy Story | Disney Pixar Character Drawing",
+      "channel": "Draw So Cute",
+      "channelId": "UC3dEvA1is6-0_yuei9iCdEw",
+      "durationSec": 751,
+      "publishedAt": "2026-07-28T17:00:18Z",
+      "topics": [
+        "art",
+        "making"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/HuYvn-Zaq0o/hqdefault.jpg"
+    },
+    {
       "id": "Nfnpdg68G2I",
       "title": "How to Draw a Cup of Shave Ice 🍧 Cute Summer Drawing",
       "channel": "Draw So Cute",
@@ -12568,23 +12537,6 @@
       "thumbnail": "https://i.ytimg.com/vi/QafsWEkdNlM/hqdefault.jpg"
     },
     {
-      "id": "TwFBtehmPD0",
-      "title": "How to Draw a Basket of Heart Flowers ❤️ Mother's Day Art",
-      "channel": "Draw So Cute",
-      "channelId": "UC3dEvA1is6-0_yuei9iCdEw",
-      "durationSec": 480,
-      "publishedAt": "2026-05-06T14:00:59Z",
-      "topics": [
-        "art",
-        "making"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/TwFBtehmPD0/hqdefault.jpg"
-    },
-    {
       "id": "MB7wxd8Bz18",
       "title": "Learn to Draw Super Simple Characters! Finny the Shark, The Bumble Nums, & More!",
       "channel": "Super Simple Draw! - How To Draw for Kids",
@@ -13385,6 +13337,22 @@
       "thumbnail": "https://i.ytimg.com/vi/m6KAfSgFaAM/hqdefault.jpg"
     },
     {
+      "id": "IY2Fz4Kj2NI",
+      "title": "How to Draw Flounder | The Little Mermaid",
+      "channel": "Cartooning Club How to Draw",
+      "channelId": "UC-biucJWhM8HwjsQ96uoIUw",
+      "durationSec": 442,
+      "publishedAt": "2026-07-28T14:00:03Z",
+      "topics": [
+        "art",
+        "making"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/IY2Fz4Kj2NI/hqdefault.jpg"
+    },
+    {
       "id": "01NmuKZtZ6Y",
       "title": "How to Draw Shy Guy | Super Mario",
       "channel": "Cartooning Club How to Draw",
@@ -13418,7 +13386,7 @@
     },
     {
       "id": "q6g9K5mWY1A",
-      "title": "LIVE drawing session | Drawing from observation",
+      "title": "LIVE session 🌟 How to Draw Michael Jackson",
       "channel": "Cartooning Club How to Draw",
       "channelId": "UC-biucJWhM8HwjsQ96uoIUw",
       "durationSec": 5616,
@@ -13450,7 +13418,7 @@
     },
     {
       "id": "Jr3D-wpel5Q",
-      "title": "LIVE session🔥Full Process for Drawing Better",
+      "title": "LIVE session🔥How to Draw a Lion",
       "channel": "Cartooning Club How to Draw",
       "channelId": "UC-biucJWhM8HwjsQ96uoIUw",
       "durationSec": 5116,
@@ -14039,22 +14007,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/xyTJKDR_Z14/hqdefault.jpg"
-    },
-    {
-      "id": "xIC_3gLRurI",
-      "title": "How to Draw Deathstroke",
-      "channel": "Cartooning Club How to Draw",
-      "channelId": "UC-biucJWhM8HwjsQ96uoIUw",
-      "durationSec": 473,
-      "publishedAt": "2026-06-12T14:00:19Z",
-      "topics": [
-        "art",
-        "making"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/xIC_3gLRurI/hqdefault.jpg"
     },
     {
       "id": "_YR-Pc50Hy0",
@@ -20228,6 +20180,22 @@
       "thumbnail": "https://i.ytimg.com/vi/OMg_hBRD84U/hqdefault.jpg"
     },
     {
+      "id": "3tmPS1p-vEQ",
+      "title": "Copycats! This Ant Is Surrounded By Imposters | Deep Look",
+      "channel": "Deep Look",
+      "channelId": "UC-3SbfTPJsL8fJAPKiVqBLg",
+      "durationSec": 289,
+      "publishedAt": "2026-07-28T15:00:23Z",
+      "topics": [
+        "animals",
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/3tmPS1p-vEQ/hqdefault.jpg"
+    },
+    {
       "id": "CJl_relCddQ",
       "title": "These Mudskipper Fins Were Made For Walking | Deep Look",
       "channel": "Deep Look",
@@ -20645,6 +20613,22 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/bcIL_HqZubw/hqdefault.jpg"
+    },
+    {
+      "id": "fReauT-e9tg",
+      "title": "Handyman Hal Learns How Concrete is Made! Concrete Trucks for Kids | Awesome Construction Adventure",
+      "channel": "Handyman Hal",
+      "channelId": "UC8KyyhPfL4v2sZGbcGg7b7Q",
+      "durationSec": 2735,
+      "publishedAt": "2026-07-29T10:15:05Z",
+      "topics": [
+        "making",
+        "engineering"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/fReauT-e9tg/hqdefault.jpg"
     },
     {
       "id": "ybJ5f5jy0vo",
@@ -21397,22 +21381,6 @@
         "little"
       ],
       "thumbnail": "https://i.ytimg.com/vi/ujkO9NNqEV0/hqdefault.jpg"
-    },
-    {
-      "id": "jsULQVNwZMY",
-      "title": "Billboard Truck! Handyman Hal on Tour 2026",
-      "channel": "Handyman Hal",
-      "channelId": "UC8KyyhPfL4v2sZGbcGg7b7Q",
-      "durationSec": 142,
-      "publishedAt": "2026-01-22T15:00:00Z",
-      "topics": [
-        "making",
-        "engineering"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/jsULQVNwZMY/hqdefault.jpg"
     },
     {
       "id": "7QsgPiLe_Q0",
@@ -26187,6 +26155,22 @@
       "thumbnail": "https://i.ytimg.com/vi/vEIMHMMRyLI/hqdefault.jpg"
     },
     {
+      "id": "6CSWNyBhe8o",
+      "title": "The most dangerous roads on earth ￼",
+      "channel": "Geography Now",
+      "channelId": "UCmmPgObSUPw1HL2lq6H4ffA",
+      "durationSec": 150,
+      "publishedAt": "2026-07-28T19:05:59Z",
+      "topics": [
+        "geography",
+        "exploration"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/6CSWNyBhe8o/hqdefault.jpg"
+    },
+    {
       "id": "mEISjwLZe5U",
       "title": "Let's Geogra-chat NOW",
       "channel": "Geography Now",
@@ -28185,6 +28169,21 @@
       "thumbnail": "https://i.ytimg.com/vi/prdfejAsrNI/hqdefault.jpg"
     },
     {
+      "id": "aUhjgW6HeMw",
+      "title": "Egyptian Arabic words and expressions",
+      "channel": "Langfocus",
+      "channelId": "UCNhX3WQEkraW3VHPyup8jkQ",
+      "durationSec": 180,
+      "publishedAt": "2026-07-28T17:00:50Z",
+      "topics": [
+        "geography"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/aUhjgW6HeMw/hqdefault.jpg"
+    },
+    {
       "id": "Lhjr3X9JLUQ",
       "title": "How the printing press influenced English spelling",
       "channel": "Langfocus",
@@ -28678,21 +28677,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/rmuiCdzll4A/hqdefault.jpg"
-    },
-    {
-      "id": "tkpYlH-yeCU",
-      "title": "Argentinian Spanish (Rioplatense)",
-      "channel": "Langfocus",
-      "channelId": "UCNhX3WQEkraW3VHPyup8jkQ",
-      "durationSec": 164,
-      "publishedAt": "2026-04-15T14:45:08Z",
-      "topics": [
-        "geography"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/tkpYlH-yeCU/hqdefault.jpg"
     },
     {
       "id": "yt_GmmOx06Y",
@@ -36363,6 +36347,22 @@
       "thumbnail": "https://i.ytimg.com/vi/VxVOwCIyqO8/hqdefault.jpg"
     },
     {
+      "id": "dXBmCIfb92k",
+      "title": "PiDP6 & Lisp - Computerphile",
+      "channel": "Computerphile",
+      "channelId": "UC9-y-6csu5WGm29I7JiwpnA",
+      "durationSec": 819,
+      "publishedAt": "2026-07-28T15:00:39Z",
+      "topics": [
+        "tech",
+        "coding"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/dXBmCIfb92k/hqdefault.jpg"
+    },
+    {
       "id": "CnSYsUhlx14",
       "title": "Quantum Machine Learning - Computerphile",
       "channel": "Computerphile",
@@ -37145,22 +37145,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/fpkCNu_dzcM/hqdefault.jpg"
-    },
-    {
-      "id": "fzlflyw7X2I",
-      "title": "The Next Big SHA? SHA3 Sponge Function Explained - Computerphile",
-      "channel": "Computerphile",
-      "channelId": "UC9-y-6csu5WGm29I7JiwpnA",
-      "durationSec": 1657,
-      "publishedAt": "2025-08-20T13:31:31Z",
-      "topics": [
-        "tech",
-        "coding"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/fzlflyw7X2I/hqdefault.jpg"
     },
     {
       "id": "BMZbbewOLvU",
@@ -48359,6 +48343,21 @@
       "thumbnail": "https://i.ytimg.com/vi/jvebwDXmBSw/hqdefault.jpg"
     },
     {
+      "id": "DvDvhLkb9ms",
+      "title": "Destiny Loves Genocide",
+      "channel": "Professor Dave Explains",
+      "channelId": "UC0cd_-e49hZpWLH3UIwoWRA",
+      "durationSec": 5847,
+      "publishedAt": "2026-07-28T14:00:17Z",
+      "topics": [
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/DvDvhLkb9ms/hqdefault.jpg"
+    },
+    {
       "id": "MM_xzNnJePo",
       "title": "Common Latin Phrases Everyone Should Know",
       "channel": "Professor Dave Explains",
@@ -49092,21 +49091,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/J5YWil3kbkg/hqdefault.jpg"
-    },
-    {
-      "id": "sJ8BcNVDWI8",
-      "title": "Spontaneous Symmetry Breaking and The Higgs Boson",
-      "channel": "Professor Dave Explains",
-      "channelId": "UC0cd_-e49hZpWLH3UIwoWRA",
-      "durationSec": 741,
-      "publishedAt": "2026-05-15T14:01:23Z",
-      "topics": [
-        "science"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/sJ8BcNVDWI8/hqdefault.jpg"
     },
     {
       "id": "BjyJlN1npdw",
@@ -50693,6 +50677,22 @@
       "thumbnail": "https://i.ytimg.com/vi/wGOIHay5y2A/hqdefault.jpg"
     },
     {
+      "id": "CeedhXE80j8",
+      "title": "Python for Kids: A Complete Parent’s Guide",
+      "channel": "CodaKid",
+      "channelId": "UCmosgwMRj1rlOBLFYLIzDcw",
+      "durationSec": 429,
+      "publishedAt": "2026-07-28T19:43:43Z",
+      "topics": [
+        "coding",
+        "making"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/CeedhXE80j8/hqdefault.jpg"
+    },
+    {
       "id": "z1MrwejF0cw",
       "title": "Best Coding & AI Classes for Kids (2026): 7 Programs Compared",
       "channel": "CodaKid",
@@ -51251,22 +51251,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/BZC96HI_Rpw/hqdefault.jpg"
-    },
-    {
-      "id": "EcudgrU-sZI",
-      "title": "MAKE A GAME ON ROBLOX STUDIO! CODAKID'S SUPER AWESOME OBBY TUTORIAL PART 2",
-      "channel": "CodaKid",
-      "channelId": "UCmosgwMRj1rlOBLFYLIzDcw",
-      "durationSec": 256,
-      "publishedAt": "2018-05-24T01:03:15Z",
-      "topics": [
-        "coding",
-        "making"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/EcudgrU-sZI/hqdefault.jpg"
     },
     {
       "id": "NAX-FHiXrOg",
@@ -65641,20 +65625,20 @@
       "thumbnail": "https://i.ytimg.com/vi/u6yPg0-qOS4/hqdefault.jpg"
     },
     {
-      "id": "sfUmGAciEtg",
-      "title": "Full Venus Flytrap Dormancy Setup - All Equipment + Tips & Tricks",
-      "channel": "Carnivorous Plants Hub",
-      "channelId": "UCtdFyx2wj8dysinQuyNTX3Q",
-      "durationSec": 754,
-      "publishedAt": "2024-11-09T18:20:20Z",
+      "id": "hRQz4MU9EyU",
+      "title": "Songs! 🎶  I dreamed I saw a butterfly | Happy & you know it | ABCs | Spell tomato | AND MORE!",
+      "channel": "Discover, Grow, Bloom with Garden Marcus",
+      "channelId": "UCHqj_0_JZjY7mq7Hctxb9sw",
+      "durationSec": 640,
+      "publishedAt": "2026-07-28T15:03:07Z",
       "topics": [
         "nature",
-        "science"
+        "making"
       ],
       "profiles": [
-        "big"
+        "little"
       ],
-      "thumbnail": "https://i.ytimg.com/vi/sfUmGAciEtg/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/hRQz4MU9EyU/hqdefault.jpg"
     },
     {
       "id": "F8Z04N_D4pg",
@@ -69108,6 +69092,22 @@
       "thumbnail": "https://i.ytimg.com/vi/3OhYbkHi5-8/hqdefault.jpg"
     },
     {
+      "id": "BAYccBMfVow",
+      "title": "Strong M6.8 Earthquake Strikes Japan, Geologist Analysis",
+      "channel": "GeologyHub",
+      "channelId": "UCYeGh5VML5XPr5jYnzh3J6g",
+      "durationSec": 267,
+      "publishedAt": "2026-07-29T01:30:15Z",
+      "topics": [
+        "science",
+        "geography"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/BAYccBMfVow/hqdefault.jpg"
+    },
+    {
       "id": "NZTDNcjFUHw",
       "title": "Texas Earthquake Update; M5.0 Earthquake Strikes the Panhandle",
       "channel": "GeologyHub",
@@ -69778,22 +69778,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/SLMiVFW_MPE/hqdefault.jpg"
-    },
-    {
-      "id": "9Ct_ItE6Ep8",
-      "title": "How to Identify Actual Gold",
-      "channel": "GeologyHub",
-      "channelId": "UCYeGh5VML5XPr5jYnzh3J6g",
-      "durationSec": 255,
-      "publishedAt": "2026-05-29T19:00:18Z",
-      "topics": [
-        "science",
-        "geography"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/9Ct_ItE6Ep8/hqdefault.jpg"
     },
     {
       "id": "hSopb7y6liU",
@@ -76362,6 +76346,21 @@
       "thumbnail": "https://i.ytimg.com/vi/xaUKgnhZ9y4/hqdefault.jpg"
     },
     {
+      "id": "WD6zncNCqTo",
+      "title": "Trump Accounts Explained: Get $1,000 Free (But There’s a Catch)",
+      "channel": "Easy Peasy Finance",
+      "channelId": "UCZl9ry5ew_2YeCQ6ECk8sxA",
+      "durationSec": 333,
+      "publishedAt": "2026-07-28T13:00:02Z",
+      "topics": [
+        "maths"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/WD6zncNCqTo/hqdefault.jpg"
+    },
+    {
       "id": "1KP0p5uTRvY",
       "title": "16yo Finance Whiz Exposes YouTuber Investing Advice",
       "channel": "Easy Peasy Finance",
@@ -78408,7 +78407,7 @@
     },
     {
       "id": "EJftnccy4b8",
-      "title": "What's Causing the Shark Surge on the California Coast? A Marine Biologist Reacts",
+      "title": "Is El Niño Bringing Great White Sharks to California? A Marine Biologist Reacts",
       "channel": "KPassionate",
       "channelId": "UCUvSqEH92Fqn9uw1kmCfLGA",
       "durationSec": 692,
@@ -78536,7 +78535,7 @@
     },
     {
       "id": "Y5ha3I5cSZw",
-      "title": "Proof the Megalodon Ate Everything... Even Prehistoric Elephants!",
+      "title": "The Megalodon's Diet Was Absolutely Insane",
       "channel": "KPassionate",
       "channelId": "UCUvSqEH92Fqn9uw1kmCfLGA",
       "durationSec": 759,
@@ -78936,7 +78935,7 @@
     },
     {
       "id": "at8swuyO9Pw",
-      "title": "Marine Biologist Reacts to Claims That Megalodon Is Still Alive",
+      "title": "Marine Biologist Reacts to Claims That Megalodon Still Exists",
       "channel": "KPassionate",
       "channelId": "UCUvSqEH92Fqn9uw1kmCfLGA",
       "durationSec": 585,
@@ -83064,6 +83063,22 @@
       "thumbnail": "https://i.ytimg.com/vi/GLVhXClV5QU/hqdefault.jpg"
     },
     {
+      "id": "XXttKoqPf44",
+      "title": "Stuck Duck | Peep and the Big Wide World",
+      "channel": "Peep and the Big Wide World",
+      "channelId": "UCPq6g4Q4-SFMIJ048IXmupA",
+      "durationSec": 645,
+      "publishedAt": "2026-07-28T15:00:23Z",
+      "topics": [
+        "science",
+        "nature"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/XXttKoqPf44/hqdefault.jpg"
+    },
+    {
       "id": "IbrvdfYsYVE",
       "title": "Chirp Builds a Nest | Peep and the Big Wide World",
       "channel": "Peep and the Big Wide World",
@@ -83622,38 +83637,6 @@
         "little"
       ],
       "thumbnail": "https://i.ytimg.com/vi/C20BweYlisU/hqdefault.jpg"
-    },
-    {
-      "id": "gpqh2UsUnIw",
-      "title": "Marble Mover (with video description)",
-      "channel": "Peep and the Big Wide World",
-      "channelId": "UCPq6g4Q4-SFMIJ048IXmupA",
-      "durationSec": 530,
-      "publishedAt": "2017-12-04T04:22:13Z",
-      "topics": [
-        "science",
-        "nature"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/gpqh2UsUnIw/hqdefault.jpg"
-    },
-    {
-      "id": "yCvsxldRMqY",
-      "title": "SnowDaze (with video description)",
-      "channel": "Peep and the Big Wide World",
-      "channelId": "UCPq6g4Q4-SFMIJ048IXmupA",
-      "durationSec": 530,
-      "publishedAt": "2017-12-04T04:21:36Z",
-      "topics": [
-        "science",
-        "nature"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/yCvsxldRMqY/hqdefault.jpg"
     },
     {
       "id": "_-t3zhkntyU",
@@ -84607,6 +84590,42 @@
       "thumbnail": "https://i.ytimg.com/vi/j23ed681RTU/hqdefault.jpg"
     },
     {
+      "id": "Ap3VMl3I0k0",
+      "title": "Deep Dive w/ Tim: Porting Teenage Engineering EP-2350 Ting Functionality to CircuitPython",
+      "channel": "Adafruit Industries",
+      "channelId": "UCpOlOeQjj7EsVnDh3zuCgsA",
+      "durationSec": 3942,
+      "publishedAt": "2026-07-29T04:21:55Z",
+      "topics": [
+        "making",
+        "tech",
+        "engineering",
+        "coding"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/Ap3VMl3I0k0/hqdefault.jpg"
+    },
+    {
+      "id": "3jm-8SmF0Fg",
+      "title": "JP’s Product Pick of the Week 7/28/26",
+      "channel": "Adafruit Industries",
+      "channelId": "UCpOlOeQjj7EsVnDh3zuCgsA",
+      "durationSec": 1040,
+      "publishedAt": "2026-07-28T20:22:39Z",
+      "topics": [
+        "making",
+        "tech",
+        "engineering",
+        "coding"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/3jm-8SmF0Fg/hqdefault.jpg"
+    },
+    {
       "id": "X-7ZBaCIoeQ",
       "title": "Fruit Jam Pico Bootloader demo",
       "channel": "Adafruit Industries",
@@ -85001,42 +85020,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/hww4pDT_5sk/hqdefault.jpg"
-    },
-    {
-      "id": "XmV56KqjwxM",
-      "title": "John Park's Workshop Live 7/9/26",
-      "channel": "Adafruit Industries",
-      "channelId": "UCpOlOeQjj7EsVnDh3zuCgsA",
-      "durationSec": 3761,
-      "publishedAt": "2026-07-10T09:10:55Z",
-      "topics": [
-        "making",
-        "tech",
-        "engineering",
-        "coding"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/XmV56KqjwxM/hqdefault.jpg"
-    },
-    {
-      "id": "v4zxYy2-riQ",
-      "title": "3D Hangouts –  Flight Tracker, Chiptune Player and Noodle Sword",
-      "channel": "Adafruit Industries",
-      "channelId": "UCpOlOeQjj7EsVnDh3zuCgsA",
-      "durationSec": 2754,
-      "publishedAt": "2026-07-09T03:52:35Z",
-      "topics": [
-        "making",
-        "tech",
-        "engineering",
-        "coding"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/v4zxYy2-riQ/hqdefault.jpg"
     },
     {
       "id": "KywMP9_SyRg",
@@ -89867,6 +89850,22 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/H5VNPfHIgpE/hqdefault.jpg"
+    },
+    {
+      "id": "69o-8Mtd3Kc",
+      "title": "A SUPER El Niño Triggered History’s DEADLIEST Disaster. THIS One Might Be Worse.",
+      "channel": "PBS Terra",
+      "channelId": "UCpxYSWgxVt3Pyn1ovXsGQ0g",
+      "durationSec": 687,
+      "publishedAt": "2026-07-28T15:00:23Z",
+      "topics": [
+        "science",
+        "nature"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/69o-8Mtd3Kc/hqdefault.jpg"
     },
     {
       "id": "KZ_t6YKUjKY",
