@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-01T10:25:00.206Z",
+  "generatedAt": "2026-08-02T10:24:21.751Z",
   "profiles": {
     "little": {
       "label": "Ages 3-7"
@@ -131,6 +131,22 @@
       "thumbnail": "https://i.ytimg.com/vi/kKqd0_cydZM/hqdefault.jpg"
     },
     {
+      "id": "xlXtt3IRckY",
+      "title": "Learn the Secrets of Baby Lions! 🦁✨ Animal Facts for Kids | Nat Geo Kids",
+      "channel": "Nat Geo Kids",
+      "channelId": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "durationSec": 152,
+      "publishedAt": "2026-08-01T15:00:14Z",
+      "topics": [
+        "animals",
+        "science"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/xlXtt3IRckY/hqdefault.jpg"
+    },
+    {
       "id": "MufdODXKaLo",
       "title": "Olympians Vs. Titans 💥 | Greeking Out Podcast | S4 E1 FULL EP | ‪Nat Geo Kids",
       "channel": "Nat Geo Kids",
@@ -193,22 +209,6 @@
         "little"
       ],
       "thumbnail": "https://i.ytimg.com/vi/N_7uBiy3yl8/hqdefault.jpg"
-    },
-    {
-      "id": "BLYMwlTFlao",
-      "title": "Animal Friendships That Make NO Sense! 🦈🐟 | Nat Geo Kids",
-      "channel": "Nat Geo Kids",
-      "channelId": "UCXVCgDuD_QCkI7gTKU7-tpg",
-      "durationSec": 153,
-      "publishedAt": "2026-07-25T15:00:00Z",
-      "topics": [
-        "animals",
-        "science"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/BLYMwlTFlao/hqdefault.jpg"
     },
     {
       "id": "NB_9dHGxnjU",
@@ -286,6 +286,36 @@
       "thumbnail": "https://i.ytimg.com/vi/lXSh3i6yOMQ/hqdefault.jpg"
     },
     {
+      "id": "L7K8n_uZrWY",
+      "title": "Who is the Hide and Seek Champion? | Learn to Count for Kids | Number Cartoon | Numberblocks",
+      "channel": "Numberblocks",
+      "channelId": "UCPlwvN0w4qFSP1FllALB92w",
+      "durationSec": 4047,
+      "publishedAt": "2026-08-02T10:00:19Z",
+      "topics": [
+        "maths"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/L7K8n_uZrWY/hqdefault.jpg"
+    },
+    {
+      "id": "vjOauI4OWPc",
+      "title": "Summer Vacation Counting! | Learn to Count for Kids Compilation | Number Cartoon | Numberblocks",
+      "channel": "Numberblocks",
+      "channelId": "UCPlwvN0w4qFSP1FllALB92w",
+      "durationSec": 3759,
+      "publishedAt": "2026-08-01T11:00:34Z",
+      "topics": [
+        "maths"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/vjOauI4OWPc/hqdefault.jpg"
+    },
+    {
       "id": "EbLA1gsJYEI",
       "title": "The Kindest Numberblocks | Learn to Count for Kids Compilation | Number Cartoon | Numberblocks",
       "channel": "Numberblocks",
@@ -314,21 +344,6 @@
         "little"
       ],
       "thumbnail": "https://i.ytimg.com/vi/xJ_mQ8jsZK8/hqdefault.jpg"
-    },
-    {
-      "id": "NyUgWdMCOUM",
-      "title": "Super Summer Sports Day! | Learn to Count for Kids Compilation | Number Cartoon | Numberblocks",
-      "channel": "Numberblocks",
-      "channelId": "UCPlwvN0w4qFSP1FllALB92w",
-      "durationSec": 3782,
-      "publishedAt": "2026-07-26T10:00:39Z",
-      "topics": [
-        "maths"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/NyUgWdMCOUM/hqdefault.jpg"
     },
     {
       "id": "krNP8RlDsbw",
@@ -2843,6 +2858,21 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/8OFX3STTgSM/hqdefault.jpg"
+    },
+    {
+      "id": "ti2qiU_JTUQ",
+      "title": "The Euler Disc Is The Wrong Shape",
+      "channel": "Steve Mould",
+      "channelId": "UCEIwxahdLz7bap-VDs9h35A",
+      "durationSec": 1201,
+      "publishedAt": "2026-08-01T15:57:07Z",
+      "topics": [
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/ti2qiU_JTUQ/hqdefault.jpg"
     },
     {
       "id": "1EyN9_QO4_A",
@@ -17638,6 +17668,23 @@
       "thumbnail": "https://i.ytimg.com/vi/GsjQLelQPeI/hqdefault.jpg"
     },
     {
+      "id": "p4NFktDA0Jo",
+      "title": "Learn About Farm Friends! | Animal Facts | BBC Earth Kids",
+      "channel": "BBC Earth Kids",
+      "channelId": "UCO_DaPp4ifhMAmiyybSLx9w",
+      "durationSec": 1704,
+      "publishedAt": "2026-08-01T14:00:28Z",
+      "topics": [
+        "nature",
+        "animals"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/p4NFktDA0Jo/hqdefault.jpg"
+    },
+    {
       "id": "iPXxVqqq330",
       "title": "Mexican Free-Tailed Bat! | Learn With Steve Backshall | BBC Earth Kids",
       "channel": "BBC Earth Kids",
@@ -18316,23 +18363,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/nGohIddbBuU/hqdefault.jpg"
-    },
-    {
-      "id": "zqYfxNzlOXs",
-      "title": "Hungry Caiman Caught On Camera | Deadly 60 | BBC Earth Kids",
-      "channel": "BBC Earth Kids",
-      "channelId": "UCO_DaPp4ifhMAmiyybSLx9w",
-      "durationSec": 167,
-      "publishedAt": "2025-04-12T11:01:35Z",
-      "topics": [
-        "nature",
-        "animals"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/zqYfxNzlOXs/hqdefault.jpg"
     },
     {
       "id": "4y86Ni-_beM",
@@ -20293,6 +20323,22 @@
       "thumbnail": "https://i.ytimg.com/vi/ilpmpCEDK8A/hqdefault.jpg"
     },
     {
+      "id": "BO7e53AsP0o",
+      "title": "He Quit His Job To Farm Rice In The Japanese Countryside | Grow & Tell",
+      "channel": "Epic Gardening",
+      "channelId": "UCSbyncU597LMwb3HhnAI_4w",
+      "durationSec": 1602,
+      "publishedAt": "2026-08-01T14:58:30Z",
+      "topics": [
+        "nature",
+        "making"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/BO7e53AsP0o/hqdefault.jpg"
+    },
+    {
       "id": "KQEWKULNd98",
       "title": "17 Crops You NEED To Start in August",
       "channel": "Epic Gardening",
@@ -20547,22 +20593,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/KA98NTKzuOg/hqdefault.jpg"
-    },
-    {
-      "id": "CVP9oeAqdy8",
-      "title": "He Grows 90% of His Groceries For a Family of 6",
-      "channel": "Epic Gardening",
-      "channelId": "UCSbyncU597LMwb3HhnAI_4w",
-      "durationSec": 1255,
-      "publishedAt": "2026-04-18T17:18:25Z",
-      "topics": [
-        "nature",
-        "making"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/CVP9oeAqdy8/hqdefault.jpg"
     },
     {
       "id": "FP735j4Nk-s",
@@ -26140,8 +26170,24 @@
       "thumbnail": "https://i.ytimg.com/vi/vEIMHMMRyLI/hqdefault.jpg"
     },
     {
+      "id": "R03HmEuNmgM",
+      "title": "The drama with GEORGIA",
+      "channel": "Geography Now",
+      "channelId": "UCmmPgObSUPw1HL2lq6H4ffA",
+      "durationSec": 155,
+      "publishedAt": "2026-08-02T00:34:52Z",
+      "topics": [
+        "geography",
+        "exploration"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/R03HmEuNmgM/hqdefault.jpg"
+    },
+    {
       "id": "nYa1zK1Dq08",
-      "title": "Geography Now!",
+      "title": "Geogra-chat 2!! ",
       "channel": "Geography Now",
       "channelId": "UCmmPgObSUPw1HL2lq6H4ffA",
       "durationSec": 4092,
@@ -28202,6 +28248,21 @@
       "thumbnail": "https://i.ytimg.com/vi/-sihMhbH7rc/hqdefault.jpg"
     },
     {
+      "id": "azqA3eEn9_E",
+      "title": "History of the Catalan language",
+      "channel": "Langfocus",
+      "channelId": "UCNhX3WQEkraW3VHPyup8jkQ",
+      "durationSec": 144,
+      "publishedAt": "2026-08-01T16:58:45Z",
+      "topics": [
+        "geography"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/azqA3eEn9_E/hqdefault.jpg"
+    },
+    {
       "id": "YhO03vWUqFk",
       "title": "The Catalan language (basic info)",
       "channel": "Langfocus",
@@ -28680,21 +28741,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/eFFd7W1TfxE/hqdefault.jpg"
-    },
-    {
-      "id": "9wyURxWpORo",
-      "title": "LUNFARDO Slang in Rioplatense Spanish",
-      "channel": "Langfocus",
-      "channelId": "UCNhX3WQEkraW3VHPyup8jkQ",
-      "durationSec": 170,
-      "publishedAt": "2026-04-18T15:36:35Z",
-      "topics": [
-        "geography"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/9wyURxWpORo/hqdefault.jpg"
     },
     {
       "id": "yt_GmmOx06Y",
@@ -31691,6 +31737,21 @@
         "little"
       ],
       "thumbnail": "https://i.ytimg.com/vi/_pvJk1L1dCA/hqdefault.jpg"
+    },
+    {
+      "id": "6Zn5KLpBhj0",
+      "title": "Find all the Animals in Alphaland! | Learn to Read and Spell for Kids Compilation | Alphablocks",
+      "channel": "Alphablocks",
+      "channelId": "UC_qs3c0ehDvZkbiEbOj6Drg",
+      "durationSec": 2225,
+      "publishedAt": "2026-05-09T11:00:00Z",
+      "topics": [
+        "reading"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/6Zn5KLpBhj0/hqdefault.jpg"
     },
     {
       "id": "WMLv7Qxe6dA",
@@ -44660,7 +44721,7 @@
     },
     {
       "id": "dchBY5XO6Qg",
-      "title": "Where is the \"Great Filter\"?",
+      "title": "Why Finding Aliens Could Doom Humanity",
       "channel": "Cool Worlds",
       "channelId": "UCGHZpIpAWJQ-Jy_CeCdXhMA",
       "durationSec": 1597,
@@ -57413,6 +57474,23 @@
       "thumbnail": "https://i.ytimg.com/vi/71umdejIWRI/hqdefault.jpg"
     },
     {
+      "id": "i4jLT0NtdwU",
+      "title": "Every Animal Named After Sir David Attenborough",
+      "channel": "Henry the PaleoGuy",
+      "channelId": "UCN1rSOJNzfjzPOsPXRI-hGA",
+      "durationSec": 1554,
+      "publishedAt": "2026-08-02T01:00:10Z",
+      "topics": [
+        "science",
+        "animals",
+        "nature"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/i4jLT0NtdwU/hqdefault.jpg"
+    },
+    {
       "id": "XtLxQbrrncE",
       "title": "The New Zealand Garden Bird Survey 2026 - How You Can Get Involved!",
       "channel": "Henry the PaleoGuy",
@@ -57717,23 +57795,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/el5AXv1rc_8/hqdefault.jpg"
-    },
-    {
-      "id": "F1R9S71udm0",
-      "title": "PaleoRewind - July 2025 | Bulky Dromaeosaurs, Arboreal Tuatara Relatives, & More!",
-      "channel": "Henry the PaleoGuy",
-      "channelId": "UCN1rSOJNzfjzPOsPXRI-hGA",
-      "durationSec": 625,
-      "publishedAt": "2026-01-01T01:26:03Z",
-      "topics": [
-        "science",
-        "animals",
-        "nature"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/F1R9S71udm0/hqdefault.jpg"
     },
     {
       "id": "tHrXu51N5YI",
@@ -65836,6 +65897,22 @@
       "thumbnail": "https://i.ytimg.com/vi/oF3z_tNVllU/hqdefault.jpg"
     },
     {
+      "id": "z7LvjVRHojo",
+      "title": "Better than MiracleGro: Make Fertilizer from Nettles",
+      "channel": "GrowVeg",
+      "channelId": "UC9r61qohBg1qgGty4_WzojA",
+      "durationSec": 781,
+      "publishedAt": "2026-08-01T14:45:22Z",
+      "topics": [
+        "nature",
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/z7LvjVRHojo/hqdefault.jpg"
+    },
+    {
       "id": "A9OLdnWuA5U",
       "title": "The 5 Seeds You MUST Start in August",
       "channel": "GrowVeg",
@@ -66442,22 +66519,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/jNbLM6BhtfE/hqdefault.jpg"
-    },
-    {
-      "id": "54V22h1jF5A",
-      "title": "Dry Dusty Yard to Lush Paradise Garden: How He Did It",
-      "channel": "GrowVeg",
-      "channelId": "UC9r61qohBg1qgGty4_WzojA",
-      "durationSec": 1504,
-      "publishedAt": "2025-11-01T15:45:00Z",
-      "topics": [
-        "nature",
-        "science"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/54V22h1jF5A/hqdefault.jpg"
     },
     {
       "id": "ZRWb5L-RjBc",
@@ -69815,6 +69876,23 @@
       "thumbnail": "https://i.ytimg.com/vi/DCxHQN7DZfc/hqdefault.jpg"
     },
     {
+      "id": "0mCbvdpOJP4",
+      "title": "Santiam Pass Tuyas w/ Adam Kent & Daniele McKay",
+      "channel": "Nick Zentner",
+      "channelId": "UC4szl4Ra1ZD3m80wJP40UBA",
+      "durationSec": 1745,
+      "publishedAt": "2026-08-01T12:00:13Z",
+      "topics": [
+        "science",
+        "geography",
+        "history"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/0mCbvdpOJP4/hqdefault.jpg"
+    },
+    {
       "id": "zDsDfUN4DbA",
       "title": "Geology Camp! - Bronze Chapter Event",
       "channel": "Nick Zentner",
@@ -70646,23 +70724,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/MLjkSU5kLsw/hqdefault.jpg"
-    },
-    {
-      "id": "pCbgXFKrQtQ",
-      "title": "Seattle Fault - 2 Minute Geology",
-      "channel": "Nick Zentner",
-      "channelId": "UC4szl4Ra1ZD3m80wJP40UBA",
-      "durationSec": 222,
-      "publishedAt": "2026-02-27T13:22:20Z",
-      "topics": [
-        "science",
-        "geography",
-        "history"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/pCbgXFKrQtQ/hqdefault.jpg"
     },
     {
       "id": "ShEzlXZPpPM",
@@ -77510,6 +77571,24 @@
       "thumbnail": "https://i.ytimg.com/vi/CLFvkdtswz0/hqdefault.jpg"
     },
     {
+      "id": "44q0kBHqlEo",
+      "title": "South Australia Dive Expedition | BLUE WORLD DOCUMENTARY",
+      "channel": "BlueWorldTV",
+      "channelId": "UCFH-Qa1s6rQRTrQjFg8N84Q",
+      "durationSec": 2181,
+      "publishedAt": "2026-08-01T14:00:10Z",
+      "topics": [
+        "animals",
+        "nature",
+        "exploration"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/44q0kBHqlEo/hqdefault.jpg"
+    },
+    {
       "id": "vpouZ35uE6o",
       "title": "Belize Dive Expedition! | BLUE WORLD DOCUMENTARY",
       "channel": "BlueWorldTV",
@@ -78392,24 +78471,6 @@
       "thumbnail": "https://i.ytimg.com/vi/-JHY0M_3IZw/hqdefault.jpg"
     },
     {
-      "id": "PHyb3vNVGOI",
-      "title": "LIVE with Dive Talk",
-      "channel": "BlueWorldTV",
-      "channelId": "UCFH-Qa1s6rQRTrQjFg8N84Q",
-      "durationSec": 955,
-      "publishedAt": "2023-01-07T23:20:17Z",
-      "topics": [
-        "animals",
-        "nature",
-        "exploration"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/PHyb3vNVGOI/hqdefault.jpg"
-    },
-    {
       "id": "EJftnccy4b8",
       "title": "What's Causing a Surge of Great White Sharks in California? A Marine Biologist Reacts",
       "channel": "KPassionate",
@@ -78539,7 +78600,7 @@
     },
     {
       "id": "Y5ha3I5cSZw",
-      "title": "Megalodon Hunted Prehistoric Elephants... And Anything Else It Wanted!",
+      "title": "Fossils Prove Megalodon Ate Prehistoric Elephants (and Everything Else)!",
       "channel": "KPassionate",
       "channelId": "UCUvSqEH92Fqn9uw1kmCfLGA",
       "durationSec": 759,
@@ -79179,7 +79240,7 @@
     },
     {
       "id": "RXHY1ZHDczI",
-      "title": "The CIA Wanted to Use Sea Otters As Spies",
+      "title": "CIA Found Sea Otters Make the Best Secret Agents",
       "channel": "KPassionate",
       "channelId": "UCUvSqEH92Fqn9uw1kmCfLGA",
       "durationSec": 505,
@@ -80740,6 +80801,22 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/NS8Q9LUIKA8/hqdefault.jpg"
+    },
+    {
+      "id": "1WmiFe8Fg2U",
+      "title": "Top Physics Toys of the Week | Episode 5",
+      "channel": "physicsfun",
+      "channelId": "UCVs-1uGf7DWid0GNWgPWLzw",
+      "durationSec": 482,
+      "publishedAt": "2026-08-01T11:30:24Z",
+      "topics": [
+        "science"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/1WmiFe8Fg2U/hqdefault.jpg"
     },
     {
       "id": "PN9M_6LfJBc",
@@ -83034,6 +83111,38 @@
       "thumbnail": "https://i.ytimg.com/vi/GLVhXClV5QU/hqdefault.jpg"
     },
     {
+      "id": "cD_3yuq-PzA",
+      "title": "Different Smells, Hand Painting & MORE! | Explore the Big Wide World",
+      "channel": "Peep and the Big Wide World",
+      "channelId": "UCPq6g4Q4-SFMIJ048IXmupA",
+      "durationSec": 2113,
+      "publishedAt": "2026-08-01T19:00:13Z",
+      "topics": [
+        "science",
+        "nature"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/cD_3yuq-PzA/hqdefault.jpg"
+    },
+    {
+      "id": "aZNwzvhPzgQ",
+      "title": "The Incredible Shrinking Duck | Peep and the Big Wide World",
+      "channel": "Peep and the Big Wide World",
+      "channelId": "UCPq6g4Q4-SFMIJ048IXmupA",
+      "durationSec": 646,
+      "publishedAt": "2026-08-01T15:00:25Z",
+      "topics": [
+        "science",
+        "nature"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/aZNwzvhPzgQ/hqdefault.jpg"
+    },
+    {
       "id": "9zpCaMnGK_8",
       "title": "Birds of a Feather | Peep and the Big Wide World",
       "channel": "Peep and the Big Wide World",
@@ -83608,38 +83717,6 @@
         "little"
       ],
       "thumbnail": "https://i.ytimg.com/vi/uqKxDzPacfg/hqdefault.jpg"
-    },
-    {
-      "id": "xvL4Rzip314",
-      "title": "Spring Thing | Peep and the Big Wide World",
-      "channel": "Peep and the Big Wide World",
-      "channelId": "UCPq6g4Q4-SFMIJ048IXmupA",
-      "durationSec": 645,
-      "publishedAt": "2026-06-29T15:00:21Z",
-      "topics": [
-        "science",
-        "nature"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/xvL4Rzip314/hqdefault.jpg"
-    },
-    {
-      "id": "RyV5moqsRHU",
-      "title": "PEEP Family Science: Learning Science Offline for Preschoolers | WEBINAR",
-      "channel": "Peep and the Big Wide World",
-      "channelId": "UCPq6g4Q4-SFMIJ048IXmupA",
-      "durationSec": 1632,
-      "publishedAt": "2019-02-26T19:27:31Z",
-      "topics": [
-        "science",
-        "nature"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/RyV5moqsRHU/hqdefault.jpg"
     },
     {
       "id": "_-t3zhkntyU",
@@ -84598,8 +84675,8 @@
       "title": "Deep Dive w/Scott: Flashing ESP over USB IP #adafruit",
       "channel": "Adafruit Industries",
       "channelId": "UCpOlOeQjj7EsVnDh3zuCgsA",
-      "durationSec": 3972,
-      "publishedAt": "2026-07-31T17:52:02Z",
+      "durationSec": 3964,
+      "publishedAt": "2026-08-01T10:26:18Z",
       "topics": [
         "making",
         "tech",
@@ -85024,24 +85101,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/DugWjXK91ao/hqdefault.jpg"
-    },
-    {
-      "id": "nDJQOSiZ0Gc",
-      "title": "Deep Dive w/ Tim: picogame on Fruit Jam + Working on USB Gamepad Input",
-      "channel": "Adafruit Industries",
-      "channelId": "UCpOlOeQjj7EsVnDh3zuCgsA",
-      "durationSec": 4439,
-      "publishedAt": "2026-07-15T04:31:50Z",
-      "topics": [
-        "making",
-        "tech",
-        "engineering",
-        "coding"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/nDJQOSiZ0Gc/hqdefault.jpg"
     },
     {
       "id": "KywMP9_SyRg",
@@ -86878,23 +86937,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/Jo5TZjypf2k/hqdefault.jpg"
-    },
-    {
-      "id": "21LFz4jP6ig",
-      "title": "Sleepy Train | Bedtime Relaxation Stories for Kids | Cosmic Kids",
-      "channel": "Cosmic Kids Yoga",
-      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
-      "durationSec": 360,
-      "publishedAt": "2026-06-04T13:34:35Z",
-      "topics": [
-        "reading",
-        "nature"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/21LFz4jP6ig/hqdefault.jpg"
     },
     {
       "id": "xm_GCZKltLA",
