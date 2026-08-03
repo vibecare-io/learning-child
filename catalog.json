@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-02T10:24:21.751Z",
+  "generatedAt": "2026-08-03T12:11:08.456Z",
   "profiles": {
     "little": {
       "label": "Ages 3-7"
@@ -131,6 +131,38 @@
       "thumbnail": "https://i.ytimg.com/vi/kKqd0_cydZM/hqdefault.jpg"
     },
     {
+      "id": "2dmaCb5sf9w",
+      "title": "Sharks Found Where?! | Full Episode Compilation | SHARKFEST 🦈 | Nat Geo Kids",
+      "channel": "Nat Geo Kids",
+      "channelId": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "durationSec": 7873,
+      "publishedAt": "2026-08-03T11:00:08Z",
+      "topics": [
+        "animals",
+        "science"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/2dmaCb5sf9w/hqdefault.jpg"
+    },
+    {
+      "id": "nmh5ot2F6gM",
+      "title": "Super Strange Animals 😲 | Super Animals Full Episode | Nat Geo Kids",
+      "channel": "Nat Geo Kids",
+      "channelId": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "durationSec": 1265,
+      "publishedAt": "2026-08-02T11:00:24Z",
+      "topics": [
+        "animals",
+        "science"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/nmh5ot2F6gM/hqdefault.jpg"
+    },
+    {
       "id": "xlXtt3IRckY",
       "title": "Learn the Secrets of Baby Lions! 🦁✨ Animal Facts for Kids | Nat Geo Kids",
       "channel": "Nat Geo Kids",
@@ -177,38 +209,6 @@
         "little"
       ],
       "thumbnail": "https://i.ytimg.com/vi/lnB4Plxl_ps/hqdefault.jpg"
-    },
-    {
-      "id": "hq3n3J1NmBg",
-      "title": "Weird But True Full Episode | Plants, Plants Everywhere🪴🌱 | Nat Geo Kids",
-      "channel": "Nat Geo Kids",
-      "channelId": "UCXVCgDuD_QCkI7gTKU7-tpg",
-      "durationSec": 2643,
-      "publishedAt": "2026-07-27T11:00:03Z",
-      "topics": [
-        "animals",
-        "science"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/hq3n3J1NmBg/hqdefault.jpg"
-    },
-    {
-      "id": "N_7uBiy3yl8",
-      "title": "Mystery of the Sharks in the Bermuda Triangle 🤔 | Full Episode | SHARKFEST 🦈 | Nat Geo Kids",
-      "channel": "Nat Geo Kids",
-      "channelId": "UCXVCgDuD_QCkI7gTKU7-tpg",
-      "durationSec": 2642,
-      "publishedAt": "2026-07-26T11:00:27Z",
-      "topics": [
-        "animals",
-        "science"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/N_7uBiy3yl8/hqdefault.jpg"
     },
     {
       "id": "NB_9dHGxnjU",
@@ -620,6 +620,21 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/l6DKRf-fAAM/hqdefault.jpg"
+    },
+    {
+      "id": "wt4p2oalmRY",
+      "title": "Is spider silk really stronger than steel?",
+      "channel": "Veritasium",
+      "channelId": "UCHnyfMqiRRG1u-2MsSQLbXA",
+      "durationSec": 1618,
+      "publishedAt": "2026-08-02T13:21:11Z",
+      "topics": [
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/wt4p2oalmRY/hqdefault.jpg"
     },
     {
       "id": "tL9Lw250spc",
@@ -6076,6 +6091,21 @@
       "thumbnail": "https://i.ytimg.com/vi/X25OGdciJOQ/hqdefault.jpg"
     },
     {
+      "id": "R6Weziw_4O0",
+      "title": "The journey of Sophie Adenot's bonus food",
+      "channel": "European Space Agency, ESA",
+      "channelId": "UCIBaDdAbGlFDeS33shmlD0A",
+      "durationSec": 345,
+      "publishedAt": "2026-08-03T12:00:26Z",
+      "topics": [
+        "space"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/R6Weziw_4O0/hqdefault.jpg"
+    },
+    {
       "id": "NuBIAAG6MTM",
       "title": "What happened this month at European Space Agency (July 2026)",
       "channel": "European Space Agency, ESA",
@@ -6107,7 +6137,7 @@
     },
     {
       "id": "8JspqaxSt2M",
-      "title": "Why total solar eclipses are so special",
+      "title": "Total solar eclipse explained",
       "channel": "European Space Agency, ESA",
       "channelId": "UCIBaDdAbGlFDeS33shmlD0A",
       "durationSec": 435,
@@ -6391,36 +6421,6 @@
       "thumbnail": "https://i.ytimg.com/vi/Y-pFR1uowz8/hqdefault.jpg"
     },
     {
-      "id": "f457U82D6EY",
-      "title": "Ariane 6 flight VA269 – bigger and more powerful boosters (Official broadcast)",
-      "channel": "European Space Agency, ESA",
-      "channelId": "UCIBaDdAbGlFDeS33shmlD0A",
-      "durationSec": 10725,
-      "publishedAt": "2026-06-17T15:22:12Z",
-      "topics": [
-        "space"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/f457U82D6EY/hqdefault.jpg"
-    },
-    {
-      "id": "HsaT6Ps79Bo",
-      "title": "Launch of the first Ariane 6 with its most powerful boosters",
-      "channel": "European Space Agency, ESA",
-      "channelId": "UCIBaDdAbGlFDeS33shmlD0A",
-      "durationSec": 218,
-      "publishedAt": "2026-06-17T12:51:31Z",
-      "topics": [
-        "space"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/HsaT6Ps79Bo/hqdefault.jpg"
-    },
-    {
       "id": "fv5lJjR6DmQ",
       "title": "We’ve Seen the Sun’s Inner Corona For the First Time",
       "channel": "Astrum",
@@ -6454,7 +6454,7 @@
     },
     {
       "id": "1eEjHl3cM0E",
-      "title": "How Titan Totally Changed the Saturn System",
+      "title": "What Titan Did to Saturn Shocked Me",
       "channel": "Astrum",
       "channelId": "UC-9b7aDP6ZN0coj9-xFnrtw",
       "durationSec": 1290,
@@ -6614,7 +6614,7 @@
     },
     {
       "id": "zTGa1ynqNTs",
-      "title": "The 500-Million-Year-Old Evidence That Earth Had Rings",
+      "title": "These Impacts Along Earth’s Equator Have a Shocking Explanation",
       "channel": "Astrum",
       "channelId": "UC-9b7aDP6ZN0coj9-xFnrtw",
       "durationSec": 1511,
@@ -11336,7 +11336,7 @@
     },
     {
       "id": "aqWg6E4fTqA",
-      "title": "Flew a subscriber to my studio after hearing one demo!",
+      "title": "Subscriber's demo was so good I flew her to my studio",
       "channel": "ANDREW HUANG",
       "channelId": "UCdcemy56JtVTrsFIOoqvV8g",
       "durationSec": 1393,
@@ -13373,7 +13373,7 @@
       "title": "How to Draw a Sabretooth Tiger 🔴 LIVE session",
       "channel": "Cartooning Club How to Draw",
       "channelId": "UC-biucJWhM8HwjsQ96uoIUw",
-      "durationSec": 4805,
+      "durationSec": 4280,
       "publishedAt": "2026-08-01T06:44:25Z",
       "topics": [
         "art",
@@ -15355,23 +15355,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/7Culj68u-KU/hqdefault.jpg"
-    },
-    {
-      "id": "vh4lj3Nm9g8",
-      "title": "Learn Crochet Basics: Double Crochet How To (DC)",
-      "channel": "Red Ted Art (Maggy Woodley)",
-      "channelId": "UCjjRFKvjpU1L1eDmfBWcqig",
-      "durationSec": 213,
-      "publishedAt": "2026-01-09T08:01:19Z",
-      "topics": [
-        "making",
-        "art"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/vh4lj3Nm9g8/hqdefault.jpg"
     },
     {
       "id": "475v4RiI--U",
@@ -31199,6 +31182,21 @@
       "thumbnail": "https://i.ytimg.com/vi/0R5qSD1FJQo/hqdefault.jpg"
     },
     {
+      "id": "-1WEie8vWIs",
+      "title": "Phonetic Sounds from A to Z | Learn to Read and Spell for Kids Compilation | Alphablocks",
+      "channel": "Alphablocks",
+      "channelId": "UC_qs3c0ehDvZkbiEbOj6Drg",
+      "durationSec": 1935,
+      "publishedAt": "2026-08-02T11:00:35Z",
+      "topics": [
+        "reading"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/-1WEie8vWIs/hqdefault.jpg"
+    },
+    {
       "id": "e33JKhyvT-c",
       "title": "Super Saturday Morning Cartoons | Learn to Read and Spell for Kids Compilation | Alphablocks",
       "channel": "Alphablocks",
@@ -31737,21 +31735,6 @@
         "little"
       ],
       "thumbnail": "https://i.ytimg.com/vi/_pvJk1L1dCA/hqdefault.jpg"
-    },
-    {
-      "id": "6Zn5KLpBhj0",
-      "title": "Find all the Animals in Alphaland! | Learn to Read and Spell for Kids Compilation | Alphablocks",
-      "channel": "Alphablocks",
-      "channelId": "UC_qs3c0ehDvZkbiEbOj6Drg",
-      "durationSec": 2225,
-      "publishedAt": "2026-05-09T11:00:00Z",
-      "topics": [
-        "reading"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/6Zn5KLpBhj0/hqdefault.jpg"
     },
     {
       "id": "WMLv7Qxe6dA",
@@ -39582,6 +39565,22 @@
       "thumbnail": "https://i.ytimg.com/vi/JbXtXXDdN-E/hqdefault.jpg"
     },
     {
+      "id": "MxHjUcVNFEg",
+      "title": "The Battle of Cannae (216 BC) FULL DOCUMENTARY",
+      "channel": "Invicta",
+      "channelId": "UCwO-UgquohXwoe7f0e6lMnw",
+      "durationSec": 6203,
+      "publishedAt": "2026-08-02T20:35:55Z",
+      "topics": [
+        "history",
+        "engineering"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/MxHjUcVNFEg/hqdefault.jpg"
+    },
+    {
       "id": "lMoJuddFR_Q",
       "title": "Insane Unit Customization for Total War: Warhammer 40,000 (DEEP DIVE)",
       "channel": "Invicta",
@@ -40364,22 +40363,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/y8LN9ZIAwWU/hqdefault.jpg"
-    },
-    {
-      "id": "7e91Y4iVOH8",
-      "title": "True Size of the Krieg Artillery Korp [999.M41] 3D Documentary",
-      "channel": "Invicta",
-      "channelId": "UCwO-UgquohXwoe7f0e6lMnw",
-      "durationSec": 1783,
-      "publishedAt": "2025-02-28T22:48:33Z",
-      "topics": [
-        "history",
-        "engineering"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/7e91Y4iVOH8/hqdefault.jpg"
     },
     {
       "id": "UdxiyQAcwfM",
@@ -41182,6 +41165,22 @@
       "thumbnail": "https://i.ytimg.com/vi/2pG1YDEGmXc/hqdefault.jpg"
     },
     {
+      "id": "QHZH-sQ7dyo",
+      "title": "The Award-Winning White City Station",
+      "channel": "Jago Hazzard",
+      "channelId": "UCcHuNKYzVMc06FXqsBEAV3A",
+      "durationSec": 736,
+      "publishedAt": "2026-08-02T11:00:33Z",
+      "topics": [
+        "history",
+        "geography"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/QHZH-sQ7dyo/hqdefault.jpg"
+    },
+    {
       "id": "_VA-_svV_Bs",
       "title": "Colours of the Tube: Metropolitan Magenta",
       "channel": "Jago Hazzard",
@@ -41966,20 +41965,20 @@
       "thumbnail": "https://i.ytimg.com/vi/gDDAGFhMKxU/hqdefault.jpg"
     },
     {
-      "id": "NO0H1HLYcRg",
-      "title": "How Neville Chamberlain Saved London Transport",
-      "channel": "Jago Hazzard",
-      "channelId": "UCcHuNKYzVMc06FXqsBEAV3A",
-      "durationSec": 517,
-      "publishedAt": "2026-04-08T16:30:00Z",
+      "id": "E_SJ1NBMrH0",
+      "title": "Is This Peak Hot-Weather Urbanism?",
+      "channel": "Not Just Bikes",
+      "channelId": "UC0intLFzLaudFG-xAvUEO-A",
+      "durationSec": 2034,
+      "publishedAt": "2026-08-02T12:41:13Z",
       "topics": [
-        "history",
-        "geography"
+        "geography",
+        "engineering"
       ],
       "profiles": [
         "big"
       ],
-      "thumbnail": "https://i.ytimg.com/vi/NO0H1HLYcRg/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/E_SJ1NBMrH0/hqdefault.jpg"
     },
     {
       "id": "0s86kEUxxak",
@@ -54864,7 +54863,7 @@
       "title": "The Menopause Gut: Understand How to Respond to Changing Hormones in Your 40s [Ep 118]",
       "channel": "Katie Kimball",
       "channelId": "UCT1B3Tb7Bit_S7EWkhSba4A",
-      "durationSec": 1783,
+      "durationSec": 1784,
       "publishedAt": "2026-04-21T10:00:06Z",
       "topics": [
         "making",
@@ -65033,6 +65032,22 @@
       "thumbnail": "https://i.ytimg.com/vi/hTPjZ-yt_3Y/hqdefault.jpg"
     },
     {
+      "id": "pDBvtsvFGyM",
+      "title": "Venus Flytrap Care Evolved: Advanced Tips For Massive Traps & Growth",
+      "channel": "Carnivorous Plants Hub",
+      "channelId": "UCtdFyx2wj8dysinQuyNTX3Q",
+      "durationSec": 1422,
+      "publishedAt": "2026-08-02T13:32:54Z",
+      "topics": [
+        "nature",
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/pDBvtsvFGyM/hqdefault.jpg"
+    },
+    {
       "id": "WpJimssCwl8",
       "title": "Complete Cape Sundew Care Guide: Grow Drosera Capensis Like a Pro",
       "channel": "Carnivorous Plants Hub",
@@ -65703,22 +65718,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/7VrPrvQwpzI/hqdefault.jpg"
-    },
-    {
-      "id": "u6yPg0-qOS4",
-      "title": "Mystery Venus Flytrap & Sarracenia Pitcher Pitcher Unboxing From Casey's Carnivores",
-      "channel": "Carnivorous Plants Hub",
-      "channelId": "UCtdFyx2wj8dysinQuyNTX3Q",
-      "durationSec": 865,
-      "publishedAt": "2024-11-10T15:15:04Z",
-      "topics": [
-        "nature",
-        "science"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/u6yPg0-qOS4/hqdefault.jpg"
     },
     {
       "id": "hRQz4MU9EyU",
@@ -66521,6 +66520,22 @@
       "thumbnail": "https://i.ytimg.com/vi/jNbLM6BhtfE/hqdefault.jpg"
     },
     {
+      "id": "0fiow6u_rH8",
+      "title": "FLOWER FARM FLASH FLOOD DISASTER",
+      "channel": "Guiding Green Thumbs",
+      "channelId": "UCcgYyMRPW7z4fbJabbSWQ8g",
+      "durationSec": 2460,
+      "publishedAt": "2026-08-02T11:46:17Z",
+      "topics": [
+        "nature",
+        "making"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/0fiow6u_rH8/hqdefault.jpg"
+    },
+    {
       "id": "ZRWb5L-RjBc",
       "title": "EXPANDING THE FLOWER FIELD GARDENS",
       "channel": "Guiding Green Thumbs",
@@ -67303,22 +67318,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/0rF9E8YLa14/hqdefault.jpg"
-    },
-    {
-      "id": "o_CvkjsMrO4",
-      "title": "PUMPKIN PATCH GARDEN TOUR / FERTILIZING THE DAHLIA FIELDS",
-      "channel": "Guiding Green Thumbs",
-      "channelId": "UCcgYyMRPW7z4fbJabbSWQ8g",
-      "durationSec": 1935,
-      "publishedAt": "2025-08-13T11:15:11Z",
-      "topics": [
-        "nature",
-        "making"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/o_CvkjsMrO4/hqdefault.jpg"
     },
     {
       "id": "-eQJ7mwMMeI",
@@ -68439,7 +68438,7 @@
     },
     {
       "id": "531KvKpBhiE",
-      "title": "5 of the Most Iconic Cliffs on Earth & Their Geologic Story",
+      "title": "5 of the Most Iconic Cliffs on Earth & Their Geologic Story | GEO GIRL",
       "channel": "GEO GIRL",
       "channelId": "UC5uH43CVzGWg9XGYGuLwI_w",
       "durationSec": 600,
@@ -69173,19 +69172,20 @@
       "thumbnail": "https://i.ytimg.com/vi/0j6QQ-Tlzvo/hqdefault.jpg"
     },
     {
-      "id": "3OhYbkHi5-8",
-      "title": "Life as a Mining Geologist w/Jess Scanlan (@minelifemediallc) | GEO GIRL",
-      "channel": "GEO GIRL",
-      "channelId": "UC5uH43CVzGWg9XGYGuLwI_w",
-      "durationSec": 2883,
-      "publishedAt": "2025-06-08T13:30:06Z",
+      "id": "LUX6HbA6hxg",
+      "title": "Campi Flegrei Volcano Update; Strongest Volcanic Earthquake on Record Hits",
+      "channel": "GeologyHub",
+      "channelId": "UCYeGh5VML5XPr5jYnzh3J6g",
+      "durationSec": 483,
+      "publishedAt": "2026-08-02T18:00:09Z",
       "topics": [
-        "science"
+        "science",
+        "geography"
       ],
       "profiles": [
         "big"
       ],
-      "thumbnail": "https://i.ytimg.com/vi/3OhYbkHi5-8/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/LUX6HbA6hxg/hqdefault.jpg"
     },
     {
       "id": "R2AbftWH-Oc",
@@ -75080,6 +75080,22 @@
       "thumbnail": "https://i.ytimg.com/vi/P4IQy8juWGY/hqdefault.jpg"
     },
     {
+      "id": "4W1--yClhcE",
+      "title": "Medieval Castles, Trapped Sheep & Total Exhaustion [Shropshire #2]",
+      "channel": "GeoWizard",
+      "channelId": "UCW5OrUZ4SeUYkUg1XqcjFYA",
+      "durationSec": 2775,
+      "publishedAt": "2026-08-03T11:06:05Z",
+      "topics": [
+        "geography",
+        "exploration"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/4W1--yClhcE/hqdefault.jpg"
+    },
+    {
       "id": "voHG2EJZVLU",
       "title": "Can I walk across England's most Tolkien-esque county using only footpaths?",
       "channel": "GeoWizard",
@@ -75862,22 +75878,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/XJ_DfNOGcWo/hqdefault.jpg"
-    },
-    {
-      "id": "AJzUo-uEKos",
-      "title": "The most fun I've had in a long time [Perfect score on Timeguessr using Google]",
-      "channel": "GeoWizard",
-      "channelId": "UCW5OrUZ4SeUYkUg1XqcjFYA",
-      "durationSec": 1862,
-      "publishedAt": "2024-09-14T19:00:06Z",
-      "topics": [
-        "geography",
-        "exploration"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/AJzUo-uEKos/hqdefault.jpg"
     },
     {
       "id": "GdgohyQeKMc",
@@ -78471,6 +78471,22 @@
       "thumbnail": "https://i.ytimg.com/vi/-JHY0M_3IZw/hqdefault.jpg"
     },
     {
+      "id": "XbjuqRl7oks",
+      "title": "Marine Biologist AMA",
+      "channel": "KPassionate",
+      "channelId": "UCUvSqEH92Fqn9uw1kmCfLGA",
+      "durationSec": 4037,
+      "publishedAt": "2026-08-03T00:18:51Z",
+      "topics": [
+        "animals",
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/XbjuqRl7oks/hqdefault.jpg"
+    },
+    {
       "id": "EJftnccy4b8",
       "title": "What's Causing a Surge of Great White Sharks in California? A Marine Biologist Reacts",
       "channel": "KPassionate",
@@ -78600,7 +78616,7 @@
     },
     {
       "id": "Y5ha3I5cSZw",
-      "title": "Fossils Prove Megalodon Ate Prehistoric Elephants (and Everything Else)!",
+      "title": "These Fossils Prove MEGALODON Ate Prehistoric Elephants (and Everything Else)!",
       "channel": "KPassionate",
       "channelId": "UCUvSqEH92Fqn9uw1kmCfLGA",
       "durationSec": 759,
@@ -79253,22 +79269,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/RXHY1ZHDczI/hqdefault.jpg"
-    },
-    {
-      "id": "PXsBmDKevEk",
-      "title": "Debunking Dominance Theory: The Truth About Alpha Dogs",
-      "channel": "KPassionate",
-      "channelId": "UCUvSqEH92Fqn9uw1kmCfLGA",
-      "durationSec": 546,
-      "publishedAt": "2023-11-25T14:16:41Z",
-      "topics": [
-        "animals",
-        "science"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/PXsBmDKevEk/hqdefault.jpg"
     },
     {
       "id": "GoQ-yGKrRgo",
@@ -83111,6 +83111,22 @@
       "thumbnail": "https://i.ytimg.com/vi/GLVhXClV5QU/hqdefault.jpg"
     },
     {
+      "id": "_8ey1TGcJXo",
+      "title": "Chirp is Trying to Fly!🪽 | Peep and the Big Wide World",
+      "channel": "Peep and the Big Wide World",
+      "channelId": "UCPq6g4Q4-SFMIJ048IXmupA",
+      "durationSec": 3801,
+      "publishedAt": "2026-08-02T15:00:06Z",
+      "topics": [
+        "science",
+        "nature"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/_8ey1TGcJXo/hqdefault.jpg"
+    },
+    {
       "id": "cD_3yuq-PzA",
       "title": "Different Smells, Hand Painting & MORE! | Explore the Big Wide World",
       "channel": "Peep and the Big Wide World",
@@ -83701,22 +83717,6 @@
         "little"
       ],
       "thumbnail": "https://i.ytimg.com/vi/mFW839gA6yw/hqdefault.jpg"
-    },
-    {
-      "id": "uqKxDzPacfg",
-      "title": "Springy Thingy | Peep and the Big Wide World",
-      "channel": "Peep and the Big Wide World",
-      "channelId": "UCPq6g4Q4-SFMIJ048IXmupA",
-      "durationSec": 646,
-      "publishedAt": "2026-06-30T15:00:14Z",
-      "topics": [
-        "science",
-        "nature"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/uqKxDzPacfg/hqdefault.jpg"
     },
     {
       "id": "_-t3zhkntyU",
@@ -85083,24 +85083,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/bXsjkMFV3KI/hqdefault.jpg"
-    },
-    {
-      "id": "DugWjXK91ao",
-      "title": "JP’s Product Pick of the Week 7/14/26",
-      "channel": "Adafruit Industries",
-      "channelId": "UCpOlOeQjj7EsVnDh3zuCgsA",
-      "durationSec": 1211,
-      "publishedAt": "2026-07-15T10:26:48Z",
-      "topics": [
-        "making",
-        "tech",
-        "engineering",
-        "coding"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/DugWjXK91ao/hqdefault.jpg"
     },
     {
       "id": "KywMP9_SyRg",
@@ -86922,23 +86904,6 @@
       "thumbnail": "https://i.ytimg.com/vi/rphLR-_bLFA/hqdefault.jpg"
     },
     {
-      "id": "Jo5TZjypf2k",
-      "title": "Snowman | Bedtime Relaxation Stories for Kids | Cosmic Kids",
-      "channel": "Cosmic Kids Yoga",
-      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
-      "durationSec": 522,
-      "publishedAt": "2026-06-04T13:34:36Z",
-      "topics": [
-        "reading",
-        "nature"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/Jo5TZjypf2k/hqdefault.jpg"
-    },
-    {
       "id": "xm_GCZKltLA",
       "title": "Sleep Story for Kids | THE SLUG WHO HUGGED | Sleep Meditation for Children",
       "channel": "New Horizon - Meditation & Sleep Stories",
@@ -87789,6 +87754,22 @@
       "thumbnail": "https://i.ytimg.com/vi/Ilr2DjYOfqA/hqdefault.jpg"
     },
     {
+      "id": "I3MOtV7J82o",
+      "title": "Number of the Day Song with Elmo & Puppy! 🐶 Count to 20 | Sesame Street",
+      "channel": "Sesame Street",
+      "channelId": "UCoookXUzPciGrEZEXmh4Jjg",
+      "durationSec": 1412,
+      "publishedAt": "2026-08-02T11:30:18Z",
+      "topics": [
+        "reading",
+        "music"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/I3MOtV7J82o/hqdefault.jpg"
+    },
+    {
       "id": "C_Qfr56WG48",
       "title": "Time to Count with Elmo and Friends 🔢 | FOUR Sesame Street Full Episodes",
       "channel": "Sesame Street",
@@ -88171,22 +88152,6 @@
         "little"
       ],
       "thumbnail": "https://i.ytimg.com/vi/wYEUS44DHpI/hqdefault.jpg"
-    },
-    {
-      "id": "vI4rUpu_L_w",
-      "title": "Elmo's Fire Truck Songs! 🚒🧑‍🚒  | Sesame Street | 27 Mins",
-      "channel": "Sesame Street",
-      "channelId": "UCoookXUzPciGrEZEXmh4Jjg",
-      "durationSec": 1611,
-      "publishedAt": "2026-05-31T11:30:01Z",
-      "topics": [
-        "reading",
-        "music"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/vI4rUpu_L_w/hqdefault.jpg"
     },
     {
       "id": "HFeAU-KloOo",
