@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-04T11:14:15.816Z",
+  "generatedAt": "2026-08-05T11:10:51.967Z",
   "profiles": {
     "little": {
       "label": "Ages 3-7"
@@ -211,6 +211,21 @@
       "thumbnail": "https://i.ytimg.com/vi/lnB4Plxl_ps/hqdefault.jpg"
     },
     {
+      "id": "co3ARKnKJBk",
+      "title": "How To Draw A Funny Cookie Dunking Into Milk",
+      "channel": "Art for Kids Hub",
+      "channelId": "UC5XMF3Inoi8R9nSI8ChOsdQ",
+      "durationSec": 517,
+      "publishedAt": "2026-08-04T14:00:08Z",
+      "topics": [
+        "art"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/co3ARKnKJBk/hqdefault.jpg"
+    },
+    {
       "id": "-ZtZrnxgm3k",
       "title": "How To Draw Funny Fruit Friends",
       "channel": "Art for Kids Hub",
@@ -271,21 +286,6 @@
       "thumbnail": "https://i.ytimg.com/vi/gT5UBriKUCs/hqdefault.jpg"
     },
     {
-      "id": "NwYgv1ghdYQ",
-      "title": "How To Draw Pandy Paws From Gabby's Dollhouse",
-      "channel": "Art for Kids Hub",
-      "channelId": "UC5XMF3Inoi8R9nSI8ChOsdQ",
-      "durationSec": 583,
-      "publishedAt": "2026-07-28T14:00:38Z",
-      "topics": [
-        "art"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/NwYgv1ghdYQ/hqdefault.jpg"
-    },
-    {
       "id": "L7K8n_uZrWY",
       "title": "Who is the Hide and Seek Champion? | Learn to Count for Kids | Number Cartoon | Numberblocks",
       "channel": "Numberblocks",
@@ -331,19 +331,20 @@
       "thumbnail": "https://i.ytimg.com/vi/EbLA1gsJYEI/hqdefault.jpg"
     },
     {
-      "id": "xJ_mQ8jsZK8",
-      "title": "Numberblocks Academy - Learn Math! | Learn to Count for Kids Compilation |  | Numberblocks",
-      "channel": "Numberblocks",
-      "channelId": "UCPlwvN0w4qFSP1FllALB92w",
-      "durationSec": 3775,
-      "publishedAt": "2026-07-30T10:00:25Z",
+      "id": "-61qDRPG3to",
+      "title": "The fastest way to board a plane, according to mathematics - Rachel Yang",
+      "channel": "TED-Ed",
+      "channelId": "UCsooa4yRKGN_zEE8iknghZA",
+      "durationSec": 358,
+      "publishedAt": "2026-08-04T15:00:09Z",
       "topics": [
-        "maths"
+        "science",
+        "history"
       ],
       "profiles": [
-        "little"
+        "big"
       ],
-      "thumbnail": "https://i.ytimg.com/vi/xJ_mQ8jsZK8/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/-61qDRPG3to/hqdefault.jpg"
     },
     {
       "id": "krNP8RlDsbw",
@@ -426,22 +427,6 @@
       "thumbnail": "https://i.ytimg.com/vi/QIqKGMM8ivM/hqdefault.jpg"
     },
     {
-      "id": "DbEZmLoGDbk",
-      "title": "How a broken heart affects your body",
-      "channel": "TED-Ed",
-      "channelId": "UCsooa4yRKGN_zEE8iknghZA",
-      "durationSec": 318,
-      "publishedAt": "2026-06-25T15:01:31Z",
-      "topics": [
-        "science",
-        "history"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/DbEZmLoGDbk/hqdefault.jpg"
-    },
-    {
       "id": "JEPqrqNqkHw",
       "title": "The Mountain Climbing Theorem - Numberphile",
       "channel": "Numberphile",
@@ -517,6 +502,21 @@
       "thumbnail": "https://i.ytimg.com/vi/6PmuWFWVKDE/hqdefault.jpg"
     },
     {
+      "id": "h2wnaBny4Ig",
+      "title": "Where Is Love Stored in the Body?",
+      "channel": "SciShow",
+      "channelId": "UCZYTClx2T1of7BRZ86-8fow",
+      "durationSec": 482,
+      "publishedAt": "2026-08-04T17:00:33Z",
+      "topics": [
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/h2wnaBny4Ig/hqdefault.jpg"
+    },
+    {
       "id": "JGN6po7Zcsg",
       "title": "Why People Thought \"Aliens\" Made These Rocks",
       "channel": "SciShow",
@@ -560,21 +560,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/pAo6S74huAk/hqdefault.jpg"
-    },
-    {
-      "id": "F0_xwHMbPCA",
-      "title": "Axolotls Are In Danger. Here's Why That's Bad For YOU.",
-      "channel": "SciShow",
-      "channelId": "UCZYTClx2T1of7BRZ86-8fow",
-      "durationSec": 727,
-      "publishedAt": "2026-07-28T17:00:31Z",
-      "topics": [
-        "science"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/F0_xwHMbPCA/hqdefault.jpg"
     },
     {
       "id": "GlYgs6v2YfU",
@@ -695,6 +680,22 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/dquI8khH1Zk/hqdefault.jpg"
+    },
+    {
+      "id": "Cyl3X88KEgg",
+      "title": "Why Humanity Will Never Leave The Solar System",
+      "channel": "Kurzgesagt – In a Nutshell",
+      "channelId": "UCsXVk37bltHxD1rDPwtNM8Q",
+      "durationSec": 848,
+      "publishedAt": "2026-08-04T13:59:53Z",
+      "topics": [
+        "science",
+        "space"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/Cyl3X88KEgg/hqdefault.jpg"
     },
     {
       "id": "PqtggjVAi8M",
@@ -5166,6 +5167,40 @@
       "thumbnail": "https://i.ytimg.com/vi/tIlshNCG6NI/hqdefault.jpg"
     },
     {
+      "id": "mpWTcLv72oE",
+      "title": "NASA Astronaut Chris Williams Postflight News Conference (Aug. 4, 2026)",
+      "channel": "NASA",
+      "channelId": "UCLA_DiR1FfKNvjuUpBHmylQ",
+      "durationSec": 1628,
+      "publishedAt": "2026-08-04T19:13:42Z",
+      "topics": [
+        "space",
+        "exploration"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/mpWTcLv72oE/hqdefault.jpg"
+    },
+    {
+      "id": "Sempwv5MPMQ",
+      "title": "NASA Moon Base: Lunar Landers (August 2026 Update)",
+      "channel": "NASA",
+      "channelId": "UCLA_DiR1FfKNvjuUpBHmylQ",
+      "durationSec": 615,
+      "publishedAt": "2026-08-04T16:03:44Z",
+      "topics": [
+        "space",
+        "exploration"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/Sempwv5MPMQ/hqdefault.jpg"
+    },
+    {
       "id": "x8344PSeH30",
       "title": "NASA's SpaceX Crew-13 Flight Crew News Conference (Aug. 3, 2026)",
       "channel": "NASA",
@@ -5676,23 +5711,6 @@
       "thumbnail": "https://i.ytimg.com/vi/bfw4G59j9uw/hqdefault.jpg"
     },
     {
-      "id": "zgnmbCWYixM",
-      "title": "Official Static Feed: NASA's Mobile Launcher on the Move (April 17, 2026)",
-      "channel": "NASA",
-      "channelId": "UCLA_DiR1FfKNvjuUpBHmylQ",
-      "durationSec": 21601,
-      "publishedAt": "2026-04-17T16:16:56Z",
-      "topics": [
-        "space",
-        "exploration"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/zgnmbCWYixM/hqdefault.jpg"
-    },
-    {
       "id": "I29P2zHNGdI",
       "title": "What's Up: August 2026 Skywatching Tips from NASA",
       "channel": "NASA Jet Propulsion Laboratory",
@@ -6109,22 +6127,6 @@
       "thumbnail": "https://i.ytimg.com/vi/H5z32E7uaKM/hqdefault.jpg"
     },
     {
-      "id": "X25OGdciJOQ",
-      "title": "What's Up: June 2025 Skywatching Tips from NASA",
-      "channel": "NASA Jet Propulsion Laboratory",
-      "channelId": "UCryGec9PdUCLjpJW2mgCuLw",
-      "durationSec": 238,
-      "publishedAt": "2025-06-02T15:30:49Z",
-      "topics": [
-        "space",
-        "engineering"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/X25OGdciJOQ/hqdefault.jpg"
-    },
-    {
       "id": "R6Weziw_4O0",
       "title": "The journey of Sophie Adenot's bonus food: from France to space",
       "channel": "European Space Agency, ESA",
@@ -6438,21 +6440,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/2DtFRq1cgcc/hqdefault.jpg"
-    },
-    {
-      "id": "Y-pFR1uowz8",
-      "title": "Sophie Adenot's mid-mission highlights",
-      "channel": "European Space Agency, ESA",
-      "channelId": "UCIBaDdAbGlFDeS33shmlD0A",
-      "durationSec": 131,
-      "publishedAt": "2026-06-18T15:04:37Z",
-      "topics": [
-        "space"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/Y-pFR1uowz8/hqdefault.jpg"
     },
     {
       "id": "fv5lJjR6DmQ",
@@ -7811,7 +7798,7 @@
     {
       "id": "6-snKlZXMEQ",
       "title": "Fractions as Division Song | Numerator Divided by Denominator | 4th and 5th Grade Math",
-      "channel": "Math Songs by NUMBEROCK",
+      "channel": "Numberock",
       "channelId": "UCt9SZgFExNwWTH5T_JnyF-A",
       "durationSec": 210,
       "publishedAt": "2026-06-09T16:55:40Z",
@@ -7828,7 +7815,7 @@
     {
       "id": "_Vzd16NqR_U",
       "title": "Multi-Step Word Problems Song | 2-Step Math Problems for Kids | NUMBEROCK",
-      "channel": "Math Songs by NUMBEROCK",
+      "channel": "Numberock",
       "channelId": "UCt9SZgFExNwWTH5T_JnyF-A",
       "durationSec": 251,
       "publishedAt": "2026-05-11T15:42:02Z",
@@ -7845,7 +7832,7 @@
     {
       "id": "XnKwpS7TaFg",
       "title": "Add & Subtract Fractions with Like Denominators | 3rd - 4th Grade",
-      "channel": "Math Songs by NUMBEROCK",
+      "channel": "Numberock",
       "channelId": "UCt9SZgFExNwWTH5T_JnyF-A",
       "durationSec": 216,
       "publishedAt": "2025-12-18T16:04:10Z",
@@ -7862,7 +7849,7 @@
     {
       "id": "K9y3l5vkM0o",
       "title": "Long Division Made Easy: Partial Quotients & Area Model",
-      "channel": "Math Songs by NUMBEROCK",
+      "channel": "Numberock",
       "channelId": "UCt9SZgFExNwWTH5T_JnyF-A",
       "durationSec": 283,
       "publishedAt": "2025-10-07T16:41:46Z",
@@ -7879,7 +7866,7 @@
     {
       "id": "GYbmY0D_N8Y",
       "title": "Expanded Form with Decimals | Place Value Song for Kids",
-      "channel": "Math Songs by NUMBEROCK",
+      "channel": "Numberock",
       "channelId": "UCt9SZgFExNwWTH5T_JnyF-A",
       "durationSec": 248,
       "publishedAt": "2025-06-09T17:45:01Z",
@@ -7896,7 +7883,7 @@
     {
       "id": "c18YyE2nReU",
       "title": "Surface Area Song for Kids | Cube and Rectangular Prism Geometry",
-      "channel": "Math Songs by NUMBEROCK",
+      "channel": "Numberock",
       "channelId": "UCt9SZgFExNwWTH5T_JnyF-A",
       "durationSec": 171,
       "publishedAt": "2025-05-19T17:23:00Z",
@@ -7913,7 +7900,7 @@
     {
       "id": "xbUA_tP9Zb8",
       "title": "How to Divide with Decimals | Decimal Division Song",
-      "channel": "Math Songs by NUMBEROCK",
+      "channel": "Numberock",
       "channelId": "UCt9SZgFExNwWTH5T_JnyF-A",
       "durationSec": 188,
       "publishedAt": "2025-04-28T16:00:57Z",
@@ -7930,7 +7917,7 @@
     {
       "id": "lVG6rqQnVu0",
       "title": "Probability Song by Numberock",
-      "channel": "Math Songs by NUMBEROCK",
+      "channel": "Numberock",
       "channelId": "UCt9SZgFExNwWTH5T_JnyF-A",
       "durationSec": 180,
       "publishedAt": "2025-04-06T19:13:00Z",
@@ -7947,7 +7934,7 @@
     {
       "id": "gCyT_swKPvs",
       "title": "Earth Day Rap | Reduce, Reuse, Recycle | Educational Song",
-      "channel": "Math Songs by NUMBEROCK",
+      "channel": "Numberock",
       "channelId": "UCt9SZgFExNwWTH5T_JnyF-A",
       "durationSec": 274,
       "publishedAt": "2025-04-04T01:32:47Z",
@@ -7964,7 +7951,7 @@
     {
       "id": "zTiw-uP8q5w",
       "title": "Ratios Song | 6th Grade Animated Music Video by NUMBEROCK",
-      "channel": "Math Songs by NUMBEROCK",
+      "channel": "Numberock",
       "channelId": "UCt9SZgFExNwWTH5T_JnyF-A",
       "durationSec": 188,
       "publishedAt": "2025-03-17T18:11:36Z",
@@ -7981,7 +7968,7 @@
     {
       "id": "OPXz__F9JjE",
       "title": "2-Digit by 1-Digit Multiplication Song w/ Partial Products",
-      "channel": "Math Songs by NUMBEROCK",
+      "channel": "Numberock",
       "channelId": "UCt9SZgFExNwWTH5T_JnyF-A",
       "durationSec": 167,
       "publishedAt": "2025-03-03T06:00:06Z",
@@ -7998,7 +7985,7 @@
     {
       "id": "lHuIjxIJcxI",
       "title": "Multiplying by Multiples of 10 Song | 3rd Grade Multiplication",
-      "channel": "Math Songs by NUMBEROCK",
+      "channel": "Numberock",
       "channelId": "UCt9SZgFExNwWTH5T_JnyF-A",
       "durationSec": 199,
       "publishedAt": "2025-02-11T20:47:42Z",
@@ -8015,7 +8002,7 @@
     {
       "id": "NanFtO_16rs",
       "title": "US Presidents Song | 1-47 | With Donald Trump's 2nd Term",
-      "channel": "Math Songs by NUMBEROCK",
+      "channel": "Numberock",
       "channelId": "UCt9SZgFExNwWTH5T_JnyF-A",
       "durationSec": 280,
       "publishedAt": "2024-11-08T19:08:04Z",
@@ -8032,7 +8019,7 @@
     {
       "id": "ZsqPujhoQwc",
       "title": "Circumference Song | Circumference of a Circle",
-      "channel": "Math Songs by NUMBEROCK",
+      "channel": "Numberock",
       "channelId": "UCt9SZgFExNwWTH5T_JnyF-A",
       "durationSec": 208,
       "publishedAt": "2024-09-20T11:45:31Z",
@@ -8049,7 +8036,7 @@
     {
       "id": "rTsvKlDADj4",
       "title": "Counting 1-10 Song | Pre-K to Kindergarten",
-      "channel": "Math Songs by NUMBEROCK",
+      "channel": "Numberock",
       "channelId": "UCt9SZgFExNwWTH5T_JnyF-A",
       "durationSec": 202,
       "publishedAt": "2024-09-16T18:52:24Z",
@@ -8066,7 +8053,7 @@
     {
       "id": "7cypOw9qjSI",
       "title": "Angles Song II | How to Measure Angles With A Protractor | Featuring Earl",
-      "channel": "Math Songs by NUMBEROCK",
+      "channel": "Numberock",
       "channelId": "UCt9SZgFExNwWTH5T_JnyF-A",
       "durationSec": 179,
       "publishedAt": "2024-08-19T20:32:05Z",
@@ -8083,7 +8070,7 @@
     {
       "id": "uUJELBflPW4",
       "title": "Summer Vacation Song",
-      "channel": "Math Songs by NUMBEROCK",
+      "channel": "Numberock",
       "channelId": "UCt9SZgFExNwWTH5T_JnyF-A",
       "durationSec": 211,
       "publishedAt": "2024-07-30T17:31:00Z",
@@ -8100,7 +8087,7 @@
     {
       "id": "un-kKDVFlQg",
       "title": "Times Tables Songs 1-12 | Except in Random Order",
-      "channel": "Math Songs by NUMBEROCK",
+      "channel": "Numberock",
       "channelId": "UCt9SZgFExNwWTH5T_JnyF-A",
       "durationSec": 2004,
       "publishedAt": "2024-07-28T14:50:14Z",
@@ -8117,7 +8104,7 @@
     {
       "id": "3YRGASB2wac",
       "title": "Largo y corto para niños | Canciones infantiles | Comparación de medidas",
-      "channel": "Math Songs by NUMBEROCK",
+      "channel": "Numberock",
       "channelId": "UCt9SZgFExNwWTH5T_JnyF-A",
       "durationSec": 177,
       "publishedAt": "2024-07-25T05:27:59Z",
@@ -8134,7 +8121,7 @@
     {
       "id": "G9-vR5vDIDE",
       "title": "The Chess Song | A How to Play Chess Rap",
-      "channel": "Math Songs by NUMBEROCK",
+      "channel": "Numberock",
       "channelId": "UCt9SZgFExNwWTH5T_JnyF-A",
       "durationSec": 248,
       "publishedAt": "2024-06-25T19:46:36Z",
@@ -8151,7 +8138,7 @@
     {
       "id": "AMLRFww0qJg",
       "title": "Fact Families Song | Addition & Subtraction with Number Bonds",
-      "channel": "Math Songs by NUMBEROCK",
+      "channel": "Numberock",
       "channelId": "UCt9SZgFExNwWTH5T_JnyF-A",
       "durationSec": 145,
       "publishedAt": "2024-05-20T15:00:06Z",
@@ -8168,7 +8155,7 @@
     {
       "id": "N8wUVMMS-jo",
       "title": "Fact Family Song II | Addition & Subtraction with Number Bonds",
-      "channel": "Math Songs by NUMBEROCK",
+      "channel": "Numberock",
       "channelId": "UCt9SZgFExNwWTH5T_JnyF-A",
       "durationSec": 145,
       "publishedAt": "2024-05-13T15:00:06Z",
@@ -8185,7 +8172,7 @@
     {
       "id": "dDVhQfNanCE",
       "title": "Fact Family Song | Addition & Subtraction with Number Bonds",
-      "channel": "Math Songs by NUMBEROCK",
+      "channel": "Numberock",
       "channelId": "UCt9SZgFExNwWTH5T_JnyF-A",
       "durationSec": 145,
       "publishedAt": "2024-05-06T15:00:06Z",
@@ -8202,7 +8189,7 @@
     {
       "id": "nhFHDyiWIwU",
       "title": "Australian Coins Song - Fun Aussie Money Song for Kids",
-      "channel": "Math Songs by NUMBEROCK",
+      "channel": "Numberock",
       "channelId": "UCt9SZgFExNwWTH5T_JnyF-A",
       "durationSec": 217,
       "publishedAt": "2024-04-08T15:00:07Z",
@@ -8219,7 +8206,7 @@
     {
       "id": "kD_Lqp41_N0",
       "title": "Canadian Coins Song - Fun Canadian Money Song for Kids",
-      "channel": "Math Songs by NUMBEROCK",
+      "channel": "Numberock",
       "channelId": "UCt9SZgFExNwWTH5T_JnyF-A",
       "durationSec": 217,
       "publishedAt": "2024-04-04T15:00:06Z",
@@ -8236,7 +8223,7 @@
     {
       "id": "UyzaLd7r7wY",
       "title": "UK Coins Song - Fun British Money Song for Kids",
-      "channel": "Math Songs by NUMBEROCK",
+      "channel": "Numberock",
       "channelId": "UCt9SZgFExNwWTH5T_JnyF-A",
       "durationSec": 248,
       "publishedAt": "2024-04-02T19:08:16Z",
@@ -8253,7 +8240,7 @@
     {
       "id": "nFvBPFf9ZK0",
       "title": "2D Shapes Song | Pre-K to Kindergarten",
-      "channel": "Math Songs by NUMBEROCK",
+      "channel": "Numberock",
       "channelId": "UCt9SZgFExNwWTH5T_JnyF-A",
       "durationSec": 195,
       "publishedAt": "2024-02-08T18:20:55Z",
@@ -8270,7 +8257,7 @@
     {
       "id": "jLmM4FuHZwo",
       "title": "Canción de Fracciones por Numberock | Aprende Fracciones con esta Pegajosa Melodía Educativa",
-      "channel": "Math Songs by NUMBEROCK",
+      "channel": "Numberock",
       "channelId": "UCt9SZgFExNwWTH5T_JnyF-A",
       "durationSec": 150,
       "publishedAt": "2023-12-18T16:00:10Z",
@@ -13403,6 +13390,22 @@
       "thumbnail": "https://i.ytimg.com/vi/m6KAfSgFaAM/hqdefault.jpg"
     },
     {
+      "id": "hEJv4xck2kM",
+      "title": "How to Draw Jake Sully 🔥LIVE drawing session",
+      "channel": "Cartooning Club How to Draw",
+      "channelId": "UC-biucJWhM8HwjsQ96uoIUw",
+      "durationSec": 5520,
+      "publishedAt": "2026-08-05T06:31:32Z",
+      "topics": [
+        "art",
+        "making"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/hEJv4xck2kM/hqdefault.jpg"
+    },
+    {
       "id": "HJsdRYhmq_U",
       "title": "How to Draw Vaporeon | Pokemon",
       "channel": "Cartooning Club How to Draw",
@@ -14057,22 +14060,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/r2rrGbZ-KXI/hqdefault.jpg"
-    },
-    {
-      "id": "IEW95KDj_mA",
-      "title": "How to Draw Michael Jackson | Thriller",
-      "channel": "Cartooning Club How to Draw",
-      "channelId": "UC-biucJWhM8HwjsQ96uoIUw",
-      "durationSec": 477,
-      "publishedAt": "2026-06-18T14:00:39Z",
-      "topics": [
-        "art",
-        "making"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/IEW95KDj_mA/hqdefault.jpg"
     },
     {
       "id": "YrB-3xnolxM",
@@ -15021,7 +15008,7 @@
       "title": "Easy Felt Dog Purse",
       "channel": "Red Ted Art (Maggy Woodley)",
       "channelId": "UCjjRFKvjpU1L1eDmfBWcqig",
-      "durationSec": 253,
+      "durationSec": 254,
       "publishedAt": "2026-05-02T07:00:00Z",
       "topics": [
         "making",
@@ -20647,6 +20634,22 @@
       "thumbnail": "https://i.ytimg.com/vi/FuqLVnDUz-c/hqdefault.jpg"
     },
     {
+      "id": "s3LfBdpfGYs",
+      "title": "Handyman Hal Goes to the Hardware Store! 🛠️ Awesome Tools & Building a Tire Swing!",
+      "channel": "Handyman Hal",
+      "channelId": "UC8KyyhPfL4v2sZGbcGg7b7Q",
+      "durationSec": 2320,
+      "publishedAt": "2026-08-05T10:45:38Z",
+      "topics": [
+        "making",
+        "engineering"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/s3LfBdpfGYs/hqdefault.jpg"
+    },
+    {
       "id": "DFdCfuhr3_Y",
       "title": "Handyman Hal Builds Bucket Stilts! | Fun DIY Building Project for Kids | Tools are Cool",
       "channel": "Handyman Hal",
@@ -21397,22 +21400,6 @@
         "little"
       ],
       "thumbnail": "https://i.ytimg.com/vi/xwNqRoeifmI/hqdefault.jpg"
-    },
-    {
-      "id": "rhsVjQFn7Jc",
-      "title": "🚒Fire Truck Song and more Vehicles with Handyman Hal 🚜 Tractors for Kids",
-      "channel": "Handyman Hal",
-      "channelId": "UC8KyyhPfL4v2sZGbcGg7b7Q",
-      "durationSec": 3633,
-      "publishedAt": "2026-01-28T12:00:00Z",
-      "topics": [
-        "making",
-        "engineering"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/rhsVjQFn7Jc/hqdefault.jpg"
     },
     {
       "id": "7QsgPiLe_Q0",
@@ -22264,6 +22251,21 @@
       "thumbnail": "https://i.ytimg.com/vi/T_bLVAqLZMY/hqdefault.jpg"
     },
     {
+      "id": "stQfGfUSLQg",
+      "title": "The Grid That Doubles the Strength of the Ground",
+      "channel": "Practical Engineering",
+      "channelId": "UCMOqf8ab-42UUQIdVoKwjlQ",
+      "durationSec": 1108,
+      "publishedAt": "2026-08-04T13:00:39Z",
+      "topics": [
+        "engineering"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/stQfGfUSLQg/hqdefault.jpg"
+    },
+    {
       "id": "Iclf_JnPkKw",
       "title": "What's Under Your Feet in New York City?",
       "channel": "Practical Engineering",
@@ -22998,21 +23000,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/aFZM_BY6jBw/hqdefault.jpg"
-    },
-    {
-      "id": "pR486zloao0",
-      "title": "When Natural Gas Had No Smell",
-      "channel": "Practical Engineering",
-      "channelId": "UCMOqf8ab-42UUQIdVoKwjlQ",
-      "durationSec": 987,
-      "publishedAt": "2024-07-16T13:00:49Z",
-      "topics": [
-        "engineering"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/pR486zloao0/hqdefault.jpg"
     },
     {
       "id": "vS6HEes8daw",
@@ -26971,6 +26958,21 @@
       "thumbnail": "https://i.ytimg.com/vi/R1LGJM1Gn20/hqdefault.jpg"
     },
     {
+      "id": "XZ85zOf0EQU",
+      "title": "The Most Controversial Ancient Philosophy",
+      "channel": "toldinstone",
+      "channelId": "UCqBiWcuTF8IaLH7wBqnihsQ",
+      "durationSec": 659,
+      "publishedAt": "2026-08-04T18:15:27Z",
+      "topics": [
+        "history"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/XZ85zOf0EQU/hqdefault.jpg"
+    },
+    {
       "id": "6xu4ki6yTJQ",
       "title": "Why Wasn't Pompeii Rebuilt After the Eruption?",
       "channel": "toldinstone",
@@ -27704,21 +27706,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/K0PA_hX8fVs/hqdefault.jpg"
-    },
-    {
-      "id": "cugsFydx4DE",
-      "title": "Why isn't Roman Concrete used today?",
-      "channel": "toldinstone",
-      "channelId": "UCqBiWcuTF8IaLH7wBqnihsQ",
-      "durationSec": 504,
-      "publishedAt": "2024-10-04T19:15:02Z",
-      "topics": [
-        "history"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/cugsFydx4DE/hqdefault.jpg"
     },
     {
       "id": "VCeydlr3Nww",
@@ -28727,21 +28714,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/CTEjLJ6QEHk/hqdefault.jpg"
-    },
-    {
-      "id": "VBFB7KHzvRg",
-      "title": "Are Maltese words mostly Semitic?",
-      "channel": "Langfocus",
-      "channelId": "UCNhX3WQEkraW3VHPyup8jkQ",
-      "durationSec": 146,
-      "publishedAt": "2026-04-22T15:39:47Z",
-      "topics": [
-        "geography"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/VBFB7KHzvRg/hqdefault.jpg"
     },
     {
       "id": "yt_GmmOx06Y",
@@ -29880,6 +29852,21 @@
       "thumbnail": "https://i.ytimg.com/vi/t49CKfrb5_8/hqdefault.jpg"
     },
     {
+      "id": "aAVJioFrM1w",
+      "title": "Pencil Hospital read aloud | school supplies read aloud",
+      "channel": "KidTimeStoryTime",
+      "channelId": "UCEPsNDUhUm-7yZhUjQQNqwQ",
+      "durationSec": 401,
+      "publishedAt": "2026-08-04T13:00:14Z",
+      "topics": [
+        "reading"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/aAVJioFrM1w/hqdefault.jpg"
+    },
+    {
       "id": "TwH4L8eXJtg",
       "title": "The Moonkeeper's Cat 🌠 bedtime read aloud",
       "channel": "KidTimeStoryTime",
@@ -30613,21 +30600,6 @@
         "little"
       ],
       "thumbnail": "https://i.ytimg.com/vi/7z7gsAoOSGI/hqdefault.jpg"
-    },
-    {
-      "id": "1ZxTqQSPfGU",
-      "title": "FANCY NANCY: Besties for Eternity  💕 friendship stories for kids",
-      "channel": "KidTimeStoryTime",
-      "channelId": "UCEPsNDUhUm-7yZhUjQQNqwQ",
-      "durationSec": 675,
-      "publishedAt": "2026-01-13T14:00:11Z",
-      "topics": [
-        "reading"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/1ZxTqQSPfGU/hqdefault.jpg"
     },
     {
       "id": "ljLJmBSiIYE",
@@ -38014,22 +37986,6 @@
       "thumbnail": "https://i.ytimg.com/vi/oyv-eJRRozs/hqdefault.jpg"
     },
     {
-      "id": "a9Xt3cl99LM",
-      "title": "Native Languages & The Indian Education Act: Ep 21 of Crash Course Native American History",
-      "channel": "CrashCourse",
-      "channelId": "UCX6b17PVsYBQ0ip5gyeme-Q",
-      "durationSec": 607,
-      "publishedAt": "2025-11-04T17:00:02Z",
-      "topics": [
-        "tech",
-        "coding"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/a9Xt3cl99LM/hqdefault.jpg"
-    },
-    {
       "id": "xQasKPF0Fr8",
       "title": "You Wouldn’t Last 24 Hours in 751 AD Rome",
       "channel": "A Day In Ancient Rome",
@@ -39651,7 +39607,7 @@
     },
     {
       "id": "MxHjUcVNFEg",
-      "title": "The Battle of Cannae (216 BC) FULL DOCUMENTARY",
+      "title": "True Size of the Battle of Cannae (FULL DOCUMENTARY)",
       "channel": "Invicta",
       "channelId": "UCwO-UgquohXwoe7f0e6lMnw",
       "durationSec": 6203,
@@ -48523,6 +48479,21 @@
       "thumbnail": "https://i.ytimg.com/vi/jvebwDXmBSw/hqdefault.jpg"
     },
     {
+      "id": "tzIRbOgtJkU",
+      "title": "My Stalker Troll is Unintentionally Hilarious",
+      "channel": "Professor Dave Explains",
+      "channelId": "UC0cd_-e49hZpWLH3UIwoWRA",
+      "durationSec": 5208,
+      "publishedAt": "2026-08-04T14:00:36Z",
+      "topics": [
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/tzIRbOgtJkU/hqdefault.jpg"
+    },
+    {
       "id": "EO-yGnYNcEc",
       "title": "The Relative Pronoun in Latin",
       "channel": "Professor Dave Explains",
@@ -49256,21 +49227,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/DItjVqx4HgQ/hqdefault.jpg"
-    },
-    {
-      "id": "_ikNawx92Ss",
-      "title": "Early Byzantine Empire Part 2: Organization, Economy, and Religion",
-      "channel": "Professor Dave Explains",
-      "channelId": "UC0cd_-e49hZpWLH3UIwoWRA",
-      "durationSec": 519,
-      "publishedAt": "2026-05-20T14:01:03Z",
-      "topics": [
-        "science"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/_ikNawx92Ss/hqdefault.jpg"
     },
     {
       "id": "BjyJlN1npdw",
@@ -57133,6 +57089,23 @@
       "thumbnail": "https://i.ytimg.com/vi/auBAEv5HVcc/hqdefault.jpg"
     },
     {
+      "id": "Kcmfe7vIXMU",
+      "title": "Watch Party and Q&A: Life and Death on Pangea Episode 2",
+      "channel": "PBS Eons",
+      "channelId": "UCzR-rom72PHN9Zg7RML9EbA",
+      "durationSec": 3965,
+      "publishedAt": "2026-08-04T21:16:55Z",
+      "topics": [
+        "history",
+        "science",
+        "animals"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/Kcmfe7vIXMU/hqdefault.jpg"
+    },
+    {
       "id": "RY8mipBWjyw",
       "title": "When Mammals and Reptiles Split",
       "channel": "PBS Eons",
@@ -62755,23 +62728,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/s7D3iOCq8-M/hqdefault.jpg"
-    },
-    {
-      "id": "x28A9T5afL8",
-      "title": "Getting Started with Spiker:bit",
-      "channel": "Becky Stern",
-      "channelId": "UCsI_41SZafKtB5qE46WjlQQ",
-      "durationSec": 587,
-      "publishedAt": "2025-07-22T16:34:45Z",
-      "topics": [
-        "making",
-        "tech",
-        "art"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/x28A9T5afL8/hqdefault.jpg"
     },
     {
       "id": "nooPmXxO6K0",
@@ -69257,6 +69213,22 @@
       "thumbnail": "https://i.ytimg.com/vi/0j6QQ-Tlzvo/hqdefault.jpg"
     },
     {
+      "id": "4zSZDPztDhc",
+      "title": "Egypt Earthquake Update; M5.6 Quake Strikes, Geologist Analysis",
+      "channel": "GeologyHub",
+      "channelId": "UCYeGh5VML5XPr5jYnzh3J6g",
+      "durationSec": 304,
+      "publishedAt": "2026-08-04T19:00:19Z",
+      "topics": [
+        "science",
+        "geography"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/4zSZDPztDhc/hqdefault.jpg"
+    },
+    {
       "id": "LUX6HbA6hxg",
       "title": "Campi Flegrei Volcano Update; Strongest Volcanic Earthquake on Record Hits",
       "channel": "GeologyHub",
@@ -69945,22 +69917,6 @@
       "thumbnail": "https://i.ytimg.com/vi/VwOzE3cM9DY/hqdefault.jpg"
     },
     {
-      "id": "DCxHQN7DZfc",
-      "title": "Kilauea Volcano Update; Record Setting Eruption, 600+ Ft Lava Fountains",
-      "channel": "GeologyHub",
-      "channelId": "UCYeGh5VML5XPr5jYnzh3J6g",
-      "durationSec": 266,
-      "publishedAt": "2026-06-02T19:00:15Z",
-      "topics": [
-        "science",
-        "geography"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/DCxHQN7DZfc/hqdefault.jpg"
-    },
-    {
       "id": "0mCbvdpOJP4",
       "title": "Santiam Pass Tuyas w/ Adam Kent & Daniele McKay",
       "channel": "Nick Zentner",
@@ -69976,23 +69932,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/0mCbvdpOJP4/hqdefault.jpg"
-    },
-    {
-      "id": "zDsDfUN4DbA",
-      "title": "Geology Camp! - Bronze Chapter Event",
-      "channel": "Nick Zentner",
-      "channelId": "UC4szl4Ra1ZD3m80wJP40UBA",
-      "durationSec": 366,
-      "publishedAt": "2026-07-29T22:40:37Z",
-      "topics": [
-        "science",
-        "geography",
-        "history"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/zDsDfUN4DbA/hqdefault.jpg"
     },
     {
       "id": "k0BXggloiYg",
@@ -70809,6 +70748,23 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/MLjkSU5kLsw/hqdefault.jpg"
+    },
+    {
+      "id": "pCbgXFKrQtQ",
+      "title": "Seattle Fault - 2 Minute Geology",
+      "channel": "Nick Zentner",
+      "channelId": "UC4szl4Ra1ZD3m80wJP40UBA",
+      "durationSec": 222,
+      "publishedAt": "2026-02-27T13:22:20Z",
+      "topics": [
+        "science",
+        "geography",
+        "history"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/pCbgXFKrQtQ/hqdefault.jpg"
     },
     {
       "id": "ShEzlXZPpPM",
@@ -74182,7 +74138,7 @@
     },
     {
       "id": "l4w6808wJcU",
-      "title": "Half of America's State Flags Made the Same Mistake",
+      "title": "Some States Literally Wrote Their Name on Their Flag",
       "channel": "CGP Grey",
       "channelId": "UC2C_jShtL725hvbm1arSV9w",
       "durationSec": 1133,
@@ -76508,6 +76464,21 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/xaUKgnhZ9y4/hqdefault.jpg"
+    },
+    {
+      "id": "mzoMmSag0_I",
+      "title": "Emergency Fund Explained for Beginners (and How to Start With $2.80)",
+      "channel": "Easy Peasy Finance",
+      "channelId": "UCZl9ry5ew_2YeCQ6ECk8sxA",
+      "durationSec": 346,
+      "publishedAt": "2026-08-04T13:00:11Z",
+      "topics": [
+        "maths"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/mzoMmSag0_I/hqdefault.jpg"
     },
     {
       "id": "WD6zncNCqTo",
@@ -83179,6 +83150,22 @@
       "thumbnail": "https://i.ytimg.com/vi/GLVhXClV5QU/hqdefault.jpg"
     },
     {
+      "id": "Cg-Wys5iKTs",
+      "title": "A Delicate Balance | Peep and the Big Wide World",
+      "channel": "Peep and the Big Wide World",
+      "channelId": "UCPq6g4Q4-SFMIJ048IXmupA",
+      "durationSec": 646,
+      "publishedAt": "2026-08-04T15:00:17Z",
+      "topics": [
+        "science",
+        "nature"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/Cg-Wys5iKTs/hqdefault.jpg"
+    },
+    {
       "id": "-chazUIYiQI",
       "title": "Go West Young Peep | Peep and the Big Wide World",
       "channel": "Peep and the Big Wide World",
@@ -83771,36 +83758,20 @@
       "thumbnail": "https://i.ytimg.com/vi/3tx-UHELqjw/hqdefault.jpg"
     },
     {
-      "id": "CtUY10ZM4ZA",
-      "title": "Quack's Tracks | Peep and the Big Wide World",
-      "channel": "Peep and the Big Wide World",
-      "channelId": "UCPq6g4Q4-SFMIJ048IXmupA",
-      "durationSec": 657,
-      "publishedAt": "2026-07-02T15:00:11Z",
+      "id": "qiSHiU_b7Ac",
+      "title": "Hey-O We Want To Play-O! | 🌞 Sing, Play and Have Fun Outdoors with Caitie and Coach Jay",
+      "channel": "Super Simple Play with Caitie!",
+      "channelId": "UCxG6Tbopv4XcHfem65bgFeg",
+      "durationSec": 143,
+      "publishedAt": "2026-08-04T13:00:38Z",
       "topics": [
-        "science",
-        "nature"
+        "music",
+        "making"
       ],
       "profiles": [
         "little"
       ],
-      "thumbnail": "https://i.ytimg.com/vi/CtUY10ZM4ZA/hqdefault.jpg"
-    },
-    {
-      "id": "mFW839gA6yw",
-      "title": "A Duck's Tale | Peep and the Big Wide World",
-      "channel": "Peep and the Big Wide World",
-      "channelId": "UCPq6g4Q4-SFMIJ048IXmupA",
-      "durationSec": 657,
-      "publishedAt": "2026-07-01T15:00:20Z",
-      "topics": [
-        "science",
-        "nature"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/mFW839gA6yw/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/qiSHiU_b7Ac/hqdefault.jpg"
     },
     {
       "id": "_-t3zhkntyU",
@@ -84755,6 +84726,60 @@
       "thumbnail": "https://i.ytimg.com/vi/j23ed681RTU/hqdefault.jpg"
     },
     {
+      "id": "5_kkxxL8yWc",
+      "title": "JP’s Product Pick of the Week 8/4/26",
+      "channel": "Adafruit Industries",
+      "channelId": "UCpOlOeQjj7EsVnDh3zuCgsA",
+      "durationSec": 1681,
+      "publishedAt": "2026-08-05T08:33:03Z",
+      "topics": [
+        "making",
+        "tech",
+        "engineering",
+        "coding"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/5_kkxxL8yWc/hqdefault.jpg"
+    },
+    {
+      "id": "1suV1LcAtJ4",
+      "title": "Deep Dive w/ Tim: Flanger FX and More Audio Stuff",
+      "channel": "Adafruit Industries",
+      "channelId": "UCpOlOeQjj7EsVnDh3zuCgsA",
+      "durationSec": 2678,
+      "publishedAt": "2026-08-05T04:06:33Z",
+      "topics": [
+        "making",
+        "tech",
+        "engineering",
+        "coding"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/1suV1LcAtJ4/hqdefault.jpg"
+    },
+    {
+      "id": "-qfJSaMlEts",
+      "title": "Deep Dive w/ Tim: Flanger FX and More Audio Stuff",
+      "channel": "Adafruit Industries",
+      "channelId": "UCpOlOeQjj7EsVnDh3zuCgsA",
+      "durationSec": 830,
+      "publishedAt": "2026-08-04T15:20:06Z",
+      "topics": [
+        "making",
+        "tech",
+        "engineering",
+        "coding"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/-qfJSaMlEts/hqdefault.jpg"
+    },
+    {
       "id": "NfdrL1WWtek",
       "title": "CircuitPython Weekly Meeting for August 3, 2026 @circuitpython #circuitpython #adafruit",
       "channel": "Adafruit Industries",
@@ -85115,58 +85140,21 @@
       "thumbnail": "https://i.ytimg.com/vi/Nu6aA9IRKQs/hqdefault.jpg"
     },
     {
-      "id": "M-gd8eHrzTw",
-      "title": "John Park's Workshop Live 7/16/26",
-      "channel": "Adafruit Industries",
-      "channelId": "UCpOlOeQjj7EsVnDh3zuCgsA",
-      "durationSec": 2873,
-      "publishedAt": "2026-07-17T09:14:06Z",
+      "id": "VmBS2N1FzmE",
+      "title": "Why Does Atlas Have A Head? #askaroboticist #bostondynamics",
+      "channel": "Boston Dynamics",
+      "channelId": "UC7vVhkEfw4nOGp8TyDk7RcQ",
+      "durationSec": 123,
+      "publishedAt": "2026-08-04T13:55:11Z",
       "topics": [
-        "making",
         "tech",
-        "engineering",
-        "coding"
+        "engineering"
       ],
       "profiles": [
+        "little",
         "big"
       ],
-      "thumbnail": "https://i.ytimg.com/vi/M-gd8eHrzTw/hqdefault.jpg"
-    },
-    {
-      "id": "EGzQrGQWlUQ",
-      "title": "SHOW and TELL 7/15/26 #ShowandTell #adafruit #diy",
-      "channel": "Adafruit Industries",
-      "channelId": "UCpOlOeQjj7EsVnDh3zuCgsA",
-      "durationSec": 1535,
-      "publishedAt": "2026-07-16T12:02:06Z",
-      "topics": [
-        "making",
-        "tech",
-        "engineering",
-        "coding"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/EGzQrGQWlUQ/hqdefault.jpg"
-    },
-    {
-      "id": "-vh0ZaJmy5E",
-      "title": "3D Hangouts –  Flight Tracker, Voicebox FX and Noodle Numchucks",
-      "channel": "Adafruit Industries",
-      "channelId": "UCpOlOeQjj7EsVnDh3zuCgsA",
-      "durationSec": 3150,
-      "publishedAt": "2026-07-16T03:57:06Z",
-      "topics": [
-        "making",
-        "tech",
-        "engineering",
-        "coding"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/-vh0ZaJmy5E/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/VmBS2N1FzmE/hqdefault.jpg"
     },
     {
       "id": "KywMP9_SyRg",
@@ -85714,6 +85702,22 @@
       "thumbnail": "https://i.ytimg.com/vi/EomJuxTeRm4/hqdefault.jpg"
     },
     {
+      "id": "5YPduEo7dU4",
+      "title": "Using 20-sided dice to stabilise my walking machine?",
+      "channel": "James Bruton",
+      "channelId": "UCUbDcUPed50Y_7KmfCXKohA",
+      "durationSec": 1409,
+      "publishedAt": "2026-08-04T14:00:35Z",
+      "topics": [
+        "engineering",
+        "tech"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/5YPduEo7dU4/hqdefault.jpg"
+    },
+    {
       "id": "PzBuZaujA-4",
       "title": "How many elastic bands to push me along?",
       "channel": "James Bruton",
@@ -86208,22 +86212,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/UtQrloHD3Co/hqdefault.jpg"
-    },
-    {
-      "id": "jV4xyMilqn0",
-      "title": "I built a Giant Robot Furby",
-      "channel": "James Bruton",
-      "channelId": "UCUbDcUPed50Y_7KmfCXKohA",
-      "durationSec": 851,
-      "publishedAt": "2023-12-17T16:00:32Z",
-      "topics": [
-        "engineering",
-        "tech"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/jV4xyMilqn0/hqdefault.jpg"
     },
     {
       "id": "-k0VGFnVYag",
@@ -86886,6 +86874,40 @@
       "thumbnail": "https://i.ytimg.com/vi/sbdU7AkH6QM/hqdefault.jpg"
     },
     {
+      "id": "Bjwls2E-B5E",
+      "title": "Kids Yoga LIVE 🌟 | Fun Yoga Adventures & Movement for Kids",
+      "channel": "Cosmic Kids Yoga",
+      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
+      "durationSec": 42900,
+      "publishedAt": "2026-08-05T10:45:22Z",
+      "topics": [
+        "reading",
+        "nature"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/Bjwls2E-B5E/hqdefault.jpg"
+    },
+    {
+      "id": "uvaClW4vWSQ",
+      "title": "Kids Yoga LIVE 🌟 | Fun Yoga Adventures & Movement for Kids",
+      "channel": "Cosmic Kids Yoga",
+      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
+      "durationSec": 42896,
+      "publishedAt": "2026-08-04T22:11:23Z",
+      "topics": [
+        "reading",
+        "nature"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/uvaClW4vWSQ/hqdefault.jpg"
+    },
+    {
       "id": "DjKqZLyNGWo",
       "title": "Kids Yoga LIVE 🌟 | Fun Yoga Adventures & Movement for Kids",
       "channel": "Cosmic Kids Yoga",
@@ -86969,23 +86991,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/MR4URRkc1T4/hqdefault.jpg"
-    },
-    {
-      "id": "mGXjVS0-pOU",
-      "title": "Slow Day | Jaime's Yoga Adventures! | Kids Animated Yoga",
-      "channel": "Cosmic Kids Yoga",
-      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
-      "durationSec": 655,
-      "publishedAt": "2026-06-23T14:00:06Z",
-      "topics": [
-        "reading",
-        "nature"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/mGXjVS0-pOU/hqdefault.jpg"
     },
     {
       "id": "xm_GCZKltLA",
@@ -88551,21 +88556,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/AeIXZf7Th34/hqdefault.jpg"
-    },
-    {
-      "id": "lEEwAcQ-zpU",
-      "title": "Climate Scientist Reacts to Trump's UN Speech",
-      "channel": "ClimateAdam",
-      "channelId": "UCCu5wtZ5uOWZp_roz7wHPfg",
-      "durationSec": 954,
-      "publishedAt": "2025-10-02T11:59:54Z",
-      "topics": [
-        "science"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/lEEwAcQ-zpU/hqdefault.jpg"
     },
     {
       "id": "on9QyDkbnJk",
@@ -90346,22 +90336,6 @@
       "thumbnail": "https://i.ytimg.com/vi/3vb2wEaZ_rI/hqdefault.jpg"
     },
     {
-      "id": "bg7x6mlD5Js",
-      "title": "The WORST Climate News I've Ever Seen",
-      "channel": "PBS Terra",
-      "channelId": "UCpxYSWgxVt3Pyn1ovXsGQ0g",
-      "durationSec": 819,
-      "publishedAt": "2025-12-04T19:00:45Z",
-      "topics": [
-        "science",
-        "nature"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/bg7x6mlD5Js/hqdefault.jpg"
-    },
-    {
       "id": "fn6IxjMUB2M",
       "title": "EF4 Tornado Strikes Enid Oklahoma - April 23, 2026",
       "channel": "Pecos Hank",
@@ -91700,7 +91674,7 @@
     {
       "id": "ZvincYg0pHo",
       "title": "Skip Counting by 5 Song For Kids",
-      "channel": "Math Songs by NUMBEROCK",
+      "channel": "Numberock",
       "channelId": "UCt9SZgFExNwWTH5T_JnyF-A",
       "durationSec": 173,
       "publishedAt": "2018-09-24T15:34:41Z",
