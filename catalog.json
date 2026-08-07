@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-06T11:11:29.980Z",
+  "generatedAt": "2026-08-07T09:48:56.706Z",
   "profiles": {
     "little": {
       "label": "Ages 3-7"
@@ -211,6 +211,21 @@
       "thumbnail": "https://i.ytimg.com/vi/xlXtt3IRckY/hqdefault.jpg"
     },
     {
+      "id": "9aCuNd3faBA",
+      "title": "How To Draw Ocho The Octopus",
+      "channel": "Art for Kids Hub",
+      "channelId": "UC5XMF3Inoi8R9nSI8ChOsdQ",
+      "durationSec": 413,
+      "publishedAt": "2026-08-06T14:00:34Z",
+      "topics": [
+        "art"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/9aCuNd3faBA/hqdefault.jpg"
+    },
+    {
       "id": "Yrk2QyVTLGw",
       "title": "How To Draw A Traffic Light",
       "channel": "Art for Kids Hub",
@@ -269,21 +284,6 @@
         "little"
       ],
       "thumbnail": "https://i.ytimg.com/vi/NB_9dHGxnjU/hqdefault.jpg"
-    },
-    {
-      "id": "huSw_oIDyFY",
-      "title": "How To Draw A Funny Blueberry Cheesecake",
-      "channel": "Art for Kids Hub",
-      "channelId": "UC5XMF3Inoi8R9nSI8ChOsdQ",
-      "durationSec": 391,
-      "publishedAt": "2026-07-30T14:00:16Z",
-      "topics": [
-        "art"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/huSw_oIDyFY/hqdefault.jpg"
     },
     {
       "id": "okraTNro0tg",
@@ -502,6 +502,21 @@
       "thumbnail": "https://i.ytimg.com/vi/3KWwMzSxB1Y/hqdefault.jpg"
     },
     {
+      "id": "PNG9nRO7XZ8",
+      "title": "Scientists Finally Figured Out Why This River Flows Uphill",
+      "channel": "SciShow",
+      "channelId": "UCZYTClx2T1of7BRZ86-8fow",
+      "durationSec": 703,
+      "publishedAt": "2026-08-06T17:00:11Z",
+      "topics": [
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/PNG9nRO7XZ8/hqdefault.jpg"
+    },
+    {
       "id": "A8XPsYH5Jb4",
       "title": "Why It's So Hard to Make Artificial Cork",
       "channel": "SciShow",
@@ -545,21 +560,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/JGN6po7Zcsg/hqdefault.jpg"
-    },
-    {
-      "id": "OqkSn_38gpc",
-      "title": "Why We Can’t Find a Legal Limit for Weed",
-      "channel": "SciShow",
-      "channelId": "UCZYTClx2T1of7BRZ86-8fow",
-      "durationSec": 606,
-      "publishedAt": "2026-07-30T17:00:14Z",
-      "topics": [
-        "science"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/OqkSn_38gpc/hqdefault.jpg"
     },
     {
       "id": "GlYgs6v2YfU",
@@ -665,21 +665,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/Xhl5TzKZbpw/hqdefault.jpg"
-    },
-    {
-      "id": "dquI8khH1Zk",
-      "title": "AD - Why do I get this spark when I unplug my hair dryer?",
-      "channel": "Veritasium",
-      "channelId": "UCHnyfMqiRRG1u-2MsSQLbXA",
-      "durationSec": 142,
-      "publishedAt": "2026-06-30T14:00:19Z",
-      "topics": [
-        "science"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/dquI8khH1Zk/hqdefault.jpg"
     },
     {
       "id": "Cyl3X88KEgg",
@@ -5167,6 +5152,23 @@
       "thumbnail": "https://i.ytimg.com/vi/tIlshNCG6NI/hqdefault.jpg"
     },
     {
+      "id": "XNKdYbmPKJ8",
+      "title": "U.S. Spacewalk 96",
+      "channel": "NASA",
+      "channelId": "UCLA_DiR1FfKNvjuUpBHmylQ",
+      "durationSec": 31371,
+      "publishedAt": "2026-08-06T20:10:07Z",
+      "topics": [
+        "space",
+        "exploration"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/XNKdYbmPKJ8/hqdefault.jpg"
+    },
+    {
       "id": "mpWTcLv72oE",
       "title": "NASA Astronaut Chris Williams Postflight News Conference (Aug. 4, 2026)",
       "channel": "NASA",
@@ -6092,22 +6094,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/SQu8utmfOQk/hqdefault.jpg"
-    },
-    {
-      "id": "H5z32E7uaKM",
-      "title": "NASA’s Curiosity Rover Explores “Spiderwebs” on Mars (360)",
-      "channel": "NASA Jet Propulsion Laboratory",
-      "channelId": "UCryGec9PdUCLjpJW2mgCuLw",
-      "durationSec": 136,
-      "publishedAt": "2025-06-23T16:26:26Z",
-      "topics": [
-        "space",
-        "engineering"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/H5z32E7uaKM/hqdefault.jpg"
     },
     {
       "id": "R6Weziw_4O0",
@@ -8960,6 +8946,21 @@
       "thumbnail": "https://i.ytimg.com/vi/T5Qf0qSSJFI/hqdefault.jpg"
     },
     {
+      "id": "BG8HLIvuK24",
+      "title": "Top 20 Counting Songs | Numbers Practice for Preschool + Up | 20th Anniversary of Super Simple Songs",
+      "channel": "Super Simple Songs - Kids Songs",
+      "channelId": "UCLsooMJoIpl_7ux2jvdPB-Q",
+      "durationSec": 2974,
+      "publishedAt": "2026-08-06T14:00:26Z",
+      "topics": [
+        "music"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/BG8HLIvuK24/hqdefault.jpg"
+    },
+    {
       "id": "-HOQGg7uuQQ",
       "title": "Counting Up To 20 | Sea Animals Kids Math Song with @NoodleAndPals | Super Simple Songs",
       "channel": "Super Simple Songs - Kids Songs",
@@ -11339,6 +11340,22 @@
       "thumbnail": "https://i.ytimg.com/vi/ryTTHmUYc2o/hqdefault.jpg"
     },
     {
+      "id": "mYcTWyQCcLQ",
+      "title": "4 PRODUCERS REMIX THE SAME SONG (ft. Son Lux, Swarvy, Kaitlyn Aurelia Smith, Shigeto)",
+      "channel": "ANDREW HUANG",
+      "channelId": "UCdcemy56JtVTrsFIOoqvV8g",
+      "durationSec": 1429,
+      "publishedAt": "2026-08-06T20:45:06Z",
+      "topics": [
+        "music",
+        "making"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/mYcTWyQCcLQ/hqdefault.jpg"
+    },
+    {
       "id": "aqWg6E4fTqA",
       "title": "Subscriber's demo was so good I flew her to my studio",
       "channel": "ANDREW HUANG",
@@ -11561,22 +11578,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/a0Ed8_40E58/hqdefault.jpg"
-    },
-    {
-      "id": "sYPKG9Fxh6M",
-      "title": "I'm trying a new way to release music",
-      "channel": "ANDREW HUANG",
-      "channelId": "UCdcemy56JtVTrsFIOoqvV8g",
-      "durationSec": 942,
-      "publishedAt": "2026-03-13T13:32:26Z",
-      "topics": [
-        "music",
-        "making"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/sYPKG9Fxh6M/hqdefault.jpg"
     },
     {
       "id": "blWnqtNxhYA",
@@ -13373,6 +13374,22 @@
       "thumbnail": "https://i.ytimg.com/vi/m6KAfSgFaAM/hqdefault.jpg"
     },
     {
+      "id": "yo5UFFPH7DI",
+      "title": "How to Draw Mystique | Xmen",
+      "channel": "Cartooning Club How to Draw",
+      "channelId": "UC-biucJWhM8HwjsQ96uoIUw",
+      "durationSec": 421,
+      "publishedAt": "2026-08-06T14:00:20Z",
+      "topics": [
+        "art",
+        "making"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/yo5UFFPH7DI/hqdefault.jpg"
+    },
+    {
       "id": "TJLi-AzA7hs",
       "title": "How to Draw Bitzer | Shaun the Sheep",
       "channel": "Cartooning Club How to Draw",
@@ -14027,22 +14044,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/nY9FcvbVBSU/hqdefault.jpg"
-    },
-    {
-      "id": "xZ6jURZ2Grg",
-      "title": "How to Create Better Fur Textures | Member Art Review",
-      "channel": "Cartooning Club How to Draw",
-      "channelId": "UC-biucJWhM8HwjsQ96uoIUw",
-      "durationSec": 291,
-      "publishedAt": "2026-06-19T20:00:10Z",
-      "topics": [
-        "art",
-        "making"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/xZ6jURZ2Grg/hqdefault.jpg"
     },
     {
       "id": "YrB-3xnolxM",
@@ -18811,6 +18812,23 @@
       "thumbnail": "https://i.ytimg.com/vi/t5sqYc6ZwWk/hqdefault.jpg"
     },
     {
+      "id": "48cQQL8pXI8",
+      "title": "Jelly Jams featuring Yeobo",
+      "channel": "Monterey Bay Aquarium",
+      "channelId": "UCnM5iMGiKsZg-iOlIO2ZkdQ",
+      "durationSec": 597,
+      "publishedAt": "2026-08-06T16:49:17Z",
+      "topics": [
+        "animals",
+        "nature"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/48cQQL8pXI8/hqdefault.jpg"
+    },
+    {
       "id": "RDEyheNxy3w",
       "title": "Monét X Change—Otter This World ft. Trinity the Tuck (Official Music Video) | Monterey Bay Aquarium",
       "channel": "Monterey Bay Aquarium",
@@ -19081,23 +19099,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/kZV4cFld7gc/hqdefault.jpg"
-    },
-    {
-      "id": "zSuxCJ6UA2Q",
-      "title": "DITL of an outreach partnership lead at Seafood Watch",
-      "channel": "Monterey Bay Aquarium",
-      "channelId": "UCnM5iMGiKsZg-iOlIO2ZkdQ",
-      "durationSec": 191,
-      "publishedAt": "2025-11-21T17:01:50Z",
-      "topics": [
-        "animals",
-        "nature"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/zSuxCJ6UA2Q/hqdefault.jpg"
     },
     {
       "id": "YvIN6pUseXo",
@@ -22216,22 +22217,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/E7cInSaqJSM/hqdefault.jpg"
-    },
-    {
-      "id": "T_bLVAqLZMY",
-      "title": "What does a Star Wars battle actually sound like?",
-      "channel": "Branch Education",
-      "channelId": "UCdp4_l1vPmpN-gDbUwhaRUQ",
-      "durationSec": 227,
-      "publishedAt": "2019-12-31T02:29:05Z",
-      "topics": [
-        "engineering",
-        "tech"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/T_bLVAqLZMY/hqdefault.jpg"
     },
     {
       "id": "stQfGfUSLQg",
@@ -28217,6 +28202,21 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/-sihMhbH7rc/hqdefault.jpg"
+    },
+    {
+      "id": "qKthVEAdzFc",
+      "title": "Can Arabic speakers read Persian?",
+      "channel": "Langfocus",
+      "channelId": "UCNhX3WQEkraW3VHPyup8jkQ",
+      "durationSec": 1673,
+      "publishedAt": "2026-08-06T15:00:06Z",
+      "topics": [
+        "geography"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/qKthVEAdzFc/hqdefault.jpg"
     },
     {
       "id": "pjcryMuv_bY",
@@ -35602,7 +35602,7 @@
     },
     {
       "id": "t_QuHSwB0HY",
-      "title": "How Language Models Pick Words (Softmax & Temperature)",
+      "title": "Why Language Models Surprise You (Softmax & Temperature)",
       "channel": "The Coding Train",
       "channelId": "UCvjgXvBlbQiydffZU7m1_aw",
       "durationSec": 2130,
@@ -37234,6 +37234,22 @@
       "thumbnail": "https://i.ytimg.com/vi/B_PexYrEcEw/hqdefault.jpg"
     },
     {
+      "id": "WNvAic8KLb0",
+      "title": "Earthquakes Explained: Crash Course Geology #14",
+      "channel": "CrashCourse",
+      "channelId": "UCX6b17PVsYBQ0ip5gyeme-Q",
+      "durationSec": 667,
+      "publishedAt": "2026-08-06T16:00:16Z",
+      "topics": [
+        "tech",
+        "coding"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/WNvAic8KLb0/hqdefault.jpg"
+    },
+    {
       "id": "BMZbbewOLvU",
       "title": "Volcanoes Explained: Crash Course Geology #13",
       "channel": "CrashCourse",
@@ -37936,22 +37952,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/7L2cSifRrLk/hqdefault.jpg"
-    },
-    {
-      "id": "oyv-eJRRozs",
-      "title": "Magical Realism & The Latin American Boom: Crash Course Latin American Literature #2",
-      "channel": "CrashCourse",
-      "channelId": "UCX6b17PVsYBQ0ip5gyeme-Q",
-      "durationSec": 714,
-      "publishedAt": "2025-11-06T17:01:20Z",
-      "topics": [
-        "tech",
-        "coding"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/oyv-eJRRozs/hqdefault.jpg"
     },
     {
       "id": "xQasKPF0Fr8",
@@ -46120,6 +46120,22 @@
       "thumbnail": "https://i.ytimg.com/vi/PMXPyOXXG40/hqdefault.jpg"
     },
     {
+      "id": "EHLF6sgLdrs",
+      "title": "A 3.5 million mph rogue supermassive black hole",
+      "channel": "Dr. Becky",
+      "channelId": "UCYNbYGl89UUowy8oXkipC-Q",
+      "durationSec": 972,
+      "publishedAt": "2026-08-06T19:00:30Z",
+      "topics": [
+        "space",
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/EHLF6sgLdrs/hqdefault.jpg"
+    },
+    {
       "id": "mHAH-cBZyFw",
       "title": "A day in the life at astrophysics' largest conference",
       "channel": "Dr. Becky",
@@ -46534,22 +46550,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/B2hNuFy2kUQ/hqdefault.jpg"
-    },
-    {
-      "id": "K8VXn4BMoWc",
-      "title": "What's going on at the Moon's south pole?! #shorts",
-      "channel": "Dr. Becky",
-      "channelId": "UCYNbYGl89UUowy8oXkipC-Q",
-      "durationSec": 135,
-      "publishedAt": "2026-04-24T17:00:33Z",
-      "topics": [
-        "space",
-        "science"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/K8VXn4BMoWc/hqdefault.jpg"
     },
     {
       "id": "FoqRIFd3H4Y",
@@ -53880,6 +53880,22 @@
       "thumbnail": "https://i.ytimg.com/vi/y-RRDu4OVHQ/hqdefault.jpg"
     },
     {
+      "id": "-zUXIKPoWew",
+      "title": "What happens to Aussie Candy In the Freeze Dryer?",
+      "channel": "How To Cook That",
+      "channelId": "UCsP7Bpw36J666Fct5M8u-ZA",
+      "durationSec": 881,
+      "publishedAt": "2026-08-07T09:30:04Z",
+      "topics": [
+        "science",
+        "making"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/-zUXIKPoWew/hqdefault.jpg"
+    },
+    {
       "id": "uzKipGzmHyc",
       "title": "YouTube banned my video ... so here it is again!",
       "channel": "How To Cook That",
@@ -54632,22 +54648,6 @@
       "thumbnail": "https://i.ytimg.com/vi/OxGFEUefv6g/hqdefault.jpg"
     },
     {
-      "id": "RY-NF_7R-pk",
-      "title": "Debunking Fire reveal cakes, colour blind glasses & 5 minute crafts",
-      "channel": "How To Cook That",
-      "channelId": "UCsP7Bpw36J666Fct5M8u-ZA",
-      "durationSec": 1435,
-      "publishedAt": "2024-03-22T08:29:59Z",
-      "topics": [
-        "science",
-        "making"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/RY-NF_7R-pk/hqdefault.jpg"
-    },
-    {
       "id": "2lZA2MxWQ5w",
       "title": "Sunscreen Label Reading Made Simple for Parents with Autumn Blum of Stream2Sea [Ep 133]",
       "channel": "Katie Kimball",
@@ -55377,6 +55377,23 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/aYVBzqILeG8/hqdefault.jpg"
+    },
+    {
+      "id": "-fF5bcY6NlU",
+      "title": "Why The Early Jurassic Oceans Were So Deadly",
+      "channel": "Ben G Thomas",
+      "channelId": "UCDSzwZqgtJEnUzacq3ddoOQ",
+      "durationSec": 2230,
+      "publishedAt": "2026-08-06T17:15:30Z",
+      "topics": [
+        "science",
+        "animals",
+        "nature"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/-fF5bcY6NlU/hqdefault.jpg"
     },
     {
       "id": "sQcC_fQ21LI",
@@ -56176,23 +56193,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/y5Iafy-MiH4/hqdefault.jpg"
-    },
-    {
-      "id": "0-9UoAzpxqM",
-      "title": "New Tyrannosaur Species Changes the Picture of Tyrant Evolution | 7 Days of Science",
-      "channel": "Ben G Thomas",
-      "channelId": "UCDSzwZqgtJEnUzacq3ddoOQ",
-      "durationSec": 764,
-      "publishedAt": "2024-10-02T20:30:00Z",
-      "topics": [
-        "science",
-        "animals",
-        "nature"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/0-9UoAzpxqM/hqdefault.jpg"
     },
     {
       "id": "foWqPo8S0r4",
@@ -69165,6 +69165,22 @@
       "thumbnail": "https://i.ytimg.com/vi/0j6QQ-Tlzvo/hqdefault.jpg"
     },
     {
+      "id": "ZKNaaQApnqg",
+      "title": "The Lake Created by an Earthquake in Washington; Lena Lake",
+      "channel": "GeologyHub",
+      "channelId": "UCYeGh5VML5XPr5jYnzh3J6g",
+      "durationSec": 285,
+      "publishedAt": "2026-08-06T19:00:22Z",
+      "topics": [
+        "science",
+        "geography"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/ZKNaaQApnqg/hqdefault.jpg"
+    },
+    {
       "id": "4zSZDPztDhc",
       "title": "Egypt Earthquake Update; M5.6 Quake Strikes, Geologist Analysis",
       "channel": "GeologyHub",
@@ -69851,22 +69867,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/mzkpt7LQP6U/hqdefault.jpg"
-    },
-    {
-      "id": "VwOzE3cM9DY",
-      "title": "The World's Tallest Lava Fountains; Reached 22,000 Feet Altitude",
-      "channel": "GeologyHub",
-      "channelId": "UCYeGh5VML5XPr5jYnzh3J6g",
-      "durationSec": 355,
-      "publishedAt": "2026-06-03T19:00:31Z",
-      "topics": [
-        "science",
-        "geography"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/VwOzE3cM9DY/hqdefault.jpg"
     },
     {
       "id": "dq_BL_aON_I",
@@ -71319,6 +71319,38 @@
       "thumbnail": "https://i.ytimg.com/vi/dN9SZHO6Wjg/hqdefault.jpg"
     },
     {
+      "id": "yvNtgdKdnfc",
+      "title": "SNP Patterns Across Populations",
+      "channel": "biointeractive",
+      "channelId": "UCdofq4hHbT3ZDzgYUqsDd1A",
+      "durationSec": 191,
+      "publishedAt": "2026-08-06T14:00:50Z",
+      "topics": [
+        "science",
+        "nature"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/yvNtgdKdnfc/hqdefault.jpg"
+    },
+    {
+      "id": "Tm-_4K-gCng",
+      "title": "What Are Single Nucleotide Polymorphisms?",
+      "channel": "biointeractive",
+      "channelId": "UCdofq4hHbT3ZDzgYUqsDd1A",
+      "durationSec": 126,
+      "publishedAt": "2026-08-06T14:00:40Z",
+      "topics": [
+        "science",
+        "nature"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/Tm-_4K-gCng/hqdefault.jpg"
+    },
+    {
       "id": "35GAEw4NVOA",
       "title": "Educator-Created Models",
       "channel": "biointeractive",
@@ -72005,54 +72037,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/1yaBY8UkSfA/hqdefault.jpg"
-    },
-    {
-      "id": "r_rhMAMagQE",
-      "title": "Un tratamiento genético para la anemia falciforme | Video HHMI BioInteractive",
-      "channel": "biointeractive",
-      "channelId": "UCdofq4hHbT3ZDzgYUqsDd1A",
-      "durationSec": 348,
-      "publishedAt": "2023-08-21T18:57:40Z",
-      "topics": [
-        "science",
-        "nature"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/r_rhMAMagQE/hqdefault.jpg"
-    },
-    {
-      "id": "L68OtDCBQW4",
-      "title": "Dispersión de semillas y fragmentación del hábitat | Video HHMI BioInteractive",
-      "channel": "biointeractive",
-      "channelId": "UCdofq4hHbT3ZDzgYUqsDd1A",
-      "durationSec": 483,
-      "publishedAt": "2023-08-21T18:57:36Z",
-      "topics": [
-        "science",
-        "nature"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/L68OtDCBQW4/hqdefault.jpg"
-    },
-    {
-      "id": "8EfeAWmL39c",
-      "title": "Preserving Maize Genetic Diversity | HHMI BioInteractive Video",
-      "channel": "biointeractive",
-      "channelId": "UCdofq4hHbT3ZDzgYUqsDd1A",
-      "durationSec": 550,
-      "publishedAt": "2023-06-01T22:47:25Z",
-      "topics": [
-        "science",
-        "nature"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/8EfeAWmL39c/hqdefault.jpg"
     },
     {
       "id": "MU-0_jdOx6Q",
@@ -76811,6 +76795,22 @@
       "thumbnail": "https://i.ytimg.com/vi/FDhx6EMGX3I/hqdefault.jpg"
     },
     {
+      "id": "r2joIgu7XIM",
+      "title": "Dinos A to Z: Mosasaur | Learn about this non-dinosaur aquatic reptile",
+      "channel": "Learn Bright",
+      "channelId": "UCKCsVSA5THlkHbnkZTPm6-g",
+      "durationSec": 227,
+      "publishedAt": "2026-08-06T15:00:18Z",
+      "topics": [
+        "maths",
+        "history"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/r2joIgu7XIM/hqdefault.jpg"
+    },
+    {
       "id": "XblGN0tH5vk",
       "title": "Dinos A to Z: Kentrosaurus | Learn about a cousin dinosaur to the Stegasaurus!",
       "channel": "Learn Bright",
@@ -77529,22 +77529,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/e2bKlzpYdbE/hqdefault.jpg"
-    },
-    {
-      "id": "CLFvkdtswz0",
-      "title": "ASL Careers for Kids: Biologist",
-      "channel": "Learn Bright",
-      "channelId": "UCKCsVSA5THlkHbnkZTPm6-g",
-      "durationSec": 271,
-      "publishedAt": "2026-05-06T16:34:50Z",
-      "topics": [
-        "maths",
-        "history"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/CLFvkdtswz0/hqdefault.jpg"
     },
     {
       "id": "44q0kBHqlEo",
@@ -83071,6 +83055,22 @@
       "thumbnail": "https://i.ytimg.com/vi/GLVhXClV5QU/hqdefault.jpg"
     },
     {
+      "id": "uALoJnCHxL0",
+      "title": "Peep's Night Out | Peep and the Big Wide World",
+      "channel": "Peep and the Big Wide World",
+      "channelId": "UCPq6g4Q4-SFMIJ048IXmupA",
+      "durationSec": 645,
+      "publishedAt": "2026-08-06T15:00:21Z",
+      "topics": [
+        "science",
+        "nature"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/uALoJnCHxL0/hqdefault.jpg"
+    },
+    {
       "id": "pVjQeFuWMKk",
       "title": "The Fish Museum | Peep and the Big Wide World",
       "channel": "Peep and the Big Wide World",
@@ -83679,22 +83679,6 @@
       "thumbnail": "https://i.ytimg.com/vi/BWxUa-C5nXc/hqdefault.jpg"
     },
     {
-      "id": "3tx-UHELqjw",
-      "title": "Quack and the Very Big Rock | Peep and the Big Wide World",
-      "channel": "Peep and the Big Wide World",
-      "channelId": "UCPq6g4Q4-SFMIJ048IXmupA",
-      "durationSec": 656,
-      "publishedAt": "2026-07-03T15:00:01Z",
-      "topics": [
-        "science",
-        "nature"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/3tx-UHELqjw/hqdefault.jpg"
-    },
-    {
       "id": "qiSHiU_b7Ac",
       "title": "Hey-O We Want To Play-O! | 🌞 Sing, Play and Have Fun Outdoors with Caitie and Coach Jay",
       "channel": "Super Simple Play with Caitie!",
@@ -83965,22 +83949,6 @@
         "little"
       ],
       "thumbnail": "https://i.ytimg.com/vi/H0vl7yny4gY/hqdefault.jpg"
-    },
-    {
-      "id": "RwXlIzQE5BM",
-      "title": "Winter Sports & Games! | Fun Activities With Caitie for a Snowy Day | Super Simple Play",
-      "channel": "Super Simple Play with Caitie!",
-      "channelId": "UCxG6Tbopv4XcHfem65bgFeg",
-      "durationSec": 4372,
-      "publishedAt": "2026-02-10T14:00:56Z",
-      "topics": [
-        "music",
-        "making"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/RwXlIzQE5BM/hqdefault.jpg"
     },
     {
       "id": "M_94ORjE-YY",
@@ -84663,6 +84631,24 @@
       "thumbnail": "https://i.ytimg.com/vi/j23ed681RTU/hqdefault.jpg"
     },
     {
+      "id": "sVfwUMIEq4c",
+      "title": "John Park's Workshop Live 8/6/26",
+      "channel": "Adafruit Industries",
+      "channelId": "UCpOlOeQjj7EsVnDh3zuCgsA",
+      "durationSec": 3027,
+      "publishedAt": "2026-08-07T08:54:28Z",
+      "topics": [
+        "making",
+        "tech",
+        "engineering",
+        "coding"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/sVfwUMIEq4c/hqdefault.jpg"
+    },
+    {
       "id": "5_kkxxL8yWc",
       "title": "JP’s Product Pick of the Week 8/4/26",
       "channel": "Adafruit Industries",
@@ -85003,60 +84989,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/fi_--TWe0gA/hqdefault.jpg"
-    },
-    {
-      "id": "hp4IdMxoeIY",
-      "title": "Macropad CNC rotary encoder and the Feather RP2040 running CircuitPython #adafruit #3dprinting",
-      "channel": "Adafruit Industries",
-      "channelId": "UCpOlOeQjj7EsVnDh3zuCgsA",
-      "durationSec": 153,
-      "publishedAt": "2026-07-18T11:20:19Z",
-      "topics": [
-        "making",
-        "tech",
-        "engineering",
-        "coding"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/hp4IdMxoeIY/hqdefault.jpg"
-    },
-    {
-      "id": "AAn-hnLOD88",
-      "title": "Deep Dive w/Scott: GameBoy cart hacking #adafruit",
-      "channel": "Adafruit Industries",
-      "channelId": "UCpOlOeQjj7EsVnDh3zuCgsA",
-      "durationSec": 4115,
-      "publishedAt": "2026-07-18T10:16:59Z",
-      "topics": [
-        "making",
-        "tech",
-        "engineering",
-        "coding"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/AAn-hnLOD88/hqdefault.jpg"
-    },
-    {
-      "id": "6XLhmlkYBBA",
-      "title": "Demofruit Demo",
-      "channel": "Adafruit Industries",
-      "channelId": "UCpOlOeQjj7EsVnDh3zuCgsA",
-      "durationSec": 356,
-      "publishedAt": "2026-07-17T21:43:13Z",
-      "topics": [
-        "making",
-        "tech",
-        "engineering",
-        "coding"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/6XLhmlkYBBA/hqdefault.jpg"
     },
     {
       "id": "VmBS2N1FzmE",
@@ -86793,12 +86725,29 @@
       "thumbnail": "https://i.ytimg.com/vi/sbdU7AkH6QM/hqdefault.jpg"
     },
     {
+      "id": "kbuf178SMbk",
+      "title": "Kids Yoga LIVE 🌟 | Fun Yoga Adventures & Movement for Kids",
+      "channel": "Cosmic Kids Yoga",
+      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
+      "durationSec": 42898,
+      "publishedAt": "2026-08-06T23:52:59Z",
+      "topics": [
+        "reading",
+        "nature"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/kbuf178SMbk/hqdefault.jpg"
+    },
+    {
       "id": "NMqY6ho8l7Y",
       "title": "Kids Yoga LIVE 🌟 | Fun Yoga Adventures & Movement for Kids",
       "channel": "Cosmic Kids Yoga",
       "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
-      "durationSec": 42919,
-      "publishedAt": "2026-08-05T23:04:05Z",
+      "durationSec": 42897,
+      "publishedAt": "2026-08-06T11:30:23Z",
       "topics": [
         "reading",
         "nature"
@@ -88127,22 +88076,6 @@
         "little"
       ],
       "thumbnail": "https://i.ytimg.com/vi/hm8gkqelr-k/hqdefault.jpg"
-    },
-    {
-      "id": "JRi9brM925w",
-      "title": "Go Grocery Shopping with Cookie Monster! 🍎🥕 #sesamestreet",
-      "channel": "Sesame Street",
-      "channelId": "UCoookXUzPciGrEZEXmh4Jjg",
-      "durationSec": 139,
-      "publishedAt": "2026-06-04T11:30:08Z",
-      "topics": [
-        "reading",
-        "music"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/JRi9brM925w/hqdefault.jpg"
     },
     {
       "id": "HFeAU-KloOo",
