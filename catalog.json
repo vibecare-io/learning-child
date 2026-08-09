@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-08T09:25:53.678Z",
+  "generatedAt": "2026-08-09T09:27:53.552Z",
   "profiles": {
     "little": {
       "label": "Ages 3-7"
@@ -131,6 +131,22 @@
       "thumbnail": "https://i.ytimg.com/vi/kKqd0_cydZM/hqdefault.jpg"
     },
     {
+      "id": "4krR7Hqbon4",
+      "title": "A Day In The Life Of A Whale Shark 🦈 | Nat Geo Kids",
+      "channel": "Nat Geo Kids",
+      "channelId": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "durationSec": 150,
+      "publishedAt": "2026-08-08T15:00:22Z",
+      "topics": [
+        "animals",
+        "science"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/4krR7Hqbon4/hqdefault.jpg"
+    },
+    {
       "id": "oppj_L7L4o0",
       "title": "Opening Pandora's Jar (NOT Box!) | Greeking Out Podcast | S4 E2 FULL EP | ‪Nat Geo Kids",
       "channel": "Nat Geo Kids",
@@ -195,20 +211,19 @@
       "thumbnail": "https://i.ytimg.com/vi/2dmaCb5sf9w/hqdefault.jpg"
     },
     {
-      "id": "nmh5ot2F6gM",
-      "title": "Super Strange Animals 😲 | Super Animals Full Episode | Nat Geo Kids",
-      "channel": "Nat Geo Kids",
-      "channelId": "UCXVCgDuD_QCkI7gTKU7-tpg",
-      "durationSec": 1265,
-      "publishedAt": "2026-08-02T11:00:24Z",
+      "id": "EdvzXvi7NOg",
+      "title": "How To Build A Capybara In Minecraft",
+      "channel": "Art for Kids Hub",
+      "channelId": "UC5XMF3Inoi8R9nSI8ChOsdQ",
+      "durationSec": 317,
+      "publishedAt": "2026-08-08T14:00:08Z",
       "topics": [
-        "animals",
-        "science"
+        "art"
       ],
       "profiles": [
         "little"
       ],
-      "thumbnail": "https://i.ytimg.com/vi/nmh5ot2F6gM/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/EdvzXvi7NOg/hqdefault.jpg"
     },
     {
       "id": "9JrQWVJ9MiY",
@@ -286,6 +301,21 @@
       "thumbnail": "https://i.ytimg.com/vi/-ZtZrnxgm3k/hqdefault.jpg"
     },
     {
+      "id": "x1hhNFaHAew",
+      "title": "One Hour of Rainbow Math | Learn to Count for Kids Compilation | Number Cartoon | Numberblocks",
+      "channel": "Numberblocks",
+      "channelId": "UCPlwvN0w4qFSP1FllALB92w",
+      "durationSec": 5612,
+      "publishedAt": "2026-08-08T10:00:06Z",
+      "topics": [
+        "maths"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/x1hhNFaHAew/hqdefault.jpg"
+    },
+    {
       "id": "X0qR-o5aUFA",
       "title": "Let's Draw the Numberblocks! | Learn to Count for Kids Compilation | Number Cartoon | Numberblocks",
       "channel": "Numberblocks",
@@ -329,21 +359,6 @@
         "little"
       ],
       "thumbnail": "https://i.ytimg.com/vi/L7K8n_uZrWY/hqdefault.jpg"
-    },
-    {
-      "id": "vjOauI4OWPc",
-      "title": "Summer Vacation Counting! | Learn to Count for Kids Compilation | Number Cartoon | Numberblocks",
-      "channel": "Numberblocks",
-      "channelId": "UCPlwvN0w4qFSP1FllALB92w",
-      "durationSec": 3759,
-      "publishedAt": "2026-08-01T11:00:34Z",
-      "topics": [
-        "maths"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/vjOauI4OWPc/hqdefault.jpg"
     },
     {
       "id": "-61qDRPG3to",
@@ -3324,6 +3339,21 @@
       "thumbnail": "https://i.ytimg.com/vi/rf-efIZI_Dg/hqdefault.jpg"
     },
     {
+      "id": "lkvlxy4HK5Y",
+      "title": "The Night Sky Should Be Brighter Than the Sun",
+      "channel": "The Action Lab",
+      "channelId": "UC1VLQPn9cYSqx8plbk9RxxQ",
+      "durationSec": 455,
+      "publishedAt": "2026-08-08T15:03:26Z",
+      "topics": [
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/lkvlxy4HK5Y/hqdefault.jpg"
+    },
+    {
       "id": "hERNweUccK4",
       "title": "The Robot Hand That Can Grab Anything",
       "channel": "The Action Lab",
@@ -4027,21 +4057,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/aXTcYa7u12k/hqdefault.jpg"
-    },
-    {
-      "id": "7Yr_m2fbpEo",
-      "title": "Is a Three-Sided Coin Possible?",
-      "channel": "The Action Lab",
-      "channelId": "UC1VLQPn9cYSqx8plbk9RxxQ",
-      "durationSec": 482,
-      "publishedAt": "2025-07-12T15:03:00Z",
-      "topics": [
-        "science"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/7Yr_m2fbpEo/hqdefault.jpg"
     },
     {
       "id": "t-opWvv-QUY",
@@ -20653,6 +20668,22 @@
       "thumbnail": "https://i.ytimg.com/vi/FuqLVnDUz-c/hqdefault.jpg"
     },
     {
+      "id": "iJXDjEt2XEo",
+      "title": "Handyman Hal Tests Lawnmowers! Push Mower vs Riding Mower | Lawn Care for Kids",
+      "channel": "Handyman Hal",
+      "channelId": "UC8KyyhPfL4v2sZGbcGg7b7Q",
+      "durationSec": 1210,
+      "publishedAt": "2026-08-08T10:00:11Z",
+      "topics": [
+        "making",
+        "engineering"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/iJXDjEt2XEo/hqdefault.jpg"
+    },
+    {
       "id": "s3LfBdpfGYs",
       "title": "Handyman Hal Goes to the Hardware Store! 🛠️ Awesome Tools & Building a Tire Swing!",
       "channel": "Handyman Hal",
@@ -21403,22 +21434,6 @@
         "little"
       ],
       "thumbnail": "https://i.ytimg.com/vi/Ph0Sdm19C2U/hqdefault.jpg"
-    },
-    {
-      "id": "xwNqRoeifmI",
-      "title": "🚁 Helicopter Ride Over the Smoky Mountains | Learn how Helicopters Work with Handyman Hal",
-      "channel": "Handyman Hal",
-      "channelId": "UC8KyyhPfL4v2sZGbcGg7b7Q",
-      "durationSec": 1385,
-      "publishedAt": "2026-01-31T12:00:00Z",
-      "topics": [
-        "making",
-        "engineering"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/xwNqRoeifmI/hqdefault.jpg"
     },
     {
       "id": "7QsgPiLe_Q0",
@@ -26529,22 +26544,6 @@
       "thumbnail": "https://i.ytimg.com/vi/oExrt3H-CWs/hqdefault.jpg"
     },
     {
-      "id": "DkT-G3swCFU",
-      "title": "The hidden \"country\" of MAGHREB explained",
-      "channel": "Geography Now",
-      "channelId": "UCmmPgObSUPw1HL2lq6H4ffA",
-      "durationSec": 1219,
-      "publishedAt": "2026-05-26T07:30:14Z",
-      "topics": [
-        "geography",
-        "exploration"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/DkT-G3swCFU/hqdefault.jpg"
-    },
-    {
       "id": "3G1wZPeZZTQ",
       "title": "Beyond Stonewall: Exploring LGBTQ+ History Through the Smithsonian Archives 🏳️‍🌈 Smithsonian Channel",
       "channel": "Smithsonian Channel",
@@ -28207,6 +28206,21 @@
       "thumbnail": "https://i.ytimg.com/vi/WqAUHePNouI/hqdefault.jpg"
     },
     {
+      "id": "75L-1-F5KA4",
+      "title": "Moroccan Arabic (Darija)",
+      "channel": "Langfocus",
+      "channelId": "UCNhX3WQEkraW3VHPyup8jkQ",
+      "durationSec": 178,
+      "publishedAt": "2026-08-08T16:27:54Z",
+      "topics": [
+        "geography"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/75L-1-F5KA4/hqdefault.jpg"
+    },
+    {
       "id": "qKthVEAdzFc",
       "title": "Can Arabic speakers read Persian?",
       "channel": "Langfocus",
@@ -28685,21 +28699,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/tDWkHvxqJKM/hqdefault.jpg"
-    },
-    {
-      "id": "CTEjLJ6QEHk",
-      "title": "The Arabic impact on Spanish & Portuguese (excerpt)",
-      "channel": "Langfocus",
-      "channelId": "UCNhX3WQEkraW3VHPyup8jkQ",
-      "durationSec": 180,
-      "publishedAt": "2026-04-24T15:02:48Z",
-      "topics": [
-        "geography"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/CTEjLJ6QEHk/hqdefault.jpg"
     },
     {
       "id": "yt_GmmOx06Y",
@@ -31158,6 +31157,21 @@
       "thumbnail": "https://i.ytimg.com/vi/0R5qSD1FJQo/hqdefault.jpg"
     },
     {
+      "id": "FqldR5bfh2E",
+      "title": "Let's Spell 'CAT' and Other Animals! | Learn to Read and Spell for Kids Compilation | Alphablocks",
+      "channel": "Alphablocks",
+      "channelId": "UC_qs3c0ehDvZkbiEbOj6Drg",
+      "durationSec": 3829,
+      "publishedAt": "2026-08-08T11:00:06Z",
+      "topics": [
+        "reading"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/FqldR5bfh2E/hqdefault.jpg"
+    },
+    {
       "id": "ZtGpEQ-pYVk",
       "title": "Super Sports Spectacular! | Learn to Read and Spell for Kids Compilation | Alphablocks",
       "channel": "Alphablocks",
@@ -31696,21 +31710,6 @@
         "little"
       ],
       "thumbnail": "https://i.ytimg.com/vi/LI__gButvcY/hqdefault.jpg"
-    },
-    {
-      "id": "HpAiBgTAtAI",
-      "title": "Explore the Funfair! | Learn to Read and Spell for Kids Compilation | Alphablocks",
-      "channel": "Alphablocks",
-      "channelId": "UC_qs3c0ehDvZkbiEbOj6Drg",
-      "durationSec": 2053,
-      "publishedAt": "2026-05-15T11:00:00Z",
-      "topics": [
-        "reading"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/HpAiBgTAtAI/hqdefault.jpg"
     },
     {
       "id": "L0Cb6Vg6YUE",
@@ -62683,6 +62682,23 @@
       "thumbnail": "https://i.ytimg.com/vi/s7D3iOCq8-M/hqdefault.jpg"
     },
     {
+      "id": "3XDH-fZKnQk",
+      "title": "Let's build a digital clock!",
+      "channel": "Ben Eater",
+      "channelId": "UCS0N5baNlQWJCUrhCEo8WlA",
+      "durationSec": 1607,
+      "publishedAt": "2026-08-08T15:00:10Z",
+      "topics": [
+        "engineering",
+        "tech",
+        "coding"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/3XDH-fZKnQk/hqdefault.jpg"
+    },
+    {
       "id": "nooPmXxO6K0",
       "title": "Modern SID chip substitutes",
       "channel": "Ben Eater",
@@ -63514,23 +63530,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/izG7qT0EpBw/hqdefault.jpg"
-    },
-    {
-      "id": "ppU41c15Xho",
-      "title": "Checksums and Hamming distance",
-      "channel": "Ben Eater",
-      "channelId": "UCS0N5baNlQWJCUrhCEo8WlA",
-      "durationSec": 1701,
-      "publishedAt": "2019-03-10T15:37:56Z",
-      "topics": [
-        "engineering",
-        "tech",
-        "coding"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/ppU41c15Xho/hqdefault.jpg"
     },
     {
       "id": "-P2dN1GSKz0",
@@ -65906,6 +65905,22 @@
       "thumbnail": "https://i.ytimg.com/vi/oF3z_tNVllU/hqdefault.jpg"
     },
     {
+      "id": "OGpeAIZSM2Y",
+      "title": "The Crops Smart Gardeners Grow as Summers Get Hotter",
+      "channel": "GrowVeg",
+      "channelId": "UC9r61qohBg1qgGty4_WzojA",
+      "durationSec": 649,
+      "publishedAt": "2026-08-08T14:45:11Z",
+      "topics": [
+        "nature",
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/OGpeAIZSM2Y/hqdefault.jpg"
+    },
+    {
       "id": "z7LvjVRHojo",
       "title": "Better than MiracleGro: Make Fertilizer from Nettles",
       "channel": "GrowVeg",
@@ -66512,22 +66527,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/h4BLNs7iz30/hqdefault.jpg"
-    },
-    {
-      "id": "jNbLM6BhtfE",
-      "title": "This Ancient Anti-Depressant Can be Grown in Every Garden",
-      "channel": "GrowVeg",
-      "channelId": "UC9r61qohBg1qgGty4_WzojA",
-      "durationSec": 725,
-      "publishedAt": "2025-11-08T15:45:05Z",
-      "topics": [
-        "nature",
-        "science"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/jNbLM6BhtfE/hqdefault.jpg"
     },
     {
       "id": "0fiow6u_rH8",
@@ -69182,6 +69181,22 @@
       "thumbnail": "https://i.ytimg.com/vi/0j6QQ-Tlzvo/hqdefault.jpg"
     },
     {
+      "id": "7mDmXOP-Gr0",
+      "title": "The Supervolcano in Colorado; La Garita Caldera",
+      "channel": "GeologyHub",
+      "channelId": "UCYeGh5VML5XPr5jYnzh3J6g",
+      "durationSec": 318,
+      "publishedAt": "2026-08-08T18:00:32Z",
+      "topics": [
+        "science",
+        "geography"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/7mDmXOP-Gr0/hqdefault.jpg"
+    },
+    {
       "id": "ZKNaaQApnqg",
       "title": "The Lake Created by an Earthquake in Washington; Lena Lake",
       "channel": "GeologyHub",
@@ -69870,20 +69885,21 @@
       "thumbnail": "https://i.ytimg.com/vi/B-39TDhYaXw/hqdefault.jpg"
     },
     {
-      "id": "mzkpt7LQP6U",
-      "title": "Massachusetts Meteor Update; Large Fragments Impacted Cape Cod Bay",
-      "channel": "GeologyHub",
-      "channelId": "UCYeGh5VML5XPr5jYnzh3J6g",
-      "durationSec": 304,
-      "publishedAt": "2026-06-04T19:00:34Z",
+      "id": "Shc47UKQeV4",
+      "title": "Sauk Mountain w/ Gary Paull",
+      "channel": "Nick Zentner",
+      "channelId": "UC4szl4Ra1ZD3m80wJP40UBA",
+      "durationSec": 1930,
+      "publishedAt": "2026-08-09T02:31:25Z",
       "topics": [
         "science",
-        "geography"
+        "geography",
+        "history"
       ],
       "profiles": [
         "big"
       ],
-      "thumbnail": "https://i.ytimg.com/vi/mzkpt7LQP6U/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/Shc47UKQeV4/hqdefault.jpg"
     },
     {
       "id": "0c5VLrc28tk",
@@ -70717,23 +70733,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/BrY3c14_GAk/hqdefault.jpg"
-    },
-    {
-      "id": "5dSQE7XPutM",
-      "title": "Pacific Northwest Geodetic Array - PANGA",
-      "channel": "Nick Zentner",
-      "channelId": "UC4szl4Ra1ZD3m80wJP40UBA",
-      "durationSec": 1070,
-      "publishedAt": "2026-03-03T19:59:40Z",
-      "topics": [
-        "science",
-        "geography",
-        "history"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/5dSQE7XPutM/hqdefault.jpg"
     },
     {
       "id": "ShEzlXZPpPM",
@@ -78432,6 +78431,38 @@
       "thumbnail": "https://i.ytimg.com/vi/-JHY0M_3IZw/hqdefault.jpg"
     },
     {
+      "id": "WgoirlPvpuE",
+      "title": "Marine Biologist AMA",
+      "channel": "KPassionate",
+      "channelId": "UCUvSqEH92Fqn9uw1kmCfLGA",
+      "durationSec": 4591,
+      "publishedAt": "2026-08-09T00:26:01Z",
+      "topics": [
+        "animals",
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/WgoirlPvpuE/hqdefault.jpg"
+    },
+    {
+      "id": "T4QIXTAAugk",
+      "title": "Evolution Is Rapidly Speeding Up! The Proof Is In Our DNA",
+      "channel": "KPassionate",
+      "channelId": "UCUvSqEH92Fqn9uw1kmCfLGA",
+      "durationSec": 710,
+      "publishedAt": "2026-08-08T18:45:39Z",
+      "topics": [
+        "animals",
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/T4QIXTAAugk/hqdefault.jpg"
+    },
+    {
       "id": "EJftnccy4b8",
       "title": "What's Causing a Surge of Great White Sharks in California? A Marine Biologist Reacts",
       "channel": "KPassionate",
@@ -79198,38 +79229,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/JcubVEX1ZXk/hqdefault.jpg"
-    },
-    {
-      "id": "RXHY1ZHDczI",
-      "title": "CIA Found Sea Otters Make the Best Secret Agents",
-      "channel": "KPassionate",
-      "channelId": "UCUvSqEH92Fqn9uw1kmCfLGA",
-      "durationSec": 505,
-      "publishedAt": "2023-12-16T15:02:46Z",
-      "topics": [
-        "animals",
-        "science"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/RXHY1ZHDczI/hqdefault.jpg"
-    },
-    {
-      "id": "PXsBmDKevEk",
-      "title": "Debunking Dominance Theory: The Truth About Alpha Dogs",
-      "channel": "KPassionate",
-      "channelId": "UCUvSqEH92Fqn9uw1kmCfLGA",
-      "durationSec": 546,
-      "publishedAt": "2023-11-25T14:16:41Z",
-      "topics": [
-        "animals",
-        "science"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/PXsBmDKevEk/hqdefault.jpg"
     },
     {
       "id": "GoQ-yGKrRgo",
@@ -80762,6 +80761,22 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/NS8Q9LUIKA8/hqdefault.jpg"
+    },
+    {
+      "id": "u6yQE2kHrUM",
+      "title": "Top Physics Toys of the Week | Episode 6",
+      "channel": "physicsfun",
+      "channelId": "UCVs-1uGf7DWid0GNWgPWLzw",
+      "durationSec": 403,
+      "publishedAt": "2026-08-08T11:30:00Z",
+      "topics": [
+        "science"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/u6yQE2kHrUM/hqdefault.jpg"
     },
     {
       "id": "1WmiFe8Fg2U",
@@ -83056,6 +83071,38 @@
       "thumbnail": "https://i.ytimg.com/vi/GLVhXClV5QU/hqdefault.jpg"
     },
     {
+      "id": "Y8VvL32C7Sw",
+      "title": "Leaves in The Wind, Different Weights & MORE! | Explore the Big Wide World",
+      "channel": "Peep and the Big Wide World",
+      "channelId": "UCPq6g4Q4-SFMIJ048IXmupA",
+      "durationSec": 2460,
+      "publishedAt": "2026-08-08T19:00:38Z",
+      "topics": [
+        "science",
+        "nature"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/Y8VvL32C7Sw/hqdefault.jpg"
+    },
+    {
+      "id": "ri4ehjv-3Mc",
+      "title": "Flipping Newton | Peep and the Big Wide World",
+      "channel": "Peep and the Big Wide World",
+      "channelId": "UCPq6g4Q4-SFMIJ048IXmupA",
+      "durationSec": 645,
+      "publishedAt": "2026-08-08T15:00:20Z",
+      "topics": [
+        "science",
+        "nature"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/ri4ehjv-3Mc/hqdefault.jpg"
+    },
+    {
       "id": "h5MN7ab9vsE",
       "title": "There's No Place Like Home | Peep and the Big Wide World",
       "channel": "Peep and the Big Wide World",
@@ -83646,22 +83693,6 @@
         "little"
       ],
       "thumbnail": "https://i.ytimg.com/vi/kTj7prMc_NM/hqdefault.jpg"
-    },
-    {
-      "id": "oI-JdYT-SIA",
-      "title": "Peep Can't Wait For Spring☀️ | Peep and the Big Wide World",
-      "channel": "Peep and the Big Wide World",
-      "channelId": "UCPq6g4Q4-SFMIJ048IXmupA",
-      "durationSec": 3822,
-      "publishedAt": "2026-07-05T15:00:29Z",
-      "topics": [
-        "science",
-        "nature"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/oI-JdYT-SIA/hqdefault.jpg"
     },
     {
       "id": "qiSHiU_b7Ac",
@@ -84620,8 +84651,8 @@
       "title": "Deep Dive w/Scott: nRF54LM20 on Zephyr #adafruit",
       "channel": "Adafruit Industries",
       "channelId": "UCpOlOeQjj7EsVnDh3zuCgsA",
-      "durationSec": 3733,
-      "publishedAt": "2026-08-07T16:23:25Z",
+      "durationSec": 3720,
+      "publishedAt": "2026-08-08T10:08:32Z",
       "topics": [
         "making",
         "tech",
@@ -86068,6 +86099,21 @@
       "thumbnail": "https://i.ytimg.com/vi/UtQrloHD3Co/hqdefault.jpg"
     },
     {
+      "id": "SSkJCOriO8E",
+      "title": "Engineering The Perfect Stereo Camera. Engineer Vs Bee : Round 3",
+      "channel": "Jeremy Fielding",
+      "channelId": "UC_SLthyNX_ivd-dmsFgmJVg",
+      "durationSec": 2035,
+      "publishedAt": "2026-08-08T12:35:22Z",
+      "topics": [
+        "engineering"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/SSkJCOriO8E/hqdefault.jpg"
+    },
+    {
       "id": "-k0VGFnVYag",
       "title": "Update On The Bee Chaser and WALL E",
       "channel": "Jeremy Fielding",
@@ -86713,19 +86759,38 @@
       "thumbnail": "https://i.ytimg.com/vi/EsCE7KBG9WU/hqdefault.jpg"
     },
     {
-      "id": "sbdU7AkH6QM",
-      "title": "Reviewing Free Energy Generators.  A Response to My Video \"Nikola Tesla's Greatest Invention\"- 102",
-      "channel": "Jeremy Fielding",
-      "channelId": "UC_SLthyNX_ivd-dmsFgmJVg",
-      "durationSec": 1304,
-      "publishedAt": "2022-03-19T20:13:28Z",
+      "id": "OF9TE6UR-kE",
+      "title": "Kids Yoga LIVE 🌟 | Fun Yoga Adventures & Movement for Kids",
+      "channel": "Cosmic Kids Yoga",
+      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
+      "durationSec": 42897,
+      "publishedAt": "2026-08-09T01:37:05Z",
       "topics": [
-        "engineering"
+        "reading",
+        "nature"
       ],
       "profiles": [
+        "little",
         "big"
       ],
-      "thumbnail": "https://i.ytimg.com/vi/sbdU7AkH6QM/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/OF9TE6UR-kE/hqdefault.jpg"
+    },
+    {
+      "id": "3szlssWBMiQ",
+      "title": "Kids Yoga LIVE 🌟 | Fun Yoga Adventures & Movement for Kids",
+      "channel": "Cosmic Kids Yoga",
+      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
+      "durationSec": 42899,
+      "publishedAt": "2026-08-08T13:22:03Z",
+      "topics": [
+        "reading",
+        "nature"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/3szlssWBMiQ/hqdefault.jpg"
     },
     {
       "id": "Hlv73_UrVlU",
@@ -88113,6 +88178,22 @@
         "little"
       ],
       "thumbnail": "https://i.ytimg.com/vi/xCrU5MvKQDE/hqdefault.jpg"
+    },
+    {
+      "id": "hm8gkqelr-k",
+      "title": "Library Helpers, Baby Sitters, & More with Elmo and Friends! | 2 HOURS | Sesame Street Full Episodes",
+      "channel": "Sesame Street",
+      "channelId": "UCoookXUzPciGrEZEXmh4Jjg",
+      "durationSec": 7934,
+      "publishedAt": "2026-06-05T11:30:12Z",
+      "topics": [
+        "reading",
+        "music"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/hm8gkqelr-k/hqdefault.jpg"
     },
     {
       "id": "HFeAU-KloOo",
