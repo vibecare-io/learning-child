@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-09T09:27:53.552Z",
+  "generatedAt": "2026-08-10T10:07:47.141Z",
   "profiles": {
     "little": {
       "label": "Ages 3-7"
@@ -129,6 +129,22 @@
         "little"
       ],
       "thumbnail": "https://i.ytimg.com/vi/kKqd0_cydZM/hqdefault.jpg"
+    },
+    {
+      "id": "JgZ1JRbitU8",
+      "title": "These Sharks are Closer Than You Think 😱 | Full Episode | SHARKFEST 🦈 | Nat Geo Kids",
+      "channel": "Nat Geo Kids",
+      "channelId": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "durationSec": 2771,
+      "publishedAt": "2026-08-09T11:00:16Z",
+      "topics": [
+        "animals",
+        "science"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/JgZ1JRbitU8/hqdefault.jpg"
     },
     {
       "id": "4krR7Hqbon4",
@@ -301,6 +317,21 @@
       "thumbnail": "https://i.ytimg.com/vi/-ZtZrnxgm3k/hqdefault.jpg"
     },
     {
+      "id": "40c-tHt3aww",
+      "title": "Learn to Be Kind with the Numberblocks | Learn to Count for Kids | Number Cartoon | Numberblocks",
+      "channel": "Numberblocks",
+      "channelId": "UCPlwvN0w4qFSP1FllALB92w",
+      "durationSec": 3484,
+      "publishedAt": "2026-08-09T10:00:03Z",
+      "topics": [
+        "maths"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/40c-tHt3aww/hqdefault.jpg"
+    },
+    {
       "id": "x1hhNFaHAew",
       "title": "One Hour of Rainbow Math | Learn to Count for Kids Compilation | Number Cartoon | Numberblocks",
       "channel": "Numberblocks",
@@ -344,21 +375,6 @@
         "little"
       ],
       "thumbnail": "https://i.ytimg.com/vi/okraTNro0tg/hqdefault.jpg"
-    },
-    {
-      "id": "L7K8n_uZrWY",
-      "title": "Who is the Hide and Seek Champion? | Learn to Count for Kids | Number Cartoon | Numberblocks",
-      "channel": "Numberblocks",
-      "channelId": "UCPlwvN0w4qFSP1FllALB92w",
-      "durationSec": 4047,
-      "publishedAt": "2026-08-02T10:00:19Z",
-      "topics": [
-        "maths"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/L7K8n_uZrWY/hqdefault.jpg"
     },
     {
       "id": "-61qDRPG3to",
@@ -26144,6 +26160,22 @@
       "thumbnail": "https://i.ytimg.com/vi/vEIMHMMRyLI/hqdefault.jpg"
     },
     {
+      "id": "6YVeyK1DFVI",
+      "title": "How Yugoslavia broke up in 2 minutes",
+      "channel": "Geography Now",
+      "channelId": "UCmmPgObSUPw1HL2lq6H4ffA",
+      "durationSec": 135,
+      "publishedAt": "2026-08-09T20:57:31Z",
+      "topics": [
+        "geography",
+        "exploration"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/6YVeyK1DFVI/hqdefault.jpg"
+    },
+    {
       "id": "S2WWPkkgl7M",
       "title": "Livestream featuring ART!",
       "channel": "Geography Now",
@@ -28204,6 +28236,21 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/WqAUHePNouI/hqdefault.jpg"
+    },
+    {
+      "id": "YaKanPaCF_o",
+      "title": "Catalan vs other Romance languages",
+      "channel": "Langfocus",
+      "channelId": "UCNhX3WQEkraW3VHPyup8jkQ",
+      "durationSec": 175,
+      "publishedAt": "2026-08-09T16:08:14Z",
+      "topics": [
+        "geography"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/YaKanPaCF_o/hqdefault.jpg"
     },
     {
       "id": "75L-1-F5KA4",
@@ -31157,6 +31204,21 @@
       "thumbnail": "https://i.ytimg.com/vi/0R5qSD1FJQo/hqdefault.jpg"
     },
     {
+      "id": "6j8_kct3gLw",
+      "title": "Rainbow Spelling for Tiny Tots | Learn to Read and Spell for Kids Compilation | Alphablocks",
+      "channel": "Alphablocks",
+      "channelId": "UC_qs3c0ehDvZkbiEbOj6Drg",
+      "durationSec": 2455,
+      "publishedAt": "2026-08-09T11:00:12Z",
+      "topics": [
+        "reading"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/6j8_kct3gLw/hqdefault.jpg"
+    },
+    {
       "id": "FqldR5bfh2E",
       "title": "Let's Spell 'CAT' and Other Animals! | Learn to Read and Spell for Kids Compilation | Alphablocks",
       "channel": "Alphablocks",
@@ -31695,21 +31757,6 @@
         "little"
       ],
       "thumbnail": "https://i.ytimg.com/vi/Vu2hhpg10r4/hqdefault.jpg"
-    },
-    {
-      "id": "LI__gButvcY",
-      "title": "'EE' and More Long Vowels | Learn to Read and Spell for Kids Compilation | Alphablocks",
-      "channel": "Alphablocks",
-      "channelId": "UC_qs3c0ehDvZkbiEbOj6Drg",
-      "durationSec": 1733,
-      "publishedAt": "2026-05-16T11:00:00Z",
-      "topics": [
-        "reading"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/LI__gButvcY/hqdefault.jpg"
     },
     {
       "id": "L0Cb6Vg6YUE",
@@ -41191,6 +41238,22 @@
       "thumbnail": "https://i.ytimg.com/vi/2pG1YDEGmXc/hqdefault.jpg"
     },
     {
+      "id": "XAQUIFfOJfA",
+      "title": "Green Park: Passageways and Plague Pits",
+      "channel": "Jago Hazzard",
+      "channelId": "UCcHuNKYzVMc06FXqsBEAV3A",
+      "durationSec": 856,
+      "publishedAt": "2026-08-09T11:00:26Z",
+      "topics": [
+        "history",
+        "geography"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/XAQUIFfOJfA/hqdefault.jpg"
+    },
+    {
       "id": "rR5mQ96VjAc",
       "title": "Why the Overground is Orange",
       "channel": "Jago Hazzard",
@@ -41973,22 +42036,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/atq5JyuCv0Q/hqdefault.jpg"
-    },
-    {
-      "id": "OZkGsomdoqk",
-      "title": "Sandpits and Tin Turtles at Leighton Buzzard",
-      "channel": "Jago Hazzard",
-      "channelId": "UCcHuNKYzVMc06FXqsBEAV3A",
-      "durationSec": 639,
-      "publishedAt": "2026-04-15T16:30:00Z",
-      "topics": [
-        "history",
-        "geography"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/OZkGsomdoqk/hqdefault.jpg"
     },
     {
       "id": "E_SJ1NBMrH0",
@@ -48448,6 +48495,21 @@
       "thumbnail": "https://i.ytimg.com/vi/jvebwDXmBSw/hqdefault.jpg"
     },
     {
+      "id": "wWxqBaWt5uY",
+      "title": "Anthony Fauci is Evil Satan Bastard Man!",
+      "channel": "Professor Dave Explains",
+      "channelId": "UC0cd_-e49hZpWLH3UIwoWRA",
+      "durationSec": 9557,
+      "publishedAt": "2026-08-09T14:00:08Z",
+      "topics": [
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/wWxqBaWt5uY/hqdefault.jpg"
+    },
+    {
       "id": "w1rPUdPnMBk",
       "title": "Apollo 7: The First Manned Apollo Mission",
       "channel": "Professor Dave Explains",
@@ -49181,21 +49243,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/uGT1OPNBUAk/hqdefault.jpg"
-    },
-    {
-      "id": "hnYO4agE5Ow",
-      "title": "The Intensive Pronoun (ipse-ipsa-ipsum)",
-      "channel": "Professor Dave Explains",
-      "channelId": "UC0cd_-e49hZpWLH3UIwoWRA",
-      "durationSec": 275,
-      "publishedAt": "2026-05-25T14:00:40Z",
-      "topics": [
-        "science"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/hnYO4agE5Ow/hqdefault.jpg"
     },
     {
       "id": "BjyJlN1npdw",
@@ -62478,6 +62525,23 @@
       "thumbnail": "https://i.ytimg.com/vi/IjJWWGPjc-w/hqdefault.jpg"
     },
     {
+      "id": "zmKez6NFyxI",
+      "title": "I Built a Light for Every Sale",
+      "channel": "Becky Stern",
+      "channelId": "UCsI_41SZafKtB5qE46WjlQQ",
+      "durationSec": 437,
+      "publishedAt": "2026-08-09T14:00:13Z",
+      "topics": [
+        "making",
+        "tech",
+        "art"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/zmKez6NFyxI/hqdefault.jpg"
+    },
+    {
       "id": "WUUnGfWuCdI",
       "title": "3D Print This to Get a Girlfriend",
       "channel": "Becky Stern",
@@ -66529,6 +66593,22 @@
       "thumbnail": "https://i.ytimg.com/vi/h4BLNs7iz30/hqdefault.jpg"
     },
     {
+      "id": "k4_kPjVQO54",
+      "title": "GUIDING GREEN THUMBS | DEVASTATING FLOWER FARM FLOOD UPDATE - WHAT HAPPENS NEXT?",
+      "channel": "Guiding Green Thumbs",
+      "channelId": "UCcgYyMRPW7z4fbJabbSWQ8g",
+      "durationSec": 4516,
+      "publishedAt": "2026-08-09T14:39:45Z",
+      "topics": [
+        "nature",
+        "making"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/k4_kPjVQO54/hqdefault.jpg"
+    },
+    {
       "id": "0fiow6u_rH8",
       "title": "FLOWER FARM FLASH FLOOD DISASTER",
       "channel": "Guiding Green Thumbs",
@@ -67311,22 +67391,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/qdsXBzSDmTY/hqdefault.jpg"
-    },
-    {
-      "id": "0rF9E8YLa14",
-      "title": "OUR FIRST DAHLIA BLOOMS / FIELD FLOWER GARDEN TOUR",
-      "channel": "Guiding Green Thumbs",
-      "channelId": "UCcgYyMRPW7z4fbJabbSWQ8g",
-      "durationSec": 2448,
-      "publishedAt": "2025-08-17T12:19:53Z",
-      "topics": [
-        "nature",
-        "making"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/0rF9E8YLa14/hqdefault.jpg"
     },
     {
       "id": "K3xL8OgnUe8",
@@ -69181,6 +69245,22 @@
       "thumbnail": "https://i.ytimg.com/vi/0j6QQ-Tlzvo/hqdefault.jpg"
     },
     {
+      "id": "9hPDUZKcBdE",
+      "title": "This Week in Volcano News; Strong Fuego Eruption, New Crack at Kilauea",
+      "channel": "GeologyHub",
+      "channelId": "UCYeGh5VML5XPr5jYnzh3J6g",
+      "durationSec": 338,
+      "publishedAt": "2026-08-09T18:00:18Z",
+      "topics": [
+        "science",
+        "geography"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/9hPDUZKcBdE/hqdefault.jpg"
+    },
+    {
       "id": "7mDmXOP-Gr0",
       "title": "The Supervolcano in Colorado; La Garita Caldera",
       "channel": "GeologyHub",
@@ -69867,22 +69947,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/atywgpNUsco/hqdefault.jpg"
-    },
-    {
-      "id": "B-39TDhYaXw",
-      "title": "Titan Ridge Volcano Update; Pumice Inundates Multiple Islands",
-      "channel": "GeologyHub",
-      "channelId": "UCYeGh5VML5XPr5jYnzh3J6g",
-      "durationSec": 304,
-      "publishedAt": "2026-06-05T19:00:09Z",
-      "topics": [
-        "science",
-        "geography"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/B-39TDhYaXw/hqdefault.jpg"
     },
     {
       "id": "Shc47UKQeV4",
@@ -78431,22 +78495,6 @@
       "thumbnail": "https://i.ytimg.com/vi/-JHY0M_3IZw/hqdefault.jpg"
     },
     {
-      "id": "WgoirlPvpuE",
-      "title": "Marine Biologist AMA",
-      "channel": "KPassionate",
-      "channelId": "UCUvSqEH92Fqn9uw1kmCfLGA",
-      "durationSec": 4591,
-      "publishedAt": "2026-08-09T00:26:01Z",
-      "topics": [
-        "animals",
-        "science"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/WgoirlPvpuE/hqdefault.jpg"
-    },
-    {
       "id": "T4QIXTAAugk",
       "title": "Evolution Is Rapidly Speeding Up! The Proof Is In Our DNA",
       "channel": "KPassionate",
@@ -79229,6 +79277,22 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/JcubVEX1ZXk/hqdefault.jpg"
+    },
+    {
+      "id": "RXHY1ZHDczI",
+      "title": "CIA Found Sea Otters Make the Best Secret Agents",
+      "channel": "KPassionate",
+      "channelId": "UCUvSqEH92Fqn9uw1kmCfLGA",
+      "durationSec": 505,
+      "publishedAt": "2023-12-16T15:02:46Z",
+      "topics": [
+        "animals",
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/RXHY1ZHDczI/hqdefault.jpg"
     },
     {
       "id": "GoQ-yGKrRgo",
@@ -83071,6 +83135,22 @@
       "thumbnail": "https://i.ytimg.com/vi/GLVhXClV5QU/hqdefault.jpg"
     },
     {
+      "id": "gfVWV0j4ZaI",
+      "title": "Where Does The Sun Go at Night? | Peep and the Big Wide World",
+      "channel": "Peep and the Big Wide World",
+      "channelId": "UCPq6g4Q4-SFMIJ048IXmupA",
+      "durationSec": 3802,
+      "publishedAt": "2026-08-09T15:00:15Z",
+      "topics": [
+        "science",
+        "nature"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/gfVWV0j4ZaI/hqdefault.jpg"
+    },
+    {
       "id": "Y8VvL32C7Sw",
       "title": "Leaves in The Wind, Different Weights & MORE! | Explore the Big Wide World",
       "channel": "Peep and the Big Wide World",
@@ -83661,38 +83741,6 @@
         "little"
       ],
       "thumbnail": "https://i.ytimg.com/vi/R23XpIN1m48/hqdefault.jpg"
-    },
-    {
-      "id": "NMKVRZY_8z4",
-      "title": "Quack Loses His Hat | Peep and the Big Wide World",
-      "channel": "Peep and the Big Wide World",
-      "channelId": "UCPq6g4Q4-SFMIJ048IXmupA",
-      "durationSec": 656,
-      "publishedAt": "2026-07-07T15:00:40Z",
-      "topics": [
-        "science",
-        "nature"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/NMKVRZY_8z4/hqdefault.jpg"
-    },
-    {
-      "id": "kTj7prMc_NM",
-      "title": "Current Events | Peep and the Big Wide World",
-      "channel": "Peep and the Big Wide World",
-      "channelId": "UCPq6g4Q4-SFMIJ048IXmupA",
-      "durationSec": 655,
-      "publishedAt": "2026-07-06T15:00:19Z",
-      "topics": [
-        "science",
-        "nature"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/kTj7prMc_NM/hqdefault.jpg"
     },
     {
       "id": "qiSHiU_b7Ac",
@@ -86759,6 +86807,40 @@
       "thumbnail": "https://i.ytimg.com/vi/EsCE7KBG9WU/hqdefault.jpg"
     },
     {
+      "id": "j2_vxfEtWTc",
+      "title": "Kids Yoga LIVE 🌟 | Fun Yoga Adventures & Movement for Kids",
+      "channel": "Cosmic Kids Yoga",
+      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
+      "durationSec": 42898,
+      "publishedAt": "2026-08-10T02:20:45Z",
+      "topics": [
+        "reading",
+        "nature"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/j2_vxfEtWTc/hqdefault.jpg"
+    },
+    {
+      "id": "TqJiA-F-SSg",
+      "title": "Kids Yoga LIVE 🌟 | Fun Yoga Adventures & Movement for Kids",
+      "channel": "Cosmic Kids Yoga",
+      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
+      "durationSec": 42900,
+      "publishedAt": "2026-08-09T13:56:43Z",
+      "topics": [
+        "reading",
+        "nature"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/TqJiA-F-SSg/hqdefault.jpg"
+    },
+    {
       "id": "OF9TE6UR-kE",
       "title": "Kids Yoga LIVE 🌟 | Fun Yoga Adventures & Movement for Kids",
       "channel": "Cosmic Kids Yoga",
@@ -86927,23 +87009,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/KNRSNb7doCw/hqdefault.jpg"
-    },
-    {
-      "id": "MR4URRkc1T4",
-      "title": "Bedtime Yoga Lullaby Beach | Kids Yoga for Bedtime! | Cosmic Kids",
-      "channel": "Cosmic Kids Yoga",
-      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
-      "durationSec": 429,
-      "publishedAt": "2026-07-01T14:00:37Z",
-      "topics": [
-        "reading",
-        "nature"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/MR4URRkc1T4/hqdefault.jpg"
     },
     {
       "id": "xm_GCZKltLA",
@@ -87796,6 +87861,22 @@
       "thumbnail": "https://i.ytimg.com/vi/Ilr2DjYOfqA/hqdefault.jpg"
     },
     {
+      "id": "MtVywDiugYY",
+      "title": "Elmo's Arts & Crafts! 🎨🖍️ | 44 Mins | Sesame Street",
+      "channel": "Sesame Street",
+      "channelId": "UCoookXUzPciGrEZEXmh4Jjg",
+      "durationSec": 2945,
+      "publishedAt": "2026-08-09T11:30:05Z",
+      "topics": [
+        "reading",
+        "music"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/MtVywDiugYY/hqdefault.jpg"
+    },
+    {
       "id": "bHXN_IxT19E",
       "title": "Pretend Play and Dress Up with Elmo & Abby  🤖 🦸 | 2 HOURS of Sesame Street Full Episodes",
       "channel": "Sesame Street",
@@ -88178,22 +88259,6 @@
         "little"
       ],
       "thumbnail": "https://i.ytimg.com/vi/xCrU5MvKQDE/hqdefault.jpg"
-    },
-    {
-      "id": "hm8gkqelr-k",
-      "title": "Library Helpers, Baby Sitters, & More with Elmo and Friends! | 2 HOURS | Sesame Street Full Episodes",
-      "channel": "Sesame Street",
-      "channelId": "UCoookXUzPciGrEZEXmh4Jjg",
-      "durationSec": 7934,
-      "publishedAt": "2026-06-05T11:30:12Z",
-      "topics": [
-        "reading",
-        "music"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/hm8gkqelr-k/hqdefault.jpg"
     },
     {
       "id": "HFeAU-KloOo",
