@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-10T10:07:47.141Z",
+  "generatedAt": "2026-08-11T09:49:15.089Z",
   "profiles": {
     "little": {
       "label": "Ages 3-7"
@@ -131,6 +131,22 @@
       "thumbnail": "https://i.ytimg.com/vi/kKqd0_cydZM/hqdefault.jpg"
     },
     {
+      "id": "BFjV99KJRaE",
+      "title": "America's Funniest Animal Videos! 🤣 | Full Episode Compilation | Nat Geo Kids",
+      "channel": "Nat Geo Kids",
+      "channelId": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "durationSec": 7917,
+      "publishedAt": "2026-08-10T11:00:29Z",
+      "topics": [
+        "animals",
+        "science"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/BFjV99KJRaE/hqdefault.jpg"
+    },
+    {
       "id": "JgZ1JRbitU8",
       "title": "These Sharks are Closer Than You Think 😱 | Full Episode | SHARKFEST 🦈 | Nat Geo Kids",
       "channel": "Nat Geo Kids",
@@ -211,20 +227,19 @@
       "thumbnail": "https://i.ytimg.com/vi/lR_8HnYF8Tc/hqdefault.jpg"
     },
     {
-      "id": "2dmaCb5sf9w",
-      "title": "Sharks Found Where?! | Full Episode Compilation | SHARKFEST 🦈 | Nat Geo Kids",
-      "channel": "Nat Geo Kids",
-      "channelId": "UCXVCgDuD_QCkI7gTKU7-tpg",
-      "durationSec": 7873,
-      "publishedAt": "2026-08-03T11:00:08Z",
+      "id": "EQIMxHf7QRE",
+      "title": "How To Draw Eevee Squishmallow",
+      "channel": "Art for Kids Hub",
+      "channelId": "UC5XMF3Inoi8R9nSI8ChOsdQ",
+      "durationSec": 440,
+      "publishedAt": "2026-08-10T14:00:15Z",
       "topics": [
-        "animals",
-        "science"
+        "art"
       ],
       "profiles": [
         "little"
       ],
-      "thumbnail": "https://i.ytimg.com/vi/2dmaCb5sf9w/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/EQIMxHf7QRE/hqdefault.jpg"
     },
     {
       "id": "EdvzXvi7NOg",
@@ -285,36 +300,6 @@
         "little"
       ],
       "thumbnail": "https://i.ytimg.com/vi/Yrk2QyVTLGw/hqdefault.jpg"
-    },
-    {
-      "id": "co3ARKnKJBk",
-      "title": "How To Draw A Funny Cookie Dunking Into Milk",
-      "channel": "Art for Kids Hub",
-      "channelId": "UC5XMF3Inoi8R9nSI8ChOsdQ",
-      "durationSec": 517,
-      "publishedAt": "2026-08-04T14:00:08Z",
-      "topics": [
-        "art"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/co3ARKnKJBk/hqdefault.jpg"
-    },
-    {
-      "id": "-ZtZrnxgm3k",
-      "title": "How To Draw Funny Fruit Friends",
-      "channel": "Art for Kids Hub",
-      "channelId": "UC5XMF3Inoi8R9nSI8ChOsdQ",
-      "durationSec": 423,
-      "publishedAt": "2026-08-03T14:00:15Z",
-      "topics": [
-        "art"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/-ZtZrnxgm3k/hqdefault.jpg"
     },
     {
       "id": "40c-tHt3aww",
@@ -473,6 +458,21 @@
       "thumbnail": "https://i.ytimg.com/vi/QIqKGMM8ivM/hqdefault.jpg"
     },
     {
+      "id": "0aTUTxOiRgU",
+      "title": "Holier Than Thou - Numberphile",
+      "channel": "Numberphile",
+      "channelId": "UCoxcjq-8xIDTYp3uz647V5A",
+      "durationSec": 178,
+      "publishedAt": "2026-08-10T11:59:00Z",
+      "topics": [
+        "maths"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/0aTUTxOiRgU/hqdefault.jpg"
+    },
+    {
       "id": "oYGBRhS1Ujo",
       "title": "Cutting Moons  - Numberphile",
       "channel": "Numberphile",
@@ -533,19 +533,19 @@
       "thumbnail": "https://i.ytimg.com/vi/1cvKGqgOx_8/hqdefault.jpg"
     },
     {
-      "id": "3KWwMzSxB1Y",
-      "title": "Long Legged Letters - Numberphile",
-      "channel": "Numberphile",
-      "channelId": "UCoxcjq-8xIDTYp3uz647V5A",
-      "durationSec": 1341,
-      "publishedAt": "2026-07-04T15:16:30Z",
+      "id": "xGxeJE8SFc0",
+      "title": "Can Baldness Be Reversed?",
+      "channel": "SciShow",
+      "channelId": "UCZYTClx2T1of7BRZ86-8fow",
+      "durationSec": 528,
+      "publishedAt": "2026-08-10T16:03:30Z",
       "topics": [
-        "maths"
+        "science"
       ],
       "profiles": [
         "big"
       ],
-      "thumbnail": "https://i.ytimg.com/vi/3KWwMzSxB1Y/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/xGxeJE8SFc0/hqdefault.jpg"
     },
     {
       "id": "PNG9nRO7XZ8",
@@ -591,21 +591,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/h2wnaBny4Ig/hqdefault.jpg"
-    },
-    {
-      "id": "JGN6po7Zcsg",
-      "title": "Why People Thought \"Aliens\" Made These Rocks",
-      "channel": "SciShow",
-      "channelId": "UCZYTClx2T1of7BRZ86-8fow",
-      "durationSec": 710,
-      "publishedAt": "2026-08-03T17:00:06Z",
-      "topics": [
-        "science"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/JGN6po7Zcsg/hqdefault.jpg"
     },
     {
       "id": "GlYgs6v2YfU",
@@ -5708,21 +5693,20 @@
       "thumbnail": "https://i.ytimg.com/vi/XX4f6dOoi08/hqdefault.jpg"
     },
     {
-      "id": "ttiLcMUQq80",
-      "title": "Moonbound Episode 2 | For All Humanity",
-      "channel": "NASA",
-      "channelId": "UCLA_DiR1FfKNvjuUpBHmylQ",
-      "durationSec": 2203,
-      "publishedAt": "2026-04-17T19:06:55Z",
+      "id": "FSqhEFH_Xak",
+      "title": "JPL x Sian Proctor  |  NXT in Space: Episode 2",
+      "channel": "NASA Jet Propulsion Laboratory",
+      "channelId": "UCryGec9PdUCLjpJW2mgCuLw",
+      "durationSec": 2713,
+      "publishedAt": "2026-08-10T21:18:08Z",
       "topics": [
         "space",
-        "exploration"
+        "engineering"
       ],
       "profiles": [
-        "little",
         "big"
       ],
-      "thumbnail": "https://i.ytimg.com/vi/ttiLcMUQq80/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/FSqhEFH_Xak/hqdefault.jpg"
     },
     {
       "id": "I29P2zHNGdI",
@@ -6093,38 +6077,6 @@
       "thumbnail": "https://i.ytimg.com/vi/sLjvAmK_siU/hqdefault.jpg"
     },
     {
-      "id": "-vzafaw0t08",
-      "title": "NASA: What We Know About Interstellar Comet 3I/ATLAS",
-      "channel": "NASA Jet Propulsion Laboratory",
-      "channelId": "UCryGec9PdUCLjpJW2mgCuLw",
-      "durationSec": 140,
-      "publishedAt": "2025-07-03T20:32:41Z",
-      "topics": [
-        "space",
-        "engineering"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/-vzafaw0t08/hqdefault.jpg"
-    },
-    {
-      "id": "SQu8utmfOQk",
-      "title": "What's Up: July 2025 Skywatching Tips from NASA",
-      "channel": "NASA Jet Propulsion Laboratory",
-      "channelId": "UCryGec9PdUCLjpJW2mgCuLw",
-      "durationSec": 214,
-      "publishedAt": "2025-07-02T16:03:33Z",
-      "topics": [
-        "space",
-        "engineering"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/SQu8utmfOQk/hqdefault.jpg"
-    },
-    {
       "id": "R6Weziw_4O0",
       "title": "The journey of Sophie Adenot's bonus food: from France to space",
       "channel": "European Space Agency, ESA",
@@ -6393,36 +6345,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/Vk9tGIaX_sA/hqdefault.jpg"
-    },
-    {
-      "id": "MDt54AMgfmI",
-      "title": "Europe’s heatwave seen from space",
-      "channel": "European Space Agency, ESA",
-      "channelId": "UCIBaDdAbGlFDeS33shmlD0A",
-      "durationSec": 135,
-      "publishedAt": "2026-06-25T13:32:11Z",
-      "topics": [
-        "space"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/MDt54AMgfmI/hqdefault.jpg"
-    },
-    {
-      "id": "vc32khjrG3U",
-      "title": "Why astronauts work out in space🏋️‍♀️ (Part 1) [French with English subtitles]",
-      "channel": "European Space Agency, ESA",
-      "channelId": "UCIBaDdAbGlFDeS33shmlD0A",
-      "durationSec": 170,
-      "publishedAt": "2026-06-24T17:00:36Z",
-      "topics": [
-        "space"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/vc32khjrG3U/hqdefault.jpg"
     },
     {
       "id": "1_8cel49X30",
@@ -13424,6 +13346,22 @@
       "thumbnail": "https://i.ytimg.com/vi/m6KAfSgFaAM/hqdefault.jpg"
     },
     {
+      "id": "rbHZv822Nz8",
+      "title": "How to Draw Baby Rosalina | Super Mario",
+      "channel": "Cartooning Club How to Draw",
+      "channelId": "UC-biucJWhM8HwjsQ96uoIUw",
+      "durationSec": 442,
+      "publishedAt": "2026-08-10T14:00:27Z",
+      "topics": [
+        "art",
+        "making"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/rbHZv822Nz8/hqdefault.jpg"
+    },
+    {
       "id": "ee05tpTZw74",
       "title": "How to Draw a Boat Still Life 🔥 LIVE drawing session",
       "channel": "Cartooning Club How to Draw",
@@ -14078,22 +14016,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/AZQJgcMZJxg/hqdefault.jpg"
-    },
-    {
-      "id": "_N34B_9UqYU",
-      "title": "How to Draw Piranha Plant | Super Mario",
-      "channel": "Cartooning Club How to Draw",
-      "channelId": "UC-biucJWhM8HwjsQ96uoIUw",
-      "durationSec": 329,
-      "publishedAt": "2026-06-22T14:00:16Z",
-      "topics": [
-        "art",
-        "making"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/_N34B_9UqYU/hqdefault.jpg"
     },
     {
       "id": "YrB-3xnolxM",
@@ -18386,6 +18308,23 @@
       "thumbnail": "https://i.ytimg.com/vi/nGohIddbBuU/hqdefault.jpg"
     },
     {
+      "id": "LW1HCCm8f9g",
+      "title": "TWO Bigfin Squid Sightings in Micronesia?! | Nautilus Live",
+      "channel": "EVNautilus",
+      "channelId": "UC1KOOWHthbQVXH2kZue3_xA",
+      "durationSec": 286,
+      "publishedAt": "2026-08-10T21:00:05Z",
+      "topics": [
+        "nature",
+        "exploration"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/LW1HCCm8f9g/hqdefault.jpg"
+    },
+    {
       "id": "ksfOpbOQhkQ",
       "title": "Dramatic Dumbo Octopus Encounter | Nautilus Live",
       "channel": "EVNautilus",
@@ -18843,23 +18782,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/1hMgPNwkOQ8/hqdefault.jpg"
-    },
-    {
-      "id": "t5sqYc6ZwWk",
-      "title": "Variety of Deep Sea Animals in the Marshall Islands | Nautilus Live",
-      "channel": "EVNautilus",
-      "channelId": "UC1KOOWHthbQVXH2kZue3_xA",
-      "durationSec": 347,
-      "publishedAt": "2026-02-12T20:00:46Z",
-      "topics": [
-        "nature",
-        "exploration"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/t5sqYc6ZwWk/hqdefault.jpg"
     },
     {
       "id": "48cQQL8pXI8",
@@ -24428,38 +24350,6 @@
       "thumbnail": "https://i.ytimg.com/vi/IvaUgS7FPhU/hqdefault.jpg"
     },
     {
-      "id": "FE-NGS3UpuQ",
-      "title": "Kid Engineer: Recycling Nudge | Design Squad",
-      "channel": "Design Squad ",
-      "channelId": "UCAgIIvpEGwYe6YBxpq_GAhg",
-      "durationSec": 275,
-      "publishedAt": "2017-05-23T13:45:47Z",
-      "topics": [
-        "engineering",
-        "making"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/FE-NGS3UpuQ/hqdefault.jpg"
-    },
-    {
-      "id": "08M8hjl-V2Q",
-      "title": "Kid Engineer: Compost Tumbler | Design Squad",
-      "channel": "Design Squad ",
-      "channelId": "UCAgIIvpEGwYe6YBxpq_GAhg",
-      "durationSec": 372,
-      "publishedAt": "2017-05-01T14:33:24Z",
-      "topics": [
-        "engineering",
-        "making"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/08M8hjl-V2Q/hqdefault.jpg"
-    },
-    {
       "id": "ZOgXJRM8ttA",
       "title": "Designing The Marble Machine's Programming System",
       "channel": "Wintergatan",
@@ -25310,6 +25200,23 @@
       "thumbnail": "https://i.ytimg.com/vi/7bHJHPfhrAA/hqdefault.jpg"
     },
     {
+      "id": "pCN-IjSo8j0",
+      "title": "Liquid Measurements For Kids | Cups, Pints, Quarts, & Gallons",
+      "channel": "Homeschool Pop",
+      "channelId": "UCfPyVJEBD7Di1YYjTdS2v8g",
+      "durationSec": 495,
+      "publishedAt": "2026-08-10T13:59:18Z",
+      "topics": [
+        "history",
+        "geography"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/pCN-IjSo8j0/hqdefault.jpg"
+    },
+    {
       "id": "Rf71QRZtVME",
       "title": "School Supplies in Spanish for Kids | Spanish Vocabulary Lesson",
       "channel": "Homeschool Pop",
@@ -26141,23 +26048,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/3lZzjUFaPbs/hqdefault.jpg"
-    },
-    {
-      "id": "vEIMHMMRyLI",
-      "title": "How Fast Can Turkeys Run?",
-      "channel": "Homeschool Pop",
-      "channelId": "UCfPyVJEBD7Di1YYjTdS2v8g",
-      "durationSec": 155,
-      "publishedAt": "2025-11-14T14:16:17Z",
-      "topics": [
-        "history",
-        "geography"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/vEIMHMMRyLI/hqdefault.jpg"
     },
     {
       "id": "6YVeyK1DFVI",
@@ -29885,7 +29775,7 @@
     },
     {
       "id": "nnbV2kABa3s",
-      "title": "The Truth About My Unbelievable Summer | back to school read aloud",
+      "title": "The Truth About My UNBELIEVABLE Summer | back to school read aloud",
       "channel": "KidTimeStoryTime",
       "channelId": "UCEPsNDUhUm-7yZhUjQQNqwQ",
       "durationSec": 485,
@@ -34167,7 +34057,7 @@
     },
     {
       "id": "h5PvLB5gZkg",
-      "title": "Getting Started with Code.org: Progress Feedback & Assessment",
+      "title": "Getting Started with CodeAI: Progress Feedback & Assessment",
       "channel": "CodeAI",
       "channelId": "UCJyEBMU1xVP2be1-AoGS1BA",
       "durationSec": 373,
@@ -34184,7 +34074,7 @@
     },
     {
       "id": "l0w-qjYe9dQ",
-      "title": "Getting Started with Code.org: Creating a Classroom Section",
+      "title": "Getting Started with CodeAI: Creating a Classroom Section",
       "channel": "CodeAI",
       "channelId": "UCJyEBMU1xVP2be1-AoGS1BA",
       "durationSec": 364,
@@ -34201,7 +34091,7 @@
     },
     {
       "id": "hrFfvUBBWhU",
-      "title": "Getting Started with Code.org: Basic Features",
+      "title": "Getting Started with CodeAI: Basic Features",
       "channel": "CodeAI",
       "channelId": "UCJyEBMU1xVP2be1-AoGS1BA",
       "durationSec": 323,
@@ -34218,7 +34108,7 @@
     },
     {
       "id": "cl-zQjJKYX4",
-      "title": "Getting Started with Code.org: Student Experience",
+      "title": "Getting Started with CodeAI: Student Experience",
       "channel": "CodeAI",
       "channelId": "UCJyEBMU1xVP2be1-AoGS1BA",
       "durationSec": 254,
@@ -34235,7 +34125,7 @@
     },
     {
       "id": "GpaeAdq36Ls",
-      "title": "Getting Started with Code.org: Integrations for Learning Management Systems",
+      "title": "Getting Started with CodeAI: Integrations for Learning Management Systems",
       "channel": "CodeAI",
       "channelId": "UCJyEBMU1xVP2be1-AoGS1BA",
       "durationSec": 391,
@@ -46201,7 +46091,7 @@
     },
     {
       "id": "mHAH-cBZyFw",
-      "title": "A day in the life at astrophysics' largest conference",
+      "title": "Spend a day with an astrophysicist at the largest astronomy conference",
       "channel": "Dr. Becky",
       "channelId": "UCYNbYGl89UUowy8oXkipC-Q",
       "durationSec": 1155,
@@ -46598,22 +46488,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/Pd9P7CibbHc/hqdefault.jpg"
-    },
-    {
-      "id": "B2hNuFy2kUQ",
-      "title": "How do we define a metre? #shorts",
-      "channel": "Dr. Becky",
-      "channelId": "UCYNbYGl89UUowy8oXkipC-Q",
-      "durationSec": 177,
-      "publishedAt": "2026-04-29T17:00:14Z",
-      "topics": [
-        "space",
-        "science"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/B2hNuFy2kUQ/hqdefault.jpg"
     },
     {
       "id": "FoqRIFd3H4Y",
@@ -48495,6 +48369,21 @@
       "thumbnail": "https://i.ytimg.com/vi/jvebwDXmBSw/hqdefault.jpg"
     },
     {
+      "id": "wqMvcxO8GYM",
+      "title": "The Passive Voice in Latin",
+      "channel": "Professor Dave Explains",
+      "channelId": "UC0cd_-e49hZpWLH3UIwoWRA",
+      "durationSec": 302,
+      "publishedAt": "2026-08-10T14:00:17Z",
+      "topics": [
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/wqMvcxO8GYM/hqdefault.jpg"
+    },
+    {
       "id": "wWxqBaWt5uY",
       "title": "Anthony Fauci is Evil Satan Bastard Man!",
       "channel": "Professor Dave Explains",
@@ -49228,21 +49117,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/htGx5md54MI/hqdefault.jpg"
-    },
-    {
-      "id": "uGT1OPNBUAk",
-      "title": "Terrence Howard Made a Movie And It's SO BAD (Worse Than You Think)",
-      "channel": "Professor Dave Explains",
-      "channelId": "UC0cd_-e49hZpWLH3UIwoWRA",
-      "durationSec": 5036,
-      "publishedAt": "2026-05-26T14:00:07Z",
-      "topics": [
-        "science"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/uGT1OPNBUAk/hqdefault.jpg"
     },
     {
       "id": "BjyJlN1npdw",
@@ -68494,22 +68368,6 @@
       "thumbnail": "https://i.ytimg.com/vi/grmBDsBQJ64/hqdefault.jpg"
     },
     {
-      "id": "h_qOsvBWZaU",
-      "title": "How GPS found its way into earthquake early warning",
-      "channel": "EarthScope Consortium Science",
-      "channelId": "UC8pJCgO88QGRJf4d2FaXNsg",
-      "durationSec": 343,
-      "publishedAt": "2024-06-05T16:00:42Z",
-      "topics": [
-        "science",
-        "geography"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/h_qOsvBWZaU/hqdefault.jpg"
-    },
-    {
       "id": "531KvKpBhiE",
       "title": "5 of the Most Iconic Cliffs on Earth & Their Geologic Story | GEO GIRL",
       "channel": "GEO GIRL",
@@ -74086,7 +73944,7 @@
     },
     {
       "id": "lFwwo0W5Ugg",
-      "title": "I Called This America's Worst Flag. They're Replacing It.",
+      "title": "Minnesota Fixed the Flag I Called the Worst",
       "channel": "CGP Grey",
       "channelId": "UC2C_jShtL725hvbm1arSV9w",
       "durationSec": 418,
@@ -78496,7 +78354,7 @@
     },
     {
       "id": "T4QIXTAAugk",
-      "title": "Evolution Is Rapidly Speeding Up! The Proof Is In Our DNA",
+      "title": "Human Evolution Is Speeding Up! The Proof Is In Our DNA",
       "channel": "KPassionate",
       "channelId": "UCUvSqEH92Fqn9uw1kmCfLGA",
       "durationSec": 710,
@@ -83135,6 +82993,22 @@
       "thumbnail": "https://i.ytimg.com/vi/GLVhXClV5QU/hqdefault.jpg"
     },
     {
+      "id": "GQR4CPXQOrE",
+      "title": "Chirp's Flight Program | Peep and the Big Wide World",
+      "channel": "Peep and the Big Wide World",
+      "channelId": "UCPq6g4Q4-SFMIJ048IXmupA",
+      "durationSec": 645,
+      "publishedAt": "2026-08-10T15:00:27Z",
+      "topics": [
+        "science",
+        "nature"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/GQR4CPXQOrE/hqdefault.jpg"
+    },
+    {
       "id": "gfVWV0j4ZaI",
       "title": "Where Does The Sun Go at Night? | Peep and the Big Wide World",
       "channel": "Peep and the Big Wide World",
@@ -84695,6 +84569,24 @@
       "thumbnail": "https://i.ytimg.com/vi/mR-PwKQgpK4/hqdefault.jpg"
     },
     {
+      "id": "kmKhcvCmBTE",
+      "title": "CircuitPython Weekly Meeting for August 10th, 2026 @circuitpython #circuitpython #adafruit",
+      "channel": "Adafruit Industries",
+      "channelId": "UCpOlOeQjj7EsVnDh3zuCgsA",
+      "durationSec": 1678,
+      "publishedAt": "2026-08-10T18:39:40Z",
+      "topics": [
+        "making",
+        "tech",
+        "engineering",
+        "coding"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/kmKhcvCmBTE/hqdefault.jpg"
+    },
+    {
       "id": "kkBPx9nDvZw",
       "title": "Deep Dive w/Scott: nRF54LM20 on Zephyr #adafruit",
       "channel": "Adafruit Industries",
@@ -85035,42 +84927,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/4DPJF4PGbh8/hqdefault.jpg"
-    },
-    {
-      "id": "lkVCKsNihcg",
-      "title": "JP’s Product Pick of the Week 7/21/26",
-      "channel": "Adafruit Industries",
-      "channelId": "UCpOlOeQjj7EsVnDh3zuCgsA",
-      "durationSec": 1396,
-      "publishedAt": "2026-07-22T08:28:40Z",
-      "topics": [
-        "making",
-        "tech",
-        "engineering",
-        "coding"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/lkVCKsNihcg/hqdefault.jpg"
-    },
-    {
-      "id": "fEbpPD9Ned8",
-      "title": "Demofruit CRT playthrough",
-      "channel": "Adafruit Industries",
-      "channelId": "UCpOlOeQjj7EsVnDh3zuCgsA",
-      "durationSec": 328,
-      "publishedAt": "2026-07-22T02:10:45Z",
-      "topics": [
-        "making",
-        "tech",
-        "engineering",
-        "coding"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/fEbpPD9Ned8/hqdefault.jpg"
     },
     {
       "id": "VmBS2N1FzmE",
@@ -86805,6 +86661,40 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/EsCE7KBG9WU/hqdefault.jpg"
+    },
+    {
+      "id": "LxD6yXGDHD8",
+      "title": "Kids Yoga LIVE 🌟 | Fun Yoga Adventures & Movement for Kids",
+      "channel": "Cosmic Kids Yoga",
+      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
+      "durationSec": 42899,
+      "publishedAt": "2026-08-11T03:08:53Z",
+      "topics": [
+        "reading",
+        "nature"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/LxD6yXGDHD8/hqdefault.jpg"
+    },
+    {
+      "id": "j8lLw95LRDc",
+      "title": "Kids Yoga LIVE 🌟 | Fun Yoga Adventures & Movement for Kids",
+      "channel": "Cosmic Kids Yoga",
+      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
+      "durationSec": 42900,
+      "publishedAt": "2026-08-10T14:51:04Z",
+      "topics": [
+        "reading",
+        "nature"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/j8lLw95LRDc/hqdefault.jpg"
     },
     {
       "id": "j2_vxfEtWTc",
@@ -89888,6 +89778,22 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/H5VNPfHIgpE/hqdefault.jpg"
+    },
+    {
+      "id": "GL3YUDYWcTI",
+      "title": "EXTREME HEAT Is Getting Worse, and It Will Reshape Earth FOREVER",
+      "channel": "PBS Terra",
+      "channelId": "UCpxYSWgxVt3Pyn1ovXsGQ0g",
+      "durationSec": 4795,
+      "publishedAt": "2026-08-10T15:00:16Z",
+      "topics": [
+        "science",
+        "nature"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/GL3YUDYWcTI/hqdefault.jpg"
     },
     {
       "id": "69o-8Mtd3Kc",
