@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-11T09:49:15.089Z",
+  "generatedAt": "2026-08-12T09:52:36.366Z",
   "profiles": {
     "little": {
       "label": "Ages 3-7"
@@ -227,6 +227,21 @@
       "thumbnail": "https://i.ytimg.com/vi/lR_8HnYF8Tc/hqdefault.jpg"
     },
     {
+      "id": "stsRpkfRhxs",
+      "title": "How To Draw Bingo From Bluey",
+      "channel": "Art for Kids Hub",
+      "channelId": "UC5XMF3Inoi8R9nSI8ChOsdQ",
+      "durationSec": 787,
+      "publishedAt": "2026-08-11T14:00:32Z",
+      "topics": [
+        "art"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/stsRpkfRhxs/hqdefault.jpg"
+    },
+    {
       "id": "EQIMxHf7QRE",
       "title": "How To Draw Eevee Squishmallow",
       "channel": "Art for Kids Hub",
@@ -287,21 +302,6 @@
       "thumbnail": "https://i.ytimg.com/vi/9aCuNd3faBA/hqdefault.jpg"
     },
     {
-      "id": "Yrk2QyVTLGw",
-      "title": "How To Draw A Traffic Light",
-      "channel": "Art for Kids Hub",
-      "channelId": "UC5XMF3Inoi8R9nSI8ChOsdQ",
-      "durationSec": 360,
-      "publishedAt": "2026-08-05T14:00:25Z",
-      "topics": [
-        "art"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/Yrk2QyVTLGw/hqdefault.jpg"
-    },
-    {
       "id": "40c-tHt3aww",
       "title": "Learn to Be Kind with the Numberblocks | Learn to Count for Kids | Number Cartoon | Numberblocks",
       "channel": "Numberblocks",
@@ -360,6 +360,22 @@
         "little"
       ],
       "thumbnail": "https://i.ytimg.com/vi/okraTNro0tg/hqdefault.jpg"
+    },
+    {
+      "id": "2A1IEBFt6Xg",
+      "title": "How do Maglev trains work? - Ning Zhao",
+      "channel": "TED-Ed",
+      "channelId": "UCsooa4yRKGN_zEE8iknghZA",
+      "durationSec": 388,
+      "publishedAt": "2026-08-11T15:01:10Z",
+      "topics": [
+        "science",
+        "history"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/2A1IEBFt6Xg/hqdefault.jpg"
     },
     {
       "id": "-61qDRPG3to",
@@ -442,24 +458,8 @@
       "thumbnail": "https://i.ytimg.com/vi/5ljV0Vxu00M/hqdefault.jpg"
     },
     {
-      "id": "QIqKGMM8ivM",
-      "title": "Psychedelics, mind control, radiation-eating: The secret superpowers of fungi - Max G. Levy",
-      "channel": "TED-Ed",
-      "channelId": "UCsooa4yRKGN_zEE8iknghZA",
-      "durationSec": 373,
-      "publishedAt": "2026-06-30T15:03:40Z",
-      "topics": [
-        "science",
-        "history"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/QIqKGMM8ivM/hqdefault.jpg"
-    },
-    {
       "id": "0aTUTxOiRgU",
-      "title": "Holier Than Thou - Numberphile",
+      "title": "291 Holes - Numberphile",
       "channel": "Numberphile",
       "channelId": "UCoxcjq-8xIDTYp3uz647V5A",
       "durationSec": 178,
@@ -533,6 +533,21 @@
       "thumbnail": "https://i.ytimg.com/vi/1cvKGqgOx_8/hqdefault.jpg"
     },
     {
+      "id": "sh-8TyRgV5Y",
+      "title": "The World’s Best Diet Doesn’t Make You Lose Weight",
+      "channel": "SciShow",
+      "channelId": "UCZYTClx2T1of7BRZ86-8fow",
+      "durationSec": 731,
+      "publishedAt": "2026-08-11T17:00:17Z",
+      "topics": [
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/sh-8TyRgV5Y/hqdefault.jpg"
+    },
+    {
       "id": "xGxeJE8SFc0",
       "title": "Can Baldness Be Reversed?",
       "channel": "SciShow",
@@ -576,21 +591,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/A8XPsYH5Jb4/hqdefault.jpg"
-    },
-    {
-      "id": "h2wnaBny4Ig",
-      "title": "Where Is Love Stored in the Body?",
-      "channel": "SciShow",
-      "channelId": "UCZYTClx2T1of7BRZ86-8fow",
-      "durationSec": 482,
-      "publishedAt": "2026-08-04T17:00:33Z",
-      "topics": [
-        "science"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/h2wnaBny4Ig/hqdefault.jpg"
     },
     {
       "id": "GlYgs6v2YfU",
@@ -4495,21 +4495,6 @@
       "thumbnail": "https://i.ytimg.com/vi/ooeIJGmteO4/hqdefault.jpg"
     },
     {
-      "id": "H8c1ObYSlQI",
-      "title": "Why Seedless Fruit Is a Disaster Waiting To Happen",
-      "channel": "Be Smart",
-      "channelId": "UCH4BNI0-FOK2dMXoFtViWHw",
-      "durationSec": 922,
-      "publishedAt": "2025-08-21T18:56:08Z",
-      "topics": [
-        "science"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/H8c1ObYSlQI/hqdefault.jpg"
-    },
-    {
       "id": "DoQ5RXflnuY",
       "title": "The Future of Microscopy (and end of our Journey)",
       "channel": "Journey to the Microcosmos",
@@ -7129,22 +7114,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/0RsnnB8rt9A/hqdefault.jpg"
-    },
-    {
-      "id": "iUgqNu9cOEA",
-      "title": "The Universe's Expansion No Longer Makes Sense",
-      "channel": "Astrum",
-      "channelId": "UC-9b7aDP6ZN0coj9-xFnrtw",
-      "durationSec": 1302,
-      "publishedAt": "2025-11-05T17:01:10Z",
-      "topics": [
-        "space",
-        "exploration"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/iUgqNu9cOEA/hqdefault.jpg"
     },
     {
       "id": "Iuj-Ha3u074",
@@ -13346,6 +13315,22 @@
       "thumbnail": "https://i.ytimg.com/vi/m6KAfSgFaAM/hqdefault.jpg"
     },
     {
+      "id": "2ZVoGWcRk-k",
+      "title": "How to Draw Betsy Bites | Poppy Playtime",
+      "channel": "Cartooning Club How to Draw",
+      "channelId": "UC-biucJWhM8HwjsQ96uoIUw",
+      "durationSec": 437,
+      "publishedAt": "2026-08-11T14:00:10Z",
+      "topics": [
+        "art",
+        "making"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/2ZVoGWcRk-k/hqdefault.jpg"
+    },
+    {
       "id": "rbHZv822Nz8",
       "title": "How to Draw Baby Rosalina | Super Mario",
       "channel": "Cartooning Club How to Draw",
@@ -14000,22 +13985,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/-vtINMbziOg/hqdefault.jpg"
-    },
-    {
-      "id": "AZQJgcMZJxg",
-      "title": "How to Draw Lucario | Pokemon",
-      "channel": "Cartooning Club How to Draw",
-      "channelId": "UC-biucJWhM8HwjsQ96uoIUw",
-      "durationSec": 473,
-      "publishedAt": "2026-06-23T14:00:10Z",
-      "topics": [
-        "art",
-        "making"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/AZQJgcMZJxg/hqdefault.jpg"
     },
     {
       "id": "YrB-3xnolxM",
@@ -20265,6 +20234,22 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/fbuJSmpxiNY/hqdefault.jpg"
+    },
+    {
+      "id": "z1PaYI_FkFU",
+      "title": "From Bare Yard to THRIVING Garden in 30 Days | Epic Garden Makeover",
+      "channel": "Epic Gardening",
+      "channelId": "UCSbyncU597LMwb3HhnAI_4w",
+      "durationSec": 817,
+      "publishedAt": "2026-08-11T17:17:53Z",
+      "topics": [
+        "nature",
+        "making"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/z1PaYI_FkFU/hqdefault.jpg"
     },
     {
       "id": "HBFNA-Evkag",
@@ -28623,21 +28608,6 @@
       "thumbnail": "https://i.ytimg.com/vi/KQm7kwByfZE/hqdefault.jpg"
     },
     {
-      "id": "tDWkHvxqJKM",
-      "title": "Arabic words in Spanish & Portuguese (FOOD vocabulary)",
-      "channel": "Langfocus",
-      "channelId": "UCNhX3WQEkraW3VHPyup8jkQ",
-      "durationSec": 170,
-      "publishedAt": "2026-04-29T15:46:10Z",
-      "topics": [
-        "geography"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/tDWkHvxqJKM/hqdefault.jpg"
-    },
-    {
       "id": "yt_GmmOx06Y",
       "title": "'The Most Magnificent Thing' read by Olivia Munn",
       "channel": "StorylineOnline",
@@ -29774,6 +29744,21 @@
       "thumbnail": "https://i.ytimg.com/vi/t49CKfrb5_8/hqdefault.jpg"
     },
     {
+      "id": "bLf2VsAeBUo",
+      "title": "First Day Jitters | First day of school read aloud",
+      "channel": "KidTimeStoryTime",
+      "channelId": "UCEPsNDUhUm-7yZhUjQQNqwQ",
+      "durationSec": 433,
+      "publishedAt": "2026-08-11T13:00:29Z",
+      "topics": [
+        "reading"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/bLf2VsAeBUo/hqdefault.jpg"
+    },
+    {
       "id": "nnbV2kABa3s",
       "title": "The Truth About My UNBELIEVABLE Summer | back to school read aloud",
       "channel": "KidTimeStoryTime",
@@ -30509,19 +30494,19 @@
       "thumbnail": "https://i.ytimg.com/vi/lZMFFd9w8lA/hqdefault.jpg"
     },
     {
-      "id": "stcD_Gi1GSk",
-      "title": "BEYOND Words - kindness read aloud - SEL read aloud",
-      "channel": "KidTimeStoryTime",
-      "channelId": "UCEPsNDUhUm-7yZhUjQQNqwQ",
-      "durationSec": 937,
-      "publishedAt": "2026-01-27T16:00:00Z",
+      "id": "wFB5xm-FuRc",
+      "title": "Your Great Big Adventure Starts Here! | Read Aloud Kids Book | Vooks Narrated Storybooks",
+      "channel": "Vooks - Stories and Read Alouds for Kids",
+      "channelId": "UCGfA6UdZEmpIwBZ4btAKkgA",
+      "durationSec": 338,
+      "publishedAt": "2026-08-11T12:00:11Z",
       "topics": [
         "reading"
       ],
       "profiles": [
         "little"
       ],
-      "thumbnail": "https://i.ytimg.com/vi/stcD_Gi1GSk/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/wFB5xm-FuRc/hqdefault.jpg"
     },
     {
       "id": "ljLJmBSiIYE",
@@ -31077,21 +31062,6 @@
         "little"
       ],
       "thumbnail": "https://i.ytimg.com/vi/EouPRqmomk0/hqdefault.jpg"
-    },
-    {
-      "id": "0R5qSD1FJQo",
-      "title": "Read Aloud Kids Book: Let's Explore Space | Vooks Narrated Storybooks",
-      "channel": "Vooks - Stories and Read Alouds for Kids",
-      "channelId": "UCGfA6UdZEmpIwBZ4btAKkgA",
-      "durationSec": 230,
-      "publishedAt": "2024-11-04T13:00:02Z",
-      "topics": [
-        "reading"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/0R5qSD1FJQo/hqdefault.jpg"
     },
     {
       "id": "6j8_kct3gLw",
@@ -33088,6 +33058,21 @@
       "thumbnail": "https://i.ytimg.com/vi/ffWLxWxp90Q/hqdefault.jpg"
     },
     {
+      "id": "5OsrPo6DSAs",
+      "title": "How to solve cryptic crosswords",
+      "channel": "RobWords",
+      "channelId": "UC4a9LfdavRlVMaSSWFdIciA",
+      "durationSec": 3913,
+      "publishedAt": "2026-08-11T16:09:26Z",
+      "topics": [
+        "reading"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/5OsrPo6DSAs/hqdefault.jpg"
+    },
+    {
       "id": "OcPynSc1lyI",
       "title": "Why we don't have a sarcasm mark",
       "channel": "RobWords",
@@ -33718,21 +33703,6 @@
       "thumbnail": "https://i.ytimg.com/vi/G0hV2q8aw6M/hqdefault.jpg"
     },
     {
-      "id": "TUL29y0vJ8Q",
-      "title": "Is English just badly pronounced French?",
-      "channel": "RobWords",
-      "channelId": "UC4a9LfdavRlVMaSSWFdIciA",
-      "durationSec": 1089,
-      "publishedAt": "2024-03-30T15:00:23Z",
-      "topics": [
-        "reading"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/TUL29y0vJ8Q/hqdefault.jpg"
-    },
-    {
       "id": "mc4hbP9ELT0",
       "title": "AI Literacy in Education: System-Level Perspectives and Priorities",
       "channel": "CodeAI",
@@ -34022,23 +33992,6 @@
       "thumbnail": "https://i.ytimg.com/vi/S6RXs_hK0cI/hqdefault.jpg"
     },
     {
-      "id": "1mdJgEZWVs4",
-      "title": "Sin Conexión - Girar y girar",
-      "channel": "CodeAI",
-      "channelId": "UCJyEBMU1xVP2be1-AoGS1BA",
-      "durationSec": 142,
-      "publishedAt": "2024-07-16T18:41:26Z",
-      "topics": [
-        "coding",
-        "tech"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/1mdJgEZWVs4/hqdefault.jpg"
-    },
-    {
       "id": "Ix_lDw4xxTk",
       "title": "Beyond Binary: Computer Science is for Everyone",
       "channel": "CodeAI",
@@ -34156,6 +34109,40 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/GqlP5s7KTl4/hqdefault.jpg"
+    },
+    {
+      "id": "jL8hp-nfEfU",
+      "title": "Butifarra Instructions Challenge",
+      "channel": "CodeAI",
+      "channelId": "UCJyEBMU1xVP2be1-AoGS1BA",
+      "durationSec": 157,
+      "publishedAt": "2024-05-07T14:57:24Z",
+      "topics": [
+        "coding",
+        "tech"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/jL8hp-nfEfU/hqdefault.jpg"
+    },
+    {
+      "id": "C2jSudTZMbs",
+      "title": "Code org in India",
+      "channel": "CodeAI",
+      "channelId": "UCJyEBMU1xVP2be1-AoGS1BA",
+      "durationSec": 158,
+      "publishedAt": "2024-04-18T20:31:00Z",
+      "topics": [
+        "coding",
+        "tech"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/C2jSudTZMbs/hqdefault.jpg"
     },
     {
       "id": "kvEStq5WFxc",
@@ -37890,22 +37877,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/3V78r1y2EHs/hqdefault.jpg"
-    },
-    {
-      "id": "7L2cSifRrLk",
-      "title": "The Land Back Movement Explained: Ep 22 of Crash Course Native American History",
-      "channel": "CrashCourse",
-      "channelId": "UCX6b17PVsYBQ0ip5gyeme-Q",
-      "durationSec": 619,
-      "publishedAt": "2025-11-11T17:00:20Z",
-      "topics": [
-        "tech",
-        "coding"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/7L2cSifRrLk/hqdefault.jpg"
     },
     {
       "id": "xQasKPF0Fr8",
@@ -46458,38 +46429,6 @@
       "thumbnail": "https://i.ytimg.com/vi/0pvL-JkR0Ns/hqdefault.jpg"
     },
     {
-      "id": "to0NdLmOIW4",
-      "title": "What does a \"flat Universe\" mean? #shorts",
-      "channel": "Dr. Becky",
-      "channelId": "UCYNbYGl89UUowy8oXkipC-Q",
-      "durationSec": 130,
-      "publishedAt": "2026-05-04T18:00:59Z",
-      "topics": [
-        "space",
-        "science"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/to0NdLmOIW4/hqdefault.jpg"
-    },
-    {
-      "id": "Pd9P7CibbHc",
-      "title": "The Universe might not be flat (and cosmologists are quietly freaking out)",
-      "channel": "Dr. Becky",
-      "channelId": "UCYNbYGl89UUowy8oXkipC-Q",
-      "durationSec": 929,
-      "publishedAt": "2026-04-30T19:00:22Z",
-      "topics": [
-        "space",
-        "science"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/Pd9P7CibbHc/hqdefault.jpg"
-    },
-    {
       "id": "FoqRIFd3H4Y",
       "title": "betting $100 on everclear's heat of vaporization",
       "channel": "Reactions",
@@ -48369,6 +48308,21 @@
       "thumbnail": "https://i.ytimg.com/vi/jvebwDXmBSw/hqdefault.jpg"
     },
     {
+      "id": "Kl7FLKZCxBQ",
+      "title": "Fauci Fiasco Addendum (Gigi Gronvall and Gain of Function Research)",
+      "channel": "Professor Dave Explains",
+      "channelId": "UC0cd_-e49hZpWLH3UIwoWRA",
+      "durationSec": 2180,
+      "publishedAt": "2026-08-11T14:00:17Z",
+      "topics": [
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/Kl7FLKZCxBQ/hqdefault.jpg"
+    },
+    {
       "id": "wqMvcxO8GYM",
       "title": "The Passive Voice in Latin",
       "channel": "Professor Dave Explains",
@@ -49102,21 +49056,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/s6E9Qg81U1g/hqdefault.jpg"
-    },
-    {
-      "id": "htGx5md54MI",
-      "title": "Class Reptilia: Evolution and Ecology of the Non-Avian Reptiles",
-      "channel": "Professor Dave Explains",
-      "channelId": "UC0cd_-e49hZpWLH3UIwoWRA",
-      "durationSec": 510,
-      "publishedAt": "2026-05-27T14:00:10Z",
-      "topics": [
-        "science"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/htGx5md54MI/hqdefault.jpg"
     },
     {
       "id": "BjyJlN1npdw",
@@ -56960,6 +56899,23 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/auBAEv5HVcc/hqdefault.jpg"
+    },
+    {
+      "id": "uwkeAS3UzB0",
+      "title": "When Microbes Ruled the Earth",
+      "channel": "PBS Eons",
+      "channelId": "UCzR-rom72PHN9Zg7RML9EbA",
+      "durationSec": 663,
+      "publishedAt": "2026-08-11T14:00:27Z",
+      "topics": [
+        "history",
+        "science",
+        "animals"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/uwkeAS3UzB0/hqdefault.jpg"
     },
     {
       "id": "Kcmfe7vIXMU",
@@ -69103,6 +69059,22 @@
       "thumbnail": "https://i.ytimg.com/vi/0j6QQ-Tlzvo/hqdefault.jpg"
     },
     {
+      "id": "07oHFFbD92c",
+      "title": "Major M7.4 Earthquake Strikes Colombia; 2,000+ Missing",
+      "channel": "GeologyHub",
+      "channelId": "UCYeGh5VML5XPr5jYnzh3J6g",
+      "durationSec": 291,
+      "publishedAt": "2026-08-11T19:00:10Z",
+      "topics": [
+        "science",
+        "geography"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/07oHFFbD92c/hqdefault.jpg"
+    },
+    {
       "id": "9hPDUZKcBdE",
       "title": "This Week in Volcano News; Strong Fuego Eruption, New Crack at Kilauea",
       "channel": "GeologyHub",
@@ -69408,7 +69380,7 @@
     },
     {
       "id": "CikFO8V8zzY",
-      "title": "Venezuelan Earthquake Update; A Small Tsunami Did Occur, 40,000+ Missing",
+      "title": "Venezuela Earthquake Update; A Small Tsunami Did Occur, 40,000+ Missing",
       "channel": "GeologyHub",
       "channelId": "UCYeGh5VML5XPr5jYnzh3J6g",
       "durationSec": 314,
@@ -69789,22 +69761,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/g3Lag-tcYfk/hqdefault.jpg"
-    },
-    {
-      "id": "atywgpNUsco",
-      "title": "The Largest Historic Earthquake Near Las Vegas Struck; Geologist Analysis",
-      "channel": "GeologyHub",
-      "channelId": "UCYeGh5VML5XPr5jYnzh3J6g",
-      "durationSec": 266,
-      "publishedAt": "2026-06-06T22:00:37Z",
-      "topics": [
-        "science",
-        "geography"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/atywgpNUsco/hqdefault.jpg"
     },
     {
       "id": "Shc47UKQeV4",
@@ -76340,6 +76296,21 @@
       "thumbnail": "https://i.ytimg.com/vi/xaUKgnhZ9y4/hqdefault.jpg"
     },
     {
+      "id": "bu9bVD4XDls",
+      "title": "Roth vs Traditional IRA for Beginners - Which Should You Pick?",
+      "channel": "Easy Peasy Finance",
+      "channelId": "UCZl9ry5ew_2YeCQ6ECk8sxA",
+      "durationSec": 275,
+      "publishedAt": "2026-08-11T13:00:05Z",
+      "topics": [
+        "maths"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/bu9bVD4XDls/hqdefault.jpg"
+    },
+    {
       "id": "mzoMmSag0_I",
       "title": "Emergency Fund Explained for Beginners (and How to Start With $2.80)",
       "channel": "Easy Peasy Finance",
@@ -79151,6 +79122,23 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/RXHY1ZHDczI/hqdefault.jpg"
+    },
+    {
+      "id": "ifiWUHQEK0g",
+      "title": "The bumpy jelly stings with their whole body, no tentacles necessary",
+      "channel": "MBARI (Monterey Bay Aquarium Research Institute)",
+      "channelId": "UCFXww6CrLAHhyZQCDnJ2g2A",
+      "durationSec": 174,
+      "publishedAt": "2026-08-11T15:22:28Z",
+      "topics": [
+        "science",
+        "animals",
+        "exploration"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/ifiWUHQEK0g/hqdefault.jpg"
     },
     {
       "id": "GoQ-yGKrRgo",
@@ -82993,6 +82981,22 @@
       "thumbnail": "https://i.ytimg.com/vi/GLVhXClV5QU/hqdefault.jpg"
     },
     {
+      "id": "SAfFa5dbF6Q",
+      "title": "Mirror Mirror in the Dump | Peep and the Big Wide World",
+      "channel": "Peep and the Big Wide World",
+      "channelId": "UCPq6g4Q4-SFMIJ048IXmupA",
+      "durationSec": 645,
+      "publishedAt": "2026-08-11T15:00:36Z",
+      "topics": [
+        "science",
+        "nature"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/SAfFa5dbF6Q/hqdefault.jpg"
+    },
+    {
       "id": "GQR4CPXQOrE",
       "title": "Chirp's Flight Program | Peep and the Big Wide World",
       "channel": "Peep and the Big Wide World",
@@ -83601,20 +83605,20 @@
       "thumbnail": "https://i.ytimg.com/vi/cMH--0xw2Is/hqdefault.jpg"
     },
     {
-      "id": "R23XpIN1m48",
-      "title": "Night Light | Peep and the Big Wide World",
-      "channel": "Peep and the Big Wide World",
-      "channelId": "UCPq6g4Q4-SFMIJ048IXmupA",
-      "durationSec": 656,
-      "publishedAt": "2026-07-08T15:00:16Z",
+      "id": "z9iBhVZ-5x8",
+      "title": "Hey-O We Want To Play-O + More | Kids Summer Activities | Get Moving With Caitie And Coach Jay!",
+      "channel": "Super Simple Play with Caitie!",
+      "channelId": "UCxG6Tbopv4XcHfem65bgFeg",
+      "durationSec": 3701,
+      "publishedAt": "2026-08-11T14:00:30Z",
       "topics": [
-        "science",
-        "nature"
+        "music",
+        "making"
       ],
       "profiles": [
         "little"
       ],
-      "thumbnail": "https://i.ytimg.com/vi/R23XpIN1m48/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/z9iBhVZ-5x8/hqdefault.jpg"
     },
     {
       "id": "qiSHiU_b7Ac",
@@ -84569,6 +84573,42 @@
       "thumbnail": "https://i.ytimg.com/vi/mR-PwKQgpK4/hqdefault.jpg"
     },
     {
+      "id": "ls1W-9KF9Ek",
+      "title": "JP’s Product Pick of the Week 8/11/26",
+      "channel": "Adafruit Industries",
+      "channelId": "UCpOlOeQjj7EsVnDh3zuCgsA",
+      "durationSec": 1160,
+      "publishedAt": "2026-08-12T08:25:22Z",
+      "topics": [
+        "making",
+        "tech",
+        "engineering",
+        "coding"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/ls1W-9KF9Ek/hqdefault.jpg"
+    },
+    {
+      "id": "eyRz_z787Pg",
+      "title": "Deep Dive w/ Tim: USB Audio Stero Support",
+      "channel": "Adafruit Industries",
+      "channelId": "UCpOlOeQjj7EsVnDh3zuCgsA",
+      "durationSec": 4016,
+      "publishedAt": "2026-08-12T04:14:54Z",
+      "topics": [
+        "making",
+        "tech",
+        "engineering",
+        "coding"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/eyRz_z787Pg/hqdefault.jpg"
+    },
+    {
       "id": "kmKhcvCmBTE",
       "title": "CircuitPython Weekly Meeting for August 10th, 2026 @circuitpython #circuitpython #adafruit",
       "channel": "Adafruit Industries",
@@ -84909,24 +84949,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/cDrBn5iLwY4/hqdefault.jpg"
-    },
-    {
-      "id": "4DPJF4PGbh8",
-      "title": "SHOW and TELL 7/22/26 #ShowandTell #adafruit #diy",
-      "channel": "Adafruit Industries",
-      "channelId": "UCpOlOeQjj7EsVnDh3zuCgsA",
-      "durationSec": 1072,
-      "publishedAt": "2026-07-22T23:50:45Z",
-      "topics": [
-        "making",
-        "tech",
-        "engineering",
-        "coding"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/4DPJF4PGbh8/hqdefault.jpg"
     },
     {
       "id": "VmBS2N1FzmE",
@@ -86663,6 +86685,40 @@
       "thumbnail": "https://i.ytimg.com/vi/EsCE7KBG9WU/hqdefault.jpg"
     },
     {
+      "id": "edfLmccXsSk",
+      "title": "Kids Yoga LIVE 🌟 | Fun Yoga Adventures & Movement for Kids",
+      "channel": "Cosmic Kids Yoga",
+      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
+      "durationSec": 42897,
+      "publishedAt": "2026-08-12T04:00:06Z",
+      "topics": [
+        "reading",
+        "nature"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/edfLmccXsSk/hqdefault.jpg"
+    },
+    {
+      "id": "eNCX0sWrQk8",
+      "title": "Kids Yoga LIVE 🌟 | Fun Yoga Adventures & Movement for Kids",
+      "channel": "Cosmic Kids Yoga",
+      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
+      "durationSec": 42899,
+      "publishedAt": "2026-08-11T15:39:26Z",
+      "topics": [
+        "reading",
+        "nature"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/eNCX0sWrQk8/hqdefault.jpg"
+    },
+    {
       "id": "LxD6yXGDHD8",
       "title": "Kids Yoga LIVE 🌟 | Fun Yoga Adventures & Movement for Kids",
       "channel": "Cosmic Kids Yoga",
@@ -88133,22 +88189,6 @@
         "little"
       ],
       "thumbnail": "https://i.ytimg.com/vi/1XH3Doo0fec/hqdefault.jpg"
-    },
-    {
-      "id": "xCrU5MvKQDE",
-      "title": "Farm Songs with Farmer Elmo! 🧑‍🌾🐄🐑 | 20 Mins | Sesame Street",
-      "channel": "Sesame Street",
-      "channelId": "UCoookXUzPciGrEZEXmh4Jjg",
-      "durationSec": 1229,
-      "publishedAt": "2026-06-07T11:30:32Z",
-      "topics": [
-        "reading",
-        "music"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/xCrU5MvKQDE/hqdefault.jpg"
     },
     {
       "id": "HFeAU-KloOo",
