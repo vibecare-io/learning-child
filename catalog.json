@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-12T09:52:36.366Z",
+  "generatedAt": "2026-08-13T09:52:28.602Z",
   "profiles": {
     "little": {
       "label": "Ages 3-7"
@@ -211,20 +211,19 @@
       "thumbnail": "https://i.ytimg.com/vi/KUS_HpTJWzg/hqdefault.jpg"
     },
     {
-      "id": "lR_8HnYF8Tc",
-      "title": "Finding the Oldest Art in the World 😱 | Best Job Ever | Nat Geo Kids",
-      "channel": "Nat Geo Kids",
-      "channelId": "UCXVCgDuD_QCkI7gTKU7-tpg",
-      "durationSec": 122,
-      "publishedAt": "2026-08-05T13:00:04Z",
+      "id": "SYI_hnqyH_8",
+      "title": "How To Draw A Baby Elephant",
+      "channel": "Art for Kids Hub",
+      "channelId": "UC5XMF3Inoi8R9nSI8ChOsdQ",
+      "durationSec": 504,
+      "publishedAt": "2026-08-12T14:00:05Z",
       "topics": [
-        "animals",
-        "science"
+        "art"
       ],
       "profiles": [
         "little"
       ],
-      "thumbnail": "https://i.ytimg.com/vi/lR_8HnYF8Tc/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/SYI_hnqyH_8/hqdefault.jpg"
     },
     {
       "id": "stsRpkfRhxs",
@@ -285,21 +284,6 @@
         "little"
       ],
       "thumbnail": "https://i.ytimg.com/vi/9JrQWVJ9MiY/hqdefault.jpg"
-    },
-    {
-      "id": "9aCuNd3faBA",
-      "title": "How To Draw Ocho The Octopus",
-      "channel": "Art for Kids Hub",
-      "channelId": "UC5XMF3Inoi8R9nSI8ChOsdQ",
-      "durationSec": 413,
-      "publishedAt": "2026-08-06T14:00:34Z",
-      "topics": [
-        "art"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/9aCuNd3faBA/hqdefault.jpg"
     },
     {
       "id": "40c-tHt3aww",
@@ -533,6 +517,21 @@
       "thumbnail": "https://i.ytimg.com/vi/1cvKGqgOx_8/hqdefault.jpg"
     },
     {
+      "id": "zHgKaAhSs1A",
+      "title": "That Time We Put Spiders in VR",
+      "channel": "SciShow",
+      "channelId": "UCZYTClx2T1of7BRZ86-8fow",
+      "durationSec": 671,
+      "publishedAt": "2026-08-12T17:00:19Z",
+      "topics": [
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/zHgKaAhSs1A/hqdefault.jpg"
+    },
+    {
       "id": "sh-8TyRgV5Y",
       "title": "The World’s Best Diet Doesn’t Make You Lose Weight",
       "channel": "SciShow",
@@ -576,21 +575,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/PNG9nRO7XZ8/hqdefault.jpg"
-    },
-    {
-      "id": "A8XPsYH5Jb4",
-      "title": "Why It's So Hard to Make Artificial Cork",
-      "channel": "SciShow",
-      "channelId": "UCZYTClx2T1of7BRZ86-8fow",
-      "durationSec": 517,
-      "publishedAt": "2026-08-05T17:00:00Z",
-      "topics": [
-        "science"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/A8XPsYH5Jb4/hqdefault.jpg"
     },
     {
       "id": "GlYgs6v2YfU",
@@ -1792,6 +1776,22 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/VaHy63Mfd2Y/hqdefault.jpg"
+    },
+    {
+      "id": "KE0PnC0OQew",
+      "title": "Sidewalk DIY Chalk Art: Back-to-School Science Activity",
+      "channel": "GenerationGenius",
+      "channelId": "UCjxu5mHqZnVlb_8-Zjv-D1A",
+      "durationSec": 343,
+      "publishedAt": "2026-08-12T16:17:25Z",
+      "topics": [
+        "science"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/KE0PnC0OQew/hqdefault.jpg"
     },
     {
       "id": "XBRl9hT2Oic",
@@ -5151,6 +5151,23 @@
       "thumbnail": "https://i.ytimg.com/vi/tIlshNCG6NI/hqdefault.jpg"
     },
     {
+      "id": "rSvCuSQhC3w",
+      "title": "2026 Total Solar Eclipse",
+      "channel": "NASA",
+      "channelId": "UCLA_DiR1FfKNvjuUpBHmylQ",
+      "durationSec": 5325,
+      "publishedAt": "2026-08-12T18:47:49Z",
+      "topics": [
+        "space",
+        "exploration"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/rSvCuSQhC3w/hqdefault.jpg"
+    },
+    {
       "id": "XNKdYbmPKJ8",
       "title": "U.S. Spacewalk 96",
       "channel": "NASA",
@@ -6062,6 +6079,36 @@
       "thumbnail": "https://i.ytimg.com/vi/sLjvAmK_siU/hqdefault.jpg"
     },
     {
+      "id": "DRDx2xDR8NA",
+      "title": "Total solar eclipse 2026: Coming to Europe (Official ESA broadcast)",
+      "channel": "European Space Agency, ESA",
+      "channelId": "UCIBaDdAbGlFDeS33shmlD0A",
+      "durationSec": 4230,
+      "publishedAt": "2026-08-12T18:47:18Z",
+      "topics": [
+        "space"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/DRDx2xDR8NA/hqdefault.jpg"
+    },
+    {
+      "id": "j2TjlTbHwsw",
+      "title": "Total solar eclipse 2026: Telescopic feed (Official ESA broadcast)",
+      "channel": "European Space Agency, ESA",
+      "channelId": "UCIBaDdAbGlFDeS33shmlD0A",
+      "durationSec": 4230,
+      "publishedAt": "2026-08-12T18:42:28Z",
+      "topics": [
+        "space"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/j2TjlTbHwsw/hqdefault.jpg"
+    },
+    {
       "id": "R6Weziw_4O0",
       "title": "The journey of Sophie Adenot's bonus food: from France to space",
       "channel": "European Space Agency, ESA",
@@ -6317,19 +6364,20 @@
       "thumbnail": "https://i.ytimg.com/vi/rOyHbD54ad4/hqdefault.jpg"
     },
     {
-      "id": "Vk9tGIaX_sA",
-      "title": "Solar eclipse: myth vs fact",
-      "channel": "European Space Agency, ESA",
-      "channelId": "UCIBaDdAbGlFDeS33shmlD0A",
-      "durationSec": 228,
-      "publishedAt": "2026-06-26T13:00:14Z",
+      "id": "B05nBdhWHcE",
+      "title": "Watch the Total Solar Eclipse LIVE With Astrum",
+      "channel": "Astrum",
+      "channelId": "UC-9b7aDP6ZN0coj9-xFnrtw",
+      "durationSec": 6220,
+      "publishedAt": "2026-08-12T19:14:28Z",
       "topics": [
-        "space"
+        "space",
+        "exploration"
       ],
       "profiles": [
         "big"
       ],
-      "thumbnail": "https://i.ytimg.com/vi/Vk9tGIaX_sA/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/B05nBdhWHcE/hqdefault.jpg"
     },
     {
       "id": "1_8cel49X30",
@@ -10785,6 +10833,22 @@
       "thumbnail": "https://i.ytimg.com/vi/8K0XmMGfEOI/hqdefault.jpg"
     },
     {
+      "id": "kLL5aDTAblU",
+      "title": "Is Some Road Trip Music Just…Better?",
+      "channel": "Sound Field",
+      "channelId": "UCvMLMyKPomE6kTTL9Kv8Iww",
+      "durationSec": 523,
+      "publishedAt": "2026-08-12T14:00:35Z",
+      "topics": [
+        "music",
+        "history"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/kLL5aDTAblU/hqdefault.jpg"
+    },
+    {
       "id": "sZ7NJWw-Yj8",
       "title": "America's Complicated Relationship with its National Anthem  (Feat. Beth Roars)",
       "channel": "Sound Field",
@@ -11263,22 +11327,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/2QCUTafCK9s/hqdefault.jpg"
-    },
-    {
-      "id": "ryTTHmUYc2o",
-      "title": "The Genius of Fela Kuti and Afrobeat (feat. Femi & Made Kuti)",
-      "channel": "Sound Field",
-      "channelId": "UCvMLMyKPomE6kTTL9Kv8Iww",
-      "durationSec": 996,
-      "publishedAt": "2021-02-24T17:25:51Z",
-      "topics": [
-        "music",
-        "history"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/ryTTHmUYc2o/hqdefault.jpg"
     },
     {
       "id": "mYcTWyQCcLQ",
@@ -13315,6 +13363,22 @@
       "thumbnail": "https://i.ytimg.com/vi/m6KAfSgFaAM/hqdefault.jpg"
     },
     {
+      "id": "GYuNuxkXrfk",
+      "title": "How to Draw Bullseye | Toy Story",
+      "channel": "Cartooning Club How to Draw",
+      "channelId": "UC-biucJWhM8HwjsQ96uoIUw",
+      "durationSec": 497,
+      "publishedAt": "2026-08-12T14:00:22Z",
+      "topics": [
+        "art",
+        "making"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/GYuNuxkXrfk/hqdefault.jpg"
+    },
+    {
       "id": "2ZVoGWcRk-k",
       "title": "How to Draw Betsy Bites | Poppy Playtime",
       "channel": "Cartooning Club How to Draw",
@@ -13351,7 +13415,7 @@
       "title": "How to Draw a Boat Still Life 🔥 LIVE drawing session",
       "channel": "Cartooning Club How to Draw",
       "channelId": "UC-biucJWhM8HwjsQ96uoIUw",
-      "durationSec": 4910,
+      "durationSec": 4430,
       "publishedAt": "2026-08-08T06:22:48Z",
       "topics": [
         "art",
@@ -13969,22 +14033,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/pzsqX95Qvxw/hqdefault.jpg"
-    },
-    {
-      "id": "-vtINMbziOg",
-      "title": "Celebrating 12 Incredible Years on YouTube 🎉",
-      "channel": "Cartooning Club How to Draw",
-      "channelId": "UC-biucJWhM8HwjsQ96uoIUw",
-      "durationSec": 145,
-      "publishedAt": "2026-06-23T16:02:08Z",
-      "topics": [
-        "art",
-        "making"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/-vtINMbziOg/hqdefault.jpg"
     },
     {
       "id": "YrB-3xnolxM",
@@ -18277,6 +18325,23 @@
       "thumbnail": "https://i.ytimg.com/vi/nGohIddbBuU/hqdefault.jpg"
     },
     {
+      "id": "cQxzmfMU7qg",
+      "title": "DOUBLE the Chaunacops in Micronesia! | Nautilus Live",
+      "channel": "EVNautilus",
+      "channelId": "UC1KOOWHthbQVXH2kZue3_xA",
+      "durationSec": 274,
+      "publishedAt": "2026-08-12T19:40:15Z",
+      "topics": [
+        "nature",
+        "exploration"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/cQxzmfMU7qg/hqdefault.jpg"
+    },
+    {
       "id": "LW1HCCm8f9g",
       "title": "TWO Bigfin Squid Sightings in Micronesia?! | Nautilus Live",
       "channel": "EVNautilus",
@@ -18734,23 +18799,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/JBRsVrejCdM/hqdefault.jpg"
-    },
-    {
-      "id": "1hMgPNwkOQ8",
-      "title": "Botryoidal Basalt in the Deep Sea | Nautilus Live",
-      "channel": "EVNautilus",
-      "channelId": "UC1KOOWHthbQVXH2kZue3_xA",
-      "durationSec": 144,
-      "publishedAt": "2026-02-20T20:00:04Z",
-      "topics": [
-        "nature",
-        "exploration"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/1hMgPNwkOQ8/hqdefault.jpg"
     },
     {
       "id": "48cQQL8pXI8",
@@ -20522,22 +20570,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/nFJD7Z8Kzj4/hqdefault.jpg"
-    },
-    {
-      "id": "KA98NTKzuOg",
-      "title": "Turning a Dirt Lot Into a Suburban Homestead in 6 Years | Full Tour",
-      "channel": "Epic Gardening",
-      "channelId": "UCSbyncU597LMwb3HhnAI_4w",
-      "durationSec": 1043,
-      "publishedAt": "2026-04-23T18:14:49Z",
-      "topics": [
-        "nature",
-        "making"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/KA98NTKzuOg/hqdefault.jpg"
     },
     {
       "id": "FP735j4Nk-s",
@@ -28593,21 +28625,6 @@
       "thumbnail": "https://i.ytimg.com/vi/Ym29cgfmZ5Y/hqdefault.jpg"
     },
     {
-      "id": "KQm7kwByfZE",
-      "title": "The Slavic languages (history & background)",
-      "channel": "Langfocus",
-      "channelId": "UCNhX3WQEkraW3VHPyup8jkQ",
-      "durationSec": 155,
-      "publishedAt": "2026-05-01T15:05:03Z",
-      "topics": [
-        "geography"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/KQm7kwByfZE/hqdefault.jpg"
-    },
-    {
       "id": "yt_GmmOx06Y",
       "title": "'The Most Magnificent Thing' read by Olivia Munn",
       "channel": "StorylineOnline",
@@ -31619,6 +31636,40 @@
       "thumbnail": "https://i.ytimg.com/vi/Vu2hhpg10r4/hqdefault.jpg"
     },
     {
+      "id": "mFp8XVGbaVs",
+      "title": "The Florida Alphabet | UFLI Version | Jack Hartmann",
+      "channel": "Jack Hartmann Kids Music Channel",
+      "channelId": "UCVcQH8A634mauPrGbWs7QlQ",
+      "durationSec": 289,
+      "publishedAt": "2026-08-12T23:00:11Z",
+      "topics": [
+        "reading",
+        "music",
+        "maths"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/mFp8XVGbaVs/hqdefault.jpg"
+    },
+    {
+      "id": "tWjVqZ8XOdQ",
+      "title": "The Florida Alphabet | Jack Hartmann",
+      "channel": "Jack Hartmann Kids Music Channel",
+      "channelId": "UCVcQH8A634mauPrGbWs7QlQ",
+      "durationSec": 289,
+      "publishedAt": "2026-08-12T23:00:03Z",
+      "topics": [
+        "reading",
+        "music",
+        "maths"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/tWjVqZ8XOdQ/hqdefault.jpg"
+    },
+    {
       "id": "L0Cb6Vg6YUE",
       "title": "Come Together! | Jack Hartmann ft. @MCGrammarTV",
       "channel": "Jack Hartmann Kids Music Channel",
@@ -32399,23 +32450,6 @@
         "little"
       ],
       "thumbnail": "https://i.ytimg.com/vi/EUPL8mfRkU8/hqdefault.jpg"
-    },
-    {
-      "id": "oviN8o9IVoY",
-      "title": "Have Fun and Learn at Head Start! | Jack Hartmann",
-      "channel": "Jack Hartmann Kids Music Channel",
-      "channelId": "UCVcQH8A634mauPrGbWs7QlQ",
-      "durationSec": 159,
-      "publishedAt": "2026-01-19T00:01:00Z",
-      "topics": [
-        "reading",
-        "music",
-        "maths"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/oviN8o9IVoY/hqdefault.jpg"
     },
     {
       "id": "rG2NKfKRFp8",
@@ -41099,6 +41133,22 @@
       "thumbnail": "https://i.ytimg.com/vi/2pG1YDEGmXc/hqdefault.jpg"
     },
     {
+      "id": "6A9NkuvAOnQ",
+      "title": "The National Railway Museum at York: Still Worth It?",
+      "channel": "Jago Hazzard",
+      "channelId": "UCcHuNKYzVMc06FXqsBEAV3A",
+      "durationSec": 730,
+      "publishedAt": "2026-08-12T16:30:29Z",
+      "topics": [
+        "history",
+        "geography"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/6A9NkuvAOnQ/hqdefault.jpg"
+    },
+    {
       "id": "XAQUIFfOJfA",
       "title": "Green Park: Passageways and Plague Pits",
       "channel": "Jago Hazzard",
@@ -41881,22 +41931,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/XJidHIx_W9w/hqdefault.jpg"
-    },
-    {
-      "id": "atq5JyuCv0Q",
-      "title": "Is there an iconic Tube train?",
-      "channel": "Jago Hazzard",
-      "channelId": "UCcHuNKYzVMc06FXqsBEAV3A",
-      "durationSec": 660,
-      "publishedAt": "2026-04-17T16:30:00Z",
-      "topics": [
-        "history",
-        "geography"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/atq5JyuCv0Q/hqdefault.jpg"
     },
     {
       "id": "E_SJ1NBMrH0",
@@ -67223,6 +67257,23 @@
       "thumbnail": "https://i.ytimg.com/vi/qdsXBzSDmTY/hqdefault.jpg"
     },
     {
+      "id": "pntMDfTOP9o",
+      "title": "Southern Utah Rockhounding at its Finest",
+      "channel": "Currently Rockhounding",
+      "channelId": "UCoHQzOP2GH5WUiFCIOCX8eQ",
+      "durationSec": 1176,
+      "publishedAt": "2026-08-12T15:00:08Z",
+      "topics": [
+        "science",
+        "exploration",
+        "nature"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/pntMDfTOP9o/hqdefault.jpg"
+    },
+    {
       "id": "K3xL8OgnUe8",
       "title": "A Forgotten Location in the Mountains of Utah",
       "channel": "Currently Rockhounding",
@@ -67969,23 +68020,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/88AIrGbw7kk/hqdefault.jpg"
-    },
-    {
-      "id": "xhVnqADnU_A",
-      "title": "Collecting Horn Coral & Crinoids in the Utah Desert",
-      "channel": "Currently Rockhounding",
-      "channelId": "UCoHQzOP2GH5WUiFCIOCX8eQ",
-      "durationSec": 1545,
-      "publishedAt": "2025-11-05T16:01:41Z",
-      "topics": [
-        "science",
-        "exploration",
-        "nature"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/xhVnqADnU_A/hqdefault.jpg"
     },
     {
       "id": "E6QcsP496Bk",
@@ -80721,22 +80755,6 @@
       "thumbnail": "https://i.ytimg.com/vi/PN9M_6LfJBc/hqdefault.jpg"
     },
     {
-      "id": "52yQDJzC_ck",
-      "title": "Top Physics Toys of the Week | Episode 3",
-      "channel": "physicsfun",
-      "channelId": "UCVs-1uGf7DWid0GNWgPWLzw",
-      "durationSec": 362,
-      "publishedAt": "2026-07-18T11:29:27Z",
-      "topics": [
-        "science"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/52yQDJzC_ck/hqdefault.jpg"
-    },
-    {
       "id": "p_0duihxmW4",
       "title": "The Problem with Welding",
       "channel": "The Efficient Engineer",
@@ -82981,6 +82999,22 @@
       "thumbnail": "https://i.ytimg.com/vi/GLVhXClV5QU/hqdefault.jpg"
     },
     {
+      "id": "BAASW58r_Sc",
+      "title": "Bridge the Gap | Peep and the Big Wide World",
+      "channel": "Peep and the Big Wide World",
+      "channelId": "UCPq6g4Q4-SFMIJ048IXmupA",
+      "durationSec": 644,
+      "publishedAt": "2026-08-12T15:00:05Z",
+      "topics": [
+        "science",
+        "nature"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/BAASW58r_Sc/hqdefault.jpg"
+    },
+    {
       "id": "SAfFa5dbF6Q",
       "title": "Mirror Mirror in the Dump | Peep and the Big Wide World",
       "channel": "Peep and the Big Wide World",
@@ -83587,22 +83621,6 @@
         "little"
       ],
       "thumbnail": "https://i.ytimg.com/vi/bcUQ73k78AU/hqdefault.jpg"
-    },
-    {
-      "id": "cMH--0xw2Is",
-      "title": "Sounds Like | Peep and the Big Wide World",
-      "channel": "Peep and the Big Wide World",
-      "channelId": "UCPq6g4Q4-SFMIJ048IXmupA",
-      "durationSec": 657,
-      "publishedAt": "2026-07-09T15:00:02Z",
-      "topics": [
-        "science",
-        "nature"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/cMH--0xw2Is/hqdefault.jpg"
     },
     {
       "id": "z9iBhVZ-5x8",
@@ -84571,6 +84589,41 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/mR-PwKQgpK4/hqdefault.jpg"
+    },
+    {
+      "id": "j23ed681RTU",
+      "title": "Electric Eels vs Piranhas | Creature Battles | Wild Kratts",
+      "channel": "Wild Kratts",
+      "channelId": "UCxEmDFo1yUbbxjEb9RjitVA",
+      "durationSec": 3659,
+      "publishedAt": "2026-03-10T14:01:13Z",
+      "topics": [
+        "animals",
+        "nature"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/j23ed681RTU/hqdefault.jpg"
+    },
+    {
+      "id": "6E65mioTMPg",
+      "title": "LED NeoPixel Mickey Ears #adafruit #diy #electronics #disney",
+      "channel": "Adafruit Industries",
+      "channelId": "UCpOlOeQjj7EsVnDh3zuCgsA",
+      "durationSec": 140,
+      "publishedAt": "2026-08-12T11:40:03Z",
+      "topics": [
+        "making",
+        "tech",
+        "engineering",
+        "coding"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/6E65mioTMPg/hqdefault.jpg"
     },
     {
       "id": "ls1W-9KF9Ek",
@@ -86685,12 +86738,29 @@
       "thumbnail": "https://i.ytimg.com/vi/EsCE7KBG9WU/hqdefault.jpg"
     },
     {
-      "id": "edfLmccXsSk",
+      "id": "-un6oCgq1DY",
+      "title": "Kids Yoga LIVE 🌟 | Fun Yoga Adventures & Movement for Kids",
+      "channel": "Cosmic Kids Yoga",
+      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
+      "durationSec": 42827,
+      "publishedAt": "2026-08-13T04:58:45Z",
+      "topics": [
+        "reading",
+        "nature"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/-un6oCgq1DY/hqdefault.jpg"
+    },
+    {
+      "id": "743eOJ7hgT8",
       "title": "Kids Yoga LIVE 🌟 | Fun Yoga Adventures & Movement for Kids",
       "channel": "Cosmic Kids Yoga",
       "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
       "durationSec": 42897,
-      "publishedAt": "2026-08-12T04:00:06Z",
+      "publishedAt": "2026-08-12T16:24:55Z",
       "topics": [
         "reading",
         "nature"
@@ -86699,211 +86769,7 @@
         "little",
         "big"
       ],
-      "thumbnail": "https://i.ytimg.com/vi/edfLmccXsSk/hqdefault.jpg"
-    },
-    {
-      "id": "eNCX0sWrQk8",
-      "title": "Kids Yoga LIVE 🌟 | Fun Yoga Adventures & Movement for Kids",
-      "channel": "Cosmic Kids Yoga",
-      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
-      "durationSec": 42899,
-      "publishedAt": "2026-08-11T15:39:26Z",
-      "topics": [
-        "reading",
-        "nature"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/eNCX0sWrQk8/hqdefault.jpg"
-    },
-    {
-      "id": "LxD6yXGDHD8",
-      "title": "Kids Yoga LIVE 🌟 | Fun Yoga Adventures & Movement for Kids",
-      "channel": "Cosmic Kids Yoga",
-      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
-      "durationSec": 42899,
-      "publishedAt": "2026-08-11T03:08:53Z",
-      "topics": [
-        "reading",
-        "nature"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/LxD6yXGDHD8/hqdefault.jpg"
-    },
-    {
-      "id": "j8lLw95LRDc",
-      "title": "Kids Yoga LIVE 🌟 | Fun Yoga Adventures & Movement for Kids",
-      "channel": "Cosmic Kids Yoga",
-      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
-      "durationSec": 42900,
-      "publishedAt": "2026-08-10T14:51:04Z",
-      "topics": [
-        "reading",
-        "nature"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/j8lLw95LRDc/hqdefault.jpg"
-    },
-    {
-      "id": "j2_vxfEtWTc",
-      "title": "Kids Yoga LIVE 🌟 | Fun Yoga Adventures & Movement for Kids",
-      "channel": "Cosmic Kids Yoga",
-      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
-      "durationSec": 42898,
-      "publishedAt": "2026-08-10T02:20:45Z",
-      "topics": [
-        "reading",
-        "nature"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/j2_vxfEtWTc/hqdefault.jpg"
-    },
-    {
-      "id": "TqJiA-F-SSg",
-      "title": "Kids Yoga LIVE 🌟 | Fun Yoga Adventures & Movement for Kids",
-      "channel": "Cosmic Kids Yoga",
-      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
-      "durationSec": 42900,
-      "publishedAt": "2026-08-09T13:56:43Z",
-      "topics": [
-        "reading",
-        "nature"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/TqJiA-F-SSg/hqdefault.jpg"
-    },
-    {
-      "id": "OF9TE6UR-kE",
-      "title": "Kids Yoga LIVE 🌟 | Fun Yoga Adventures & Movement for Kids",
-      "channel": "Cosmic Kids Yoga",
-      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
-      "durationSec": 42897,
-      "publishedAt": "2026-08-09T01:37:05Z",
-      "topics": [
-        "reading",
-        "nature"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/OF9TE6UR-kE/hqdefault.jpg"
-    },
-    {
-      "id": "3szlssWBMiQ",
-      "title": "Kids Yoga LIVE 🌟 | Fun Yoga Adventures & Movement for Kids",
-      "channel": "Cosmic Kids Yoga",
-      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
-      "durationSec": 42899,
-      "publishedAt": "2026-08-08T13:22:03Z",
-      "topics": [
-        "reading",
-        "nature"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/3szlssWBMiQ/hqdefault.jpg"
-    },
-    {
-      "id": "Hlv73_UrVlU",
-      "title": "Kids Yoga LIVE 🌟 | Fun Yoga Adventures & Movement for Kids",
-      "channel": "Cosmic Kids Yoga",
-      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
-      "durationSec": 42898,
-      "publishedAt": "2026-08-08T00:41:02Z",
-      "topics": [
-        "reading",
-        "nature"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/Hlv73_UrVlU/hqdefault.jpg"
-    },
-    {
-      "id": "dHEA6_ia4Ho",
-      "title": "Kids Yoga LIVE 🌟 | Fun Yoga Adventures & Movement for Kids",
-      "channel": "Cosmic Kids Yoga",
-      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
-      "durationSec": 42900,
-      "publishedAt": "2026-08-07T12:18:09Z",
-      "topics": [
-        "reading",
-        "nature"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/dHEA6_ia4Ho/hqdefault.jpg"
-    },
-    {
-      "id": "kbuf178SMbk",
-      "title": "Kids Yoga LIVE 🌟 | Fun Yoga Adventures & Movement for Kids",
-      "channel": "Cosmic Kids Yoga",
-      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
-      "durationSec": 42898,
-      "publishedAt": "2026-08-06T23:52:59Z",
-      "topics": [
-        "reading",
-        "nature"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/kbuf178SMbk/hqdefault.jpg"
-    },
-    {
-      "id": "NMqY6ho8l7Y",
-      "title": "Kids Yoga LIVE 🌟 | Fun Yoga Adventures & Movement for Kids",
-      "channel": "Cosmic Kids Yoga",
-      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
-      "durationSec": 42897,
-      "publishedAt": "2026-08-06T11:30:23Z",
-      "topics": [
-        "reading",
-        "nature"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/NMqY6ho8l7Y/hqdefault.jpg"
-    },
-    {
-      "id": "c54hi0y7nIE",
-      "title": "Kids Yoga LIVE 🌟 | Fun Yoga Adventures & Movement for Kids",
-      "channel": "Cosmic Kids Yoga",
-      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
-      "durationSec": 42898,
-      "publishedAt": "2026-08-05T23:02:48Z",
-      "topics": [
-        "reading",
-        "nature"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/c54hi0y7nIE/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/743eOJ7hgT8/hqdefault.jpg"
     },
     {
       "id": "ofjqehUmLFk",
@@ -86955,6 +86821,23 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/KNRSNb7doCw/hqdefault.jpg"
+    },
+    {
+      "id": "MR4URRkc1T4",
+      "title": "Bedtime Yoga Lullaby Beach | Kids Yoga for Bedtime! | Cosmic Kids",
+      "channel": "Cosmic Kids Yoga",
+      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
+      "durationSec": 429,
+      "publishedAt": "2026-07-01T14:00:37Z",
+      "topics": [
+        "reading",
+        "nature"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/MR4URRkc1T4/hqdefault.jpg"
     },
     {
       "id": "xm_GCZKltLA",
@@ -88173,22 +88056,6 @@
         "little"
       ],
       "thumbnail": "https://i.ytimg.com/vi/Z3SXf89NK8U/hqdefault.jpg"
-    },
-    {
-      "id": "1XH3Doo0fec",
-      "title": "Do the Hoedown Hustle with Elmo and Friends 🐄 🤠 | Sesame Street Songs",
-      "channel": "Sesame Street",
-      "channelId": "UCoookXUzPciGrEZEXmh4Jjg",
-      "durationSec": 158,
-      "publishedAt": "2026-06-10T11:30:25Z",
-      "topics": [
-        "reading",
-        "music"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/1XH3Doo0fec/hqdefault.jpg"
     },
     {
       "id": "HFeAU-KloOo",
