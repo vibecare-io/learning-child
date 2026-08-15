@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-14T09:50:37.411Z",
+  "generatedAt": "2026-08-15T09:15:12.143Z",
   "profiles": {
     "little": {
       "label": "Ages 3-7"
@@ -131,6 +131,22 @@
       "thumbnail": "https://i.ytimg.com/vi/kKqd0_cydZM/hqdefault.jpg"
     },
     {
+      "id": "59FXSWBomQA",
+      "title": "Giants vs Olympians: Who Will Win?! | Greeking Out Podcast | S4 E3 FULL EP | ‪Nat Geo Kids",
+      "channel": "Nat Geo Kids",
+      "channelId": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "durationSec": 1404,
+      "publishedAt": "2026-08-14T11:00:10Z",
+      "topics": [
+        "animals",
+        "science"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/59FXSWBomQA/hqdefault.jpg"
+    },
+    {
       "id": "QZCOIfLLeR4",
       "title": "Weird But True Full Episode | Ocean Friends, Not Foes! 🦈🌊 | Nat Geo Kids",
       "channel": "Nat Geo Kids",
@@ -195,20 +211,19 @@
       "thumbnail": "https://i.ytimg.com/vi/4krR7Hqbon4/hqdefault.jpg"
     },
     {
-      "id": "oppj_L7L4o0",
-      "title": "Opening Pandora's Jar (NOT Box!) | Greeking Out Podcast | S4 E2 FULL EP | ‪Nat Geo Kids",
-      "channel": "Nat Geo Kids",
-      "channelId": "UCXVCgDuD_QCkI7gTKU7-tpg",
-      "durationSec": 1102,
-      "publishedAt": "2026-08-07T11:00:23Z",
+      "id": "SPZTd6e3rsQ",
+      "title": "How To Draw Super Bean Capybara",
+      "channel": "Art for Kids Hub",
+      "channelId": "UC5XMF3Inoi8R9nSI8ChOsdQ",
+      "durationSec": 641,
+      "publishedAt": "2026-08-14T14:00:35Z",
       "topics": [
-        "animals",
-        "science"
+        "art"
       ],
       "profiles": [
         "little"
       ],
-      "thumbnail": "https://i.ytimg.com/vi/oppj_L7L4o0/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/SPZTd6e3rsQ/hqdefault.jpg"
     },
     {
       "id": "LEvX_I9cIuQ",
@@ -271,19 +286,19 @@
       "thumbnail": "https://i.ytimg.com/vi/EQIMxHf7QRE/hqdefault.jpg"
     },
     {
-      "id": "EdvzXvi7NOg",
-      "title": "How To Build A Capybara In Minecraft",
-      "channel": "Art for Kids Hub",
-      "channelId": "UC5XMF3Inoi8R9nSI8ChOsdQ",
-      "durationSec": 317,
-      "publishedAt": "2026-08-08T14:00:08Z",
+      "id": "05cqSSwJEgE",
+      "title": "Let's Make Rainbow Slime | Learn to Count for Kids Compilation | Number Cartoon | Numberblocks",
+      "channel": "Numberblocks",
+      "channelId": "UCPlwvN0w4qFSP1FllALB92w",
+      "durationSec": 1228,
+      "publishedAt": "2026-08-14T10:00:04Z",
       "topics": [
-        "art"
+        "maths"
       ],
       "profiles": [
         "little"
       ],
-      "thumbnail": "https://i.ytimg.com/vi/EdvzXvi7NOg/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/05cqSSwJEgE/hqdefault.jpg"
     },
     {
       "id": "xPwAzG2WIuI",
@@ -329,21 +344,6 @@
         "little"
       ],
       "thumbnail": "https://i.ytimg.com/vi/x1hhNFaHAew/hqdefault.jpg"
-    },
-    {
-      "id": "X0qR-o5aUFA",
-      "title": "Let's Draw the Numberblocks! | Learn to Count for Kids Compilation | Number Cartoon | Numberblocks",
-      "channel": "Numberblocks",
-      "channelId": "UCPlwvN0w4qFSP1FllALB92w",
-      "durationSec": 1244,
-      "publishedAt": "2026-08-07T11:00:09Z",
-      "topics": [
-        "maths"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/X0qR-o5aUFA/hqdefault.jpg"
     },
     {
       "id": "2A1IEBFt6Xg",
@@ -2770,6 +2770,23 @@
       "thumbnail": "https://i.ytimg.com/vi/MZffhapfOgg/hqdefault.jpg"
     },
     {
+      "id": "sO8pdNr5bEU",
+      "title": "The Chocolate Milk Mystery",
+      "channel": "Sick Science!",
+      "channelId": "UCDom90xOqP4avehFjSJO6NA",
+      "durationSec": 124,
+      "publishedAt": "2026-08-14T17:03:12Z",
+      "topics": [
+        "science",
+        "making"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/sO8pdNr5bEU/hqdefault.jpg"
+    },
+    {
       "id": "Tyq7ET7JQEg",
       "title": "Making A Sandwich Out Of Only Liquid?",
       "channel": "Sick Science!",
@@ -2921,23 +2938,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/iLSjbNQUgBY/hqdefault.jpg"
-    },
-    {
-      "id": "RLrM8Ano1ZA",
-      "title": "Liquid Nitrogen Can Show Us Why Tires Deflate...",
-      "channel": "Sick Science!",
-      "channelId": "UCDom90xOqP4avehFjSJO6NA",
-      "durationSec": 126,
-      "publishedAt": "2026-03-26T19:20:53Z",
-      "topics": [
-        "science",
-        "making"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/RLrM8Ano1ZA/hqdefault.jpg"
     },
     {
       "id": "ti2qiU_JTUQ",
@@ -5216,6 +5216,23 @@
       "thumbnail": "https://i.ytimg.com/vi/tIlshNCG6NI/hqdefault.jpg"
     },
     {
+      "id": "I_GUQdY01b0",
+      "title": "Special Event Announcement (Aug. 14, 2026)",
+      "channel": "NASA",
+      "channelId": "UCLA_DiR1FfKNvjuUpBHmylQ",
+      "durationSec": 2538,
+      "publishedAt": "2026-08-14T19:14:36Z",
+      "topics": [
+        "space",
+        "exploration"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/I_GUQdY01b0/hqdefault.jpg"
+    },
+    {
       "id": "rSvCuSQhC3w",
       "title": "2026 Total Solar Eclipse",
       "channel": "NASA",
@@ -5724,40 +5741,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/hUpVpUw3rkM/hqdefault.jpg"
-    },
-    {
-      "id": "7FJUz-54AX0",
-      "title": "Progress 95 Cargo Ship Launch",
-      "channel": "NASA",
-      "channelId": "UCLA_DiR1FfKNvjuUpBHmylQ",
-      "durationSec": 2227,
-      "publishedAt": "2026-04-25T22:39:10Z",
-      "topics": [
-        "space",
-        "exploration"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/7FJUz-54AX0/hqdefault.jpg"
-    },
-    {
-      "id": "XX4f6dOoi08",
-      "title": "NASA News Conference: Nancy Grace Roman Space Telescope is Complete",
-      "channel": "NASA",
-      "channelId": "UCLA_DiR1FfKNvjuUpBHmylQ",
-      "durationSec": 2626,
-      "publishedAt": "2026-04-21T21:07:37Z",
-      "topics": [
-        "space",
-        "exploration"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/XX4f6dOoi08/hqdefault.jpg"
     },
     {
       "id": "FSqhEFH_Xak",
@@ -6494,7 +6477,7 @@
     },
     {
       "id": "1eEjHl3cM0E",
-      "title": "What Titan Did to Saturn Shocked Me",
+      "title": "What This Collision Did to Saturn Shocked Me",
       "channel": "Astrum",
       "channelId": "UC-9b7aDP6ZN0coj9-xFnrtw",
       "durationSec": 1290,
@@ -6558,7 +6541,7 @@
     },
     {
       "id": "4NIRKtIWLOE",
-      "title": "Something Is Happening on Pluto's Surface",
+      "title": "The Nuclear Reaction Keeping Pluto Surprisingly Warm",
       "channel": "Astrum",
       "channelId": "UC-9b7aDP6ZN0coj9-xFnrtw",
       "durationSec": 2341,
@@ -7607,24 +7590,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/T_s034fRNmk/hqdefault.jpg"
-    },
-    {
-      "id": "AxHMvghsXXg",
-      "title": "Three Specific Ways AI Could Kill Us All",
-      "channel": "MinuteEarth",
-      "channelId": "UCeiYXex_fwgYDonaTcSIk6w",
-      "durationSec": 222,
-      "publishedAt": "2025-10-02T18:08:30Z",
-      "topics": [
-        "nature",
-        "science",
-        "geography"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/AxHMvghsXXg/hqdefault.jpg"
     },
     {
       "id": "HKqv4QrmGVw",
@@ -9719,6 +9684,21 @@
       "thumbnail": "https://i.ytimg.com/vi/6-Y-q5eql5o/hqdefault.jpg"
     },
     {
+      "id": "326ieJlmQzk",
+      "title": "Live Berkner Break 🎶 Tonie Release Party Mini Concert for Kids | Laurie Berkner Band",
+      "channel": "The Laurie Berkner Band - Kids Songs",
+      "channelId": "UCQ9o9F8HYJV85XjciUS86_Q",
+      "durationSec": 2028,
+      "publishedAt": "2026-08-14T10:30:30Z",
+      "topics": [
+        "music"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/326ieJlmQzk/hqdefault.jpg"
+    },
+    {
       "id": "AC0iqKFKNTk",
       "title": "A Laurie Berkner Museum Special 🐝🏛️🦖 1 Hour of Music, Learning & Dino Fun for Kids",
       "channel": "The Laurie Berkner Band - Kids Songs",
@@ -10017,21 +9997,6 @@
         "little"
       ],
       "thumbnail": "https://i.ytimg.com/vi/At9oUtPUrmU/hqdefault.jpg"
-    },
-    {
-      "id": "2UJCMtarAvY",
-      "title": "Water Songs for Kids (44 mins) 💦🌊🐙 | Ocean, Bath & Beach Music by Laurie Berkner",
-      "channel": "The Laurie Berkner Band - Kids Songs",
-      "channelId": "UCQ9o9F8HYJV85XjciUS86_Q",
-      "durationSec": 2690,
-      "publishedAt": "2026-05-08T10:00:03Z",
-      "topics": [
-        "music"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/2UJCMtarAvY/hqdefault.jpg"
     },
     {
       "id": "RideGnMsclM",
@@ -11762,6 +11727,23 @@
       "thumbnail": "https://i.ytimg.com/vi/w9u4fCD-sj0/hqdefault.jpg"
     },
     {
+      "id": "pePg4OrzWCU",
+      "title": "How to Draw Ed | Minion and Monsters",
+      "channel": "Draw So Cute",
+      "channelId": "UC3dEvA1is6-0_yuei9iCdEw",
+      "durationSec": 684,
+      "publishedAt": "2026-08-14T14:00:12Z",
+      "topics": [
+        "art",
+        "making"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/pePg4OrzWCU/hqdefault.jpg"
+    },
+    {
       "id": "2EVZrwxZ8Io",
       "title": "How to Draw Ice Cream Cone Scoop  🍨 Cute Dessert Art",
       "channel": "Draw So Cute",
@@ -12593,23 +12575,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/Ds4bY_GDrCY/hqdefault.jpg"
-    },
-    {
-      "id": "wv-0Yf55VGw",
-      "title": "How to Draw Pinkie Pie Equestria Girl | My Little Pony",
-      "channel": "Draw So Cute",
-      "channelId": "UC3dEvA1is6-0_yuei9iCdEw",
-      "durationSec": 782,
-      "publishedAt": "2026-05-12T14:01:23Z",
-      "topics": [
-        "art",
-        "making"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/wv-0Yf55VGw/hqdefault.jpg"
     },
     {
       "id": "MB7wxd8Bz18",
@@ -14786,6 +14751,23 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/cGMIPBxxClw/hqdefault.jpg"
+    },
+    {
+      "id": "QcNsGHRPVyM",
+      "title": "Paper Mouse Puppet - make your own Paper Finger Puppets EASY!",
+      "channel": "Red Ted Art (Maggy Woodley)",
+      "channelId": "UCjjRFKvjpU1L1eDmfBWcqig",
+      "durationSec": 347,
+      "publishedAt": "2026-08-15T07:00:34Z",
+      "topics": [
+        "making",
+        "art"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/QcNsGHRPVyM/hqdefault.jpg"
     },
     {
       "id": "HhdYs_giBFI",
@@ -18374,6 +18356,23 @@
       "thumbnail": "https://i.ytimg.com/vi/nGohIddbBuU/hqdefault.jpg"
     },
     {
+      "id": "nkhLC4Ezen0",
+      "title": "Colorful Coral Gardens of Micronesia | Nautilus Live",
+      "channel": "EVNautilus",
+      "channelId": "UC1KOOWHthbQVXH2kZue3_xA",
+      "durationSec": 353,
+      "publishedAt": "2026-08-14T19:00:12Z",
+      "topics": [
+        "nature",
+        "exploration"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/nkhLC4Ezen0/hqdefault.jpg"
+    },
+    {
       "id": "cQxzmfMU7qg",
       "title": "DOUBLE the Chaunacops in Micronesia! | Nautilus Live",
       "channel": "EVNautilus",
@@ -18831,23 +18830,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/cnfvqhd_McQ/hqdefault.jpg"
-    },
-    {
-      "id": "JBRsVrejCdM",
-      "title": "Nautilus Field Guide: Bubblegum Coral | Nautilus Live",
-      "channel": "EVNautilus",
-      "channelId": "UC1KOOWHthbQVXH2kZue3_xA",
-      "durationSec": 198,
-      "publishedAt": "2026-02-27T20:00:15Z",
-      "topics": [
-        "nature",
-        "exploration"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/JBRsVrejCdM/hqdefault.jpg"
     },
     {
       "id": "48cQQL8pXI8",
@@ -20220,23 +20202,6 @@
       "thumbnail": "https://i.ytimg.com/vi/TCzMTuERdgQ/hqdefault.jpg"
     },
     {
-      "id": "C6OGC-5PqT4",
-      "title": "How Does a Pineapple Grow? | Maddie Moate",
-      "channel": "Maddie Moate",
-      "channelId": "UCQ0_JQL4wdQd-Xe5hC4PwTg",
-      "durationSec": 504,
-      "publishedAt": "2025-08-26T14:00:06Z",
-      "topics": [
-        "science",
-        "nature"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/C6OGC-5PqT4/hqdefault.jpg"
-    },
-    {
       "id": "3tmPS1p-vEQ",
       "title": "Copycats! This Ant Is Surrounded By Imposters | Deep Look",
       "channel": "Deep Look",
@@ -20331,6 +20296,22 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/fbuJSmpxiNY/hqdefault.jpg"
+    },
+    {
+      "id": "W7H7qkg-pQ0",
+      "title": "I Bought Weird Seeds From eBay and Grew Them",
+      "channel": "Epic Gardening",
+      "channelId": "UCSbyncU597LMwb3HhnAI_4w",
+      "durationSec": 1380,
+      "publishedAt": "2026-08-14T22:01:15Z",
+      "topics": [
+        "nature",
+        "making"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/W7H7qkg-pQ0/hqdefault.jpg"
     },
     {
       "id": "z1PaYI_FkFU",
@@ -20603,22 +20584,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/qEFTRCVEYLk/hqdefault.jpg"
-    },
-    {
-      "id": "nFJD7Z8Kzj4",
-      "title": "13 Crops You Can Start In May RIGHT NOW!",
-      "channel": "Epic Gardening",
-      "channelId": "UCSbyncU597LMwb3HhnAI_4w",
-      "durationSec": 1508,
-      "publishedAt": "2026-04-26T18:44:25Z",
-      "topics": [
-        "nature",
-        "making"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/nFJD7Z8Kzj4/hqdefault.jpg"
     },
     {
       "id": "FP735j4Nk-s",
@@ -24400,22 +24365,6 @@
       "thumbnail": "https://i.ytimg.com/vi/mBHJtWbsiaA/hqdefault.jpg"
     },
     {
-      "id": "IvaUgS7FPhU",
-      "title": "Green Energy Hunt | Design Squad",
-      "channel": "Design Squad ",
-      "channelId": "UCAgIIvpEGwYe6YBxpq_GAhg",
-      "durationSec": 178,
-      "publishedAt": "2017-06-05T16:04:28Z",
-      "topics": [
-        "engineering",
-        "making"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/IvaUgS7FPhU/hqdefault.jpg"
-    },
-    {
       "id": "ZOgXJRM8ttA",
       "title": "Designing The Marble Machine's Programming System",
       "channel": "Wintergatan",
@@ -26114,6 +26063,22 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/3lZzjUFaPbs/hqdefault.jpg"
+    },
+    {
+      "id": "nCGxL5BjfZI",
+      "title": "Let's talk about future projects!",
+      "channel": "Geography Now",
+      "channelId": "UCmmPgObSUPw1HL2lq6H4ffA",
+      "durationSec": 6140,
+      "publishedAt": "2026-08-15T02:03:01Z",
+      "topics": [
+        "geography",
+        "exploration"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/nCGxL5BjfZI/hqdefault.jpg"
     },
     {
       "id": "bcd_oHT0Uaw",
@@ -29810,6 +29775,21 @@
       "thumbnail": "https://i.ytimg.com/vi/t49CKfrb5_8/hqdefault.jpg"
     },
     {
+      "id": "boH8732yUP8",
+      "title": "Professor Nincompoop - funnytime anytime read aloud - critical thinking",
+      "channel": "KidTimeStoryTime",
+      "channelId": "UCEPsNDUhUm-7yZhUjQQNqwQ",
+      "durationSec": 530,
+      "publishedAt": "2026-08-14T13:00:16Z",
+      "topics": [
+        "reading"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/boH8732yUP8/hqdefault.jpg"
+    },
+    {
       "id": "bLf2VsAeBUo",
       "title": "First Day Jitters | First day of school read aloud",
       "channel": "KidTimeStoryTime",
@@ -30545,21 +30525,6 @@
       "thumbnail": "https://i.ytimg.com/vi/HG3XnCaKHI4/hqdefault.jpg"
     },
     {
-      "id": "lZMFFd9w8lA",
-      "title": "HOW to CATCH a GROUNDHOG | Groundhog Day read aloud",
-      "channel": "KidTimeStoryTime",
-      "channelId": "UCEPsNDUhUm-7yZhUjQQNqwQ",
-      "durationSec": 431,
-      "publishedAt": "2026-01-30T14:00:00Z",
-      "topics": [
-        "reading"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/lZMFFd9w8lA/hqdefault.jpg"
-    },
-    {
       "id": "wFB5xm-FuRc",
       "title": "Your Great Big Adventure Starts Here! | Read Aloud Kids Book | Vooks Narrated Storybooks",
       "channel": "Vooks - Stories and Read Alouds for Kids",
@@ -31128,6 +31093,21 @@
         "little"
       ],
       "thumbnail": "https://i.ytimg.com/vi/EouPRqmomk0/hqdefault.jpg"
+    },
+    {
+      "id": "kdWnG0eMQRI",
+      "title": "The Story of Sleeping Beauty | Learn to Read and Spell for Kids Compilation | Alphablocks",
+      "channel": "Alphablocks",
+      "channelId": "UC_qs3c0ehDvZkbiEbOj6Drg",
+      "durationSec": 2985,
+      "publishedAt": "2026-08-14T11:00:36Z",
+      "topics": [
+        "reading"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/kdWnG0eMQRI/hqdefault.jpg"
     },
     {
       "id": "6j8_kct3gLw",
@@ -41167,6 +41147,22 @@
       "thumbnail": "https://i.ytimg.com/vi/2pG1YDEGmXc/hqdefault.jpg"
     },
     {
+      "id": "y7soT2wjmpI",
+      "title": "Surrey Canal: Future Overground Station (Maybe)",
+      "channel": "Jago Hazzard",
+      "channelId": "UCcHuNKYzVMc06FXqsBEAV3A",
+      "durationSec": 524,
+      "publishedAt": "2026-08-14T16:30:09Z",
+      "topics": [
+        "history",
+        "geography"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/y7soT2wjmpI/hqdefault.jpg"
+    },
+    {
       "id": "6A9NkuvAOnQ",
       "title": "The National Railway Museum at York: Still Worth It?",
       "channel": "Jago Hazzard",
@@ -41949,22 +41945,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/mD08DfKs7iM/hqdefault.jpg"
-    },
-    {
-      "id": "XJidHIx_W9w",
-      "title": "I Predict a Riot: Amsterdam’s Troubled Metro Line 53",
-      "channel": "Jago Hazzard",
-      "channelId": "UCcHuNKYzVMc06FXqsBEAV3A",
-      "durationSec": 1129,
-      "publishedAt": "2026-04-19T11:00:00Z",
-      "topics": [
-        "history",
-        "geography"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/XJidHIx_W9w/hqdefault.jpg"
     },
     {
       "id": "E_SJ1NBMrH0",
@@ -46497,6 +46477,21 @@
       "thumbnail": "https://i.ytimg.com/vi/DW_5t3tEksE/hqdefault.jpg"
     },
     {
+      "id": "rfgNmaohZVk",
+      "title": "making aspirin from lifesavers",
+      "channel": "Reactions",
+      "channelId": "UCdJ9oJ2GUF8Vmb-G63ldGWg",
+      "durationSec": 155,
+      "publishedAt": "2026-08-14T17:05:57Z",
+      "topics": [
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/rfgNmaohZVk/hqdefault.jpg"
+    },
+    {
       "id": "FoqRIFd3H4Y",
       "title": "betting $100 on everclear's heat of vaporization",
       "channel": "Reactions",
@@ -48376,6 +48371,21 @@
       "thumbnail": "https://i.ytimg.com/vi/jvebwDXmBSw/hqdefault.jpg"
     },
     {
+      "id": "D6MhCoOa8us",
+      "title": "Medieval Poland Part 1: Mieszko and His Line",
+      "channel": "Professor Dave Explains",
+      "channelId": "UC0cd_-e49hZpWLH3UIwoWRA",
+      "durationSec": 486,
+      "publishedAt": "2026-08-14T14:00:12Z",
+      "topics": [
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/D6MhCoOa8us/hqdefault.jpg"
+    },
+    {
       "id": "Kl7FLKZCxBQ",
       "title": "Fauci Fiasco Addendum (Gigi Gronvall and Gain of Function Research)",
       "channel": "Professor Dave Explains",
@@ -49109,21 +49119,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/Llhs59IthY8/hqdefault.jpg"
-    },
-    {
-      "id": "s6E9Qg81U1g",
-      "title": "Superintelligent AI: Cutting Through the Noise (Featuring Andrea Miotti)",
-      "channel": "Professor Dave Explains",
-      "channelId": "UC0cd_-e49hZpWLH3UIwoWRA",
-      "durationSec": 2346,
-      "publishedAt": "2026-05-28T14:00:10Z",
-      "topics": [
-        "science"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/s6E9Qg81U1g/hqdefault.jpg"
     },
     {
       "id": "BjyJlN1npdw",
@@ -69143,6 +69138,22 @@
       "thumbnail": "https://i.ytimg.com/vi/0j6QQ-Tlzvo/hqdefault.jpg"
     },
     {
+      "id": "nFlrU-Js7dE",
+      "title": "Kilauea Volcano Update; 500 Foot Tall Lava Fountains Erupt",
+      "channel": "GeologyHub",
+      "channelId": "UCYeGh5VML5XPr5jYnzh3J6g",
+      "durationSec": 253,
+      "publishedAt": "2026-08-14T19:00:38Z",
+      "topics": [
+        "science",
+        "geography"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/nFlrU-Js7dE/hqdefault.jpg"
+    },
+    {
       "id": "f3D8W7h80hg",
       "title": "Sinabung Volcano Update; A New Explosive Eruption is Likely",
       "channel": "GeologyHub",
@@ -69829,22 +69840,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/ehy5W64zrg4/hqdefault.jpg"
-    },
-    {
-      "id": "TGHjJLSLZ7o",
-      "title": "Philippines M7.8 Earthquake Update; Volcano Discussion, Sites of Strongest Shaking",
-      "channel": "GeologyHub",
-      "channelId": "UCYeGh5VML5XPr5jYnzh3J6g",
-      "durationSec": 244,
-      "publishedAt": "2026-06-09T21:00:38Z",
-      "topics": [
-        "science",
-        "geography"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/TGHjJLSLZ7o/hqdefault.jpg"
     },
     {
       "id": "Shc47UKQeV4",
@@ -77477,22 +77472,6 @@
       "thumbnail": "https://i.ytimg.com/vi/upT28nerRdI/hqdefault.jpg"
     },
     {
-      "id": "O7-YL9CZa5c",
-      "title": "ASL Renewable Energy for Kids",
-      "channel": "Learn Bright",
-      "channelId": "UCKCsVSA5THlkHbnkZTPm6-g",
-      "durationSec": 475,
-      "publishedAt": "2026-05-06T16:35:00Z",
-      "topics": [
-        "maths",
-        "history"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/O7-YL9CZa5c/hqdefault.jpg"
-    },
-    {
       "id": "44q0kBHqlEo",
       "title": "South Australia Dive Expedition | BLUE WORLD DOCUMENTARY",
       "channel": "BlueWorldTV",
@@ -83034,6 +83013,22 @@
       "thumbnail": "https://i.ytimg.com/vi/GLVhXClV5QU/hqdefault.jpg"
     },
     {
+      "id": "9I1kwkoeRTQ",
+      "title": "Peep Plants a Seed | Peep and the Big Wide World",
+      "channel": "Peep and the Big Wide World",
+      "channelId": "UCPq6g4Q4-SFMIJ048IXmupA",
+      "durationSec": 645,
+      "publishedAt": "2026-08-14T15:00:21Z",
+      "topics": [
+        "science",
+        "nature"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/9I1kwkoeRTQ/hqdefault.jpg"
+    },
+    {
       "id": "fMa7RwZ3jOc",
       "title": "Meeting Half-way | Peep and the Big Wide World",
       "channel": "Peep and the Big Wide World",
@@ -83642,22 +83637,6 @@
       "thumbnail": "https://i.ytimg.com/vi/voyKaobhuJg/hqdefault.jpg"
     },
     {
-      "id": "I8xDF6GwJNI",
-      "title": "Peep Feet | Peep and the Big Wide World",
-      "channel": "Peep and the Big Wide World",
-      "channelId": "UCPq6g4Q4-SFMIJ048IXmupA",
-      "durationSec": 657,
-      "publishedAt": "2026-07-11T15:00:30Z",
-      "topics": [
-        "science",
-        "nature"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/I8xDF6GwJNI/hqdefault.jpg"
-    },
-    {
       "id": "z9iBhVZ-5x8",
       "title": "Hey-O We Want To Play-O + More | Kids Summer Activities | Get Moving With Caitie And Coach Jay!",
       "channel": "Super Simple Play with Caitie!",
@@ -83944,6 +83923,23 @@
         "little"
       ],
       "thumbnail": "https://i.ytimg.com/vi/H0vl7yny4gY/hqdefault.jpg"
+    },
+    {
+      "id": "DCE9HQZ7ah4",
+      "title": "All Creature Battles Part 1 | Animals for Kids | Wild Kratts",
+      "channel": "Wild Kratts",
+      "channelId": "UCxEmDFo1yUbbxjEb9RjitVA",
+      "durationSec": 697,
+      "publishedAt": "2026-08-14T15:00:08Z",
+      "topics": [
+        "animals",
+        "nature"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/DCE9HQZ7ah4/hqdefault.jpg"
     },
     {
       "id": "fUUBCajm2vQ",
@@ -84626,21 +84622,40 @@
       "thumbnail": "https://i.ytimg.com/vi/mR-PwKQgpK4/hqdefault.jpg"
     },
     {
-      "id": "j23ed681RTU",
-      "title": "Electric Eels vs Piranhas | Creature Battles | Wild Kratts",
-      "channel": "Wild Kratts",
-      "channelId": "UCxEmDFo1yUbbxjEb9RjitVA",
-      "durationSec": 3659,
-      "publishedAt": "2026-03-10T14:01:13Z",
+      "id": "pZDm4mO3MZw",
+      "title": "Deep Dive w/Scott: BLE Workflow on Zephyr #adafruit",
+      "channel": "Adafruit Industries",
+      "channelId": "UCpOlOeQjj7EsVnDh3zuCgsA",
+      "durationSec": 3957,
+      "publishedAt": "2026-08-14T17:07:25Z",
       "topics": [
-        "animals",
-        "nature"
+        "making",
+        "tech",
+        "engineering",
+        "coding"
       ],
       "profiles": [
-        "little",
         "big"
       ],
-      "thumbnail": "https://i.ytimg.com/vi/j23ed681RTU/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/pZDm4mO3MZw/hqdefault.jpg"
+    },
+    {
+      "id": "RXU3LQ1pr0Y",
+      "title": "John Park's CircuitPython Parsec: Fruit Jam Library - NeoPixels #adafruit",
+      "channel": "Adafruit Industries",
+      "channelId": "UCpOlOeQjj7EsVnDh3zuCgsA",
+      "durationSec": 183,
+      "publishedAt": "2026-08-14T17:14:44Z",
+      "topics": [
+        "making",
+        "tech",
+        "engineering",
+        "coding"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/RXU3LQ1pr0Y/hqdefault.jpg"
     },
     {
       "id": "ev_vgiFZ2g4",
@@ -84716,7 +84731,7 @@
     },
     {
       "id": "eyRz_z787Pg",
-      "title": "Deep Dive w/ Tim: USB Audio Stero Support",
+      "title": "Deep Dive w/ Tim: USB Audio Stereo Support",
       "channel": "Adafruit Industries",
       "channelId": "UCpOlOeQjj7EsVnDh3zuCgsA",
       "durationSec": 4016,
@@ -85001,24 +85016,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/X-7ZBaCIoeQ/hqdefault.jpg"
-    },
-    {
-      "id": "5AIjIcbG298",
-      "title": "CircuitPython Weekly Meeting for July 27th, 2026 @circuitpython #circuitpython #adafruit",
-      "channel": "Adafruit Industries",
-      "channelId": "UCpOlOeQjj7EsVnDh3zuCgsA",
-      "durationSec": 1501,
-      "publishedAt": "2026-07-27T18:43:26Z",
-      "topics": [
-        "making",
-        "tech",
-        "engineering",
-        "coding"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/5AIjIcbG298/hqdefault.jpg"
     },
     {
       "id": "VmBS2N1FzmE",
@@ -86740,6 +86737,40 @@
       "thumbnail": "https://i.ytimg.com/vi/XasThxf_YGo/hqdefault.jpg"
     },
     {
+      "id": "dtVz5FTuh_4",
+      "title": "Kids Yoga LIVE 🌟 | Fun Yoga Adventures & Movement for Kids",
+      "channel": "Cosmic Kids Yoga",
+      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
+      "durationSec": 42897,
+      "publishedAt": "2026-08-15T06:35:36Z",
+      "topics": [
+        "reading",
+        "nature"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/dtVz5FTuh_4/hqdefault.jpg"
+    },
+    {
+      "id": "8TsXNHBw86E",
+      "title": "Kids Yoga LIVE 🌟 | Fun Yoga Adventures & Movement for Kids",
+      "channel": "Cosmic Kids Yoga",
+      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
+      "durationSec": 42898,
+      "publishedAt": "2026-08-14T18:13:19Z",
+      "topics": [
+        "reading",
+        "nature"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/8TsXNHBw86E/hqdefault.jpg"
+    },
+    {
       "id": "WvVfj2FdbCo",
       "title": "Kids Yoga LIVE 🌟 | Fun Yoga Adventures & Movement for Kids",
       "channel": "Cosmic Kids Yoga",
@@ -86823,23 +86854,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/KNRSNb7doCw/hqdefault.jpg"
-    },
-    {
-      "id": "MR4URRkc1T4",
-      "title": "Bedtime Yoga Lullaby Beach | Kids Yoga for Bedtime! | Cosmic Kids",
-      "channel": "Cosmic Kids Yoga",
-      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
-      "durationSec": 429,
-      "publishedAt": "2026-07-01T14:00:37Z",
-      "topics": [
-        "reading",
-        "nature"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/MR4URRkc1T4/hqdefault.jpg"
     },
     {
       "id": "xm_GCZKltLA",
@@ -87690,6 +87704,22 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/Ilr2DjYOfqA/hqdefault.jpg"
+    },
+    {
+      "id": "yaD0n5awR_E",
+      "title": "Dinosaur Time with Elmo!  🦖 🦕 | FOUR Sesame Street Full Episodes",
+      "channel": "Sesame Street",
+      "channelId": "UCoookXUzPciGrEZEXmh4Jjg",
+      "durationSec": 6133,
+      "publishedAt": "2026-08-14T11:30:30Z",
+      "topics": [
+        "reading",
+        "music"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/yaD0n5awR_E/hqdefault.jpg"
     },
     {
       "id": "MtVywDiugYY",
