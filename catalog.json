@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-16T09:16:26.451Z",
+  "generatedAt": "2026-08-17T09:28:46.516Z",
   "profiles": {
     "little": {
       "label": "Ages 3-7"
@@ -131,6 +131,38 @@
       "thumbnail": "https://i.ytimg.com/vi/kKqd0_cydZM/hqdefault.jpg"
     },
     {
+      "id": "LjamMBKhQ78",
+      "title": "The Coolest DIY Pencil Case in School!✏️✏️ | Kids vs Plastic | Nat Geo Kids",
+      "channel": "Nat Geo Kids",
+      "channelId": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "durationSec": 155,
+      "publishedAt": "2026-08-16T13:00:29Z",
+      "topics": [
+        "animals",
+        "science"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/LjamMBKhQ78/hqdefault.jpg"
+    },
+    {
+      "id": "kZOnY-2y0AE",
+      "title": "Baby Penguin Hatches + Tiger's New Home! 🐧🐯 | Secrets of the Zoo: Tampa Full Episode | Nat Geo Kids",
+      "channel": "Nat Geo Kids",
+      "channelId": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "durationSec": 2640,
+      "publishedAt": "2026-08-16T11:00:29Z",
+      "topics": [
+        "animals",
+        "science"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/kZOnY-2y0AE/hqdefault.jpg"
+    },
+    {
       "id": "sKVVFaobouM",
       "title": "Discover the Real-Life Dragons of our Planet! 🌍🐊 Animal Facts for Kids | Nat Geo Kids",
       "channel": "Nat Geo Kids",
@@ -193,22 +225,6 @@
         "little"
       ],
       "thumbnail": "https://i.ytimg.com/vi/BFjV99KJRaE/hqdefault.jpg"
-    },
-    {
-      "id": "JgZ1JRbitU8",
-      "title": "These Sharks are Closer Than You Think 😱 | Full Episode | SHARKFEST 🦈 | Nat Geo Kids",
-      "channel": "Nat Geo Kids",
-      "channelId": "UCXVCgDuD_QCkI7gTKU7-tpg",
-      "durationSec": 2771,
-      "publishedAt": "2026-08-09T11:00:16Z",
-      "topics": [
-        "animals",
-        "science"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/JgZ1JRbitU8/hqdefault.jpg"
     },
     {
       "id": "SPZTd6e3rsQ",
@@ -286,6 +302,21 @@
       "thumbnail": "https://i.ytimg.com/vi/EQIMxHf7QRE/hqdefault.jpg"
     },
     {
+      "id": "_pjA7_SY21E",
+      "title": "Land of the Giants! - Big Numbers for Big kids | Learn to Count | Number Cartoon | Numberblocks",
+      "channel": "Numberblocks",
+      "channelId": "UCPlwvN0w4qFSP1FllALB92w",
+      "durationSec": 6172,
+      "publishedAt": "2026-08-16T10:00:09Z",
+      "topics": [
+        "maths"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/_pjA7_SY21E/hqdefault.jpg"
+    },
+    {
       "id": "bWSI5S2LYmk",
       "title": "Whose House is this? - Numberblocks Homes | Learn to Count for Kids Compilation | Numberblocks",
       "channel": "Numberblocks",
@@ -329,21 +360,6 @@
         "little"
       ],
       "thumbnail": "https://i.ytimg.com/vi/xPwAzG2WIuI/hqdefault.jpg"
-    },
-    {
-      "id": "40c-tHt3aww",
-      "title": "Learn to Be Kind with the Numberblocks | Learn to Count for Kids | Number Cartoon | Numberblocks",
-      "channel": "Numberblocks",
-      "channelId": "UCPlwvN0w4qFSP1FllALB92w",
-      "durationSec": 3484,
-      "publishedAt": "2026-08-09T10:00:03Z",
-      "topics": [
-        "maths"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/40c-tHt3aww/hqdefault.jpg"
     },
     {
       "id": "2A1IEBFt6Xg",
@@ -6333,21 +6349,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/O6S0nO1n0Ho/hqdefault.jpg"
-    },
-    {
-      "id": "xe5k6Lne0Sg",
-      "title": "Humans changed an asteroid. Now we find out how.",
-      "channel": "European Space Agency, ESA",
-      "channelId": "UCIBaDdAbGlFDeS33shmlD0A",
-      "durationSec": 209,
-      "publishedAt": "2026-06-30T14:00:25Z",
-      "topics": [
-        "space"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/xe5k6Lne0Sg/hqdefault.jpg"
     },
     {
       "id": "4ZnN44BTTjU",
@@ -17613,6 +17614,23 @@
       "thumbnail": "https://i.ytimg.com/vi/GsjQLelQPeI/hqdefault.jpg"
     },
     {
+      "id": "yt2RczYsiAs",
+      "title": "Playful Pups Go On An Adventure! | Wonderful World Of Puppies | BBC Earth Kids",
+      "channel": "BBC Earth Kids",
+      "channelId": "UCO_DaPp4ifhMAmiyybSLx9w",
+      "durationSec": 621,
+      "publishedAt": "2026-08-16T15:00:12Z",
+      "topics": [
+        "nature",
+        "animals"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/yt2RczYsiAs/hqdefault.jpg"
+    },
+    {
       "id": "p4NFktDA0Jo",
       "title": "Learn About Farm Friends! | Animal Facts | BBC Earth Kids",
       "channel": "BBC Earth Kids",
@@ -17682,7 +17700,7 @@
     },
     {
       "id": "DPCDpSLha6Q",
-      "title": "Learn About Bison! | Learn With Steve Backshall | BBC Earth Kids",
+      "title": "Bison! | Learn With Steve Backshall | BBC Earth Kids",
       "channel": "BBC Earth Kids",
       "channelId": "UCO_DaPp4ifhMAmiyybSLx9w",
       "durationSec": 371,
@@ -18291,23 +18309,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/1NFmRCKaY9I/hqdefault.jpg"
-    },
-    {
-      "id": "nGohIddbBuU",
-      "title": "Spectacular Bird of Prey Flies at 30MPH | Deadly 60 | BBC Earth Kids",
-      "channel": "BBC Earth Kids",
-      "channelId": "UCO_DaPp4ifhMAmiyybSLx9w",
-      "durationSec": 180,
-      "publishedAt": "2025-04-23T15:05:01Z",
-      "topics": [
-        "nature",
-        "animals"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/nGohIddbBuU/hqdefault.jpg"
     },
     {
       "id": "nkhLC4Ezen0",
@@ -26035,6 +26036,22 @@
       "thumbnail": "https://i.ytimg.com/vi/3lZzjUFaPbs/hqdefault.jpg"
     },
     {
+      "id": "56pz7qiEtPQ",
+      "title": "How to tell Indian writing systems apart",
+      "channel": "Geography Now",
+      "channelId": "UCmmPgObSUPw1HL2lq6H4ffA",
+      "durationSec": 155,
+      "publishedAt": "2026-08-16T22:56:15Z",
+      "topics": [
+        "geography",
+        "exploration"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/56pz7qiEtPQ/hqdefault.jpg"
+    },
+    {
       "id": "nCGxL5BjfZI",
       "title": "Let's talk about future projects!",
       "channel": "Geography Now",
@@ -28609,6 +28626,22 @@
       "thumbnail": "https://i.ytimg.com/vi/Ym29cgfmZ5Y/hqdefault.jpg"
     },
     {
+      "id": "8yGt87KX5_0",
+      "title": "'That Cat Can't Stay' read by Haley Lu Richardson",
+      "channel": "StorylineOnline",
+      "channelId": "UCnBdzaRy-Ky9Vh54XJlFz1Q",
+      "durationSec": 565,
+      "publishedAt": "2026-08-17T07:01:16Z",
+      "topics": [
+        "reading"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/8yGt87KX5_0/hqdefault.jpg"
+    },
+    {
       "id": "yt_GmmOx06Y",
       "title": "'The Most Magnificent Thing' read by Olivia Munn",
       "channel": "StorylineOnline",
@@ -31065,6 +31098,21 @@
       "thumbnail": "https://i.ytimg.com/vi/EouPRqmomk0/hqdefault.jpg"
     },
     {
+      "id": "NH5QoW7e864",
+      "title": "Whacky Words! | Learn to Read and Spell for Kids Compilation | Alphablocks",
+      "channel": "Alphablocks",
+      "channelId": "UC_qs3c0ehDvZkbiEbOj6Drg",
+      "durationSec": 2436,
+      "publishedAt": "2026-08-16T11:00:08Z",
+      "topics": [
+        "reading"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/NH5QoW7e864/hqdefault.jpg"
+    },
+    {
       "id": "DK_hkUOi-08",
       "title": "The Art of Spelling | Learn to Read and Spell for Kids Compilation | Alphablocks",
       "channel": "Alphablocks",
@@ -31603,21 +31651,6 @@
         "little"
       ],
       "thumbnail": "https://i.ytimg.com/vi/5PPmT9SsKpI/hqdefault.jpg"
-    },
-    {
-      "id": "OQ_zWGWpyHM",
-      "title": "Reading Made Fun! | Learn to Read and Spell for Kids Compilation | Alphablocks",
-      "channel": "Alphablocks",
-      "channelId": "UC_qs3c0ehDvZkbiEbOj6Drg",
-      "durationSec": 1778,
-      "publishedAt": "2026-05-23T11:00:00Z",
-      "topics": [
-        "reading"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/OQ_zWGWpyHM/hqdefault.jpg"
     },
     {
       "id": "LgCqJkkmm7E",
@@ -38857,6 +38890,21 @@
       "thumbnail": "https://i.ytimg.com/vi/_LsY3RdV1Ak/hqdefault.jpg"
     },
     {
+      "id": "_dCroRM4TlU",
+      "title": "The Adventures of Harkhuf in Nubia: Spies, Warlords and Dancing Pygmies (c. 2280-2270 BC)",
+      "channel": "History with Cy",
+      "channelId": "UCZzqG2zfeRKMoJwDwk1FTvQ",
+      "durationSec": 1287,
+      "publishedAt": "2026-08-17T05:39:06Z",
+      "topics": [
+        "history"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/_dCroRM4TlU/hqdefault.jpg"
+    },
+    {
       "id": "h9sztIFDawY",
       "title": "The Kingmaker of Babylon: The 104-Year Life of Adad-guppi (651-547 BC)",
       "channel": "History with Cy",
@@ -39500,21 +39548,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/zsA3kk_5oVQ/hqdefault.jpg"
-    },
-    {
-      "id": "hPoEtxTwYh4",
-      "title": "History of Ancient Egypt: Dynasties XXIV & XXV - Nubian Pharaohs and the Assyrian Conquest of Egypt",
-      "channel": "History with Cy",
-      "channelId": "UCZzqG2zfeRKMoJwDwk1FTvQ",
-      "durationSec": 3283,
-      "publishedAt": "2024-07-27T01:11:28Z",
-      "topics": [
-        "history"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/hPoEtxTwYh4/hqdefault.jpg"
     },
     {
       "id": "MxHjUcVNFEg",
@@ -41101,6 +41134,22 @@
       "thumbnail": "https://i.ytimg.com/vi/XbrX-A_Qj3o/hqdefault.jpg"
     },
     {
+      "id": "IpAohPgMRGs",
+      "title": "Exploring the Trams of Amsterdam",
+      "channel": "Jago Hazzard",
+      "channelId": "UCcHuNKYzVMc06FXqsBEAV3A",
+      "durationSec": 1047,
+      "publishedAt": "2026-08-16T12:05:49Z",
+      "topics": [
+        "history",
+        "geography"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/IpAohPgMRGs/hqdefault.jpg"
+    },
+    {
       "id": "y7soT2wjmpI",
       "title": "Surrey Canal: Future Overground Station (Maybe)",
       "channel": "Jago Hazzard",
@@ -41883,22 +41932,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/5YptEeOpCIQ/hqdefault.jpg"
-    },
-    {
-      "id": "mD08DfKs7iM",
-      "title": "The Hovertrain to Paris",
-      "channel": "Jago Hazzard",
-      "channelId": "UCcHuNKYzVMc06FXqsBEAV3A",
-      "durationSec": 536,
-      "publishedAt": "2026-04-22T16:30:00Z",
-      "topics": [
-        "history",
-        "geography"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/mD08DfKs7iM/hqdefault.jpg"
     },
     {
       "id": "E_SJ1NBMrH0",
@@ -44078,7 +44111,7 @@
     },
     {
       "id": "UnmNbRW-tRQ",
-      "title": "I Photographed an “Empty” Patch of Sky. This Was Hiding Inside",
+      "title": "I Took My Telescope Camping... I Didn't Expect This!",
       "channel": "AstroBackyard",
       "channelId": "UCn3npsPixgoi_xLdCg9J-LQ",
       "durationSec": 493,
@@ -51251,6 +51284,22 @@
       "thumbnail": "https://i.ytimg.com/vi/10ozX35jpno/hqdefault.jpg"
     },
     {
+      "id": "cVvGBlj47CU",
+      "title": "Hermitcraft 11: Episode 25 - Final Stages",
+      "channel": "Mumbo Jumbo",
+      "channelId": "UChFur_NwVSbUozOcF_F2kMg",
+      "durationSec": 1860,
+      "publishedAt": "2026-08-16T19:00:33Z",
+      "topics": [
+        "engineering",
+        "making"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/cVvGBlj47CU/hqdefault.jpg"
+    },
+    {
       "id": "jNzmZD4RFgU",
       "title": "Hermitcraft 11: Episode 24 - HELP",
       "channel": "Mumbo Jumbo",
@@ -51985,22 +52034,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/okv24IThOHg/hqdefault.jpg"
-    },
-    {
-      "id": "lebdqAN1pd8",
-      "title": "This was not really quite simple",
-      "channel": "Mumbo Jumbo",
-      "channelId": "UChFur_NwVSbUozOcF_F2kMg",
-      "durationSec": 1601,
-      "publishedAt": "2025-07-26T18:00:46Z",
-      "topics": [
-        "engineering",
-        "making"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/lebdqAN1pd8/hqdefault.jpg"
     },
     {
       "id": "wbZknsqv9Cc",
@@ -64952,6 +64985,22 @@
       "thumbnail": "https://i.ytimg.com/vi/jP6R7FV22ns/hqdefault.jpg"
     },
     {
+      "id": "QiTfPS2450I",
+      "title": "Is Venus Flytrap Dormancy Really Necessary? The Evidence Says Maybe Not!",
+      "channel": "Carnivorous Plants Hub",
+      "channelId": "UCtdFyx2wj8dysinQuyNTX3Q",
+      "durationSec": 1109,
+      "publishedAt": "2026-08-16T13:30:01Z",
+      "topics": [
+        "nature",
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/QiTfPS2450I/hqdefault.jpg"
+    },
+    {
       "id": "pDBvtsvFGyM",
       "title": "Grow Massive Traps! Venus Flytrap Care Evolved: Advanced Tips For Insane Growth",
       "channel": "Carnivorous Plants Hub",
@@ -65622,22 +65671,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/ud8lpd4qlkE/hqdefault.jpg"
-    },
-    {
-      "id": "7VrPrvQwpzI",
-      "title": "I Tried BOTH Water & Soil Germination With 200 Venus Flytrap & Sundew Seeds INSANE RESULTS!",
-      "channel": "Carnivorous Plants Hub",
-      "channelId": "UCtdFyx2wj8dysinQuyNTX3Q",
-      "durationSec": 955,
-      "publishedAt": "2024-11-17T15:30:01Z",
-      "topics": [
-        "nature",
-        "science"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/7VrPrvQwpzI/hqdefault.jpg"
     },
     {
       "id": "Tvt-35ky5FM",
@@ -66456,6 +66489,22 @@
       "thumbnail": "https://i.ytimg.com/vi/W2_DsDRR3oY/hqdefault.jpg"
     },
     {
+      "id": "cNK2_diABIw",
+      "title": "OPERATION DAHLIA RESCUE",
+      "channel": "Guiding Green Thumbs",
+      "channelId": "UCcgYyMRPW7z4fbJabbSWQ8g",
+      "durationSec": 2807,
+      "publishedAt": "2026-08-16T15:39:28Z",
+      "topics": [
+        "nature",
+        "making"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/cNK2_diABIw/hqdefault.jpg"
+    },
+    {
       "id": "k4_kPjVQO54",
       "title": "GUIDING GREEN THUMBS | DEVASTATING FLOWER FARM FLOOD UPDATE - WHAT HAPPENS NEXT?",
       "channel": "Guiding Green Thumbs",
@@ -67238,22 +67287,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/3TSUsUiOdNc/hqdefault.jpg"
-    },
-    {
-      "id": "qdsXBzSDmTY",
-      "title": "PICKING SUNFLOWERS / WATERING & WEEDING / WHO KILLED GARY THE GROUNDHOG ?",
-      "channel": "Guiding Green Thumbs",
-      "channelId": "UCcgYyMRPW7z4fbJabbSWQ8g",
-      "durationSec": 2403,
-      "publishedAt": "2025-08-24T11:38:39Z",
-      "topics": [
-        "nature",
-        "making"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/qdsXBzSDmTY/hqdefault.jpg"
     },
     {
       "id": "pntMDfTOP9o",
@@ -68373,6 +68406,21 @@
       "thumbnail": "https://i.ytimg.com/vi/grmBDsBQJ64/hqdefault.jpg"
     },
     {
+      "id": "WuSu93lDPqg",
+      "title": "Rocks With Multiple 'Ages', Why Young Rocks are Hard to Date, & Uncertainty in Radiometric Dating",
+      "channel": "GEO GIRL",
+      "channelId": "UC5uH43CVzGWg9XGYGuLwI_w",
+      "durationSec": 2981,
+      "publishedAt": "2026-08-16T13:30:20Z",
+      "topics": [
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/WuSu93lDPqg/hqdefault.jpg"
+    },
+    {
       "id": "531KvKpBhiE",
       "title": "5 of the Most Iconic Cliffs on Earth & Their Geologic Story | GEO GIRL",
       "channel": "GEO GIRL",
@@ -69091,21 +69139,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/w9S1LgpFmaI/hqdefault.jpg"
-    },
-    {
-      "id": "0j6QQ-Tlzvo",
-      "title": "How Life ‘Invented’ A New Rock Type ~100 Million Years Ago! GEO GIRL",
-      "channel": "GEO GIRL",
-      "channelId": "UC5uH43CVzGWg9XGYGuLwI_w",
-      "durationSec": 297,
-      "publishedAt": "2025-06-15T13:30:01Z",
-      "topics": [
-        "science"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/0j6QQ-Tlzvo/hqdefault.jpg"
     },
     {
       "id": "J_m6Gxd0G0w",
@@ -78502,7 +78535,7 @@
     },
     {
       "id": "Y5ha3I5cSZw",
-      "title": "These Fossils Prove MEGALODON Ate Prehistoric Elephants (and Everything Else)!",
+      "title": "Megalodon Was Unstoppable... Why Did It Go Extinct?",
       "channel": "KPassionate",
       "channelId": "UCUvSqEH92Fqn9uw1kmCfLGA",
       "durationSec": 759,
@@ -83014,6 +83047,22 @@
       "thumbnail": "https://i.ytimg.com/vi/GLVhXClV5QU/hqdefault.jpg"
     },
     {
+      "id": "ERPJmBNRP4g",
+      "title": "Should All Birds Learn to Swim? | Peep and the Big Wide World",
+      "channel": "Peep and the Big Wide World",
+      "channelId": "UCPq6g4Q4-SFMIJ048IXmupA",
+      "durationSec": 3800,
+      "publishedAt": "2026-08-16T15:00:38Z",
+      "topics": [
+        "science",
+        "nature"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/ERPJmBNRP4g/hqdefault.jpg"
+    },
+    {
       "id": "ZNn903NOrK0",
       "title": "The Root Problem | Peep and the Big Wide World",
       "channel": "Peep and the Big Wide World",
@@ -83620,22 +83669,6 @@
         "little"
       ],
       "thumbnail": "https://i.ytimg.com/vi/hkRCPCH1b5c/hqdefault.jpg"
-    },
-    {
-      "id": "eXyWVAUH7W8",
-      "title": "Newton's Big Adventure | Peep and the Big Wide World",
-      "channel": "Peep and the Big Wide World",
-      "channelId": "UCPq6g4Q4-SFMIJ048IXmupA",
-      "durationSec": 645,
-      "publishedAt": "2026-07-13T15:00:07Z",
-      "topics": [
-        "science",
-        "nature"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/eXyWVAUH7W8/hqdefault.jpg"
     },
     {
       "id": "z9iBhVZ-5x8",
@@ -85017,24 +85050,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/3jm-8SmF0Fg/hqdefault.jpg"
-    },
-    {
-      "id": "X-7ZBaCIoeQ",
-      "title": "Fruit Jam Pico Bootloader demo",
-      "channel": "Adafruit Industries",
-      "channelId": "UCpOlOeQjj7EsVnDh3zuCgsA",
-      "durationSec": 195,
-      "publishedAt": "2026-07-28T04:21:10Z",
-      "topics": [
-        "making",
-        "tech",
-        "engineering",
-        "coding"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/X-7ZBaCIoeQ/hqdefault.jpg"
     },
     {
       "id": "VmBS2N1FzmE",
@@ -86756,6 +86771,40 @@
       "thumbnail": "https://i.ytimg.com/vi/XasThxf_YGo/hqdefault.jpg"
     },
     {
+      "id": "WqXUkNa6P-Q",
+      "title": "Kids Yoga LIVE 🌟 | Fun Yoga Adventures & Movement for Kids",
+      "channel": "Cosmic Kids Yoga",
+      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
+      "durationSec": 42900,
+      "publishedAt": "2026-08-17T08:11:26Z",
+      "topics": [
+        "reading",
+        "nature"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/WqXUkNa6P-Q/hqdefault.jpg"
+    },
+    {
+      "id": "U3PNOfR98Ck",
+      "title": "Kids Yoga LIVE 🌟 | Fun Yoga Adventures & Movement for Kids",
+      "channel": "Cosmic Kids Yoga",
+      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
+      "durationSec": 42896,
+      "publishedAt": "2026-08-16T19:52:10Z",
+      "topics": [
+        "reading",
+        "nature"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/U3PNOfR98Ck/hqdefault.jpg"
+    },
+    {
       "id": "i6bE6Caqldo",
       "title": "Kids Yoga LIVE 🌟 | Fun Yoga Adventures & Movement for Kids",
       "channel": "Cosmic Kids Yoga",
@@ -87757,6 +87806,22 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/Ilr2DjYOfqA/hqdefault.jpg"
+    },
+    {
+      "id": "d5lKPl5qCkk",
+      "title": "Fun with STEM  🔭 🧮  Building and Counting with Elmo! | 100 Mins | Sesame Street",
+      "channel": "Sesame Street",
+      "channelId": "UCoookXUzPciGrEZEXmh4Jjg",
+      "durationSec": 6357,
+      "publishedAt": "2026-08-16T11:30:10Z",
+      "topics": [
+        "reading",
+        "music"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/d5lKPl5qCkk/hqdefault.jpg"
     },
     {
       "id": "yaD0n5awR_E",
