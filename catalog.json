@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-17T09:28:46.516Z",
+  "generatedAt": "2026-08-18T09:20:53.626Z",
   "profiles": {
     "little": {
       "label": "Ages 3-7"
@@ -131,6 +131,22 @@
       "thumbnail": "https://i.ytimg.com/vi/kKqd0_cydZM/hqdefault.jpg"
     },
     {
+      "id": "J1cm8yKC4GI",
+      "title": "Enchanting Creatures of the Mountains and Waters ✨ | Full Episode Compilation | Nat Geo Kids",
+      "channel": "Nat Geo Kids",
+      "channelId": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "durationSec": 7640,
+      "publishedAt": "2026-08-17T11:00:36Z",
+      "topics": [
+        "animals",
+        "science"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/J1cm8yKC4GI/hqdefault.jpg"
+    },
+    {
       "id": "LjamMBKhQ78",
       "title": "The Coolest DIY Pencil Case in School!✏️✏️ | Kids vs Plastic | Nat Geo Kids",
       "channel": "Nat Geo Kids",
@@ -211,20 +227,19 @@
       "thumbnail": "https://i.ytimg.com/vi/QZCOIfLLeR4/hqdefault.jpg"
     },
     {
-      "id": "BFjV99KJRaE",
-      "title": "America's Funniest Animal Videos! 🤣 | Full Episode Compilation | Nat Geo Kids",
-      "channel": "Nat Geo Kids",
-      "channelId": "UCXVCgDuD_QCkI7gTKU7-tpg",
-      "durationSec": 7917,
-      "publishedAt": "2026-08-10T11:00:29Z",
+      "id": "SzzwCBn08tE",
+      "title": "How To Draw Rex From Toy Story",
+      "channel": "Art for Kids Hub",
+      "channelId": "UC5XMF3Inoi8R9nSI8ChOsdQ",
+      "durationSec": 718,
+      "publishedAt": "2026-08-17T14:00:17Z",
       "topics": [
-        "animals",
-        "science"
+        "art"
       ],
       "profiles": [
         "little"
       ],
-      "thumbnail": "https://i.ytimg.com/vi/BFjV99KJRaE/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/SzzwCBn08tE/hqdefault.jpg"
     },
     {
       "id": "SPZTd6e3rsQ",
@@ -285,21 +300,6 @@
         "little"
       ],
       "thumbnail": "https://i.ytimg.com/vi/stsRpkfRhxs/hqdefault.jpg"
-    },
-    {
-      "id": "EQIMxHf7QRE",
-      "title": "How To Draw Eevee Squishmallow",
-      "channel": "Art for Kids Hub",
-      "channelId": "UC5XMF3Inoi8R9nSI8ChOsdQ",
-      "durationSec": 440,
-      "publishedAt": "2026-08-10T14:00:15Z",
-      "topics": [
-        "art"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/EQIMxHf7QRE/hqdefault.jpg"
     },
     {
       "id": "_pjA7_SY21E",
@@ -534,7 +534,7 @@
     },
     {
       "id": "5okDacdZ2sc",
-      "title": "Cameroon’s Deadly Lake Bomb Has Been Diffused",
+      "title": "Cameroon’s Deadly Lake Bomb Has Been Defused",
       "channel": "SciShow",
       "channelId": "UCZYTClx2T1of7BRZ86-8fow",
       "durationSec": 838,
@@ -576,21 +576,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/sh-8TyRgV5Y/hqdefault.jpg"
-    },
-    {
-      "id": "xGxeJE8SFc0",
-      "title": "Can Baldness Be Reversed?",
-      "channel": "SciShow",
-      "channelId": "UCZYTClx2T1of7BRZ86-8fow",
-      "durationSec": 528,
-      "publishedAt": "2026-08-10T16:03:30Z",
-      "topics": [
-        "science"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/xGxeJE8SFc0/hqdefault.jpg"
     },
     {
       "id": "GlYgs6v2YfU",
@@ -638,6 +623,21 @@
       "thumbnail": "https://i.ytimg.com/vi/l6DKRf-fAAM/hqdefault.jpg"
     },
     {
+      "id": "J1WoNuemKOg",
+      "title": "Total Solar Eclipse From Space",
+      "channel": "Veritasium",
+      "channelId": "UCHnyfMqiRRG1u-2MsSQLbXA",
+      "durationSec": 1365,
+      "publishedAt": "2026-08-17T14:30:16Z",
+      "topics": [
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/J1WoNuemKOg/hqdefault.jpg"
+    },
+    {
       "id": "wt4p2oalmRY",
       "title": "Is spider web really stronger than steel?",
       "channel": "Veritasium",
@@ -681,21 +681,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/GK2pZ_oVU1o/hqdefault.jpg"
-    },
-    {
-      "id": "Xhl5TzKZbpw",
-      "title": "AD - Why are plants colder than their surroundings?",
-      "channel": "Veritasium",
-      "channelId": "UCHnyfMqiRRG1u-2MsSQLbXA",
-      "durationSec": 160,
-      "publishedAt": "2026-07-07T13:04:35Z",
-      "topics": [
-        "science"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/Xhl5TzKZbpw/hqdefault.jpg"
     },
     {
       "id": "Cyl3X88KEgg",
@@ -6432,7 +6417,7 @@
     },
     {
       "id": "1eEjHl3cM0E",
-      "title": "What This Collision Did to Saturn Shocked Me",
+      "title": "Saturn Had No Rings When the Dinosaurs Were Alive",
       "channel": "Astrum",
       "channelId": "UC-9b7aDP6ZN0coj9-xFnrtw",
       "durationSec": 1290,
@@ -11682,6 +11667,23 @@
       "thumbnail": "https://i.ytimg.com/vi/w9u4fCD-sj0/hqdefault.jpg"
     },
     {
+      "id": "hGqPDYLrCtE",
+      "title": "How to Draw Strawberry Cat | Aphmau Meemeows",
+      "channel": "Draw So Cute",
+      "channelId": "UC3dEvA1is6-0_yuei9iCdEw",
+      "durationSec": 600,
+      "publishedAt": "2026-08-17T14:00:13Z",
+      "topics": [
+        "art",
+        "making"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/hGqPDYLrCtE/hqdefault.jpg"
+    },
+    {
       "id": "pePg4OrzWCU",
       "title": "How to Draw Ed | Minion and Monsters",
       "channel": "Draw So Cute",
@@ -12515,23 +12517,6 @@
       "thumbnail": "https://i.ytimg.com/vi/AYw_c59qTYc/hqdefault.jpg"
     },
     {
-      "id": "Ds4bY_GDrCY",
-      "title": "How to Draw Blanky Blankz | Poppy Playtime",
-      "channel": "Draw So Cute",
-      "channelId": "UC3dEvA1is6-0_yuei9iCdEw",
-      "durationSec": 747,
-      "publishedAt": "2026-05-13T14:00:31Z",
-      "topics": [
-        "art",
-        "making"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/Ds4bY_GDrCY/hqdefault.jpg"
-    },
-    {
       "id": "MB7wxd8Bz18",
       "title": "Learn to Draw Super Simple Characters! Finny the Shark, The Bumble Nums, & More!",
       "channel": "Super Simple Draw! - How To Draw for Kids",
@@ -13332,6 +13317,22 @@
       "thumbnail": "https://i.ytimg.com/vi/m6KAfSgFaAM/hqdefault.jpg"
     },
     {
+      "id": "HSff2EdZNqA",
+      "title": "How to Draw Little Bo Peep | Toy Story",
+      "channel": "Cartooning Club How to Draw",
+      "channelId": "UC-biucJWhM8HwjsQ96uoIUw",
+      "durationSec": 540,
+      "publishedAt": "2026-08-17T14:00:13Z",
+      "topics": [
+        "art",
+        "making"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/HSff2EdZNqA/hqdefault.jpg"
+    },
+    {
       "id": "9wqHIGnF88s",
       "title": "How to Draw Tanjiro | Demon Slayer",
       "channel": "Cartooning Club How to Draw",
@@ -13396,22 +13397,6 @@
       "thumbnail": "https://i.ytimg.com/vi/rbHZv822Nz8/hqdefault.jpg"
     },
     {
-      "id": "ee05tpTZw74",
-      "title": "How to Draw a Boat Still Life 🔥 LIVE drawing session",
-      "channel": "Cartooning Club How to Draw",
-      "channelId": "UC-biucJWhM8HwjsQ96uoIUw",
-      "durationSec": 4430,
-      "publishedAt": "2026-08-08T06:22:48Z",
-      "topics": [
-        "art",
-        "making"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/ee05tpTZw74/hqdefault.jpg"
-    },
-    {
       "id": "yo5UFFPH7DI",
       "title": "How to Draw Mystique | Xmen",
       "channel": "Cartooning Club How to Draw",
@@ -13444,22 +13429,6 @@
       "thumbnail": "https://i.ytimg.com/vi/TJLi-AzA7hs/hqdefault.jpg"
     },
     {
-      "id": "hEJv4xck2kM",
-      "title": "How to Draw Jake Sully 🔥LIVE drawing session",
-      "channel": "Cartooning Club How to Draw",
-      "channelId": "UC-biucJWhM8HwjsQ96uoIUw",
-      "durationSec": 5141,
-      "publishedAt": "2026-08-05T06:31:32Z",
-      "topics": [
-        "art",
-        "making"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/hEJv4xck2kM/hqdefault.jpg"
-    },
-    {
       "id": "HJsdRYhmq_U",
       "title": "How to Draw Vaporeon | Pokemon",
       "channel": "Cartooning Club How to Draw",
@@ -13476,22 +13445,6 @@
       "thumbnail": "https://i.ytimg.com/vi/HJsdRYhmq_U/hqdefault.jpg"
     },
     {
-      "id": "HuksO_DaHIw",
-      "title": "How to Draw a Sabretooth Tiger 🔴 LIVE session",
-      "channel": "Cartooning Club How to Draw",
-      "channelId": "UC-biucJWhM8HwjsQ96uoIUw",
-      "durationSec": 4280,
-      "publishedAt": "2026-08-01T06:44:25Z",
-      "topics": [
-        "art",
-        "making"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/HuksO_DaHIw/hqdefault.jpg"
-    },
-    {
       "id": "9DYyQozhS68",
       "title": "How to Draw Apocalypse | The Avengers",
       "channel": "Cartooning Club How to Draw",
@@ -13506,22 +13459,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/9DYyQozhS68/hqdefault.jpg"
-    },
-    {
-      "id": "W-tZnBH1nxI",
-      "title": "How to Draw a Dragon 🔴 LIVE session 🔥 ",
-      "channel": "Cartooning Club How to Draw",
-      "channelId": "UC-biucJWhM8HwjsQ96uoIUw",
-      "durationSec": 4241,
-      "publishedAt": "2026-07-30T06:22:20Z",
-      "topics": [
-        "art",
-        "making"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/W-tZnBH1nxI/hqdefault.jpg"
     },
     {
       "id": "IY2Fz4Kj2NI",
@@ -13572,22 +13509,6 @@
       "thumbnail": "https://i.ytimg.com/vi/FE5vjFTLa1Y/hqdefault.jpg"
     },
     {
-      "id": "q6g9K5mWY1A",
-      "title": "How to Draw Michael Jackson 🔴 LIVE session 🌟",
-      "channel": "Cartooning Club How to Draw",
-      "channelId": "UC-biucJWhM8HwjsQ96uoIUw",
-      "durationSec": 4877,
-      "publishedAt": "2026-07-25T06:28:11Z",
-      "topics": [
-        "art",
-        "making"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/q6g9K5mWY1A/hqdefault.jpg"
-    },
-    {
       "id": "Awh5dPQW6Pg",
       "title": "How to Draw Baby Peach | Super Mario",
       "channel": "Cartooning Club How to Draw",
@@ -13602,22 +13523,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/Awh5dPQW6Pg/hqdefault.jpg"
-    },
-    {
-      "id": "Jr3D-wpel5Q",
-      "title": "How to Draw a Lion 🔴 LIVE session 🔥 ",
-      "channel": "Cartooning Club How to Draw",
-      "channelId": "UC-biucJWhM8HwjsQ96uoIUw",
-      "durationSec": 3823,
-      "publishedAt": "2026-07-23T06:19:50Z",
-      "topics": [
-        "art",
-        "making"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/Jr3D-wpel5Q/hqdefault.jpg"
     },
     {
       "id": "3MGHA9LMOf4",
@@ -14002,6 +13907,86 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/Lo_74gaIdVk/hqdefault.jpg"
+    },
+    {
+      "id": "pzsqX95Qvxw",
+      "title": "How to Draw M'Baku | Avengers Doomsday",
+      "channel": "Cartooning Club How to Draw",
+      "channelId": "UC-biucJWhM8HwjsQ96uoIUw",
+      "durationSec": 490,
+      "publishedAt": "2026-06-24T14:00:27Z",
+      "topics": [
+        "art",
+        "making"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/pzsqX95Qvxw/hqdefault.jpg"
+    },
+    {
+      "id": "-vtINMbziOg",
+      "title": "Celebrating 12 Incredible Years on YouTube 🎉",
+      "channel": "Cartooning Club How to Draw",
+      "channelId": "UC-biucJWhM8HwjsQ96uoIUw",
+      "durationSec": 145,
+      "publishedAt": "2026-06-23T16:02:08Z",
+      "topics": [
+        "art",
+        "making"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/-vtINMbziOg/hqdefault.jpg"
+    },
+    {
+      "id": "AZQJgcMZJxg",
+      "title": "How to Draw Lucario | Pokemon",
+      "channel": "Cartooning Club How to Draw",
+      "channelId": "UC-biucJWhM8HwjsQ96uoIUw",
+      "durationSec": 473,
+      "publishedAt": "2026-06-23T14:00:10Z",
+      "topics": [
+        "art",
+        "making"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/AZQJgcMZJxg/hqdefault.jpg"
+    },
+    {
+      "id": "_N34B_9UqYU",
+      "title": "How to Draw Piranha Plant | Super Mario",
+      "channel": "Cartooning Club How to Draw",
+      "channelId": "UC-biucJWhM8HwjsQ96uoIUw",
+      "durationSec": 329,
+      "publishedAt": "2026-06-22T14:00:16Z",
+      "topics": [
+        "art",
+        "making"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/_N34B_9UqYU/hqdefault.jpg"
+    },
+    {
+      "id": "nY9FcvbVBSU",
+      "title": "How to Draw Toothless | Sketch Saturday",
+      "channel": "Cartooning Club How to Draw",
+      "channelId": "UC-biucJWhM8HwjsQ96uoIUw",
+      "durationSec": 1967,
+      "publishedAt": "2026-06-20T14:00:00Z",
+      "topics": [
+        "art",
+        "making"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/nY9FcvbVBSU/hqdefault.jpg"
     },
     {
       "id": "MLNvaaWDqOs",
@@ -18311,6 +18296,23 @@
       "thumbnail": "https://i.ytimg.com/vi/1NFmRCKaY9I/hqdefault.jpg"
     },
     {
+      "id": "flt66etOG6A",
+      "title": "Deep-Sea Sponges Delight Ocean Explorers in Micronesia | Nautilus Live",
+      "channel": "EVNautilus",
+      "channelId": "UC1KOOWHthbQVXH2kZue3_xA",
+      "durationSec": 449,
+      "publishedAt": "2026-08-17T20:02:29Z",
+      "topics": [
+        "nature",
+        "exploration"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/flt66etOG6A/hqdefault.jpg"
+    },
+    {
       "id": "nkhLC4Ezen0",
       "title": "Colorful Coral Gardens of Micronesia | Nautilus Live",
       "channel": "EVNautilus",
@@ -18768,23 +18770,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/1tnGwvmvHXs/hqdefault.jpg"
-    },
-    {
-      "id": "cnfvqhd_McQ",
-      "title": "Behind-the-Scenes of E/V Nautilus: The Bridge | Nautilus Live",
-      "channel": "EVNautilus",
-      "channelId": "UC1KOOWHthbQVXH2kZue3_xA",
-      "durationSec": 465,
-      "publishedAt": "2026-03-06T20:00:26Z",
-      "topics": [
-        "nature",
-        "exploration"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/cnfvqhd_McQ/hqdefault.jpg"
     },
     {
       "id": "48cQQL8pXI8",
@@ -33754,6 +33739,23 @@
       "thumbnail": "https://i.ytimg.com/vi/G0hV2q8aw6M/hqdefault.jpg"
     },
     {
+      "id": "jpcmKWAmXx4",
+      "title": "Next in AI Education: The Urgent Need for Teacher Training",
+      "channel": "CodeAI",
+      "channelId": "UCJyEBMU1xVP2be1-AoGS1BA",
+      "durationSec": 404,
+      "publishedAt": "2026-08-17T15:02:19Z",
+      "topics": [
+        "coding",
+        "tech"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/jpcmKWAmXx4/hqdefault.jpg"
+    },
+    {
       "id": "mc4hbP9ELT0",
       "title": "AI Literacy in Education: System-Level Perspectives and Priorities",
       "channel": "CodeAI",
@@ -36426,6 +36428,22 @@
       "thumbnail": "https://i.ytimg.com/vi/VxVOwCIyqO8/hqdefault.jpg"
     },
     {
+      "id": "pg7fntKLNak",
+      "title": "Quantum Simulation & Nature - Computerphile",
+      "channel": "Computerphile",
+      "channelId": "UC9-y-6csu5WGm29I7JiwpnA",
+      "durationSec": 909,
+      "publishedAt": "2026-08-17T15:18:03Z",
+      "topics": [
+        "tech",
+        "coding"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/pg7fntKLNak/hqdefault.jpg"
+    },
+    {
       "id": "cDKPbMaLTA4",
       "title": "Recreating ITS - Computerphile",
       "channel": "Computerphile",
@@ -37208,22 +37226,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/gOIBUe1fjX0/hqdefault.jpg"
-    },
-    {
-      "id": "B_PexYrEcEw",
-      "title": "HyperLogLog Hit Counter - Computerphile",
-      "channel": "Computerphile",
-      "channelId": "UC9-y-6csu5WGm29I7JiwpnA",
-      "durationSec": 260,
-      "publishedAt": "2025-09-19T12:39:07Z",
-      "topics": [
-        "tech",
-        "coding"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/B_PexYrEcEw/hqdefault.jpg"
     },
     {
       "id": "xYKSKBcifaE",
@@ -46080,6 +46082,22 @@
       "thumbnail": "https://i.ytimg.com/vi/PMXPyOXXG40/hqdefault.jpg"
     },
     {
+      "id": "W-jTv05JuEE",
+      "title": "Can Roman finally end the crisis in cosmology?! #shorts",
+      "channel": "Dr. Becky",
+      "channelId": "UCYNbYGl89UUowy8oXkipC-Q",
+      "durationSec": 154,
+      "publishedAt": "2026-08-17T17:00:31Z",
+      "topics": [
+        "space",
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/W-jTv05JuEE/hqdefault.jpg"
+    },
+    {
       "id": "yAkjV8QvfzI",
       "title": "How is Roman's field of view 100 times bigger than Hubble's?! #shorts",
       "channel": "Dr. Becky",
@@ -46462,22 +46480,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/PEI_lTbQeCU/hqdefault.jpg"
-    },
-    {
-      "id": "DW_5t3tEksE",
-      "title": "Is TIMING the reason we haven't found aliens? #shorts",
-      "channel": "Dr. Becky",
-      "channelId": "UCYNbYGl89UUowy8oXkipC-Q",
-      "durationSec": 130,
-      "publishedAt": "2026-05-20T16:00:31Z",
-      "topics": [
-        "space",
-        "science"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/DW_5t3tEksE/hqdefault.jpg"
     },
     {
       "id": "rfgNmaohZVk",
@@ -48374,6 +48376,21 @@
       "thumbnail": "https://i.ytimg.com/vi/jvebwDXmBSw/hqdefault.jpg"
     },
     {
+      "id": "SXm_Wd_DBIY",
+      "title": "Present Passive System (I-II Conjugation)",
+      "channel": "Professor Dave Explains",
+      "channelId": "UC0cd_-e49hZpWLH3UIwoWRA",
+      "durationSec": 231,
+      "publishedAt": "2026-08-17T14:00:20Z",
+      "topics": [
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/SXm_Wd_DBIY/hqdefault.jpg"
+    },
+    {
       "id": "D6MhCoOa8us",
       "title": "Medieval Poland Part 1: Mieszko and His Line",
       "channel": "Professor Dave Explains",
@@ -49107,21 +49124,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/pWV_D3dn9LQ/hqdefault.jpg"
-    },
-    {
-      "id": "Llhs59IthY8",
-      "title": "Exposing Discovery Institute Part 12: William Dembski",
-      "channel": "Professor Dave Explains",
-      "channelId": "UC0cd_-e49hZpWLH3UIwoWRA",
-      "durationSec": 2913,
-      "publishedAt": "2026-05-29T14:00:06Z",
-      "topics": [
-        "science"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/Llhs59IthY8/hqdefault.jpg"
     },
     {
       "id": "BjyJlN1npdw",
@@ -69141,6 +69143,22 @@
       "thumbnail": "https://i.ytimg.com/vi/w9S1LgpFmaI/hqdefault.jpg"
     },
     {
+      "id": "mAr1ExauabQ",
+      "title": "Strong M6.9 Earthquake Strikes Near the Toba Supervolcano; Geologist Analysis",
+      "channel": "GeologyHub",
+      "channelId": "UCYeGh5VML5XPr5jYnzh3J6g",
+      "durationSec": 287,
+      "publishedAt": "2026-08-17T19:00:26Z",
+      "topics": [
+        "science",
+        "geography"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/mAr1ExauabQ/hqdefault.jpg"
+    },
+    {
       "id": "J_m6Gxd0G0w",
       "title": "Major M7.7 Earthquake Strikes Indonesia, Generates a Damaging Tsunami",
       "channel": "GeologyHub",
@@ -69827,22 +69845,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/6T6cfhD-cXk/hqdefault.jpg"
-    },
-    {
-      "id": "GIuOGx9HFmM",
-      "title": "Cuba Earthquake Update; M6.1 Strikes, Widely Felt in Florida",
-      "channel": "GeologyHub",
-      "channelId": "UCYeGh5VML5XPr5jYnzh3J6g",
-      "durationSec": 294,
-      "publishedAt": "2026-06-11T19:00:29Z",
-      "topics": [
-        "science",
-        "geography"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/GIuOGx9HFmM/hqdefault.jpg"
     },
     {
       "id": "4vbot-PbTq8",
@@ -75829,6 +75831,22 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/XJ_DfNOGcWo/hqdefault.jpg"
+    },
+    {
+      "id": "Fz5t-UC-kDw",
+      "title": "How to Actually Reach Your Money Goals",
+      "channel": "Biz Kid$ (TV Series)",
+      "channelId": "UCufmiGK0I_9g_iwUR-E8mwA",
+      "durationSec": 1727,
+      "publishedAt": "2026-08-17T17:45:16Z",
+      "topics": [
+        "maths",
+        "making"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/Fz5t-UC-kDw/hqdefault.jpg"
     },
     {
       "id": "GdgohyQeKMc",
@@ -83047,6 +83065,22 @@
       "thumbnail": "https://i.ytimg.com/vi/GLVhXClV5QU/hqdefault.jpg"
     },
     {
+      "id": "RfoTaClf63M",
+      "title": "Hide and Go Peep | Peep and the Big Wide World",
+      "channel": "Peep and the Big Wide World",
+      "channelId": "UCPq6g4Q4-SFMIJ048IXmupA",
+      "durationSec": 644,
+      "publishedAt": "2026-08-17T15:00:16Z",
+      "topics": [
+        "science",
+        "nature"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/RfoTaClf63M/hqdefault.jpg"
+    },
+    {
       "id": "ERPJmBNRP4g",
       "title": "Should All Birds Learn to Swim? | Peep and the Big Wide World",
       "channel": "Peep and the Big Wide World",
@@ -83653,22 +83687,6 @@
         "little"
       ],
       "thumbnail": "https://i.ytimg.com/vi/azfaR7LWiMM/hqdefault.jpg"
-    },
-    {
-      "id": "hkRCPCH1b5c",
-      "title": "Peep Crosses the Road | Peep and the Big Wide World",
-      "channel": "Peep and the Big Wide World",
-      "channelId": "UCPq6g4Q4-SFMIJ048IXmupA",
-      "durationSec": 645,
-      "publishedAt": "2026-07-14T15:00:25Z",
-      "topics": [
-        "science",
-        "nature"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/hkRCPCH1b5c/hqdefault.jpg"
     },
     {
       "id": "z9iBhVZ-5x8",
@@ -84639,21 +84657,22 @@
       "thumbnail": "https://i.ytimg.com/vi/inf3ukPHds8/hqdefault.jpg"
     },
     {
-      "id": "mR-PwKQgpK4",
-      "title": "Wild Kratts to the Rescue | FULL EPISODES MARATHON | 5+ Hour Compilation 🦒🐨",
-      "channel": "Wild Kratts",
-      "channelId": "UCxEmDFo1yUbbxjEb9RjitVA",
-      "durationSec": 19470,
-      "publishedAt": "2026-03-10T21:14:13Z",
+      "id": "ge4VrSl99to",
+      "title": "CircuitPython Weekly Meeting for August 17, 2026 #adafruit",
+      "channel": "Adafruit Industries",
+      "channelId": "UCpOlOeQjj7EsVnDh3zuCgsA",
+      "durationSec": 1537,
+      "publishedAt": "2026-08-17T19:07:01Z",
       "topics": [
-        "animals",
-        "nature"
+        "making",
+        "tech",
+        "engineering",
+        "coding"
       ],
       "profiles": [
-        "little",
         "big"
       ],
-      "thumbnail": "https://i.ytimg.com/vi/mR-PwKQgpK4/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/ge4VrSl99to/hqdefault.jpg"
     },
     {
       "id": "-s2XvslMg00",
@@ -85032,24 +85051,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/Ap3VMl3I0k0/hqdefault.jpg"
-    },
-    {
-      "id": "3jm-8SmF0Fg",
-      "title": "JP’s Product Pick of the Week 7/28/26",
-      "channel": "Adafruit Industries",
-      "channelId": "UCpOlOeQjj7EsVnDh3zuCgsA",
-      "durationSec": 1040,
-      "publishedAt": "2026-07-28T20:22:39Z",
-      "topics": [
-        "making",
-        "tech",
-        "engineering",
-        "coding"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/3jm-8SmF0Fg/hqdefault.jpg"
     },
     {
       "id": "VmBS2N1FzmE",
@@ -86769,6 +86770,40 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/XasThxf_YGo/hqdefault.jpg"
+    },
+    {
+      "id": "RNOmigFfEyA",
+      "title": "Kids Yoga LIVE 🌟 | Fun Yoga Adventures & Movement for Kids",
+      "channel": "Cosmic Kids Yoga",
+      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
+      "durationSec": 42900,
+      "publishedAt": "2026-08-18T09:05:43Z",
+      "topics": [
+        "reading",
+        "nature"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/RNOmigFfEyA/hqdefault.jpg"
+    },
+    {
+      "id": "UTSqZzpD71E",
+      "title": "Kids Yoga LIVE 🌟 | Fun Yoga Adventures & Movement for Kids",
+      "channel": "Cosmic Kids Yoga",
+      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
+      "durationSec": 42898,
+      "publishedAt": "2026-08-17T20:44:23Z",
+      "topics": [
+        "reading",
+        "nature"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/UTSqZzpD71E/hqdefault.jpg"
     },
     {
       "id": "WqXUkNa6P-Q",
