@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-24T09:34:54.557Z",
+  "generatedAt": "2026-08-25T09:23:43.165Z",
   "profiles": {
     "little": {
       "label": "Ages 3-7"
@@ -131,6 +131,22 @@
       "thumbnail": "https://i.ytimg.com/vi/kKqd0_cydZM/hqdefault.jpg"
     },
     {
+      "id": "lxrzT61_WU0",
+      "title": "How to Live in Lava + More Extreme Adaptations 😱 | America's National Parks | Nat Geo Kids",
+      "channel": "Nat Geo Kids",
+      "channelId": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "durationSec": 2654,
+      "publishedAt": "2026-08-24T11:00:31Z",
+      "topics": [
+        "animals",
+        "science"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/lxrzT61_WU0/hqdefault.jpg"
+    },
+    {
       "id": "qhKtncXKy8o",
       "title": "Boost Your Brain this School Year! 🧠💪 | Brain Games Full Episode | Nat Geo Kids",
       "channel": "Nat Geo Kids",
@@ -211,20 +227,19 @@
       "thumbnail": "https://i.ytimg.com/vi/pgV8RMnLIAM/hqdefault.jpg"
     },
     {
-      "id": "if6D2bYrAOw",
-      "title": "Meet Charlie and Kirby's Mom and Dad! | Weirdest Bestest Truest | Nat Geo Kids",
-      "channel": "Nat Geo Kids",
-      "channelId": "UCXVCgDuD_QCkI7gTKU7-tpg",
-      "durationSec": 133,
-      "publishedAt": "2026-08-19T13:00:14Z",
+      "id": "pUrCy3WiM9g",
+      "title": "Coolest art toys! #artforkidshub #minibrandscreate @MiniBrands_ZURU",
+      "channel": "Art for Kids Hub",
+      "channelId": "UC5XMF3Inoi8R9nSI8ChOsdQ",
+      "durationSec": 165,
+      "publishedAt": "2026-08-24T20:35:45Z",
       "topics": [
-        "animals",
-        "science"
+        "art"
       ],
       "profiles": [
         "little"
       ],
-      "thumbnail": "https://i.ytimg.com/vi/if6D2bYrAOw/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/pUrCy3WiM9g/hqdefault.jpg"
     },
     {
       "id": "nRfEYbCfQQs",
@@ -287,21 +302,6 @@
       "thumbnail": "https://i.ytimg.com/vi/SzzwCBn08tE/hqdefault.jpg"
     },
     {
-      "id": "SPZTd6e3rsQ",
-      "title": "How To Draw Super Bean Capybara",
-      "channel": "Art for Kids Hub",
-      "channelId": "UC5XMF3Inoi8R9nSI8ChOsdQ",
-      "durationSec": 641,
-      "publishedAt": "2026-08-14T14:00:35Z",
-      "topics": [
-        "art"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/SPZTd6e3rsQ/hqdefault.jpg"
-    },
-    {
       "id": "MbgkPRXyCXI",
       "title": "Back to School Sports Special! | Learn to Count for Kids Compilation | Number Cartoon | Numberblocks",
       "channel": "Numberblocks",
@@ -360,21 +360,6 @@
         "little"
       ],
       "thumbnail": "https://i.ytimg.com/vi/ucLv2D0o3eQ/hqdefault.jpg"
-    },
-    {
-      "id": "Vz9kT3Ntbw0",
-      "title": "Thank You for 15 Million Subscribers!!! 🥳🎉 | Maths for Kids | 15 million compilation | Numberblocks",
-      "channel": "Numberblocks",
-      "channelId": "UCPlwvN0w4qFSP1FllALB92w",
-      "durationSec": 6152,
-      "publishedAt": "2026-08-18T10:31:08Z",
-      "topics": [
-        "maths"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/Vz9kT3Ntbw0/hqdefault.jpg"
     },
     {
       "id": "l29K-ZkARmE",
@@ -546,6 +531,21 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/cOTf_YEmSOU/hqdefault.jpg"
+    },
+    {
+      "id": "hy-IbuXXUYk",
+      "title": "Do Penguins Control the Weather?",
+      "channel": "SciShow",
+      "channelId": "UCZYTClx2T1of7BRZ86-8fow",
+      "durationSec": 427,
+      "publishedAt": "2026-08-24T17:00:29Z",
+      "topics": [
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/hy-IbuXXUYk/hqdefault.jpg"
     },
     {
       "id": "lkMtbeU2NyQ",
@@ -5726,23 +5726,6 @@
       "thumbnail": "https://i.ytimg.com/vi/MuHIx2q0Wjs/hqdefault.jpg"
     },
     {
-      "id": "eshK9LS8I5w",
-      "title": "NASA Astronaut Anil Menon Prelaunch News Conference (April 29, 2026)",
-      "channel": "NASA",
-      "channelId": "UCLA_DiR1FfKNvjuUpBHmylQ",
-      "durationSec": 2923,
-      "publishedAt": "2026-04-29T18:35:53Z",
-      "topics": [
-        "space",
-        "exploration"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/eshK9LS8I5w/hqdefault.jpg"
-    },
-    {
       "id": "FSqhEFH_Xak",
       "title": "JPL x Sian Proctor  |  NXT in Space: Episode 2",
       "channel": "NASA Jet Propulsion Laboratory",
@@ -6318,6 +6301,22 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/EBLoupxr3dk/hqdefault.jpg"
+    },
+    {
+      "id": "S3emb6rHDZ0",
+      "title": "The Entire History of Earth In One Video",
+      "channel": "Astrum",
+      "channelId": "UC-9b7aDP6ZN0coj9-xFnrtw",
+      "durationSec": 7465,
+      "publishedAt": "2026-08-24T16:00:18Z",
+      "topics": [
+        "space",
+        "exploration"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/S3emb6rHDZ0/hqdefault.jpg"
     },
     {
       "id": "SPoDl0Cnc0o",
@@ -7102,22 +7101,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/v-5QemL9948/hqdefault.jpg"
-    },
-    {
-      "id": "SbCHSYJfLu8",
-      "title": "We Finally Know Why Betelgeuse Behaves So Strangely",
-      "channel": "Astrum",
-      "channelId": "UC-9b7aDP6ZN0coj9-xFnrtw",
-      "durationSec": 2231,
-      "publishedAt": "2025-11-26T17:16:09Z",
-      "topics": [
-        "space",
-        "exploration"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/SbCHSYJfLu8/hqdefault.jpg"
     },
     {
       "id": "bvKKHRCCkfI",
@@ -9923,21 +9906,6 @@
       "thumbnail": "https://i.ytimg.com/vi/3vPMK514dJ8/hqdefault.jpg"
     },
     {
-      "id": "At9oUtPUrmU",
-      "title": "Exercise Songs for Kids 🤸‍♀️ 10‑Minute Brain Break | Laurie Berkner Band",
-      "channel": "The Laurie Berkner Band - Kids Songs",
-      "channelId": "UCQ9o9F8HYJV85XjciUS86_Q",
-      "durationSec": 732,
-      "publishedAt": "2026-05-15T10:30:20Z",
-      "topics": [
-        "music"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/At9oUtPUrmU/hqdefault.jpg"
-    },
-    {
       "id": "RideGnMsclM",
       "title": "Kids | Learn Music from the Civil Rights Era and Beyond",
       "channel": "Carnegie Hall Kids",
@@ -11634,6 +11602,23 @@
       "thumbnail": "https://i.ytimg.com/vi/kdWR6HDFwFs/hqdefault.jpg"
     },
     {
+      "id": "S2N7lBZcZGI",
+      "title": "How to Draw Red | Disney Descendants Wicked Wonderland",
+      "channel": "Draw So Cute",
+      "channelId": "UC3dEvA1is6-0_yuei9iCdEw",
+      "durationSec": 879,
+      "publishedAt": "2026-08-24T14:00:21Z",
+      "topics": [
+        "art",
+        "making"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/S2N7lBZcZGI/hqdefault.jpg"
+    },
+    {
       "id": "Vk-e13lQ-fk",
       "title": "How to Draw a Unicorn Frappuccino | Starbucks Cute Drink",
       "channel": "Draw So Cute",
@@ -12467,23 +12452,6 @@
       "thumbnail": "https://i.ytimg.com/vi/z7pFlSBlwEE/hqdefault.jpg"
     },
     {
-      "id": "hP2LYKzesdo",
-      "title": "How to Draw Mr. Wolf | The Bad Guys",
-      "channel": "Draw So Cute",
-      "channelId": "UC3dEvA1is6-0_yuei9iCdEw",
-      "durationSec": 883,
-      "publishedAt": "2026-05-20T14:01:08Z",
-      "topics": [
-        "art",
-        "making"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/hP2LYKzesdo/hqdefault.jpg"
-    },
-    {
       "id": "MB7wxd8Bz18",
       "title": "Learn to Draw Super Simple Characters! Finny the Shark, The Bumble Nums, & More!",
       "channel": "Super Simple Draw! - How To Draw for Kids",
@@ -13284,6 +13252,22 @@
       "thumbnail": "https://i.ytimg.com/vi/m6KAfSgFaAM/hqdefault.jpg"
     },
     {
+      "id": "mD0m5azko1A",
+      "title": "How to Draw Angel | X-Men",
+      "channel": "Cartooning Club How to Draw",
+      "channelId": "UC-biucJWhM8HwjsQ96uoIUw",
+      "durationSec": 425,
+      "publishedAt": "2026-08-24T14:00:39Z",
+      "topics": [
+        "art",
+        "making"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/mD0m5azko1A/hqdefault.jpg"
+    },
+    {
       "id": "pStE85stTfQ",
       "title": "How to Draw Spiderman | Brand New Day",
       "channel": "Cartooning Club How to Draw",
@@ -13922,22 +13906,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/Lo_74gaIdVk/hqdefault.jpg"
-    },
-    {
-      "id": "pzsqX95Qvxw",
-      "title": "How to Draw M'Baku | Avengers Doomsday",
-      "channel": "Cartooning Club How to Draw",
-      "channelId": "UC-biucJWhM8HwjsQ96uoIUw",
-      "durationSec": 490,
-      "publishedAt": "2026-06-24T14:00:27Z",
-      "topics": [
-        "art",
-        "making"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/pzsqX95Qvxw/hqdefault.jpg"
     },
     {
       "id": "MknPaVGS4fA",
@@ -21669,7 +21637,7 @@
     },
     {
       "id": "9kM3mnxrMMM",
-      "title": "How can microSD Cards Store So Much Data? 💾🔬",
+      "title": "How do microSD Cards Store 2 TB in such a TINY space?",
       "channel": "Branch Education",
       "channelId": "UCdp4_l1vPmpN-gDbUwhaRUQ",
       "durationSec": 367,
@@ -39493,21 +39461,6 @@
       "thumbnail": "https://i.ytimg.com/vi/8gTaeVjhLKM/hqdefault.jpg"
     },
     {
-      "id": "uki9rNwoRzk",
-      "title": "History of Ancient Egypt: Dynasty XXVI - Egypt's Last Great Pharaohs and the Saite Period",
-      "channel": "History with Cy",
-      "channelId": "UCZzqG2zfeRKMoJwDwk1FTvQ",
-      "durationSec": 1599,
-      "publishedAt": "2024-09-24T23:01:16Z",
-      "topics": [
-        "history"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/uki9rNwoRzk/hqdefault.jpg"
-    },
-    {
       "id": "1nfOp6HedyY",
       "title": "The Mega Corporations Who Ruled Rome (DOCUMENTARY)",
       "channel": "Invicta",
@@ -48332,6 +48285,21 @@
       "thumbnail": "https://i.ytimg.com/vi/jvebwDXmBSw/hqdefault.jpg"
     },
     {
+      "id": "TZnE9DXyZjQ",
+      "title": "Ablative of Agent (Ablativus Auctoris)",
+      "channel": "Professor Dave Explains",
+      "channelId": "UC0cd_-e49hZpWLH3UIwoWRA",
+      "durationSec": 227,
+      "publishedAt": "2026-08-24T14:00:22Z",
+      "topics": [
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/TZnE9DXyZjQ/hqdefault.jpg"
+    },
+    {
       "id": "e8UZX9IUvpI",
       "title": "Everything Is Crumbling For Destiny (And Pangburn)",
       "channel": "Professor Dave Explains",
@@ -49065,21 +49033,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/B-_r2j8_jEc/hqdefault.jpg"
-    },
-    {
-      "id": "hVnMcFqdezc",
-      "title": "Observing the Standard Model in Action (Particle Detector Experiments)",
-      "channel": "Professor Dave Explains",
-      "channelId": "UC0cd_-e49hZpWLH3UIwoWRA",
-      "durationSec": 521,
-      "publishedAt": "2026-06-05T14:00:39Z",
-      "topics": [
-        "science"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/hVnMcFqdezc/hqdefault.jpg"
     },
     {
       "id": "BjyJlN1npdw",
@@ -55246,23 +55199,6 @@
       "thumbnail": "https://i.ytimg.com/vi/tEQ97QIjuSA/hqdefault.jpg"
     },
     {
-      "id": "PawOQi4gdMk",
-      "title": "Mess is a Sign of Life: Overcoming Perfectionism and Overwhelm About Homemaking [Ep 87]",
-      "channel": "Katie Kimball",
-      "channelId": "UCT1B3Tb7Bit_S7EWkhSba4A",
-      "durationSec": 2044,
-      "publishedAt": "2025-09-23T10:00:43Z",
-      "topics": [
-        "making",
-        "science"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/PawOQi4gdMk/hqdefault.jpg"
-    },
-    {
       "id": "-fF5bcY6NlU",
       "title": "Why The Early Jurassic Oceans Were So Deadly",
       "channel": "Ben G Thomas",
@@ -57367,6 +57303,23 @@
       "thumbnail": "https://i.ytimg.com/vi/TBYGsvr0Acc/hqdefault.jpg"
     },
     {
+      "id": "rgybx7I2-yU",
+      "title": "The Craziness Of Shark Teeth - Shark Week 2026",
+      "channel": "Henry the PaleoGuy",
+      "channelId": "UCN1rSOJNzfjzPOsPXRI-hGA",
+      "durationSec": 602,
+      "publishedAt": "2026-08-25T03:33:32Z",
+      "topics": [
+        "science",
+        "animals",
+        "nature"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/rgybx7I2-yU/hqdefault.jpg"
+    },
+    {
       "id": "i4jLT0NtdwU",
       "title": "Every Animal Named After Sir David Attenborough",
       "channel": "Henry the PaleoGuy",
@@ -57671,23 +57624,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/5hig--NWQtw/hqdefault.jpg"
-    },
-    {
-      "id": "el5AXv1rc_8",
-      "title": "Svalbard reindeer -The Tiniest of Santa's Helpers",
-      "channel": "Henry the PaleoGuy",
-      "channelId": "UCN1rSOJNzfjzPOsPXRI-hGA",
-      "durationSec": 586,
-      "publishedAt": "2026-01-03T10:30:46Z",
-      "topics": [
-        "science",
-        "animals",
-        "nature"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/el5AXv1rc_8/hqdefault.jpg"
     },
     {
       "id": "6BnPBKPADTw",
@@ -78411,22 +78347,6 @@
       "thumbnail": "https://i.ytimg.com/vi/Mu9Kyijktes/hqdefault.jpg"
     },
     {
-      "id": "14rwyXhj0c8",
-      "title": "Marine Biologist AMA",
-      "channel": "KPassionate",
-      "channelId": "UCUvSqEH92Fqn9uw1kmCfLGA",
-      "durationSec": 4086,
-      "publishedAt": "2026-08-24T00:30:33Z",
-      "topics": [
-        "animals",
-        "science"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/14rwyXhj0c8/hqdefault.jpg"
-    },
-    {
       "id": "T4QIXTAAugk",
       "title": "Human Evolution Is Speeding Up! The Proof Is In Our DNA",
       "channel": "KPassionate",
@@ -79209,6 +79129,22 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/JcubVEX1ZXk/hqdefault.jpg"
+    },
+    {
+      "id": "RXHY1ZHDczI",
+      "title": "CIA Found Sea Otters Make the Best Secret Agents",
+      "channel": "KPassionate",
+      "channelId": "UCUvSqEH92Fqn9uw1kmCfLGA",
+      "durationSec": 505,
+      "publishedAt": "2023-12-16T15:02:46Z",
+      "topics": [
+        "animals",
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/RXHY1ZHDczI/hqdefault.jpg"
     },
     {
       "id": "ifiWUHQEK0g",
@@ -83085,6 +83021,22 @@
       "thumbnail": "https://i.ytimg.com/vi/GLVhXClV5QU/hqdefault.jpg"
     },
     {
+      "id": "QPrX6GLLFos",
+      "title": "Wandering Beaver | Peep and the Big Wide World",
+      "channel": "Peep and the Big Wide World",
+      "channelId": "UCPq6g4Q4-SFMIJ048IXmupA",
+      "durationSec": 644,
+      "publishedAt": "2026-08-24T15:00:18Z",
+      "topics": [
+        "science",
+        "nature"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/QPrX6GLLFos/hqdefault.jpg"
+    },
+    {
       "id": "T9apWdpY1-I",
       "title": "Peep is Trying to Hide! | Peep and the Big Wide World",
       "channel": "Peep and the Big Wide World",
@@ -83707,22 +83659,6 @@
         "little"
       ],
       "thumbnail": "https://i.ytimg.com/vi/WPipAZGR93c/hqdefault.jpg"
-    },
-    {
-      "id": "ZxoJxq9BnfI",
-      "title": "Under Duck | Peep and the Big Wide World",
-      "channel": "Peep and the Big Wide World",
-      "channelId": "UCPq6g4Q4-SFMIJ048IXmupA",
-      "durationSec": 645,
-      "publishedAt": "2026-07-20T15:00:07Z",
-      "topics": [
-        "science",
-        "nature"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/ZxoJxq9BnfI/hqdefault.jpg"
     },
     {
       "id": "TNwUe8RghO8",
@@ -84693,6 +84629,24 @@
       "thumbnail": "https://i.ytimg.com/vi/inf3ukPHds8/hqdefault.jpg"
     },
     {
+      "id": "LNpXa8FbiPE",
+      "title": "CircuitPython Weekly Meeting for August 24, 2026 @circuitpython #circuitpython #adafruit",
+      "channel": "Adafruit Industries",
+      "channelId": "UCpOlOeQjj7EsVnDh3zuCgsA",
+      "durationSec": 1548,
+      "publishedAt": "2026-08-24T19:04:52Z",
+      "topics": [
+        "making",
+        "tech",
+        "engineering",
+        "coding"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/LNpXa8FbiPE/hqdefault.jpg"
+    },
+    {
       "id": "3DltWsYo-Gk",
       "title": "CircuitPython Day 2026 Game Jam Stream w/ Foamyguy",
       "channel": "Adafruit Industries",
@@ -85105,42 +85059,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/kkBPx9nDvZw/hqdefault.jpg"
-    },
-    {
-      "id": "8spjp3bFsFs",
-      "title": "John Park's CircuitPython Parsec: Fruit Jam Library - Buttons",
-      "channel": "Adafruit Industries",
-      "channelId": "UCpOlOeQjj7EsVnDh3zuCgsA",
-      "durationSec": 221,
-      "publishedAt": "2026-08-07T16:24:38Z",
-      "topics": [
-        "making",
-        "tech",
-        "engineering",
-        "coding"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/8spjp3bFsFs/hqdefault.jpg"
-    },
-    {
-      "id": "sVfwUMIEq4c",
-      "title": "John Park's Workshop Live 8/6/26",
-      "channel": "Adafruit Industries",
-      "channelId": "UCpOlOeQjj7EsVnDh3zuCgsA",
-      "durationSec": 3027,
-      "publishedAt": "2026-08-07T08:54:28Z",
-      "topics": [
-        "making",
-        "tech",
-        "engineering",
-        "coding"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/sVfwUMIEq4c/hqdefault.jpg"
     },
     {
       "id": "VmBS2N1FzmE",
@@ -86846,6 +86764,57 @@
       "thumbnail": "https://i.ytimg.com/vi/XasThxf_YGo/hqdefault.jpg"
     },
     {
+      "id": "r5x5XBczyFQ",
+      "title": "🔴 LIVE: Back to School Yoga for Kids! 🏫 | Pebbles, Skippy & More",
+      "channel": "Cosmic Kids Yoga",
+      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
+      "durationSec": 42864,
+      "publishedAt": "2026-08-25T07:34:52Z",
+      "topics": [
+        "reading",
+        "nature"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/r5x5XBczyFQ/hqdefault.jpg"
+    },
+    {
+      "id": "uXo02Azgt0E",
+      "title": "Kids Yoga LIVE 🌟 | Fun Yoga Adventures & Movement for Kids",
+      "channel": "Cosmic Kids Yoga",
+      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
+      "durationSec": 42899,
+      "publishedAt": "2026-08-25T02:25:47Z",
+      "topics": [
+        "reading",
+        "nature"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/uXo02Azgt0E/hqdefault.jpg"
+    },
+    {
+      "id": "Yxg0bKOj_gI",
+      "title": "Kids Yoga LIVE 🌟 | Fun Yoga Adventures & Movement for Kids",
+      "channel": "Cosmic Kids Yoga",
+      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
+      "durationSec": 42898,
+      "publishedAt": "2026-08-24T14:08:10Z",
+      "topics": [
+        "reading",
+        "nature"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/Yxg0bKOj_gI/hqdefault.jpg"
+    },
+    {
       "id": "QnGGdbVQtRI",
       "title": "Kids Yoga LIVE 🌟 | Fun Yoga Adventures & Movement for Kids",
       "channel": "Cosmic Kids Yoga",
@@ -86980,23 +86949,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/gXg4nq_C0vU/hqdefault.jpg"
-    },
-    {
-      "id": "KNRSNb7doCw",
-      "title": "Sleeping Beauty Yoga Adventure for Kids | Cosmic Kids Fairy Tale Yoga",
-      "channel": "Cosmic Kids Yoga",
-      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
-      "durationSec": 1456,
-      "publishedAt": "2026-07-10T12:30:30Z",
-      "topics": [
-        "reading",
-        "nature"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/KNRSNb7doCw/hqdefault.jpg"
     },
     {
       "id": "xm_GCZKltLA",
@@ -88309,7 +88261,7 @@
     },
     {
       "id": "0xyKfzljeD4",
-      "title": "Is Climate Change Dialing Up El Niño Danger?",
+      "title": "Did Climate Change This Year's Super El Nino?",
       "channel": "ClimateAdam",
       "channelId": "UCCu5wtZ5uOWZp_roz7wHPfg",
       "durationSec": 604,
