@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-25T09:23:43.165Z",
+  "generatedAt": "2026-08-26T09:29:44.792Z",
   "profiles": {
     "little": {
       "label": "Ages 3-7"
@@ -211,24 +211,8 @@
       "thumbnail": "https://i.ytimg.com/vi/MfLWoFrbAj0/hqdefault.jpg"
     },
     {
-      "id": "pgV8RMnLIAM",
-      "title": "Animal Royal Rumble 👑 | Funny Animal Video | You're Called What?! | Nat Geo Kids",
-      "channel": "Nat Geo Kids",
-      "channelId": "UCXVCgDuD_QCkI7gTKU7-tpg",
-      "durationSec": 1526,
-      "publishedAt": "2026-08-20T11:00:19Z",
-      "topics": [
-        "animals",
-        "science"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/pgV8RMnLIAM/hqdefault.jpg"
-    },
-    {
       "id": "pUrCy3WiM9g",
-      "title": "Coolest art toys! #artforkidshub #minibrandscreate @MiniBrands_ZURU",
+      "title": "We Unboxed Tiny Famous Paintings! 🎨 Mini Brands Masterpieces",
       "channel": "Art for Kids Hub",
       "channelId": "UC5XMF3Inoi8R9nSI8ChOsdQ",
       "durationSec": 165,
@@ -362,6 +346,22 @@
       "thumbnail": "https://i.ytimg.com/vi/ucLv2D0o3eQ/hqdefault.jpg"
     },
     {
+      "id": "QyRqlTV60zM",
+      "title": "Plato’s infamous Ship of State thought experiment - Michael Vazquez",
+      "channel": "TED-Ed",
+      "channelId": "UCsooa4yRKGN_zEE8iknghZA",
+      "durationSec": 340,
+      "publishedAt": "2026-08-25T15:01:09Z",
+      "topics": [
+        "science",
+        "history"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/QyRqlTV60zM/hqdefault.jpg"
+    },
+    {
       "id": "l29K-ZkARmE",
       "title": "The tragedy of Cassandra, the princess who predicted the fall of Troy - Iseult Gillespie",
       "channel": "TED-Ed",
@@ -442,22 +442,6 @@
       "thumbnail": "https://i.ytimg.com/vi/5jPCAlE0z7I/hqdefault.jpg"
     },
     {
-      "id": "JhxuP0AuRPA",
-      "title": "When did we start using passports? - Kristin Surak",
-      "channel": "TED-Ed",
-      "channelId": "UCsooa4yRKGN_zEE8iknghZA",
-      "durationSec": 369,
-      "publishedAt": "2026-07-14T15:00:42Z",
-      "topics": [
-        "science",
-        "history"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/JhxuP0AuRPA/hqdefault.jpg"
-    },
-    {
       "id": "-mXaU3N9e8Y",
       "title": "2.685 is (almost) everywhere - Numberphile",
       "channel": "Numberphile",
@@ -533,6 +517,21 @@
       "thumbnail": "https://i.ytimg.com/vi/cOTf_YEmSOU/hqdefault.jpg"
     },
     {
+      "id": "8Kt6p_GQt_w",
+      "title": "6 Ways Animals Pee Weird",
+      "channel": "SciShow",
+      "channelId": "UCZYTClx2T1of7BRZ86-8fow",
+      "durationSec": 722,
+      "publishedAt": "2026-08-25T17:00:21Z",
+      "topics": [
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/8Kt6p_GQt_w/hqdefault.jpg"
+    },
+    {
       "id": "hy-IbuXXUYk",
       "title": "Do Penguins Control the Weather?",
       "channel": "SciShow",
@@ -578,21 +577,6 @@
       "thumbnail": "https://i.ytimg.com/vi/0DD6u8nK4wE/hqdefault.jpg"
     },
     {
-      "id": "Yp8ZC-GMLT0",
-      "title": "The Fungus You Should Actually Be Worried About",
-      "channel": "SciShow",
-      "channelId": "UCZYTClx2T1of7BRZ86-8fow",
-      "durationSec": 1064,
-      "publishedAt": "2026-08-18T17:00:20Z",
-      "topics": [
-        "science"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/Yp8ZC-GMLT0/hqdefault.jpg"
-    },
-    {
       "id": "GlYgs6v2YfU",
       "title": "But what is cross-entropy? | Compression is Intelligence Part 2",
       "channel": "3Blue1Brown",
@@ -624,7 +608,7 @@
     },
     {
       "id": "J1WoNuemKOg",
-      "title": "Total Solar Eclipse from 92,000 Feet",
+      "title": "We sent a balloon to space to film the solar eclipse",
       "channel": "Veritasium",
       "channelId": "UCHnyfMqiRRG1u-2MsSQLbXA",
       "durationSec": 1365,
@@ -5216,6 +5200,23 @@
       "thumbnail": "https://i.ytimg.com/vi/tIlshNCG6NI/hqdefault.jpg"
     },
     {
+      "id": "I0j7as4MLHk",
+      "title": "U.S. Spacewalk 98",
+      "channel": "NASA",
+      "channelId": "UCLA_DiR1FfKNvjuUpBHmylQ",
+      "durationSec": 31695,
+      "publishedAt": "2026-08-25T20:14:12Z",
+      "topics": [
+        "space",
+        "exploration"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/I0j7as4MLHk/hqdefault.jpg"
+    },
+    {
       "id": "yW-VAhqVJok",
       "title": "U.S. Spacewalk 97",
       "channel": "NASA",
@@ -6076,6 +6077,21 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/odMQnF1skOM/hqdefault.jpg"
+    },
+    {
+      "id": "a9-7HyV77TU",
+      "title": "Sophie Adenot's second spacewalk | U.S. Spacewalk 98 (Official broadcast)",
+      "channel": "European Space Agency, ESA",
+      "channelId": "UCIBaDdAbGlFDeS33shmlD0A",
+      "durationSec": 31555,
+      "publishedAt": "2026-08-25T20:10:23Z",
+      "topics": [
+        "space"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/a9-7HyV77TU/hqdefault.jpg"
     },
     {
       "id": "e1d7HwXTDuw",
@@ -13252,6 +13268,22 @@
       "thumbnail": "https://i.ytimg.com/vi/m6KAfSgFaAM/hqdefault.jpg"
     },
     {
+      "id": "SH6-ynoyIOo",
+      "title": "How to Draw Nezuko | Demon Slayer",
+      "channel": "Cartooning Club How to Draw",
+      "channelId": "UC-biucJWhM8HwjsQ96uoIUw",
+      "durationSec": 544,
+      "publishedAt": "2026-08-25T14:00:25Z",
+      "topics": [
+        "art",
+        "making"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/SH6-ynoyIOo/hqdefault.jpg"
+    },
+    {
       "id": "mD0m5azko1A",
       "title": "How to Draw Angel | X-Men",
       "channel": "Cartooning Club How to Draw",
@@ -13890,22 +13922,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/MLA7MaKKKJI/hqdefault.jpg"
-    },
-    {
-      "id": "Lo_74gaIdVk",
-      "title": "How to Draw Erling Haaland | FIFA World Cup 2026",
-      "channel": "Cartooning Club How to Draw",
-      "channelId": "UC-biucJWhM8HwjsQ96uoIUw",
-      "durationSec": 454,
-      "publishedAt": "2026-06-25T14:00:21Z",
-      "topics": [
-        "art",
-        "making"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/Lo_74gaIdVk/hqdefault.jpg"
     },
     {
       "id": "MknPaVGS4fA",
@@ -20095,6 +20111,22 @@
       "thumbnail": "https://i.ytimg.com/vi/TCzMTuERdgQ/hqdefault.jpg"
     },
     {
+      "id": "KT3vyVBacSA",
+      "title": "Don’t Touch These Animals. Seriously. | Deep Look",
+      "channel": "Deep Look",
+      "channelId": "UC-3SbfTPJsL8fJAPKiVqBLg",
+      "durationSec": 894,
+      "publishedAt": "2026-08-25T15:11:31Z",
+      "topics": [
+        "animals",
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/KT3vyVBacSA/hqdefault.jpg"
+    },
+    {
       "id": "3tmPS1p-vEQ",
       "title": "Copycats! This Ant Is Surrounded By Imposters | Deep Look",
       "channel": "Deep Look",
@@ -20173,22 +20205,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/IGtbHRPcSe8/hqdefault.jpg"
-    },
-    {
-      "id": "fbuJSmpxiNY",
-      "title": "The Shiniest Skill in Nature | Big Ideas",
-      "channel": "Deep Look",
-      "channelId": "UC-3SbfTPJsL8fJAPKiVqBLg",
-      "durationSec": 447,
-      "publishedAt": "2026-03-31T15:00:01Z",
-      "topics": [
-        "animals",
-        "science"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/fbuJSmpxiNY/hqdefault.jpg"
     },
     {
       "id": "gFpFNLmnO_Y",
@@ -29717,6 +29733,21 @@
       "thumbnail": "https://i.ytimg.com/vi/t49CKfrb5_8/hqdefault.jpg"
     },
     {
+      "id": "RuZjgjBjV_8",
+      "title": "Capybara Disco Dreams | fun read aloud | fun songs for kids",
+      "channel": "KidTimeStoryTime",
+      "channelId": "UCEPsNDUhUm-7yZhUjQQNqwQ",
+      "durationSec": 402,
+      "publishedAt": "2026-08-25T13:00:29Z",
+      "topics": [
+        "reading"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/RuZjgjBjV_8/hqdefault.jpg"
+    },
+    {
       "id": "BIKBV3iD7iY",
       "title": "We Will Rock Our Classmates | Penelope Rex story | being yourself read aloud | dinosaur read aloud",
       "channel": "KidTimeStoryTime",
@@ -30450,21 +30481,6 @@
         "little"
       ],
       "thumbnail": "https://i.ytimg.com/vi/8641QzoSy-M/hqdefault.jpg"
-    },
-    {
-      "id": "ngtQ8JnN3hE",
-      "title": "ZOMBIE in Love  🧟 Valentine's read aloud  💕 FUNNY story",
-      "channel": "KidTimeStoryTime",
-      "channelId": "UCEPsNDUhUm-7yZhUjQQNqwQ",
-      "durationSec": 535,
-      "publishedAt": "2026-02-10T14:00:00Z",
-      "topics": [
-        "reading"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/ngtQ8JnN3hE/hqdefault.jpg"
     },
     {
       "id": "bEtF1PgsYr4",
@@ -37838,22 +37854,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/Nh4I1hMvubU/hqdefault.jpg"
-    },
-    {
-      "id": "UFJQV5Jb0pY",
-      "title": "The History of AI Explained: Crash Course Futures of AI #1",
-      "channel": "CrashCourse",
-      "channelId": "UCX6b17PVsYBQ0ip5gyeme-Q",
-      "durationSec": 769,
-      "publishedAt": "2025-11-19T17:01:01Z",
-      "topics": [
-        "tech",
-        "coding"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/UFJQV5Jb0pY/hqdefault.jpg"
     },
     {
       "id": "xQasKPF0Fr8",
@@ -54502,6 +54502,23 @@
       "thumbnail": "https://i.ytimg.com/vi/OxGFEUefv6g/hqdefault.jpg"
     },
     {
+      "id": "uAA6fy2bNsU",
+      "title": "Using the Word \"Overwhelm\" Means You're in Time Debt. Here's How to Get Out. [Ep 134]",
+      "channel": "Katie Kimball",
+      "channelId": "UCT1B3Tb7Bit_S7EWkhSba4A",
+      "durationSec": 898,
+      "publishedAt": "2026-08-25T10:00:37Z",
+      "topics": [
+        "making",
+        "science"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/uAA6fy2bNsU/hqdefault.jpg"
+    },
+    {
       "id": "Cfunl0Yye0w",
       "title": "Is the AquaCera Water Filter Right for You?",
       "channel": "Katie Kimball",
@@ -55180,23 +55197,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/j5lj0nYSFBg/hqdefault.jpg"
-    },
-    {
-      "id": "tEQ97QIjuSA",
-      "title": "Informed Consent Isn’t Optional: Reclaiming Your Role as a Healthcare Consumer [Ep 88]",
-      "channel": "Katie Kimball",
-      "channelId": "UCT1B3Tb7Bit_S7EWkhSba4A",
-      "durationSec": 2992,
-      "publishedAt": "2025-09-30T10:01:38Z",
-      "topics": [
-        "making",
-        "science"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/tEQ97QIjuSA/hqdefault.jpg"
     },
     {
       "id": "-fF5bcY6NlU",
@@ -69035,6 +69035,22 @@
       "thumbnail": "https://i.ytimg.com/vi/w9S1LgpFmaI/hqdefault.jpg"
     },
     {
+      "id": "p5m8E2gJR-s",
+      "title": "Geology 101; The 3 Rock Types & Their Rulebreakers",
+      "channel": "GeologyHub",
+      "channelId": "UCYeGh5VML5XPr5jYnzh3J6g",
+      "durationSec": 227,
+      "publishedAt": "2026-08-25T19:00:31Z",
+      "topics": [
+        "science",
+        "geography"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/p5m8E2gJR-s/hqdefault.jpg"
+    },
+    {
       "id": "5cr55pvAMKQ",
       "title": "This Week in Volcano News; Lengthy Etna Lava Flow, Klyuchevskoy Erupts",
       "channel": "GeologyHub",
@@ -69753,22 +69769,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/UrFY4Su5HRI/hqdefault.jpg"
-    },
-    {
-      "id": "Z9yFnKToK88",
-      "title": "Iceland Volcano Update; Alert Level Raised at Bardarbunga Volcano",
-      "channel": "GeologyHub",
-      "channelId": "UCYeGh5VML5XPr5jYnzh3J6g",
-      "durationSec": 271,
-      "publishedAt": "2026-06-15T19:00:01Z",
-      "topics": [
-        "science",
-        "geography"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/Z9yFnKToK88/hqdefault.jpg"
     },
     {
       "id": "xJTO1FY1BWg",
@@ -76382,6 +76382,21 @@
       "thumbnail": "https://i.ytimg.com/vi/xaUKgnhZ9y4/hqdefault.jpg"
     },
     {
+      "id": "CBORg-hujTg",
+      "title": "Index Funds for Beginners: Start Investing With Index Funds in 5 Minutes",
+      "channel": "Easy Peasy Finance",
+      "channelId": "UCZl9ry5ew_2YeCQ6ECk8sxA",
+      "durationSec": 270,
+      "publishedAt": "2026-08-25T13:00:03Z",
+      "topics": [
+        "maths"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/CBORg-hujTg/hqdefault.jpg"
+    },
+    {
       "id": "ooeSAsYYD6Y",
       "title": "Compound Interest Explained (and How it Works Against You)",
       "channel": "Easy Peasy Finance",
@@ -76773,6 +76788,22 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/FDhx6EMGX3I/hqdefault.jpg"
+    },
+    {
+      "id": "8wHOFEP-BNw",
+      "title": "Historical Events in February | Learn about what happened throughout history in February",
+      "channel": "Learn Bright",
+      "channelId": "UCKCsVSA5THlkHbnkZTPm6-g",
+      "durationSec": 227,
+      "publishedAt": "2026-08-25T15:00:24Z",
+      "topics": [
+        "maths",
+        "history"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/8wHOFEP-BNw/hqdefault.jpg"
     },
     {
       "id": "OMmciINGVNs",
@@ -77429,22 +77460,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/9sff9sUis-g/hqdefault.jpg"
-    },
-    {
-      "id": "A9ecIMb_q2c",
-      "title": "Who Was Mansa Musa? | Learn about one of the wealthiest people in world history",
-      "channel": "Learn Bright",
-      "channelId": "UCKCsVSA5THlkHbnkZTPm6-g",
-      "durationSec": 345,
-      "publishedAt": "2026-05-14T15:00:12Z",
-      "topics": [
-        "maths",
-        "history"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/A9ecIMb_q2c/hqdefault.jpg"
     },
     {
       "id": "1d2GSzW0lPs",
@@ -79230,23 +79245,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/lwXYYzHd51Y/hqdefault.jpg"
-    },
-    {
-      "id": "JgytSJNKrkE",
-      "title": "Deep-sea marine snow is on the menu for the vampire squid",
-      "channel": "MBARI (Monterey Bay Aquarium Research Institute)",
-      "channelId": "UCFXww6CrLAHhyZQCDnJ2g2A",
-      "durationSec": 165,
-      "publishedAt": "2026-04-02T15:37:55Z",
-      "topics": [
-        "science",
-        "animals",
-        "exploration"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/JgytSJNKrkE/hqdefault.jpg"
     },
     {
       "id": "SXWDW62h_QY",
@@ -83021,6 +83019,22 @@
       "thumbnail": "https://i.ytimg.com/vi/GLVhXClV5QU/hqdefault.jpg"
     },
     {
+      "id": "jn36h_FCj-4",
+      "title": "Peep's New Friend | Peep and the Big Wide World",
+      "channel": "Peep and the Big Wide World",
+      "channelId": "UCPq6g4Q4-SFMIJ048IXmupA",
+      "durationSec": 645,
+      "publishedAt": "2026-08-25T15:00:11Z",
+      "topics": [
+        "science",
+        "nature"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/jn36h_FCj-4/hqdefault.jpg"
+    },
+    {
       "id": "QPrX6GLLFos",
       "title": "Wandering Beaver | Peep and the Big Wide World",
       "channel": "Peep and the Big Wide World",
@@ -83643,22 +83657,6 @@
         "little"
       ],
       "thumbnail": "https://i.ytimg.com/vi/1Z37xsvH5sc/hqdefault.jpg"
-    },
-    {
-      "id": "WPipAZGR93c",
-      "title": "All Fall Down | Peep and the Big Wide World",
-      "channel": "Peep and the Big Wide World",
-      "channelId": "UCPq6g4Q4-SFMIJ048IXmupA",
-      "durationSec": 645,
-      "publishedAt": "2026-07-21T15:00:38Z",
-      "topics": [
-        "science",
-        "nature"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/WPipAZGR93c/hqdefault.jpg"
     },
     {
       "id": "TNwUe8RghO8",
@@ -84629,6 +84627,42 @@
       "thumbnail": "https://i.ytimg.com/vi/inf3ukPHds8/hqdefault.jpg"
     },
     {
+      "id": "Udanr6p1SF0",
+      "title": "JP’s Product Pick of the Week 8/25/26",
+      "channel": "Adafruit Industries",
+      "channelId": "UCpOlOeQjj7EsVnDh3zuCgsA",
+      "durationSec": 1280,
+      "publishedAt": "2026-08-26T07:26:13Z",
+      "topics": [
+        "making",
+        "tech",
+        "engineering",
+        "coding"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/Udanr6p1SF0/hqdefault.jpg"
+    },
+    {
+      "id": "iBs7Ngw_TOw",
+      "title": "Deep Dive w/ Tim: Working on TE SP-1 Learn Guide",
+      "channel": "Adafruit Industries",
+      "channelId": "UCpOlOeQjj7EsVnDh3zuCgsA",
+      "durationSec": 3619,
+      "publishedAt": "2026-08-26T04:19:19Z",
+      "topics": [
+        "making",
+        "tech",
+        "engineering",
+        "coding"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/iBs7Ngw_TOw/hqdefault.jpg"
+    },
+    {
       "id": "LNpXa8FbiPE",
       "title": "CircuitPython Weekly Meeting for August 24, 2026 @circuitpython #circuitpython #adafruit",
       "channel": "Adafruit Industries",
@@ -85041,24 +85075,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/kmKhcvCmBTE/hqdefault.jpg"
-    },
-    {
-      "id": "kkBPx9nDvZw",
-      "title": "Deep Dive w/Scott: nRF54LM20 on Zephyr #adafruit",
-      "channel": "Adafruit Industries",
-      "channelId": "UCpOlOeQjj7EsVnDh3zuCgsA",
-      "durationSec": 3720,
-      "publishedAt": "2026-08-08T10:08:32Z",
-      "topics": [
-        "making",
-        "tech",
-        "engineering",
-        "coding"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/kkBPx9nDvZw/hqdefault.jpg"
     },
     {
       "id": "VmBS2N1FzmE",
@@ -86764,12 +86780,12 @@
       "thumbnail": "https://i.ytimg.com/vi/XasThxf_YGo/hqdefault.jpg"
     },
     {
-      "id": "r5x5XBczyFQ",
+      "id": "bT348mDeK8Q",
       "title": "🔴 LIVE: Back to School Yoga for Kids! 🏫 | Pebbles, Skippy & More",
       "channel": "Cosmic Kids Yoga",
       "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
-      "durationSec": 42864,
-      "publishedAt": "2026-08-25T07:34:52Z",
+      "durationSec": 42898,
+      "publishedAt": "2026-08-26T07:29:59Z",
       "topics": [
         "reading",
         "nature"
@@ -86778,32 +86794,15 @@
         "little",
         "big"
       ],
-      "thumbnail": "https://i.ytimg.com/vi/r5x5XBczyFQ/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/bT348mDeK8Q/hqdefault.jpg"
     },
     {
-      "id": "uXo02Azgt0E",
-      "title": "Kids Yoga LIVE 🌟 | Fun Yoga Adventures & Movement for Kids",
-      "channel": "Cosmic Kids Yoga",
-      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
-      "durationSec": 42899,
-      "publishedAt": "2026-08-25T02:25:47Z",
-      "topics": [
-        "reading",
-        "nature"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/uXo02Azgt0E/hqdefault.jpg"
-    },
-    {
-      "id": "Yxg0bKOj_gI",
+      "id": "smLZFqeMbNk",
       "title": "Kids Yoga LIVE 🌟 | Fun Yoga Adventures & Movement for Kids",
       "channel": "Cosmic Kids Yoga",
       "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
       "durationSec": 42898,
-      "publishedAt": "2026-08-24T14:08:10Z",
+      "publishedAt": "2026-08-26T03:17:23Z",
       "topics": [
         "reading",
         "nature"
@@ -86812,83 +86811,15 @@
         "little",
         "big"
       ],
-      "thumbnail": "https://i.ytimg.com/vi/Yxg0bKOj_gI/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/smLZFqeMbNk/hqdefault.jpg"
     },
     {
-      "id": "QnGGdbVQtRI",
-      "title": "Kids Yoga LIVE 🌟 | Fun Yoga Adventures & Movement for Kids",
-      "channel": "Cosmic Kids Yoga",
-      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
-      "durationSec": 42898,
-      "publishedAt": "2026-08-24T01:37:25Z",
-      "topics": [
-        "reading",
-        "nature"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/QnGGdbVQtRI/hqdefault.jpg"
-    },
-    {
-      "id": "PuF5JuNbgTA",
-      "title": "Kids Yoga LIVE 🌟 | Fun Yoga Adventures & Movement for Kids",
-      "channel": "Cosmic Kids Yoga",
-      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
-      "durationSec": 42900,
-      "publishedAt": "2026-08-23T13:14:14Z",
-      "topics": [
-        "reading",
-        "nature"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/PuF5JuNbgTA/hqdefault.jpg"
-    },
-    {
-      "id": "YorLv0IzR84",
-      "title": "Kids Yoga LIVE 🌟 | Fun Yoga Adventures & Movement for Kids",
-      "channel": "Cosmic Kids Yoga",
-      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
-      "durationSec": 42898,
-      "publishedAt": "2026-08-23T00:47:25Z",
-      "topics": [
-        "reading",
-        "nature"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/YorLv0IzR84/hqdefault.jpg"
-    },
-    {
-      "id": "_l-gK_mYRTc",
-      "title": "Kids Yoga LIVE 🌟 | Fun Yoga Adventures & Movement for Kids",
-      "channel": "Cosmic Kids Yoga",
-      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
-      "durationSec": 42899,
-      "publishedAt": "2026-08-22T12:23:03Z",
-      "topics": [
-        "reading",
-        "nature"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/_l-gK_mYRTc/hqdefault.jpg"
-    },
-    {
-      "id": "UCWFzssQOwY",
-      "title": "Kids Yoga LIVE 🌟 | Fun Yoga Adventures & Movement for Kids",
+      "id": "9YkBJfq_wUI",
+      "title": "🔴 LIVE: Back to School Yoga for Kids! 🏫 | Pebbles, Skippy & More",
       "channel": "Cosmic Kids Yoga",
       "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
       "durationSec": 42896,
-      "publishedAt": "2026-08-21T23:57:52Z",
+      "publishedAt": "2026-08-25T19:30:16Z",
       "topics": [
         "reading",
         "nature"
@@ -86897,7 +86828,24 @@
         "little",
         "big"
       ],
-      "thumbnail": "https://i.ytimg.com/vi/UCWFzssQOwY/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/9YkBJfq_wUI/hqdefault.jpg"
+    },
+    {
+      "id": "Exp5VLAAJDU",
+      "title": "Slow Day | Jaime's Yoga Adventures! | Kids Animated Yoga",
+      "channel": "Cosmic Kids Yoga",
+      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
+      "durationSec": 916,
+      "publishedAt": "2026-08-25T15:00:06Z",
+      "topics": [
+        "reading",
+        "nature"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/Exp5VLAAJDU/hqdefault.jpg"
     },
     {
       "id": "rm0nnWjXv84",
