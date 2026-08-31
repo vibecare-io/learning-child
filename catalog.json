@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-30T14:03:26.080Z",
+  "generatedAt": "2026-08-31T16:28:47.422Z",
   "profiles": {
     "little": {
       "label": "Ages 3-7"
@@ -131,6 +131,22 @@
       "thumbnail": "https://i.ytimg.com/vi/kKqd0_cydZM/hqdefault.jpg"
     },
     {
+      "id": "5tK4DnpqYkA",
+      "title": "World's Coolest Jobs | Explorer Academy Compilation | Nat Geo Kids",
+      "channel": "Nat Geo Kids",
+      "channelId": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "durationSec": 1742,
+      "publishedAt": "2026-08-31T11:00:11Z",
+      "topics": [
+        "animals",
+        "science"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/5tK4DnpqYkA/hqdefault.jpg"
+    },
+    {
       "id": "JbtV2c46v8A",
       "title": "Unlikely Animal Friends Full Episode | Cat Best Friends 😻 | Nat Geo Kids",
       "channel": "Nat Geo Kids",
@@ -195,20 +211,19 @@
       "thumbnail": "https://i.ytimg.com/vi/vujna6ae3WE/hqdefault.jpg"
     },
     {
-      "id": "DRnivTADBx4",
-      "title": "Watch Out for Spikes: Porcupine vs. Cactus! | Whoa Factor | Nat Geo Kids",
-      "channel": "Nat Geo Kids",
-      "channelId": "UCXVCgDuD_QCkI7gTKU7-tpg",
-      "durationSec": 293,
-      "publishedAt": "2026-08-26T11:00:34Z",
+      "id": "1mSoi4N2J4U",
+      "title": "How To Draw Back-To-School Capybara Bean",
+      "channel": "Art for Kids Hub",
+      "channelId": "UC5XMF3Inoi8R9nSI8ChOsdQ",
+      "durationSec": 390,
+      "publishedAt": "2026-08-31T14:00:38Z",
       "topics": [
-        "animals",
-        "science"
+        "art"
       ],
       "profiles": [
         "little"
       ],
-      "thumbnail": "https://i.ytimg.com/vi/DRnivTADBx4/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/1mSoi4N2J4U/hqdefault.jpg"
     },
     {
       "id": "depxT2CPYjA",
@@ -269,21 +284,6 @@
         "little"
       ],
       "thumbnail": "https://i.ytimg.com/vi/pUrCy3WiM9g/hqdefault.jpg"
-    },
-    {
-      "id": "nRfEYbCfQQs",
-      "title": "How To Draw A Monster Truck School Bus",
-      "channel": "Art for Kids Hub",
-      "channelId": "UC5XMF3Inoi8R9nSI8ChOsdQ",
-      "durationSec": 619,
-      "publishedAt": "2026-08-20T14:00:39Z",
-      "topics": [
-        "art"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/nRfEYbCfQQs/hqdefault.jpg"
     },
     {
       "id": "oIFNyMAXvyc",
@@ -623,7 +623,7 @@
     },
     {
       "id": "J1WoNuemKOg",
-      "title": "We sent a balloon to space to film the solar eclipse",
+      "title": "We sent a camera to space to film the solar eclipse",
       "channel": "Veritasium",
       "channelId": "UCHnyfMqiRRG1u-2MsSQLbXA",
       "durationSec": 1365,
@@ -4091,7 +4091,7 @@
     },
     {
       "id": "1oMfwA4cSLs",
-      "title": "How much do you shrink each day?",
+      "title": "You shrink every day",
       "channel": "Be Smart",
       "channelId": "UCH4BNI0-FOK2dMXoFtViWHw",
       "durationSec": 124,
@@ -5181,6 +5181,23 @@
       "thumbnail": "https://i.ytimg.com/vi/tIlshNCG6NI/hqdefault.jpg"
     },
     {
+      "id": "dnAJJwgpHs4",
+      "title": "Nancy Grace Roman Space Telescope Postlaunch News Conference",
+      "channel": "NASA",
+      "channelId": "UCLA_DiR1FfKNvjuUpBHmylQ",
+      "durationSec": 3415,
+      "publishedAt": "2026-08-30T14:29:34Z",
+      "topics": [
+        "space",
+        "exploration"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/dnAJJwgpHs4/hqdefault.jpg"
+    },
+    {
       "id": "9wq3VHsL_bE",
       "title": "Nancy Grace Roman Space Telescope Launch",
       "channel": "NASA",
@@ -5708,23 +5725,6 @@
       "thumbnail": "https://i.ytimg.com/vi/Nyki6O1oxIg/hqdefault.jpg"
     },
     {
-      "id": "MiNbfSt3JzY",
-      "title": "NASA's SpaceX 34th Commercial Resupply Services Rendezvous and Docking",
-      "channel": "NASA",
-      "channelId": "UCLA_DiR1FfKNvjuUpBHmylQ",
-      "durationSec": 6803,
-      "publishedAt": "2026-05-17T10:58:44Z",
-      "topics": [
-        "space",
-        "exploration"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/MiNbfSt3JzY/hqdefault.jpg"
-    },
-    {
       "id": "FSqhEFH_Xak",
       "title": "JPL x Sian Proctor  |  NXT in Space: Episode 2",
       "channel": "NASA Jet Propulsion Laboratory",
@@ -6075,6 +6075,21 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/odMQnF1skOM/hqdefault.jpg"
+    },
+    {
+      "id": "tKZV-koyxtg",
+      "title": "What happened this month at the European Space Agency? (August 2026)",
+      "channel": "European Space Agency, ESA",
+      "channelId": "UCIBaDdAbGlFDeS33shmlD0A",
+      "durationSec": 198,
+      "publishedAt": "2026-08-31T15:17:34Z",
+      "topics": [
+        "space"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/tKZV-koyxtg/hqdefault.jpg"
     },
     {
       "id": "vzytcrGSqUU",
@@ -11552,6 +11567,23 @@
       "thumbnail": "https://i.ytimg.com/vi/kdWR6HDFwFs/hqdefault.jpg"
     },
     {
+      "id": "2ZpXxq66vIk",
+      "title": "How to Draw Pink Hearts | Disney Descendants Wicked Wonderland",
+      "channel": "Draw So Cute",
+      "channelId": "UC3dEvA1is6-0_yuei9iCdEw",
+      "durationSec": 911,
+      "publishedAt": "2026-08-31T14:00:31Z",
+      "topics": [
+        "art",
+        "making"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/2ZpXxq66vIk/hqdefault.jpg"
+    },
+    {
       "id": "ZiiCyUZKt8M",
       "title": "How to Draw Godzilla Hello Kitty | Sanrio Cute Drawing",
       "channel": "Draw So Cute",
@@ -12385,23 +12417,6 @@
       "thumbnail": "https://i.ytimg.com/vi/xmz-xW82hwQ/hqdefault.jpg"
     },
     {
-      "id": "NUFi7dd7tlY",
-      "title": "How to Draw Jack Russell Terrier | Bluey | Cartoon Dog Relaxing Follow Along Drawing",
-      "channel": "Draw So Cute",
-      "channelId": "UC3dEvA1is6-0_yuei9iCdEw",
-      "durationSec": 657,
-      "publishedAt": "2026-05-27T14:00:10Z",
-      "topics": [
-        "art",
-        "making"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/NUFi7dd7tlY/hqdefault.jpg"
-    },
-    {
       "id": "MB7wxd8Bz18",
       "title": "Learn to Draw Super Simple Characters! Finny the Shark, The Bumble Nums, & More!",
       "channel": "Super Simple Draw! - How To Draw for Kids",
@@ -13202,6 +13217,22 @@
       "thumbnail": "https://i.ytimg.com/vi/m6KAfSgFaAM/hqdefault.jpg"
     },
     {
+      "id": "PuM2yWuyG_g",
+      "title": "How to Draw Pichu | Pokemon",
+      "channel": "Cartooning Club How to Draw",
+      "channelId": "UC-biucJWhM8HwjsQ96uoIUw",
+      "durationSec": 426,
+      "publishedAt": "2026-08-31T14:00:25Z",
+      "topics": [
+        "art",
+        "making"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/PuM2yWuyG_g/hqdefault.jpg"
+    },
+    {
       "id": "SEBCnSdbwJI",
       "title": "How to Draw Funky Kong | Super Mario",
       "channel": "Cartooning Club How to Draw",
@@ -13216,22 +13247,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/SEBCnSdbwJI/hqdefault.jpg"
-    },
-    {
-      "id": "uX0DMKXOdQo",
-      "title": "How to Draw Spider-Man 🔴 LIVE WORKSHOP",
-      "channel": "Cartooning Club How to Draw",
-      "channelId": "UC-biucJWhM8HwjsQ96uoIUw",
-      "durationSec": 7023,
-      "publishedAt": "2026-08-28T07:16:11Z",
-      "topics": [
-        "art",
-        "making"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/uX0DMKXOdQo/hqdefault.jpg"
     },
     {
       "id": "YY-u2oH2vc4",
@@ -20753,7 +20768,7 @@
     },
     {
       "id": "6pipU7J79ss",
-      "title": "🇺🇸 Learn How American Flags Are Made 🦅 Flag Factory Tour",
+      "title": "Learn How American Flags Are Made 🦅 Flag Factory Tour",
       "channel": "Handyman Hal",
       "channelId": "UC8KyyhPfL4v2sZGbcGg7b7Q",
       "durationSec": 1056,
@@ -21280,6 +21295,22 @@
       "thumbnail": "https://i.ytimg.com/vi/oleK7ZukCKQ/hqdefault.jpg"
     },
     {
+      "id": "5y2yjd4lSM8",
+      "title": "Why are Spiral Escalators so rare?",
+      "channel": "Jared Owen",
+      "channelId": "UCbsfyGlrjrKQC0gbzK0-EiA",
+      "durationSec": 120,
+      "publishedAt": "2026-08-31T14:00:37Z",
+      "topics": [
+        "engineering",
+        "tech"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/5y2yjd4lSM8/hqdefault.jpg"
+    },
+    {
       "id": "ucyw6GVifCE",
       "title": "The Clever Engineering Behind a Boat-Lifting Wheel",
       "channel": "Jared Owen",
@@ -21567,22 +21598,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/iuh5IC-VjuA/hqdefault.jpg"
-    },
-    {
-      "id": "rKp4pe92ljg",
-      "title": "How does an Elevator work?",
-      "channel": "Jared Owen",
-      "channelId": "UCbsfyGlrjrKQC0gbzK0-EiA",
-      "durationSec": 693,
-      "publishedAt": "2023-04-06T12:11:15Z",
-      "topics": [
-        "engineering",
-        "tech"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/rKp4pe92ljg/hqdefault.jpg"
     },
     {
       "id": "9kM3mnxrMMM",
@@ -25908,6 +25923,38 @@
       "thumbnail": "https://i.ytimg.com/vi/ur9pTnM7w-c/hqdefault.jpg"
     },
     {
+      "id": "SnXXIT610eU",
+      "title": "They’re Not British. They’re Not Independent. So What Are They?",
+      "channel": "Geography Now",
+      "channelId": "UCmmPgObSUPw1HL2lq6H4ffA",
+      "durationSec": 997,
+      "publishedAt": "2026-08-31T08:10:47Z",
+      "topics": [
+        "geography",
+        "exploration"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/SnXXIT610eU/hqdefault.jpg"
+    },
+    {
+      "id": "UgWRc2i2O-U",
+      "title": "Lufthansa airlines REVIEW",
+      "channel": "Geography Now",
+      "channelId": "UCmmPgObSUPw1HL2lq6H4ffA",
+      "durationSec": 164,
+      "publishedAt": "2026-08-30T18:47:07Z",
+      "topics": [
+        "geography",
+        "exploration"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/UgWRc2i2O-U/hqdefault.jpg"
+    },
+    {
       "id": "nsYAf9OSG2g",
       "title": "What is PRUSSIA?",
       "channel": "Geography Now",
@@ -26354,22 +26401,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/qf87Y6RQX5w/hqdefault.jpg"
-    },
-    {
-      "id": "GVdgdEfZ4VY",
-      "title": "It's my birthday. Give me a birthday present. ￼",
-      "channel": "Geography Now",
-      "channelId": "UCmmPgObSUPw1HL2lq6H4ffA",
-      "durationSec": 137,
-      "publishedAt": "2026-06-07T08:48:51Z",
-      "topics": [
-        "geography",
-        "exploration"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/GVdgdEfZ4VY/hqdefault.jpg"
     },
     {
       "id": "3G1wZPeZZTQ",
@@ -48156,6 +48187,36 @@
       "thumbnail": "https://i.ytimg.com/vi/jvebwDXmBSw/hqdefault.jpg"
     },
     {
+      "id": "dWreZBcR0cw",
+      "title": "Passive Voice in the Perfect System",
+      "channel": "Professor Dave Explains",
+      "channelId": "UC0cd_-e49hZpWLH3UIwoWRA",
+      "durationSec": 444,
+      "publishedAt": "2026-08-31T14:00:33Z",
+      "topics": [
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/dWreZBcR0cw/hqdefault.jpg"
+    },
+    {
+      "id": "BdB79BUcLV0",
+      "title": "Sabine Hossenfelder: More Exposed Than Ever! (Racism Edition)",
+      "channel": "Professor Dave Explains",
+      "channelId": "UC0cd_-e49hZpWLH3UIwoWRA",
+      "durationSec": 2498,
+      "publishedAt": "2026-08-30T16:00:17Z",
+      "topics": [
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/BdB79BUcLV0/hqdefault.jpg"
+    },
+    {
       "id": "lsRDjK3AvTg",
       "title": "Apollo 8: First Humans Around the Moon",
       "channel": "Professor Dave Explains",
@@ -48874,36 +48935,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/YxUgs4YVlOw/hqdefault.jpg"
-    },
-    {
-      "id": "04_4YxB2qzk",
-      "title": "Discussion on the \"If I'm Really Honest\" Podcast (My Music and Science Denial Sampler)",
-      "channel": "Professor Dave Explains",
-      "channelId": "UC0cd_-e49hZpWLH3UIwoWRA",
-      "durationSec": 3779,
-      "publishedAt": "2026-06-11T14:00:05Z",
-      "topics": [
-        "science"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/04_4YxB2qzk/hqdefault.jpg"
-    },
-    {
-      "id": "N38lG-oEJ38",
-      "title": "Reptilian Body Systems",
-      "channel": "Professor Dave Explains",
-      "channelId": "UC0cd_-e49hZpWLH3UIwoWRA",
-      "durationSec": 497,
-      "publishedAt": "2026-06-10T14:00:36Z",
-      "topics": [
-        "science"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/N38lG-oEJ38/hqdefault.jpg"
     },
     {
       "id": "BjyJlN1npdw",
@@ -55086,21 +55117,21 @@
       "thumbnail": "https://i.ytimg.com/vi/xnEAZZqwoek/hqdefault.jpg"
     },
     {
-      "id": "j5lj0nYSFBg",
-      "title": "Bring Back Flavor with Regenerative Farming with Farmer Lee Jones [Ep 89]",
-      "channel": "Katie Kimball",
-      "channelId": "UCT1B3Tb7Bit_S7EWkhSba4A",
-      "durationSec": 2976,
-      "publishedAt": "2025-10-07T10:01:12Z",
+      "id": "p2NnOBFRf8w",
+      "title": "The Scientific Accuracy of Walking With Beasts - Episode 1: New Dawn",
+      "channel": "Ben G Thomas",
+      "channelId": "UCDSzwZqgtJEnUzacq3ddoOQ",
+      "durationSec": 3705,
+      "publishedAt": "2026-08-30T18:00:09Z",
       "topics": [
-        "making",
-        "science"
+        "science",
+        "animals",
+        "nature"
       ],
       "profiles": [
-        "little",
         "big"
       ],
-      "thumbnail": "https://i.ytimg.com/vi/j5lj0nYSFBg/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/p2NnOBFRf8w/hqdefault.jpg"
     },
     {
       "id": "-fF5bcY6NlU",
@@ -55900,23 +55931,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/esCRnu8B1JU/hqdefault.jpg"
-    },
-    {
-      "id": "y5Iafy-MiH4",
-      "title": "What Was The First Dinosaur to Evolve? - UNSOLVED Dinosaur Mysteries",
-      "channel": "Ben G Thomas",
-      "channelId": "UCDSzwZqgtJEnUzacq3ddoOQ",
-      "durationSec": 551,
-      "publishedAt": "2024-10-06T19:00:35Z",
-      "topics": [
-        "science",
-        "animals",
-        "nature"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/y5Iafy-MiH4/hqdefault.jpg"
     },
     {
       "id": "foWqPo8S0r4",
@@ -65679,7 +65693,7 @@
     },
     {
       "id": "r1Gpw7t41bk",
-      "title": "How Smart Gardeners Make One Harvest Last All Year",
+      "title": "The Old Way Gardeners Make a Harvest Last All Winter",
       "channel": "GrowVeg",
       "channelId": "UC9r61qohBg1qgGty4_WzojA",
       "durationSec": 923,
@@ -78267,7 +78281,7 @@
     },
     {
       "id": "cpWI7iz6z-s",
-      "title": "What Is a Salmon DNA Facial? A Marine Biologist Explains",
+      "title": "I Thought Salmon DNA Facials Were Fake Science. Was I Wrong?",
       "channel": "KPassionate",
       "channelId": "UCUvSqEH92Fqn9uw1kmCfLGA",
       "durationSec": 760,
@@ -79050,22 +79064,6 @@
       "thumbnail": "https://i.ytimg.com/vi/KMPGDoXqNPM/hqdefault.jpg"
     },
     {
-      "id": "JcubVEX1ZXk",
-      "title": "Neil the Seal - A Marine Biologist REACTS to the Viral Sensation",
-      "channel": "KPassionate",
-      "channelId": "UCUvSqEH92Fqn9uw1kmCfLGA",
-      "durationSec": 527,
-      "publishedAt": "2024-01-06T18:20:39Z",
-      "topics": [
-        "animals",
-        "science"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/JcubVEX1ZXk/hqdefault.jpg"
-    },
-    {
       "id": "ifiWUHQEK0g",
       "title": "The bumpy jelly stings with their whole body, no tentacles necessary",
       "channel": "MBARI (Monterey Bay Aquarium Research Institute)",
@@ -79149,6 +79147,23 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/lwXYYzHd51Y/hqdefault.jpg"
+    },
+    {
+      "id": "2pTGdH0A4Qs",
+      "title": "The Coral Triangle | A World Beneath the Surface (4K)",
+      "channel": "Natural World Facts",
+      "channelId": "UCG5_BraUMNcluZPZ__oOeKg",
+      "durationSec": 4366,
+      "publishedAt": "2026-08-31T11:00:01Z",
+      "topics": [
+        "science",
+        "nature",
+        "animals"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/2pTGdH0A4Qs/hqdefault.jpg"
     },
     {
       "id": "SXWDW62h_QY",
@@ -79642,23 +79657,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/T8j1yzP4ifE/hqdefault.jpg"
-    },
-    {
-      "id": "cUg70VLQZOQ",
-      "title": "The Hidden World of Islands",
-      "channel": "Natural World Facts",
-      "channelId": "UCG5_BraUMNcluZPZ__oOeKg",
-      "durationSec": 1135,
-      "publishedAt": "2021-08-03T11:00:15Z",
-      "topics": [
-        "science",
-        "nature",
-        "animals"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/cUg70VLQZOQ/hqdefault.jpg"
     },
     {
       "id": "qoXVNyy73tc",
@@ -82923,6 +82921,38 @@
       "thumbnail": "https://i.ytimg.com/vi/GLVhXClV5QU/hqdefault.jpg"
     },
     {
+      "id": "EokgeqIzPaI",
+      "title": "Finders, Keepers | Peep and the Big Wide World",
+      "channel": "Peep and the Big Wide World",
+      "channelId": "UCPq6g4Q4-SFMIJ048IXmupA",
+      "durationSec": 557,
+      "publishedAt": "2026-08-31T15:00:36Z",
+      "topics": [
+        "science",
+        "nature"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/EokgeqIzPaI/hqdefault.jpg"
+    },
+    {
+      "id": "nYKi0PgGlXM",
+      "title": "Quack Has a New Friend! | Peep and the Big Wide World",
+      "channel": "Peep and the Big Wide World",
+      "channelId": "UCPq6g4Q4-SFMIJ048IXmupA",
+      "durationSec": 2555,
+      "publishedAt": "2026-08-30T15:00:06Z",
+      "topics": [
+        "science",
+        "nature"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/nYKi0PgGlXM/hqdefault.jpg"
+    },
+    {
       "id": "42Lkhqo1qik",
       "title": "Animal Walks, Things That Make a Sound & MORE! | Explore the Big Wide World",
       "channel": "Peep and the Big Wide World",
@@ -83561,22 +83591,6 @@
         "little"
       ],
       "thumbnail": "https://i.ytimg.com/vi/_-fWJUv5Vjk/hqdefault.jpg"
-    },
-    {
-      "id": "nJJh0mn7UvI",
-      "title": "Save It for Later | Peep and the Big Wide World",
-      "channel": "Peep and the Big Wide World",
-      "channelId": "UCPq6g4Q4-SFMIJ048IXmupA",
-      "durationSec": 645,
-      "publishedAt": "2026-07-24T15:00:11Z",
-      "topics": [
-        "science",
-        "nature"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/nJJh0mn7UvI/hqdefault.jpg"
     },
     {
       "id": "TNwUe8RghO8",
@@ -84564,6 +84578,24 @@
       "thumbnail": "https://i.ytimg.com/vi/inf3ukPHds8/hqdefault.jpg"
     },
     {
+      "id": "a7TohgxNsCM",
+      "title": "3D printed Synth Guitar with RP2040 PropMaker Feather + CircuitPython #3dprinting #adafruit",
+      "channel": "Adafruit Industries",
+      "channelId": "UCpOlOeQjj7EsVnDh3zuCgsA",
+      "durationSec": 124,
+      "publishedAt": "2026-08-31T11:44:36Z",
+      "topics": [
+        "making",
+        "tech",
+        "engineering",
+        "coding"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/a7TohgxNsCM/hqdefault.jpg"
+    },
+    {
       "id": "q2iK3lo-NVM",
       "title": "Deep Dive w/Scott: Zephyr Bootloader #adafruit",
       "channel": "Adafruit Industries",
@@ -84994,24 +85026,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/RXU3LQ1pr0Y/hqdefault.jpg"
-    },
-    {
-      "id": "ev_vgiFZ2g4",
-      "title": "John Park's Workshop Live 8/13/26",
-      "channel": "Adafruit Industries",
-      "channelId": "UCpOlOeQjj7EsVnDh3zuCgsA",
-      "durationSec": 3705,
-      "publishedAt": "2026-08-14T09:18:22Z",
-      "topics": [
-        "making",
-        "tech",
-        "engineering",
-        "coding"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/ev_vgiFZ2g4/hqdefault.jpg"
     },
     {
       "id": "VmBS2N1FzmE",
@@ -86700,6 +86714,91 @@
       "thumbnail": "https://i.ytimg.com/vi/XasThxf_YGo/hqdefault.jpg"
     },
     {
+      "id": "w58wSkH5vNY",
+      "title": "🔴 LIVE: Back to School Yoga for Kids! 🏫 | Pebbles, Skippy & More",
+      "channel": "Cosmic Kids Yoga",
+      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
+      "durationSec": 42900,
+      "publishedAt": "2026-08-31T07:40:32Z",
+      "topics": [
+        "reading",
+        "nature"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/w58wSkH5vNY/hqdefault.jpg"
+    },
+    {
+      "id": "eE62JR5TWcE",
+      "title": "Kids Yoga LIVE 🌟 | Fun Yoga Adventures & Movement for Kids",
+      "channel": "Cosmic Kids Yoga",
+      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
+      "durationSec": 42898,
+      "publishedAt": "2026-08-30T19:04:05Z",
+      "topics": [
+        "reading",
+        "nature"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/eE62JR5TWcE/hqdefault.jpg"
+    },
+    {
+      "id": "6kmE4DWvaSY",
+      "title": "🕷️ Spider Pose Yoga for Kids | 9 Fun Spider Poses to Try",
+      "channel": "Cosmic Kids Yoga",
+      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
+      "durationSec": 499,
+      "publishedAt": "2026-08-31T05:00:16Z",
+      "topics": [
+        "reading",
+        "nature"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/6kmE4DWvaSY/hqdefault.jpg"
+    },
+    {
+      "id": "LpXNXZvzkcU",
+      "title": "🔴 LIVE: Back to School Yoga for Kids! 🏫 | Pebbles, Skippy & More",
+      "channel": "Cosmic Kids Yoga",
+      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
+      "durationSec": 42898,
+      "publishedAt": "2026-08-30T19:44:00Z",
+      "topics": [
+        "reading",
+        "nature"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/LpXNXZvzkcU/hqdefault.jpg"
+    },
+    {
+      "id": "Gqe5qTBTwKk",
+      "title": "Kids Yoga LIVE 🌟 | Fun Yoga Adventures & Movement for Kids",
+      "channel": "Cosmic Kids Yoga",
+      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
+      "durationSec": 42898,
+      "publishedAt": "2026-08-30T19:20:34Z",
+      "topics": [
+        "reading",
+        "nature"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/Gqe5qTBTwKk/hqdefault.jpg"
+    },
+    {
       "id": "dkIRFPNu9V4",
       "title": "🔴 LIVE: Back to School Yoga for Kids! 🏫 | Pebbles, Skippy & More",
       "channel": "Cosmic Kids Yoga",
@@ -86919,23 +87018,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/ofjqehUmLFk/hqdefault.jpg"
-    },
-    {
-      "id": "gXg4nq_C0vU",
-      "title": "Super Mario Yoga 🍄  | Yoga for Kids | Cosmic Kids Yoga Adventure",
-      "channel": "Cosmic Kids Yoga",
-      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
-      "durationSec": 1049,
-      "publishedAt": "2026-07-21T12:30:37Z",
-      "topics": [
-        "reading",
-        "nature"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/gXg4nq_C0vU/hqdefault.jpg"
     },
     {
       "id": "xm_GCZKltLA",
