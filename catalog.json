@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-02T13:02:39.079Z",
+  "generatedAt": "2026-09-03T13:04:57.903Z",
   "profiles": {
     "little": {
       "label": "Ages 3-7"
@@ -131,6 +131,22 @@
       "thumbnail": "https://i.ytimg.com/vi/kKqd0_cydZM/hqdefault.jpg"
     },
     {
+      "id": "1-XzGMIQss4",
+      "title": "Super Awesome Pets | Super Animals Full Episode | Nat Geo Kids",
+      "channel": "Nat Geo Kids",
+      "channelId": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "durationSec": 1272,
+      "publishedAt": "2026-09-03T11:00:03Z",
+      "topics": [
+        "animals",
+        "science"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/1-XzGMIQss4/hqdefault.jpg"
+    },
+    {
       "id": "DrtV9bCD0uc",
       "title": "Penguin vs. Penguin: Battle of the Coolest! | Whoa Factor | Nat Geo Kids",
       "channel": "Nat Geo Kids",
@@ -179,20 +195,19 @@
       "thumbnail": "https://i.ytimg.com/vi/JbtV2c46v8A/hqdefault.jpg"
     },
     {
-      "id": "zvACxEx9AZM",
-      "title": "Surprising Creatures of the Night! 🦉🌖 Animal Facts for Kids I Nat Geo Kids",
-      "channel": "Nat Geo Kids",
-      "channelId": "UCXVCgDuD_QCkI7gTKU7-tpg",
-      "durationSec": 199,
-      "publishedAt": "2026-08-29T15:00:24Z",
+      "id": "nWZDqKeoxy4",
+      "title": "How To Draw A Cement Truck",
+      "channel": "Art for Kids Hub",
+      "channelId": "UC5XMF3Inoi8R9nSI8ChOsdQ",
+      "durationSec": 589,
+      "publishedAt": "2026-09-02T14:00:06Z",
       "topics": [
-        "animals",
-        "science"
+        "art"
       ],
       "profiles": [
         "little"
       ],
-      "thumbnail": "https://i.ytimg.com/vi/zvACxEx9AZM/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/nWZDqKeoxy4/hqdefault.jpg"
     },
     {
       "id": "Hh438OyVVXk",
@@ -255,19 +270,19 @@
       "thumbnail": "https://i.ytimg.com/vi/pUywCc6URlI/hqdefault.jpg"
     },
     {
-      "id": "DcHWr651ddA",
-      "title": "How To Draw A Funny School Notebook",
-      "channel": "Art for Kids Hub",
-      "channelId": "UC5XMF3Inoi8R9nSI8ChOsdQ",
-      "durationSec": 502,
-      "publishedAt": "2026-08-26T14:00:10Z",
+      "id": "8Zg6LdErx74",
+      "title": "Let's Do Some Rainbow Counting with Numberblock 7 | Learn to Count | Number Cartoon | Numberblocks",
+      "channel": "Numberblocks",
+      "channelId": "UCPlwvN0w4qFSP1FllALB92w",
+      "durationSec": 3432,
+      "publishedAt": "2026-09-03T10:00:20Z",
       "topics": [
-        "art"
+        "maths"
       ],
       "profiles": [
         "little"
       ],
-      "thumbnail": "https://i.ytimg.com/vi/DcHWr651ddA/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/8Zg6LdErx74/hqdefault.jpg"
     },
     {
       "id": "yS5I9KZamK4",
@@ -298,21 +313,6 @@
         "little"
       ],
       "thumbnail": "https://i.ytimg.com/vi/oIFNyMAXvyc/hqdefault.jpg"
-    },
-    {
-      "id": "LAVt0sA36sc",
-      "title": "Adventures in the Forest of Tens | Learn to Count for Kids | Number Cartoon | Numberblocks",
-      "channel": "Numberblocks",
-      "channelId": "UCPlwvN0w4qFSP1FllALB92w",
-      "durationSec": 3770,
-      "publishedAt": "2026-08-29T10:00:21Z",
-      "topics": [
-        "maths"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/LAVt0sA36sc/hqdefault.jpg"
     },
     {
       "id": "JOs-q7rXqdk",
@@ -486,8 +486,23 @@
       "thumbnail": "https://i.ytimg.com/vi/cOTf_YEmSOU/hqdefault.jpg"
     },
     {
+      "id": "mlft34vjImg",
+      "title": "What’s Ruining Our Ruins?",
+      "channel": "SciShow",
+      "channelId": "UCZYTClx2T1of7BRZ86-8fow",
+      "durationSec": 691,
+      "publishedAt": "2026-09-02T17:00:21Z",
+      "topics": [
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/mlft34vjImg/hqdefault.jpg"
+    },
+    {
       "id": "l0OVj6BfqgI",
-      "title": "These Are The 4 Most Important Meteorites Ever",
+      "title": "These Rocks Are Older Than the Sun",
       "channel": "SciShow",
       "channelId": "UCZYTClx2T1of7BRZ86-8fow",
       "durationSec": 768,
@@ -529,21 +544,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/7gFgl9ijlDg/hqdefault.jpg"
-    },
-    {
-      "id": "YXh8FUD2f9o",
-      "title": "What's Really Living in the Subway",
-      "channel": "SciShow",
-      "channelId": "UCZYTClx2T1of7BRZ86-8fow",
-      "durationSec": 645,
-      "publishedAt": "2026-08-26T17:00:08Z",
-      "topics": [
-        "science"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/YXh8FUD2f9o/hqdefault.jpg"
     },
     {
       "id": "GlYgs6v2YfU",
@@ -5711,23 +5711,6 @@
       "thumbnail": "https://i.ytimg.com/vi/HVKuW-DkE_U/hqdefault.jpg"
     },
     {
-      "id": "Nyki6O1oxIg",
-      "title": "Moon Base News Conference (May 26, 2026)",
-      "channel": "NASA",
-      "channelId": "UCLA_DiR1FfKNvjuUpBHmylQ",
-      "durationSec": 4607,
-      "publishedAt": "2026-05-26T19:20:18Z",
-      "topics": [
-        "space",
-        "exploration"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/Nyki6O1oxIg/hqdefault.jpg"
-    },
-    {
       "id": "s_5V4X6SiWI",
       "title": "What's Up: September 2026 Skywatching Tips from NASA",
       "channel": "NASA Jet Propulsion Laboratory",
@@ -6084,7 +6067,7 @@
       "title": "Sophie Adenot's third spacewalk | U.S. Spacewalk 99 (Official broadcast)",
       "channel": "European Space Agency, ESA",
       "channelId": "UCIBaDdAbGlFDeS33shmlD0A",
-      "durationSec": 32812,
+      "durationSec": 32625,
       "publishedAt": "2026-09-01T20:30:43Z",
       "topics": [
         "space"
@@ -6320,6 +6303,22 @@
       "thumbnail": "https://i.ytimg.com/vi/YaqDt-eT0Oc/hqdefault.jpg"
     },
     {
+      "id": "YQ7DWNhjOpk",
+      "title": "Mercury Could Be Worth 3 Octillion Dollars",
+      "channel": "Astrum",
+      "channelId": "UC-9b7aDP6ZN0coj9-xFnrtw",
+      "durationSec": 1688,
+      "publishedAt": "2026-09-02T16:00:21Z",
+      "topics": [
+        "space",
+        "exploration"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/YQ7DWNhjOpk/hqdefault.jpg"
+    },
+    {
       "id": "jbwrsQ9kG_o",
       "title": "We Caught a Black Hole Switching On For the First Time",
       "channel": "Astrum",
@@ -6353,7 +6352,7 @@
     },
     {
       "id": "SPoDl0Cnc0o",
-      "title": "NASA Found Huge Structures Hidden Inside Mars",
+      "title": "We Detected an Anomaly Inside Mars",
       "channel": "Astrum",
       "channelId": "UC-9b7aDP6ZN0coj9-xFnrtw",
       "durationSec": 1428,
@@ -7086,22 +7085,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/8_4INYWaVyM/hqdefault.jpg"
-    },
-    {
-      "id": "bwzTr49rPw8",
-      "title": "What the Earth Will Look Like in 1 Billion Years",
-      "channel": "Astrum",
-      "channelId": "UC-9b7aDP6ZN0coj9-xFnrtw",
-      "durationSec": 1382,
-      "publishedAt": "2025-12-10T17:05:23Z",
-      "topics": [
-        "space",
-        "exploration"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/bwzTr49rPw8/hqdefault.jpg"
     },
     {
       "id": "bvKKHRCCkfI",
@@ -13220,6 +13203,22 @@
       "thumbnail": "https://i.ytimg.com/vi/m6KAfSgFaAM/hqdefault.jpg"
     },
     {
+      "id": "lID51IYB4HU",
+      "title": "How to Draw Scuttle | The Little Mermaid",
+      "channel": "Cartooning Club How to Draw",
+      "channelId": "UC-biucJWhM8HwjsQ96uoIUw",
+      "durationSec": 477,
+      "publishedAt": "2026-09-02T14:00:25Z",
+      "topics": [
+        "art",
+        "making"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/lID51IYB4HU/hqdefault.jpg"
+    },
+    {
       "id": "3ZMcPvWLuGU",
       "title": "How to Draw Alien | Toy Story",
       "channel": "Cartooning Club How to Draw",
@@ -13812,40 +13811,8 @@
       "thumbnail": "https://i.ytimg.com/vi/4CDtr-xrmsQ/hqdefault.jpg"
     },
     {
-      "id": "8IsmZ2Sf9Z8",
-      "title": "How to Draw Lamine Yamal | World Cup 2026",
-      "channel": "Cartooning Club How to Draw",
-      "channelId": "UC-biucJWhM8HwjsQ96uoIUw",
-      "durationSec": 476,
-      "publishedAt": "2026-07-03T14:00:23Z",
-      "topics": [
-        "art",
-        "making"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/8IsmZ2Sf9Z8/hqdefault.jpg"
-    },
-    {
-      "id": "AcCaYHTrK3M",
-      "title": "How to Draw Goomba | Super Mario",
-      "channel": "Cartooning Club How to Draw",
-      "channelId": "UC-biucJWhM8HwjsQ96uoIUw",
-      "durationSec": 270,
-      "publishedAt": "2026-07-02T14:00:18Z",
-      "topics": [
-        "art",
-        "making"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/AcCaYHTrK3M/hqdefault.jpg"
-    },
-    {
       "id": "N-sIbu4KYhg",
-      "title": "Is the \"Viral Coloring Blanket\" any good? (Spoiler: NO)",
+      "title": "This \"Coloring Blanket\" is the worst gift ever...",
       "channel": "Jazza",
       "channelId": "UCHu2KNu6TtJ0p4hpSW7Yv7Q",
       "durationSec": 808,
@@ -18185,6 +18152,23 @@
       "thumbnail": "https://i.ytimg.com/vi/5UTXz9Xclr4/hqdefault.jpg"
     },
     {
+      "id": "kVWqVx4mhh0",
+      "title": "Explorers Marvel at Towering Caulophacus Stalked Sponge | Nautilus Live",
+      "channel": "EVNautilus",
+      "channelId": "UC1KOOWHthbQVXH2kZue3_xA",
+      "durationSec": 291,
+      "publishedAt": "2026-09-02T19:00:04Z",
+      "topics": [
+        "nature",
+        "exploration"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/kVWqVx4mhh0/hqdefault.jpg"
+    },
+    {
       "id": "F3_oZc2eyqs",
       "title": "Trio of Deep-Sea Fish in the Western Pacific | Nautilus Live",
       "channel": "EVNautilus",
@@ -18642,23 +18626,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/-v9jUAzqOBA/hqdefault.jpg"
-    },
-    {
-      "id": "ZxYb-odTdRA",
-      "title": "Nautilus Field Guide: Siphonophores | Nautilus Live",
-      "channel": "EVNautilus",
-      "channelId": "UC1KOOWHthbQVXH2kZue3_xA",
-      "durationSec": 215,
-      "publishedAt": "2026-05-01T18:14:38Z",
-      "topics": [
-        "nature",
-        "exploration"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/ZxYb-odTdRA/hqdefault.jpg"
     },
     {
       "id": "48cQQL8pXI8",
@@ -20414,22 +20381,6 @@
       "thumbnail": "https://i.ytimg.com/vi/TS640LNpDgk/hqdefault.jpg"
     },
     {
-      "id": "qEFTRCVEYLk",
-      "title": "7 Things Smart Gardeners Do That Beginners Don't",
-      "channel": "Epic Gardening",
-      "channelId": "UCSbyncU597LMwb3HhnAI_4w",
-      "durationSec": 985,
-      "publishedAt": "2026-05-02T17:42:33Z",
-      "topics": [
-        "nature",
-        "making"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/qEFTRCVEYLk/hqdefault.jpg"
-    },
-    {
       "id": "2y7rIzIWp5c",
       "title": "Can we open in time?!",
       "channel": "Kids Invent Stuff",
@@ -20496,6 +20447,22 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/FuqLVnDUz-c/hqdefault.jpg"
+    },
+    {
+      "id": "Z9IZ2ccLEJ8",
+      "title": "Handyman Hal Tow Truck Adventure! Build an RC Tow Truck & Real Tow Truck Rescue for Kids",
+      "channel": "Handyman Hal",
+      "channelId": "UC8KyyhPfL4v2sZGbcGg7b7Q",
+      "durationSec": 2818,
+      "publishedAt": "2026-09-03T10:15:39Z",
+      "topics": [
+        "making",
+        "engineering"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/Z9IZ2ccLEJ8/hqdefault.jpg"
     },
     {
       "id": "xhkz7GrM-_s",
@@ -21248,22 +21215,6 @@
         "little"
       ],
       "thumbnail": "https://i.ytimg.com/vi/Nj6Rr9EXHwM/hqdefault.jpg"
-    },
-    {
-      "id": "oleK7ZukCKQ",
-      "title": "Handyman Hal & Awesome Alex Take Over Dig'n Zone Theme Park! 🚜",
-      "channel": "Handyman Hal",
-      "channelId": "UC8KyyhPfL4v2sZGbcGg7b7Q",
-      "durationSec": 1064,
-      "publishedAt": "2026-02-25T12:00:00Z",
-      "topics": [
-        "making",
-        "engineering"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/oleK7ZukCKQ/hqdefault.jpg"
     },
     {
       "id": "5y2yjd4lSM8",
@@ -25894,6 +25845,22 @@
       "thumbnail": "https://i.ytimg.com/vi/ur9pTnM7w-c/hqdefault.jpg"
     },
     {
+      "id": "E2hhu8m5ZNI",
+      "title": "How to make friends with certain ethnicities (part 1)",
+      "channel": "Geography Now",
+      "channelId": "UCmmPgObSUPw1HL2lq6H4ffA",
+      "durationSec": 164,
+      "publishedAt": "2026-09-02T20:26:10Z",
+      "topics": [
+        "geography",
+        "exploration"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/E2hhu8m5ZNI/hqdefault.jpg"
+    },
+    {
       "id": "SnXXIT610eU",
       "title": "They’re Not British. They’re Not Independent. So What Are They?",
       "channel": "Geography Now",
@@ -26356,22 +26323,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/86uV-S81bQM/hqdefault.jpg"
-    },
-    {
-      "id": "qf87Y6RQX5w",
-      "title": "Sarygamysh- the \"accidental\" Lake",
-      "channel": "Geography Now",
-      "channelId": "UCmmPgObSUPw1HL2lq6H4ffA",
-      "durationSec": 170,
-      "publishedAt": "2026-06-10T19:31:58Z",
-      "topics": [
-        "geography",
-        "exploration"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/qf87Y6RQX5w/hqdefault.jpg"
     },
     {
       "id": "3G1wZPeZZTQ",
@@ -31465,6 +31416,40 @@
       "thumbnail": "https://i.ytimg.com/vi/JwGAZc3-oOc/hqdefault.jpg"
     },
     {
+      "id": "iFTBrkuzvCM",
+      "title": "The Texas Alphabet! | Jack Hartmann",
+      "channel": "Jack Hartmann Kids Music Channel",
+      "channelId": "UCVcQH8A634mauPrGbWs7QlQ",
+      "durationSec": 290,
+      "publishedAt": "2026-09-02T23:00:32Z",
+      "topics": [
+        "reading",
+        "music",
+        "maths"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/iFTBrkuzvCM/hqdefault.jpg"
+    },
+    {
+      "id": "aX_w76okemk",
+      "title": "The Texas Alphabet! | UFLI Version | Jack Hartmann",
+      "channel": "Jack Hartmann Kids Music Channel",
+      "channelId": "UCVcQH8A634mauPrGbWs7QlQ",
+      "durationSec": 290,
+      "publishedAt": "2026-09-02T23:00:09Z",
+      "topics": [
+        "reading",
+        "music",
+        "maths"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/aX_w76okemk/hqdefault.jpg"
+    },
+    {
       "id": "xeHz9k1XT_c",
       "title": "The California Alphabet Adventure! | Jack Hartmann",
       "channel": "Jack Hartmann Kids Music Channel",
@@ -32262,40 +32247,6 @@
         "little"
       ],
       "thumbnail": "https://i.ytimg.com/vi/Ro3ntMzA_Ik/hqdefault.jpg"
-    },
-    {
-      "id": "n7zl7zZoN1M",
-      "title": "My Light of Love | Valentine's Day Song for Kids | Jack Hartmann",
-      "channel": "Jack Hartmann Kids Music Channel",
-      "channelId": "UCVcQH8A634mauPrGbWs7QlQ",
-      "durationSec": 151,
-      "publishedAt": "2026-02-05T00:00:56Z",
-      "topics": [
-        "reading",
-        "music",
-        "maths"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/n7zl7zZoN1M/hqdefault.jpg"
-    },
-    {
-      "id": "zmWFCVJnIWM",
-      "title": "American Sign Language for Kids! | Educational ASL Songs for Kids | Jack Hartmann",
-      "channel": "Jack Hartmann Kids Music Channel",
-      "channelId": "UCVcQH8A634mauPrGbWs7QlQ",
-      "durationSec": 2177,
-      "publishedAt": "2026-02-02T00:00:59Z",
-      "topics": [
-        "reading",
-        "music",
-        "maths"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/zmWFCVJnIWM/hqdefault.jpg"
     },
     {
       "id": "rG2NKfKRFp8",
@@ -39303,21 +39254,6 @@
       "thumbnail": "https://i.ytimg.com/vi/IbCC77X_5Go/hqdefault.jpg"
     },
     {
-      "id": "KtzpUPJkNpE",
-      "title": "The Greco-Persian Wars - PART II: The Aegean Campaigns and the Battle of Marathon (492-490 BC)",
-      "channel": "History with Cy",
-      "channelId": "UCZzqG2zfeRKMoJwDwk1FTvQ",
-      "durationSec": 2763,
-      "publishedAt": "2024-12-19T14:21:40Z",
-      "topics": [
-        "history"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/KtzpUPJkNpE/hqdefault.jpg"
-    },
-    {
       "id": "1nfOp6HedyY",
       "title": "The Mega Corporations Who Ruled Rome (DOCUMENTARY)",
       "channel": "Invicta",
@@ -40902,6 +40838,22 @@
       "thumbnail": "https://i.ytimg.com/vi/gvV3zrihA_o/hqdefault.jpg"
     },
     {
+      "id": "rxi-NUBDDg0",
+      "title": "The End of Thameslink's Horrible Seats",
+      "channel": "Jago Hazzard",
+      "channelId": "UCcHuNKYzVMc06FXqsBEAV3A",
+      "durationSec": 523,
+      "publishedAt": "2026-09-02T16:30:28Z",
+      "topics": [
+        "history",
+        "geography"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/rxi-NUBDDg0/hqdefault.jpg"
+    },
+    {
       "id": "fjU5MwfyHIw",
       "title": "Moor Park: Metropolitan Masterpiece",
       "channel": "Jago Hazzard",
@@ -41684,22 +41636,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/XFz92EnxeOI/hqdefault.jpg"
-    },
-    {
-      "id": "V_BhfJsevrU",
-      "title": "The Age of Ugly Tube Stations",
-      "channel": "Jago Hazzard",
-      "channelId": "UCcHuNKYzVMc06FXqsBEAV3A",
-      "durationSec": 772,
-      "publishedAt": "2026-05-08T16:30:34Z",
-      "topics": [
-        "history",
-        "geography"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/V_BhfJsevrU/hqdefault.jpg"
     },
     {
       "id": "E_SJ1NBMrH0",
@@ -43879,7 +43815,7 @@
     },
     {
       "id": "ksk36W2vCoM",
-      "title": "Seestar S50 Pro Review: The Best Smart Telescope Ever!",
+      "title": "Seestar S50 Pro Review: The Best Smart Telescope I've Ever Tested!",
       "channel": "AstroBackyard",
       "channelId": "UCn3npsPixgoi_xLdCg9J-LQ",
       "durationSec": 1331,
@@ -46248,22 +46184,6 @@
       "thumbnail": "https://i.ytimg.com/vi/eR0BY_mnyaA/hqdefault.jpg"
     },
     {
-      "id": "iuPWDMY0Li4",
-      "title": "The controversy of the Hubble Deep Field image #shorts",
-      "channel": "Dr. Becky",
-      "channelId": "UCYNbYGl89UUowy8oXkipC-Q",
-      "durationSec": 150,
-      "publishedAt": "2026-06-15T17:00:13Z",
-      "topics": [
-        "space",
-        "science"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/iuPWDMY0Li4/hqdefault.jpg"
-    },
-    {
       "id": "1cwGmvm2Jno",
       "title": "wait is coumarin actually fluorescent?",
       "channel": "Reactions",
@@ -48158,6 +48078,21 @@
       "thumbnail": "https://i.ytimg.com/vi/jvebwDXmBSw/hqdefault.jpg"
     },
     {
+      "id": "6Y_UaK1-Q00",
+      "title": "Avian Diversity",
+      "channel": "Professor Dave Explains",
+      "channelId": "UC0cd_-e49hZpWLH3UIwoWRA",
+      "durationSec": 650,
+      "publishedAt": "2026-09-02T14:00:29Z",
+      "topics": [
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/6Y_UaK1-Q00/hqdefault.jpg"
+    },
+    {
       "id": "dWreZBcR0cw",
       "title": "Passive Voice in the Perfect System",
       "channel": "Professor Dave Explains",
@@ -48891,21 +48826,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/8HKXhfqNU1k/hqdefault.jpg"
-    },
-    {
-      "id": "YxUgs4YVlOw",
-      "title": "Russ Vought is Destroying American Science",
-      "channel": "Professor Dave Explains",
-      "channelId": "UC0cd_-e49hZpWLH3UIwoWRA",
-      "durationSec": 2966,
-      "publishedAt": "2026-06-12T14:00:30Z",
-      "topics": [
-        "science"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/YxUgs4YVlOw/hqdefault.jpg"
     },
     {
       "id": "BjyJlN1npdw",
@@ -67088,6 +67008,23 @@
       "thumbnail": "https://i.ytimg.com/vi/b_PUDpMtPR0/hqdefault.jpg"
     },
     {
+      "id": "qHQZLIqthzo",
+      "title": "Searching for the Elusive Cowpuncher Jasper",
+      "channel": "Currently Rockhounding",
+      "channelId": "UCoHQzOP2GH5WUiFCIOCX8eQ",
+      "durationSec": 1674,
+      "publishedAt": "2026-09-02T15:00:06Z",
+      "topics": [
+        "science",
+        "exploration",
+        "nature"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/qHQZLIqthzo/hqdefault.jpg"
+    },
+    {
       "id": "W0tpYDqb4oo",
       "title": "The Calcite Quarry",
       "channel": "Currently Rockhounding",
@@ -67834,23 +67771,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/Px8DFQrPmYI/hqdefault.jpg"
-    },
-    {
-      "id": "XSGcUg2BZfU",
-      "title": "The Government Got This Location Wrong",
-      "channel": "Currently Rockhounding",
-      "channelId": "UCoHQzOP2GH5WUiFCIOCX8eQ",
-      "durationSec": 1488,
-      "publishedAt": "2025-11-26T16:01:00Z",
-      "topics": [
-        "science",
-        "exploration",
-        "nature"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/XSGcUg2BZfU/hqdefault.jpg"
     },
     {
       "id": "NhGp6Jtpx68",
@@ -69692,6 +69612,23 @@
       "thumbnail": "https://i.ytimg.com/vi/HlLdL3h2iEw/hqdefault.jpg"
     },
     {
+      "id": "jQew1IK3nP8",
+      "title": "Alder Lake Till",
+      "channel": "Nick Zentner",
+      "channelId": "UC4szl4Ra1ZD3m80wJP40UBA",
+      "durationSec": 1153,
+      "publishedAt": "2026-09-02T21:40:25Z",
+      "topics": [
+        "science",
+        "geography",
+        "history"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/jQew1IK3nP8/hqdefault.jpg"
+    },
+    {
       "id": "NH5D7Djz_XA",
       "title": "Skagit River Float w/ Jon Riedel",
       "channel": "Nick Zentner",
@@ -70523,23 +70460,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/NRcJlpD3FDc/hqdefault.jpg"
-    },
-    {
-      "id": "YGLvF3ZFdqI",
-      "title": "Volcano House at Kilauea Volcano",
-      "channel": "Nick Zentner",
-      "channelId": "UC4szl4Ra1ZD3m80wJP40UBA",
-      "durationSec": 895,
-      "publishedAt": "2026-03-17T19:37:44Z",
-      "topics": [
-        "science",
-        "geography",
-        "history"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/YGLvF3ZFdqI/hqdefault.jpg"
     },
     {
       "id": "JsTbrFY5xow",
@@ -82907,6 +82827,22 @@
       "thumbnail": "https://i.ytimg.com/vi/GLVhXClV5QU/hqdefault.jpg"
     },
     {
+      "id": "JC9JRusz1EM",
+      "title": "Peep's Moon Mission | Peep and the Big Wide World",
+      "channel": "Peep and the Big Wide World",
+      "channelId": "UCPq6g4Q4-SFMIJ048IXmupA",
+      "durationSec": 645,
+      "publishedAt": "2026-09-02T15:00:25Z",
+      "topics": [
+        "science",
+        "nature"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/JC9JRusz1EM/hqdefault.jpg"
+    },
+    {
       "id": "38RSo0JLSPM",
       "title": "Quack Quiets the Universe | Peep and the Big Wide World",
       "channel": "Peep and the Big Wide World",
@@ -83563,22 +83499,6 @@
       "thumbnail": "https://i.ytimg.com/vi/gjtnHdxWBI8/hqdefault.jpg"
     },
     {
-      "id": "nsudwx00jFk",
-      "title": "Flying Toys, Playing With Mirrors & MORE! | Explore the Big Wide World",
-      "channel": "Peep and the Big Wide World",
-      "channelId": "UCPq6g4Q4-SFMIJ048IXmupA",
-      "durationSec": 1412,
-      "publishedAt": "2026-07-25T19:00:21Z",
-      "topics": [
-        "science",
-        "nature"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/nsudwx00jFk/hqdefault.jpg"
-    },
-    {
       "id": "9IaCGypvb7Y",
       "title": "I Spy 👀 | Halloween Game for Kids with Caitie & Coach Jay | Super Simple Play",
       "channel": "Super Simple Play with Caitie!",
@@ -83865,22 +83785,6 @@
         "little"
       ],
       "thumbnail": "https://i.ytimg.com/vi/khr8ZXxq7yE/hqdefault.jpg"
-    },
-    {
-      "id": "bGeWTQPKGZ4",
-      "title": "At The Construction Site 🚜 🚧 | Boom! Dig! Push! Move! | Play At Preschool! | Super Simple Play",
-      "channel": "Super Simple Play with Caitie!",
-      "channelId": "UCxG6Tbopv4XcHfem65bgFeg",
-      "durationSec": 171,
-      "publishedAt": "2026-03-10T13:01:08Z",
-      "topics": [
-        "music",
-        "making"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/bGeWTQPKGZ4/hqdefault.jpg"
     },
     {
       "id": "XQglDsXGQQo",
@@ -84580,6 +84484,24 @@
       "thumbnail": "https://i.ytimg.com/vi/inf3ukPHds8/hqdefault.jpg"
     },
     {
+      "id": "zDCbYEXGvAU",
+      "title": "3D Hangouts –  Candy Dispenser and Eyes with Co-Host Liz",
+      "channel": "Adafruit Industries",
+      "channelId": "UCpOlOeQjj7EsVnDh3zuCgsA",
+      "durationSec": 2933,
+      "publishedAt": "2026-09-03T03:56:46Z",
+      "topics": [
+        "making",
+        "tech",
+        "engineering",
+        "coding"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/zDCbYEXGvAU/hqdefault.jpg"
+    },
+    {
       "id": "Y-DmQwaU2wY",
       "title": "JP’s Product Pick of the Week  9/1/26",
       "channel": "Adafruit Industries",
@@ -85012,24 +84934,6 @@
       "thumbnail": "https://i.ytimg.com/vi/7aE_aZzQnHE/hqdefault.jpg"
     },
     {
-      "id": "ge4VrSl99to",
-      "title": "CircuitPython Weekly Meeting for August 17, 2026 #adafruit",
-      "channel": "Adafruit Industries",
-      "channelId": "UCpOlOeQjj7EsVnDh3zuCgsA",
-      "durationSec": 1537,
-      "publishedAt": "2026-08-17T19:07:01Z",
-      "topics": [
-        "making",
-        "tech",
-        "engineering",
-        "coding"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/ge4VrSl99to/hqdefault.jpg"
-    },
-    {
       "id": "VmBS2N1FzmE",
       "title": "Why Does Atlas Have A Head? #askaroboticist #bostondynamics",
       "channel": "Boston Dynamics",
@@ -85319,102 +85223,6 @@
       "thumbnail": "https://i.ytimg.com/vi/V7D7jXF2pj8/hqdefault.jpg"
     },
     {
-      "id": "iQFh4MkfK8g",
-      "title": "Elephant Toothpaste Blast - How to Play",
-      "channel": "CrunchLabs",
-      "channelId": "UC513PdAP2-jWkJunTh5kXRw",
-      "durationSec": 301,
-      "publishedAt": "2026-09-01T13:38:40Z",
-      "topics": [
-        "engineering",
-        "making"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/iQFh4MkfK8g/hqdefault.jpg"
-    },
-    {
-      "id": "4agrA1Ow_pc",
-      "title": "Egg Drop Challenge - How to Play",
-      "channel": "CrunchLabs",
-      "channelId": "UC513PdAP2-jWkJunTh5kXRw",
-      "durationSec": 321,
-      "publishedAt": "2026-09-01T13:38:23Z",
-      "topics": [
-        "engineering",
-        "making"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/4agrA1Ow_pc/hqdefault.jpg"
-    },
-    {
-      "id": "znfreG6CGpc",
-      "title": "Turbo Trick Planes - How to Play",
-      "channel": "CrunchLabs",
-      "channelId": "UC513PdAP2-jWkJunTh5kXRw",
-      "durationSec": 299,
-      "publishedAt": "2026-09-01T13:38:12Z",
-      "topics": [
-        "engineering",
-        "making"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/znfreG6CGpc/hqdefault.jpg"
-    },
-    {
-      "id": "yCGCjFcdD8U",
-      "title": "Slime Prank Lab - How to Play",
-      "channel": "CrunchLabs",
-      "channelId": "UC513PdAP2-jWkJunTh5kXRw",
-      "durationSec": 317,
-      "publishedAt": "2026-09-01T13:37:53Z",
-      "topics": [
-        "engineering",
-        "making"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/yCGCjFcdD8U/hqdefault.jpg"
-    },
-    {
-      "id": "xz5jnIlQIGg",
-      "title": "Squirrel Dash - How to Play",
-      "channel": "CrunchLabs",
-      "channelId": "UC513PdAP2-jWkJunTh5kXRw",
-      "durationSec": 228,
-      "publishedAt": "2026-09-01T13:37:43Z",
-      "topics": [
-        "engineering",
-        "making"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/xz5jnIlQIGg/hqdefault.jpg"
-    },
-    {
-      "id": "TjnCUzg5EY4",
-      "title": "The Crunchinator - How to Play",
-      "channel": "CrunchLabs",
-      "channelId": "UC513PdAP2-jWkJunTh5kXRw",
-      "durationSec": 399,
-      "publishedAt": "2026-09-01T13:37:29Z",
-      "topics": [
-        "engineering",
-        "making"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/TjnCUzg5EY4/hqdefault.jpg"
-    },
-    {
       "id": "iSbLf1iOcZQ",
       "title": "Water Experiments That Look Like Magic",
       "channel": "CrunchLabs",
@@ -85637,6 +85445,22 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/UvCAhz9kmP8/hqdefault.jpg"
+    },
+    {
+      "id": "Hwuw3sJAJdY",
+      "title": "Extreme Laser Maze w/ Toys and Colors!",
+      "channel": "CrunchLabs",
+      "channelId": "UC513PdAP2-jWkJunTh5kXRw",
+      "durationSec": 898,
+      "publishedAt": "2025-06-21T15:00:35Z",
+      "topics": [
+        "engineering",
+        "making"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/Hwuw3sJAJdY/hqdefault.jpg"
     },
     {
       "id": "5YPduEo7dU4",
