@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-06T12:26:43.120Z",
+  "generatedAt": "2026-09-07T14:33:17.491Z",
   "profiles": {
     "little": {
       "label": "Ages 3-7"
@@ -131,6 +131,22 @@
       "thumbnail": "https://i.ytimg.com/vi/kKqd0_cydZM/hqdefault.jpg"
     },
     {
+      "id": "zwNXQ6fNnno",
+      "title": "Your Brain's Hidden Secrets 🧠 | Brain Games Full Episode Compilation | Nat Geo Kids",
+      "channel": "Nat Geo Kids",
+      "channelId": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "durationSec": 7983,
+      "publishedAt": "2026-09-07T11:00:19Z",
+      "topics": [
+        "animals",
+        "science"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/zwNXQ6fNnno/hqdefault.jpg"
+    },
+    {
       "id": "BjwsFEAAvQU",
       "title": "Roman to the Rescue Full Episode 🐶 | Layla | Nat Geo Kids",
       "channel": "Nat Geo Kids",
@@ -195,20 +211,19 @@
       "thumbnail": "https://i.ytimg.com/vi/1-XzGMIQss4/hqdefault.jpg"
     },
     {
-      "id": "DrtV9bCD0uc",
-      "title": "Penguin vs. Penguin: Battle of the Coolest! | Whoa Factor | Nat Geo Kids",
-      "channel": "Nat Geo Kids",
-      "channelId": "UCXVCgDuD_QCkI7gTKU7-tpg",
-      "durationSec": 283,
-      "publishedAt": "2026-09-02T11:00:05Z",
+      "id": "LNAH9vztxmg",
+      "title": "How To Draw A Forklift",
+      "channel": "Art for Kids Hub",
+      "channelId": "UC5XMF3Inoi8R9nSI8ChOsdQ",
+      "durationSec": 490,
+      "publishedAt": "2026-09-07T14:00:35Z",
       "topics": [
-        "animals",
-        "science"
+        "art"
       ],
       "profiles": [
         "little"
       ],
-      "thumbnail": "https://i.ytimg.com/vi/DrtV9bCD0uc/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/LNAH9vztxmg/hqdefault.jpg"
     },
     {
       "id": "Y133m0xtC-I",
@@ -269,21 +284,6 @@
         "little"
       ],
       "thumbnail": "https://i.ytimg.com/vi/Hh438OyVVXk/hqdefault.jpg"
-    },
-    {
-      "id": "1mSoi4N2J4U",
-      "title": "How To Draw Back-To-School Capybara Bean",
-      "channel": "Art for Kids Hub",
-      "channelId": "UC5XMF3Inoi8R9nSI8ChOsdQ",
-      "durationSec": 390,
-      "publishedAt": "2026-08-31T14:00:38Z",
-      "topics": [
-        "art"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/1mSoi4N2J4U/hqdefault.jpg"
     },
     {
       "id": "vpA5wuraL4Y",
@@ -6302,36 +6302,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/BwVZJCbdRQg/hqdefault.jpg"
-    },
-    {
-      "id": "8JspqaxSt2M",
-      "title": "Total solar eclipse explained",
-      "channel": "European Space Agency, ESA",
-      "channelId": "UCIBaDdAbGlFDeS33shmlD0A",
-      "durationSec": 435,
-      "publishedAt": "2026-07-24T14:25:44Z",
-      "topics": [
-        "space"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/8JspqaxSt2M/hqdefault.jpg"
-    },
-    {
-      "id": "-0vtuv1vywE",
-      "title": "How do astronauts brush their teeth in space? 🪥",
-      "channel": "European Space Agency, ESA",
-      "channelId": "UCIBaDdAbGlFDeS33shmlD0A",
-      "durationSec": 177,
-      "publishedAt": "2026-07-24T11:00:35Z",
-      "topics": [
-        "space"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/-0vtuv1vywE/hqdefault.jpg"
     },
     {
       "id": "YQ7DWNhjOpk",
@@ -13234,6 +13204,22 @@
       "thumbnail": "https://i.ytimg.com/vi/m6KAfSgFaAM/hqdefault.jpg"
     },
     {
+      "id": "lnRi9IRcx3s",
+      "title": "How to Draw Bee and Puppycat",
+      "channel": "Cartooning Club How to Draw",
+      "channelId": "UC-biucJWhM8HwjsQ96uoIUw",
+      "durationSec": 281,
+      "publishedAt": "2026-09-07T14:00:37Z",
+      "topics": [
+        "art",
+        "making"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/lnRi9IRcx3s/hqdefault.jpg"
+    },
+    {
       "id": "Lry-MD2rTv4",
       "title": "How To Draw Create Your Own Zombie | ART CAMP EP.5",
       "channel": "Cartooning Club How to Draw",
@@ -13840,22 +13826,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/KL_D6aALPZ8/hqdefault.jpg"
-    },
-    {
-      "id": "z7YUiPSGW9s",
-      "title": "How to Draw Partygoers | The Backrooms",
-      "channel": "Cartooning Club How to Draw",
-      "channelId": "UC-biucJWhM8HwjsQ96uoIUw",
-      "durationSec": 416,
-      "publishedAt": "2026-07-14T14:00:10Z",
-      "topics": [
-        "art",
-        "making"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/z7YUiPSGW9s/hqdefault.jpg"
     },
     {
       "id": "kf1QzxnISmk",
@@ -25924,6 +25894,22 @@
       "thumbnail": "https://i.ytimg.com/vi/kngoRLCpwgk/hqdefault.jpg"
     },
     {
+      "id": "dVb6j-Oeiko",
+      "title": "The \"new\" UN map",
+      "channel": "Geography Now",
+      "channelId": "UCmmPgObSUPw1HL2lq6H4ffA",
+      "durationSec": 144,
+      "publishedAt": "2026-09-06T19:19:16Z",
+      "topics": [
+        "geography",
+        "exploration"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/dVb6j-Oeiko/hqdefault.jpg"
+    },
+    {
       "id": "m9pmQqsai0I",
       "title": "Working on the next POPCARE INDEX video ...🇦🇿",
       "channel": "Geography Now",
@@ -26370,22 +26356,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/-ZvOTbC4FvU/hqdefault.jpg"
-    },
-    {
-      "id": "VCB4qUNfBMc",
-      "title": "Which country has the craziest origin story… SAN MARINO",
-      "channel": "Geography Now",
-      "channelId": "UCmmPgObSUPw1HL2lq6H4ffA",
-      "durationSec": 124,
-      "publishedAt": "2026-06-15T19:01:39Z",
-      "topics": [
-        "geography",
-        "exploration"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/VCB4qUNfBMc/hqdefault.jpg"
     },
     {
       "id": "3G1wZPeZZTQ",
@@ -41701,6 +41671,22 @@
       "thumbnail": "https://i.ytimg.com/vi/ITs2o3Klbss/hqdefault.jpg"
     },
     {
+      "id": "QJ9aiT-kXVU",
+      "title": "They Finally Built Good Transit!?",
+      "channel": "Not Just Bikes",
+      "channelId": "UC0intLFzLaudFG-xAvUEO-A",
+      "durationSec": 1740,
+      "publishedAt": "2026-09-06T13:01:50Z",
+      "topics": [
+        "geography",
+        "engineering"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/QJ9aiT-kXVU/hqdefault.jpg"
+    },
+    {
       "id": "E_SJ1NBMrH0",
       "title": "Is This Peak Hot-Weather Urbanism? (Singapore)",
       "channel": "Not Just Bikes",
@@ -42227,22 +42213,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/6dKiEY0UOtA/hqdefault.jpg"
-    },
-    {
-      "id": "JRbnBc-97Ps",
-      "title": "What is the \"Correct\" Speed Limit?",
-      "channel": "Not Just Bikes",
-      "channelId": "UC0intLFzLaudFG-xAvUEO-A",
-      "durationSec": 1354,
-      "publishedAt": "2024-05-05T09:59:50Z",
-      "topics": [
-        "geography",
-        "engineering"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/JRbnBc-97Ps/hqdefault.jpg"
     },
     {
       "id": "wgAlgu7BCoI",
@@ -66206,6 +66176,22 @@
       "thumbnail": "https://i.ytimg.com/vi/gNayb3Lox0E/hqdefault.jpg"
     },
     {
+      "id": "2ewj2RD-3fo",
+      "title": "SHELLEY RETURNS : FLOWER FARM TOUR / ZINNIAS / RESCUED DAHLIA CHECKUP / THE KITTENS FIRST CATCH",
+      "channel": "Guiding Green Thumbs",
+      "channelId": "UCcgYyMRPW7z4fbJabbSWQ8g",
+      "durationSec": 4695,
+      "publishedAt": "2026-09-06T13:46:12Z",
+      "topics": [
+        "nature",
+        "making"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/2ewj2RD-3fo/hqdefault.jpg"
+    },
+    {
       "id": "zHg7bZnzyTQ",
       "title": "NATIVE GARDEN TOUR / BLOOMING HIBISCUS SHRUBS / FINDING A FAT GROUNDHOG",
       "channel": "Guiding Green Thumbs",
@@ -66988,22 +66974,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/ImW6fia-YO0/hqdefault.jpg"
-    },
-    {
-      "id": "b_PUDpMtPR0",
-      "title": "FLOWER FARM GARDEN TOUR - PART #1 - THE BARN GARDENS",
-      "channel": "Guiding Green Thumbs",
-      "channelId": "UCcgYyMRPW7z4fbJabbSWQ8g",
-      "durationSec": 2352,
-      "publishedAt": "2025-09-07T10:51:02Z",
-      "topics": [
-        "nature",
-        "making"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/b_PUDpMtPR0/hqdefault.jpg"
     },
     {
       "id": "qHQZLIqthzo",
@@ -76374,21 +76344,6 @@
       "thumbnail": "https://i.ytimg.com/vi/1KP0p5uTRvY/hqdefault.jpg"
     },
     {
-      "id": "lvuZl3N1dQs",
-      "title": "Where to Invest First: 401k vs Roth IRA vs Everything Else",
-      "channel": "Easy Peasy Finance",
-      "channelId": "UCZl9ry5ew_2YeCQ6ECk8sxA",
-      "durationSec": 363,
-      "publishedAt": "2026-07-14T13:00:31Z",
-      "topics": [
-        "maths"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/lvuZl3N1dQs/hqdefault.jpg"
-    },
-    {
       "id": "kRbSO-ZCG4g",
       "title": "Loans for Kids",
       "channel": "Kid Economist",
@@ -78233,22 +78188,6 @@
       "thumbnail": "https://i.ytimg.com/vi/nK1OfAP1ijk/hqdefault.jpg"
     },
     {
-      "id": "6esueayY9oM",
-      "title": "Marine Biologist AMA: KPassionate Livestream",
-      "channel": "KPassionate",
-      "channelId": "UCUvSqEH92Fqn9uw1kmCfLGA",
-      "durationSec": 4130,
-      "publishedAt": "2026-08-31T01:38:03Z",
-      "topics": [
-        "animals",
-        "science"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/6esueayY9oM/hqdefault.jpg"
-    },
-    {
       "id": "cpWI7iz6z-s",
       "title": "I Thought Salmon DNA Facials Were Fake Science. Was I Wrong?",
       "channel": "KPassionate",
@@ -79015,6 +78954,22 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/jObcXvhZu_Q/hqdefault.jpg"
+    },
+    {
+      "id": "KMPGDoXqNPM",
+      "title": "The Science Behind the Self Aware Dog Talking With Buttons",
+      "channel": "KPassionate",
+      "channelId": "UCUvSqEH92Fqn9uw1kmCfLGA",
+      "durationSec": 642,
+      "publishedAt": "2024-01-27T14:30:06Z",
+      "topics": [
+        "animals",
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/KMPGDoXqNPM/hqdefault.jpg"
     },
     {
       "id": "ifiWUHQEK0g",
@@ -82873,6 +82828,22 @@
       "thumbnail": "https://i.ytimg.com/vi/GLVhXClV5QU/hqdefault.jpg"
     },
     {
+      "id": "jstKfv-HoIM",
+      "title": "That's Duck Wisdom! | Peep and the Big Wide World",
+      "channel": "Peep and the Big Wide World",
+      "channelId": "UCPq6g4Q4-SFMIJ048IXmupA",
+      "durationSec": 3798,
+      "publishedAt": "2026-09-06T15:00:21Z",
+      "topics": [
+        "science",
+        "nature"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/jstKfv-HoIM/hqdefault.jpg"
+    },
+    {
       "id": "Yn1EZzNBkKo",
       "title": "Peep's Color Quest | Peep and the Big Wide World",
       "channel": "Peep and the Big Wide World",
@@ -83831,22 +83802,6 @@
         "little"
       ],
       "thumbnail": "https://i.ytimg.com/vi/xpHOHE6qMEA/hqdefault.jpg"
-    },
-    {
-      "id": "khr8ZXxq7yE",
-      "title": "1 Hour of Vehicles Songs and Episodes for Preschool | Pretend to be a construction worker!",
-      "channel": "Super Simple Play with Caitie!",
-      "channelId": "UCxG6Tbopv4XcHfem65bgFeg",
-      "durationSec": 3420,
-      "publishedAt": "2026-03-17T13:01:33Z",
-      "topics": [
-        "music",
-        "making"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/khr8ZXxq7yE/hqdefault.jpg"
     },
     {
       "id": "8WS8SHWqooo",
@@ -84994,24 +84949,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/OYv-bFcQHQ0/hqdefault.jpg"
-    },
-    {
-      "id": "weCF5FH7tjA",
-      "title": "SHOW and TELL 8/19/26 #ShowandTell #adafruit #diy",
-      "channel": "Adafruit Industries",
-      "channelId": "UCpOlOeQjj7EsVnDh3zuCgsA",
-      "durationSec": 768,
-      "publishedAt": "2026-08-19T23:44:45Z",
-      "topics": [
-        "making",
-        "tech",
-        "engineering",
-        "coding"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/weCF5FH7tjA/hqdefault.jpg"
     },
     {
       "id": "VmBS2N1FzmE",
@@ -86700,12 +86637,12 @@
       "thumbnail": "https://i.ytimg.com/vi/XasThxf_YGo/hqdefault.jpg"
     },
     {
-      "id": "67XZMv2P9BM",
+      "id": "8LClqJ6x8cs",
       "title": "Kids Yoga LIVE 🌟 | Fun Yoga Adventures & Movement for Kids",
       "channel": "Cosmic Kids Yoga",
       "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
       "durationSec": 42896,
-      "publishedAt": "2026-09-06T00:04:06Z",
+      "publishedAt": "2026-09-07T13:30:28Z",
       "topics": [
         "reading",
         "nature"
@@ -86714,194 +86651,7 @@
         "little",
         "big"
       ],
-      "thumbnail": "https://i.ytimg.com/vi/67XZMv2P9BM/hqdefault.jpg"
-    },
-    {
-      "id": "ifSsqRJPCMM",
-      "title": "🔴 LIVE: Back to School Yoga for Kids! 🏫 | Pebbles, Skippy & More",
-      "channel": "Cosmic Kids Yoga",
-      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
-      "durationSec": 42897,
-      "publishedAt": "2026-09-06T07:56:22Z",
-      "topics": [
-        "reading",
-        "nature"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/ifSsqRJPCMM/hqdefault.jpg"
-    },
-    {
-      "id": "rPCAKIwgD60",
-      "title": "Kids Yoga LIVE 🌟 | Fun Yoga Adventures & Movement for Kids",
-      "channel": "Cosmic Kids Yoga",
-      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
-      "durationSec": 42899,
-      "publishedAt": "2026-09-06T00:03:20Z",
-      "topics": [
-        "reading",
-        "nature"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/rPCAKIwgD60/hqdefault.jpg"
-    },
-    {
-      "id": "tW-rfH2rH08",
-      "title": "🔴 LIVE: Back to School Yoga for Kids! 🏫 | Pebbles, Skippy & More",
-      "channel": "Cosmic Kids Yoga",
-      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
-      "durationSec": 42899,
-      "publishedAt": "2026-09-05T19:43:53Z",
-      "topics": [
-        "reading",
-        "nature"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/tW-rfH2rH08/hqdefault.jpg"
-    },
-    {
-      "id": "BSqHqr2ZCHk",
-      "title": "Kids Yoga LIVE 🌟 | Fun Yoga Adventures & Movement for Kids",
-      "channel": "Cosmic Kids Yoga",
-      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
-      "durationSec": 42896,
-      "publishedAt": "2026-09-05T11:54:37Z",
-      "topics": [
-        "reading",
-        "nature"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/BSqHqr2ZCHk/hqdefault.jpg"
-    },
-    {
-      "id": "RlbAU9kWi9w",
-      "title": "🔴 LIVE: Back to School Yoga for Kids! 🏫 | Pebbles, Skippy & More",
-      "channel": "Cosmic Kids Yoga",
-      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
-      "durationSec": 42896,
-      "publishedAt": "2026-09-05T08:37:29Z",
-      "topics": [
-        "reading",
-        "nature"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/RlbAU9kWi9w/hqdefault.jpg"
-    },
-    {
-      "id": "bJWN67FZivY",
-      "title": "Kids Yoga LIVE 🌟 | Fun Yoga Adventures & Movement for Kids",
-      "channel": "Cosmic Kids Yoga",
-      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
-      "durationSec": 42898,
-      "publishedAt": "2026-09-04T23:17:43Z",
-      "topics": [
-        "reading",
-        "nature"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/bJWN67FZivY/hqdefault.jpg"
-    },
-    {
-      "id": "frflUQbXa_o",
-      "title": "🔴 LIVE: Back to School Yoga for Kids! 🏫 | Pebbles, Skippy & More",
-      "channel": "Cosmic Kids Yoga",
-      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
-      "durationSec": 42897,
-      "publishedAt": "2026-09-04T19:42:54Z",
-      "topics": [
-        "reading",
-        "nature"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/frflUQbXa_o/hqdefault.jpg"
-    },
-    {
-      "id": "QjCx4X1aN1A",
-      "title": "Kids Yoga LIVE 🌟 | Fun Yoga Adventures & Movement for Kids",
-      "channel": "Cosmic Kids Yoga",
-      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
-      "durationSec": 42897,
-      "publishedAt": "2026-09-04T10:54:01Z",
-      "topics": [
-        "reading",
-        "nature"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/QjCx4X1aN1A/hqdefault.jpg"
-    },
-    {
-      "id": "YRWgqGFDUio",
-      "title": "🔴 LIVE: Back to School Yoga for Kids! 🏫 | Pebbles, Skippy & More",
-      "channel": "Cosmic Kids Yoga",
-      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
-      "durationSec": 42897,
-      "publishedAt": "2026-09-04T07:32:27Z",
-      "topics": [
-        "reading",
-        "nature"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/YRWgqGFDUio/hqdefault.jpg"
-    },
-    {
-      "id": "Hvr9OCJ_cJA",
-      "title": "Kids Yoga LIVE 🌟 | Fun Yoga Adventures & Movement for Kids",
-      "channel": "Cosmic Kids Yoga",
-      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
-      "durationSec": 42898,
-      "publishedAt": "2026-09-03T22:25:24Z",
-      "topics": [
-        "reading",
-        "nature"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/Hvr9OCJ_cJA/hqdefault.jpg"
-    },
-    {
-      "id": "JchpfErjVUk",
-      "title": "🔴 LIVE: Back to School Yoga for Kids! 🏫 | Pebbles, Skippy & More",
-      "channel": "Cosmic Kids Yoga",
-      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
-      "durationSec": 35047,
-      "publishedAt": "2026-09-03T19:34:13Z",
-      "topics": [
-        "reading",
-        "nature"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/JchpfErjVUk/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/8LClqJ6x8cs/hqdefault.jpg"
     },
     {
       "id": "jik718RMrTs",
@@ -87856,6 +87606,22 @@
       "thumbnail": "https://i.ytimg.com/vi/Ilr2DjYOfqA/hqdefault.jpg"
     },
     {
+      "id": "t7Oq2925CSM",
+      "title": "The Monster at the End of This Story with Grover and Elmo! | Sesame Street",
+      "channel": "Sesame Street",
+      "channelId": "UCoookXUzPciGrEZEXmh4Jjg",
+      "durationSec": 1805,
+      "publishedAt": "2026-09-07T11:30:25Z",
+      "topics": [
+        "reading",
+        "music"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/t7Oq2925CSM/hqdefault.jpg"
+    },
+    {
       "id": "4uhka2joSB0",
       "title": "Back to School with Elmo! 🎒 📓 🍎 | 2 Hours | Sesame Street",
       "channel": "Sesame Street",
@@ -88238,22 +88004,6 @@
         "little"
       ],
       "thumbnail": "https://i.ytimg.com/vi/YJ1SnN2unTY/hqdefault.jpg"
-    },
-    {
-      "id": "nwwZmHcYzsI",
-      "title": "Ball Pit Party Song with Elmo and Bounce Patrol! 🔴 🔵 🟡 | Sesame Street Songs 🎵",
-      "channel": "Sesame Street",
-      "channelId": "UCoookXUzPciGrEZEXmh4Jjg",
-      "durationSec": 166,
-      "publishedAt": "2026-07-08T11:30:39Z",
-      "topics": [
-        "reading",
-        "music"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/nwwZmHcYzsI/hqdefault.jpg"
     },
     {
       "id": "WlD2UN7gPmg",
