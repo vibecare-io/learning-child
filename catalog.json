@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-07T14:33:17.491Z",
+  "generatedAt": "2026-09-08T13:08:45.467Z",
   "profiles": {
     "little": {
       "label": "Ages 3-7"
@@ -195,22 +195,6 @@
       "thumbnail": "https://i.ytimg.com/vi/nrpF_O269s4/hqdefault.jpg"
     },
     {
-      "id": "1-XzGMIQss4",
-      "title": "Super Awesome Pets | Super Animals Full Episode | Nat Geo Kids",
-      "channel": "Nat Geo Kids",
-      "channelId": "UCXVCgDuD_QCkI7gTKU7-tpg",
-      "durationSec": 1272,
-      "publishedAt": "2026-09-03T11:00:03Z",
-      "topics": [
-        "animals",
-        "science"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/1-XzGMIQss4/hqdefault.jpg"
-    },
-    {
       "id": "LNAH9vztxmg",
       "title": "How To Draw A Forklift",
       "channel": "Art for Kids Hub",
@@ -286,6 +270,21 @@
       "thumbnail": "https://i.ytimg.com/vi/Hh438OyVVXk/hqdefault.jpg"
     },
     {
+      "id": "VPFWs5mwZbA",
+      "title": "Five Makes a Wish | Numberblocks COURSE - Level 2, Orange (S8 E8)",
+      "channel": "Numberblocks",
+      "channelId": "UCPlwvN0w4qFSP1FllALB92w",
+      "durationSec": 122,
+      "publishedAt": "2026-09-08T10:00:34Z",
+      "topics": [
+        "maths"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/VPFWs5mwZbA/hqdefault.jpg"
+    },
+    {
       "id": "vpA5wuraL4Y",
       "title": "The Numberblock 100 Special | Learn to Count for Kids Compilation | Number Cartoon | Numberblocks",
       "channel": "Numberblocks",
@@ -329,21 +328,6 @@
         "little"
       ],
       "thumbnail": "https://i.ytimg.com/vi/D28BHwgKi5Q/hqdefault.jpg"
-    },
-    {
-      "id": "8Zg6LdErx74",
-      "title": "Let's Do Some Rainbow Counting with Numberblock 7 | Learn to Count | Number Cartoon | Numberblocks",
-      "channel": "Numberblocks",
-      "channelId": "UCPlwvN0w4qFSP1FllALB92w",
-      "durationSec": 3432,
-      "publishedAt": "2026-09-03T10:00:20Z",
-      "topics": [
-        "maths"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/8Zg6LdErx74/hqdefault.jpg"
     },
     {
       "id": "BSdEiOYvKpE",
@@ -517,6 +501,21 @@
       "thumbnail": "https://i.ytimg.com/vi/JEPqrqNqkHw/hqdefault.jpg"
     },
     {
+      "id": "nZMyQBVBVqs",
+      "title": "Why Don’t We Use Mothballs Anymore?",
+      "channel": "SciShow",
+      "channelId": "UCZYTClx2T1of7BRZ86-8fow",
+      "durationSec": 681,
+      "publishedAt": "2026-09-07T17:00:22Z",
+      "topics": [
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/nZMyQBVBVqs/hqdefault.jpg"
+    },
+    {
       "id": "AzTJx-XBXGg",
       "title": "4 Things We Can Learn From Explosions",
       "channel": "SciShow",
@@ -560,21 +559,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/l0OVj6BfqgI/hqdefault.jpg"
-    },
-    {
-      "id": "uSfJXecof4M",
-      "title": "Why You Should Get Your DNA Sequenced After You Die",
-      "channel": "SciShow",
-      "channelId": "UCZYTClx2T1of7BRZ86-8fow",
-      "durationSec": 545,
-      "publishedAt": "2026-08-31T17:00:24Z",
-      "topics": [
-        "science"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/uSfJXecof4M/hqdefault.jpg"
     },
     {
       "id": "GlYgs6v2YfU",
@@ -6094,6 +6078,21 @@
       "thumbnail": "https://i.ytimg.com/vi/l_n8BV4vQ8k/hqdefault.jpg"
     },
     {
+      "id": "Dgfv64iMvm8",
+      "title": "BepiColombo says goodbye to its transfer module",
+      "channel": "European Space Agency, ESA",
+      "channelId": "UCIBaDdAbGlFDeS33shmlD0A",
+      "durationSec": 163,
+      "publishedAt": "2026-09-07T14:55:34Z",
+      "topics": [
+        "space"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/Dgfv64iMvm8/hqdefault.jpg"
+    },
+    {
       "id": "gF70orCmD1E",
       "title": "200 days in space, 150,000 push-ups later 💪🧑‍🚀",
       "channel": "European Space Agency, ESA",
@@ -6929,7 +6928,7 @@
     },
     {
       "id": "1EAWb80t1Jk",
-      "title": "We Finally Found the Universe's Missing Mass",
+      "title": "We've Finally Seen What Holds the Universe Together",
       "channel": "Astrum",
       "channelId": "UC-9b7aDP6ZN0coj9-xFnrtw",
       "durationSec": 1246,
@@ -13220,6 +13219,22 @@
       "thumbnail": "https://i.ytimg.com/vi/lnRi9IRcx3s/hqdefault.jpg"
     },
     {
+      "id": "rL9RxYuC50w",
+      "title": "How to Draw Morbius 🔴 LIVE",
+      "channel": "Cartooning Club How to Draw",
+      "channelId": "UC-biucJWhM8HwjsQ96uoIUw",
+      "durationSec": 5871,
+      "publishedAt": "2026-09-05T06:31:34Z",
+      "topics": [
+        "art",
+        "making"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/rL9RxYuC50w/hqdefault.jpg"
+    },
+    {
       "id": "Lry-MD2rTv4",
       "title": "How To Draw Create Your Own Zombie | ART CAMP EP.5",
       "channel": "Cartooning Club How to Draw",
@@ -13444,6 +13459,38 @@
       "thumbnail": "https://i.ytimg.com/vi/mD0m5azko1A/hqdefault.jpg"
     },
     {
+      "id": "XopfcE0tDRA",
+      "title": "Member-Only LIVE Workshop 🔴 The Odyssey",
+      "channel": "Cartooning Club How to Draw",
+      "channelId": "UC-biucJWhM8HwjsQ96uoIUw",
+      "durationSec": 5256,
+      "publishedAt": "2026-08-22T22:30:53Z",
+      "topics": [
+        "art",
+        "making"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/XopfcE0tDRA/hqdefault.jpg"
+    },
+    {
+      "id": "-VX9jq5AFs8",
+      "title": "How to Draw a Utah Raptor 🔴 LIVE Workshop",
+      "channel": "Cartooning Club How to Draw",
+      "channelId": "UC-biucJWhM8HwjsQ96uoIUw",
+      "durationSec": 7115,
+      "publishedAt": "2026-08-22T22:30:29Z",
+      "topics": [
+        "art",
+        "making"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/-VX9jq5AFs8/hqdefault.jpg"
+    },
+    {
       "id": "pStE85stTfQ",
       "title": "How to Draw Spiderman | Brand New Day",
       "channel": "Cartooning Club How to Draw",
@@ -13572,6 +13619,22 @@
       "thumbnail": "https://i.ytimg.com/vi/rbHZv822Nz8/hqdefault.jpg"
     },
     {
+      "id": "ee05tpTZw74",
+      "title": "How to Draw a Boat Still Life 🔥 LIVE drawing session",
+      "channel": "Cartooning Club How to Draw",
+      "channelId": "UC-biucJWhM8HwjsQ96uoIUw",
+      "durationSec": 4430,
+      "publishedAt": "2026-08-08T06:22:48Z",
+      "topics": [
+        "art",
+        "making"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/ee05tpTZw74/hqdefault.jpg"
+    },
+    {
       "id": "yo5UFFPH7DI",
       "title": "How to Draw Mystique | Xmen",
       "channel": "Cartooning Club How to Draw",
@@ -13604,6 +13667,22 @@
       "thumbnail": "https://i.ytimg.com/vi/TJLi-AzA7hs/hqdefault.jpg"
     },
     {
+      "id": "hEJv4xck2kM",
+      "title": "How to Draw Jake Sully 🔥LIVE drawing session",
+      "channel": "Cartooning Club How to Draw",
+      "channelId": "UC-biucJWhM8HwjsQ96uoIUw",
+      "durationSec": 5141,
+      "publishedAt": "2026-08-05T06:31:32Z",
+      "topics": [
+        "art",
+        "making"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/hEJv4xck2kM/hqdefault.jpg"
+    },
+    {
       "id": "HJsdRYhmq_U",
       "title": "How to Draw Vaporeon | Pokemon",
       "channel": "Cartooning Club How to Draw",
@@ -13620,6 +13699,22 @@
       "thumbnail": "https://i.ytimg.com/vi/HJsdRYhmq_U/hqdefault.jpg"
     },
     {
+      "id": "HuksO_DaHIw",
+      "title": "How to Draw a Sabretooth Tiger 🔴 LIVE session",
+      "channel": "Cartooning Club How to Draw",
+      "channelId": "UC-biucJWhM8HwjsQ96uoIUw",
+      "durationSec": 4280,
+      "publishedAt": "2026-08-01T06:44:25Z",
+      "topics": [
+        "art",
+        "making"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/HuksO_DaHIw/hqdefault.jpg"
+    },
+    {
       "id": "9DYyQozhS68",
       "title": "How to Draw Apocalypse | The Avengers",
       "channel": "Cartooning Club How to Draw",
@@ -13634,6 +13729,22 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/9DYyQozhS68/hqdefault.jpg"
+    },
+    {
+      "id": "W-tZnBH1nxI",
+      "title": "How to Draw a Dragon 🔴 LIVE session 🔥 ",
+      "channel": "Cartooning Club How to Draw",
+      "channelId": "UC-biucJWhM8HwjsQ96uoIUw",
+      "durationSec": 4241,
+      "publishedAt": "2026-07-30T06:22:20Z",
+      "topics": [
+        "art",
+        "making"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/W-tZnBH1nxI/hqdefault.jpg"
     },
     {
       "id": "IY2Fz4Kj2NI",
@@ -13684,6 +13795,22 @@
       "thumbnail": "https://i.ytimg.com/vi/FE5vjFTLa1Y/hqdefault.jpg"
     },
     {
+      "id": "q6g9K5mWY1A",
+      "title": "How to Draw Michael Jackson 🔴 LIVE session 🌟",
+      "channel": "Cartooning Club How to Draw",
+      "channelId": "UC-biucJWhM8HwjsQ96uoIUw",
+      "durationSec": 4877,
+      "publishedAt": "2026-07-25T06:28:11Z",
+      "topics": [
+        "art",
+        "making"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/q6g9K5mWY1A/hqdefault.jpg"
+    },
+    {
       "id": "Awh5dPQW6Pg",
       "title": "How to Draw Baby Peach | Super Mario",
       "channel": "Cartooning Club How to Draw",
@@ -13730,102 +13857,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/3MGHA9LMOf4/hqdefault.jpg"
-    },
-    {
-      "id": "CeDLdtDARgs",
-      "title": "How to Draw Mimikyu | Pokemon",
-      "channel": "Cartooning Club How to Draw",
-      "channelId": "UC-biucJWhM8HwjsQ96uoIUw",
-      "durationSec": 343,
-      "publishedAt": "2026-07-21T14:00:19Z",
-      "topics": [
-        "art",
-        "making"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/CeDLdtDARgs/hqdefault.jpg"
-    },
-    {
-      "id": "81AWMtNB1Vw",
-      "title": "How to Draw Black Power Ranger",
-      "channel": "Cartooning Club How to Draw",
-      "channelId": "UC-biucJWhM8HwjsQ96uoIUw",
-      "durationSec": 460,
-      "publishedAt": "2026-07-20T14:00:28Z",
-      "topics": [
-        "art",
-        "making"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/81AWMtNB1Vw/hqdefault.jpg"
-    },
-    {
-      "id": "I4krUHZ5DCc",
-      "title": "How to Draw a Dog | Border Collie Sketch",
-      "channel": "Cartooning Club How to Draw",
-      "channelId": "UC-biucJWhM8HwjsQ96uoIUw",
-      "durationSec": 1972,
-      "publishedAt": "2026-07-18T14:00:17Z",
-      "topics": [
-        "art",
-        "making"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/I4krUHZ5DCc/hqdefault.jpg"
-    },
-    {
-      "id": "eUkjX3SWmyo",
-      "title": "How to Draw The Flash | Justice League",
-      "channel": "Cartooning Club How to Draw",
-      "channelId": "UC-biucJWhM8HwjsQ96uoIUw",
-      "durationSec": 445,
-      "publishedAt": "2026-07-17T14:00:10Z",
-      "topics": [
-        "art",
-        "making"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/eUkjX3SWmyo/hqdefault.jpg"
-    },
-    {
-      "id": "t7aIg6rIYyk",
-      "title": "How to Draw Baby Luigi | Super Mario",
-      "channel": "Cartooning Club How to Draw",
-      "channelId": "UC-biucJWhM8HwjsQ96uoIUw",
-      "durationSec": 398,
-      "publishedAt": "2026-07-16T14:00:27Z",
-      "topics": [
-        "art",
-        "making"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/t7aIg6rIYyk/hqdefault.jpg"
-    },
-    {
-      "id": "KL_D6aALPZ8",
-      "title": "How to Draw Donkey | Shrek",
-      "channel": "Cartooning Club How to Draw",
-      "channelId": "UC-biucJWhM8HwjsQ96uoIUw",
-      "durationSec": 374,
-      "publishedAt": "2026-07-15T14:00:39Z",
-      "topics": [
-        "art",
-        "making"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/KL_D6aALPZ8/hqdefault.jpg"
     },
     {
       "id": "kf1QzxnISmk",
@@ -18169,6 +18200,23 @@
       "thumbnail": "https://i.ytimg.com/vi/5UTXz9Xclr4/hqdefault.jpg"
     },
     {
+      "id": "aw83pKNs3gA",
+      "title": "Deep-Sea Biodiversity on McDonnell Seamount | Nautilus Live",
+      "channel": "EVNautilus",
+      "channelId": "UC1KOOWHthbQVXH2kZue3_xA",
+      "durationSec": 327,
+      "publishedAt": "2026-09-07T19:00:22Z",
+      "topics": [
+        "nature",
+        "exploration"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/aw83pKNs3gA/hqdefault.jpg"
+    },
+    {
       "id": "kVWqVx4mhh0",
       "title": "Supersized Sponge Stretches in Deep Near Wake Atoll  | Nautilus Live",
       "channel": "EVNautilus",
@@ -19693,7 +19741,7 @@
     },
     {
       "id": "XZvdHPMUgug",
-      "title": "Why Cork is the World's BEST material! | Maddie Moate",
+      "title": "Why Cork Is The World's BEST Material! | Maddie Moate",
       "channel": "Maddie Moate",
       "channelId": "UCQ0_JQL4wdQd-Xe5hC4PwTg",
       "durationSec": 443,
@@ -25894,6 +25942,22 @@
       "thumbnail": "https://i.ytimg.com/vi/kngoRLCpwgk/hqdefault.jpg"
     },
     {
+      "id": "CpaMy8WYhNI",
+      "title": "EVERYTHING in OCEANIA",
+      "channel": "Geography Now",
+      "channelId": "UCmmPgObSUPw1HL2lq6H4ffA",
+      "durationSec": 129,
+      "publishedAt": "2026-09-08T00:52:35Z",
+      "topics": [
+        "geography",
+        "exploration"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/CpaMy8WYhNI/hqdefault.jpg"
+    },
+    {
       "id": "dVb6j-Oeiko",
       "title": "The \"new\" UN map",
       "channel": "Geography Now",
@@ -26340,22 +26404,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/5KasKGzXy-o/hqdefault.jpg"
-    },
-    {
-      "id": "-ZvOTbC4FvU",
-      "title": "What is CABO VERDE? (Home of Vozinha)",
-      "channel": "Geography Now",
-      "channelId": "UCmmPgObSUPw1HL2lq6H4ffA",
-      "durationSec": 176,
-      "publishedAt": "2026-06-18T22:10:24Z",
-      "topics": [
-        "geography",
-        "exploration"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/-ZvOTbC4FvU/hqdefault.jpg"
     },
     {
       "id": "3G1wZPeZZTQ",
@@ -28435,6 +28483,22 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/-UfVnQ-cF2E/hqdefault.jpg"
+    },
+    {
+      "id": "ei-y8-VST5Y",
+      "title": "'Petey Perfectpants and the Silly Sock Puppet Problem' read by Adam Brody",
+      "channel": "StorylineOnline",
+      "channelId": "UCnBdzaRy-Ky9Vh54XJlFz1Q",
+      "durationSec": 415,
+      "publishedAt": "2026-09-08T07:01:10Z",
+      "topics": [
+        "reading"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/ei-y8-VST5Y/hqdefault.jpg"
     },
     {
       "id": "8yGt87KX5_0",
@@ -48095,6 +48159,21 @@
       "thumbnail": "https://i.ytimg.com/vi/jvebwDXmBSw/hqdefault.jpg"
     },
     {
+      "id": "E05ZbgMlGKM",
+      "title": "Interrogatives in Latin",
+      "channel": "Professor Dave Explains",
+      "channelId": "UC0cd_-e49hZpWLH3UIwoWRA",
+      "durationSec": 462,
+      "publishedAt": "2026-09-07T15:21:32Z",
+      "topics": [
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/E05ZbgMlGKM/hqdefault.jpg"
+    },
+    {
       "id": "a07b6HQuqNg",
       "title": "Cassie Coppersmith Sucks a Lot (More Pseudoarcheology Slop)",
       "channel": "Professor Dave Explains",
@@ -48828,21 +48907,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/Z6HW-q0g4X8/hqdefault.jpg"
-    },
-    {
-      "id": "TADy-f0xzMw",
-      "title": "Discussion With Planet Peterson (2026 Bingo Card Revisited + Science Optimism)",
-      "channel": "Professor Dave Explains",
-      "channelId": "UC0cd_-e49hZpWLH3UIwoWRA",
-      "durationSec": 3492,
-      "publishedAt": "2026-06-16T14:00:17Z",
-      "topics": [
-        "science"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/TADy-f0xzMw/hqdefault.jpg"
     },
     {
       "id": "BjyJlN1npdw",
@@ -54312,6 +54376,23 @@
       "thumbnail": "https://i.ytimg.com/vi/ujfW_-1D27s/hqdefault.jpg"
     },
     {
+      "id": "SajpK8E8-_4",
+      "title": "Raising Kids Who Can Handle Hard Things with Dr. Kathryn Hecht [Ep 137]",
+      "channel": "Katie Kimball",
+      "channelId": "UCT1B3Tb7Bit_S7EWkhSba4A",
+      "durationSec": 1268,
+      "publishedAt": "2026-09-08T10:00:04Z",
+      "topics": [
+        "making",
+        "science"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/SajpK8E8-_4/hqdefault.jpg"
+    },
+    {
       "id": "WBBnVx5ghIg",
       "title": "Is the Berkey Water Filter the Right Choice for You?",
       "channel": "Katie Kimball",
@@ -54990,23 +55071,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/tZ14m5-Za74/hqdefault.jpg"
-    },
-    {
-      "id": "jhUM-pLaDuQ",
-      "title": "Navigating Holiday Stress with JoAnn Crohn [Ep 92]",
-      "channel": "Katie Kimball",
-      "channelId": "UCT1B3Tb7Bit_S7EWkhSba4A",
-      "durationSec": 2166,
-      "publishedAt": "2025-10-28T10:01:21Z",
-      "topics": [
-        "making",
-        "science"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/jhUM-pLaDuQ/hqdefault.jpg"
     },
     {
       "id": "p2NnOBFRf8w",
@@ -57094,6 +57158,23 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/VkYITGZccMs/hqdefault.jpg"
+    },
+    {
+      "id": "dciHmFX4ois",
+      "title": "The Peculiarity of Whale Shark Eyes - Shark Week 2026",
+      "channel": "Henry the PaleoGuy",
+      "channelId": "UCN1rSOJNzfjzPOsPXRI-hGA",
+      "durationSec": 355,
+      "publishedAt": "2026-09-07T20:49:23Z",
+      "topics": [
+        "science",
+        "animals",
+        "nature"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/dciHmFX4ois/hqdefault.jpg"
     },
     {
       "id": "rgybx7I2-yU",
@@ -68828,6 +68909,22 @@
       "thumbnail": "https://i.ytimg.com/vi/BQwZCTtp3r0/hqdefault.jpg"
     },
     {
+      "id": "3pDVqF3W0zc",
+      "title": "Krakatau Volcano Update; Watch a 5,000 Ft Lava Fountain, Geologist Analysis",
+      "channel": "GeologyHub",
+      "channelId": "UCYeGh5VML5XPr5jYnzh3J6g",
+      "durationSec": 322,
+      "publishedAt": "2026-09-07T22:30:32Z",
+      "topics": [
+        "science",
+        "geography"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/3pDVqF3W0zc/hqdefault.jpg"
+    },
+    {
       "id": "GFdRyNeKcxU",
       "title": "Major Explosive Eruption Occurs at Krakatau; Largest since 1883, Geologist Analysis",
       "channel": "GeologyHub",
@@ -69562,22 +69659,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/g1LYFC7-sk4/hqdefault.jpg"
-    },
-    {
-      "id": "ZwjM_3Vt4m0",
-      "title": "Ukraine Earthquake Update; 6 Quakes Strike Crimea",
-      "channel": "GeologyHub",
-      "channelId": "UCYeGh5VML5XPr5jYnzh3J6g",
-      "durationSec": 245,
-      "publishedAt": "2026-06-24T19:00:25Z",
-      "topics": [
-        "science",
-        "geography"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/ZwjM_3Vt4m0/hqdefault.jpg"
     },
     {
       "id": "jQew1IK3nP8",
@@ -74829,6 +74910,22 @@
       "thumbnail": "https://i.ytimg.com/vi/fL6w95YvUQk/hqdefault.jpg"
     },
     {
+      "id": "hE1i8qQvGF8",
+      "title": "How far can I walk from my house surviving only from money I find on the ground? [PART 1]",
+      "channel": "GeoWizard",
+      "channelId": "UCW5OrUZ4SeUYkUg1XqcjFYA",
+      "durationSec": 2004,
+      "publishedAt": "2026-09-07T18:16:41Z",
+      "topics": [
+        "geography",
+        "exploration"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/hE1i8qQvGF8/hqdefault.jpg"
+    },
+    {
       "id": "S_Yno1mzOa8",
       "title": "Is this the photo that finally defeats me? [GEO DETECTIVE #40]",
       "channel": "GeoWizard",
@@ -75613,20 +75710,20 @@
       "thumbnail": "https://i.ytimg.com/vi/wTy5FQo87RQ/hqdefault.jpg"
     },
     {
-      "id": "qqwd79cZs8s",
-      "title": "How many of the 272 London underground stations can I name?",
-      "channel": "GeoWizard",
-      "channelId": "UCW5OrUZ4SeUYkUg1XqcjFYA",
-      "durationSec": 2321,
-      "publishedAt": "2024-10-03T19:30:07Z",
+      "id": "S6LvtvIxRB4",
+      "title": "The Best Ways Kids Can Make Money",
+      "channel": "Biz Kid$ (TV Series)",
+      "channelId": "UCufmiGK0I_9g_iwUR-E8mwA",
+      "durationSec": 1728,
+      "publishedAt": "2026-09-08T13:00:00Z",
       "topics": [
-        "geography",
-        "exploration"
+        "maths",
+        "making"
       ],
       "profiles": [
         "big"
       ],
-      "thumbnail": "https://i.ytimg.com/vi/qqwd79cZs8s/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/S6LvtvIxRB4/hqdefault.jpg"
     },
     {
       "id": "4AtWZZafdhQ",
@@ -76237,6 +76334,21 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/xaUKgnhZ9y4/hqdefault.jpg"
+    },
+    {
+      "id": "XDSwCXt85xw",
+      "title": "FAFSA Explained for Beginners (and How to Maximize Your Aid)",
+      "channel": "Easy Peasy Finance",
+      "channelId": "UCZl9ry5ew_2YeCQ6ECk8sxA",
+      "durationSec": 258,
+      "publishedAt": "2026-09-08T13:00:12Z",
+      "topics": [
+        "maths"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/XDSwCXt85xw/hqdefault.jpg"
     },
     {
       "id": "xraRKbTmY04",
@@ -82828,6 +82940,22 @@
       "thumbnail": "https://i.ytimg.com/vi/GLVhXClV5QU/hqdefault.jpg"
     },
     {
+      "id": "KcvZ7jXc1Xs",
+      "title": "Reflection Affection | Peep and the Big Wide World",
+      "channel": "Peep and the Big Wide World",
+      "channelId": "UCPq6g4Q4-SFMIJ048IXmupA",
+      "durationSec": 644,
+      "publishedAt": "2026-09-07T15:00:04Z",
+      "topics": [
+        "science",
+        "nature"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/KcvZ7jXc1Xs/hqdefault.jpg"
+    },
+    {
       "id": "jstKfv-HoIM",
       "title": "That's Duck Wisdom! | Peep and the Big Wide World",
       "channel": "Peep and the Big Wide World",
@@ -83514,22 +83642,6 @@
         "little"
       ],
       "thumbnail": "https://i.ytimg.com/vi/vejf8hc7vNc/hqdefault.jpg"
-    },
-    {
-      "id": "GvrS8tWC5Gk",
-      "title": "The Real Decoy | Peep and the Big Wide World",
-      "channel": "Peep and the Big Wide World",
-      "channelId": "UCPq6g4Q4-SFMIJ048IXmupA",
-      "durationSec": 645,
-      "publishedAt": "2026-07-29T15:00:18Z",
-      "topics": [
-        "science",
-        "nature"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/GvrS8tWC5Gk/hqdefault.jpg"
     },
     {
       "id": "9IaCGypvb7Y",
@@ -84931,24 +85043,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/BPg6TSSUDps/hqdefault.jpg"
-    },
-    {
-      "id": "OYv-bFcQHQ0",
-      "title": "Build a D20 gaming dye that tells you what number you rolled #adafruit ##3dprinting",
-      "channel": "Adafruit Industries",
-      "channelId": "UCpOlOeQjj7EsVnDh3zuCgsA",
-      "durationSec": 123,
-      "publishedAt": "2026-08-21T11:48:07Z",
-      "topics": [
-        "making",
-        "tech",
-        "engineering",
-        "coding"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/OYv-bFcQHQ0/hqdefault.jpg"
     },
     {
       "id": "VmBS2N1FzmE",
@@ -86635,23 +86729,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/XasThxf_YGo/hqdefault.jpg"
-    },
-    {
-      "id": "8LClqJ6x8cs",
-      "title": "Kids Yoga LIVE 🌟 | Fun Yoga Adventures & Movement for Kids",
-      "channel": "Cosmic Kids Yoga",
-      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
-      "durationSec": 42896,
-      "publishedAt": "2026-09-07T13:30:28Z",
-      "topics": [
-        "reading",
-        "nature"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/8LClqJ6x8cs/hqdefault.jpg"
     },
     {
       "id": "jik718RMrTs",
