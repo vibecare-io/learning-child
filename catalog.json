@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-08T13:08:45.467Z",
+  "generatedAt": "2026-09-09T13:13:38.705Z",
   "profiles": {
     "little": {
       "label": "Ages 3-7"
@@ -131,6 +131,38 @@
       "thumbnail": "https://i.ytimg.com/vi/kKqd0_cydZM/hqdefault.jpg"
     },
     {
+      "id": "pXFR6RQ6JXk",
+      "title": "What if You Could Speak Chipmunk?! 🐿️ | You Wanna Be a What?! | Nat Geo Kids",
+      "channel": "Nat Geo Kids",
+      "channelId": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "durationSec": 126,
+      "publishedAt": "2026-09-09T13:00:01Z",
+      "topics": [
+        "animals",
+        "science"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/pXFR6RQ6JXk/hqdefault.jpg"
+    },
+    {
+      "id": "7IVHtph87pw",
+      "title": "Lion vs. Giraffe vs. Zebra! | Whoa Factor | Nat Geo Kids",
+      "channel": "Nat Geo Kids",
+      "channelId": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "durationSec": 323,
+      "publishedAt": "2026-09-09T11:00:11Z",
+      "topics": [
+        "animals",
+        "science"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/7IVHtph87pw/hqdefault.jpg"
+    },
+    {
       "id": "zwNXQ6fNnno",
       "title": "Your Brain's Hidden Secrets 🧠 | Brain Games Full Episode Compilation | Nat Geo Kids",
       "channel": "Nat Geo Kids",
@@ -179,20 +211,19 @@
       "thumbnail": "https://i.ytimg.com/vi/JVLSZd27mo4/hqdefault.jpg"
     },
     {
-      "id": "nrpF_O269s4",
-      "title": "Will Gilgamesh Find the Key to Eternal Life?! | Greeking Out Podcast | S4 E6 FULL EP | Nat Geo Kids",
-      "channel": "Nat Geo Kids",
-      "channelId": "UCXVCgDuD_QCkI7gTKU7-tpg",
-      "durationSec": 1628,
-      "publishedAt": "2026-09-04T11:00:13Z",
+      "id": "1dsLJNDn45I",
+      "title": "How To Draw School Lunch",
+      "channel": "Art for Kids Hub",
+      "channelId": "UC5XMF3Inoi8R9nSI8ChOsdQ",
+      "durationSec": 521,
+      "publishedAt": "2026-09-08T14:00:18Z",
       "topics": [
-        "animals",
-        "science"
+        "art"
       ],
       "profiles": [
         "little"
       ],
-      "thumbnail": "https://i.ytimg.com/vi/nrpF_O269s4/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/1dsLJNDn45I/hqdefault.jpg"
     },
     {
       "id": "LNAH9vztxmg",
@@ -255,21 +286,6 @@
       "thumbnail": "https://i.ytimg.com/vi/nWZDqKeoxy4/hqdefault.jpg"
     },
     {
-      "id": "Hh438OyVVXk",
-      "title": "How To Draw A Classroom Pet Hamster",
-      "channel": "Art for Kids Hub",
-      "channelId": "UC5XMF3Inoi8R9nSI8ChOsdQ",
-      "durationSec": 552,
-      "publishedAt": "2026-09-01T14:00:17Z",
-      "topics": [
-        "art"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/Hh438OyVVXk/hqdefault.jpg"
-    },
-    {
       "id": "VPFWs5mwZbA",
       "title": "Five Makes a Wish | Numberblocks COURSE - Level 2, Orange (S8 E8)",
       "channel": "Numberblocks",
@@ -315,19 +331,20 @@
       "thumbnail": "https://i.ytimg.com/vi/hidvKz9eUqo/hqdefault.jpg"
     },
     {
-      "id": "D28BHwgKi5Q",
-      "title": "I’m a Super Sorter | Learn to Count | Numberblocks",
-      "channel": "Numberblocks",
-      "channelId": "UCPlwvN0w4qFSP1FllALB92w",
-      "durationSec": 239,
-      "publishedAt": "2026-09-04T08:55:13Z",
+      "id": "_gP3aXvNmv8",
+      "title": "Ever walk into a room and forget what you were doing? - Gabriel Radvansky",
+      "channel": "TED-Ed",
+      "channelId": "UCsooa4yRKGN_zEE8iknghZA",
+      "durationSec": 345,
+      "publishedAt": "2026-09-08T15:00:17Z",
       "topics": [
-        "maths"
+        "science",
+        "history"
       ],
       "profiles": [
-        "little"
+        "big"
       ],
-      "thumbnail": "https://i.ytimg.com/vi/D28BHwgKi5Q/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/_gP3aXvNmv8/hqdefault.jpg"
     },
     {
       "id": "BSdEiOYvKpE",
@@ -410,22 +427,6 @@
       "thumbnail": "https://i.ytimg.com/vi/2A1IEBFt6Xg/hqdefault.jpg"
     },
     {
-      "id": "-61qDRPG3to",
-      "title": "The fastest way to board a plane, according to mathematics - Rachel Yang",
-      "channel": "TED-Ed",
-      "channelId": "UCsooa4yRKGN_zEE8iknghZA",
-      "durationSec": 358,
-      "publishedAt": "2026-08-04T15:00:09Z",
-      "topics": [
-        "science",
-        "history"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/-61qDRPG3to/hqdefault.jpg"
-    },
-    {
       "id": "A020pGO5MBs",
       "title": "The Immortal Kangaroo Sequence - Numberphile",
       "channel": "Numberphile",
@@ -501,6 +502,21 @@
       "thumbnail": "https://i.ytimg.com/vi/JEPqrqNqkHw/hqdefault.jpg"
     },
     {
+      "id": "LLNaEJZx_uU",
+      "title": "The Stinky Fish Sauce Ancient Romans Couldn’t Live Without",
+      "channel": "SciShow",
+      "channelId": "UCZYTClx2T1of7BRZ86-8fow",
+      "durationSec": 834,
+      "publishedAt": "2026-09-08T17:00:14Z",
+      "topics": [
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/LLNaEJZx_uU/hqdefault.jpg"
+    },
+    {
       "id": "nZMyQBVBVqs",
       "title": "Why Don’t We Use Mothballs Anymore?",
       "channel": "SciShow",
@@ -544,21 +560,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/mlft34vjImg/hqdefault.jpg"
-    },
-    {
-      "id": "l0OVj6BfqgI",
-      "title": "These Rocks Are Older Than the Sun",
-      "channel": "SciShow",
-      "channelId": "UCZYTClx2T1of7BRZ86-8fow",
-      "durationSec": 768,
-      "publishedAt": "2026-09-01T17:00:11Z",
-      "topics": [
-        "science"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/l0OVj6BfqgI/hqdefault.jpg"
     },
     {
       "id": "GlYgs6v2YfU",
@@ -6078,6 +6079,21 @@
       "thumbnail": "https://i.ytimg.com/vi/l_n8BV4vQ8k/hqdefault.jpg"
     },
     {
+      "id": "WJqWGdWERqk",
+      "title": "MTM's selfie footage of BepiColombo's eight-year journey",
+      "channel": "European Space Agency, ESA",
+      "channelId": "UCIBaDdAbGlFDeS33shmlD0A",
+      "durationSec": 268,
+      "publishedAt": "2026-09-09T10:00:05Z",
+      "topics": [
+        "space"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/WJqWGdWERqk/hqdefault.jpg"
+    },
+    {
       "id": "Dgfv64iMvm8",
       "title": "BepiColombo says goodbye to its transfer module",
       "channel": "European Space Agency, ESA",
@@ -6288,23 +6304,8 @@
       "thumbnail": "https://i.ytimg.com/vi/NuBIAAG6MTM/hqdefault.jpg"
     },
     {
-      "id": "BwVZJCbdRQg",
-      "title": "Sophie explains torque in space 🔄 [French with English subtitles]",
-      "channel": "European Space Agency, ESA",
-      "channelId": "UCIBaDdAbGlFDeS33shmlD0A",
-      "durationSec": 180,
-      "publishedAt": "2026-07-27T15:00:02Z",
-      "topics": [
-        "space"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/BwVZJCbdRQg/hqdefault.jpg"
-    },
-    {
       "id": "YQ7DWNhjOpk",
-      "title": "Mercury Could Be Worth 3 Octillion Dollars",
+      "title": "Why Is the Closest Planet to the Sun So Cold?",
       "channel": "Astrum",
       "channelId": "UC-9b7aDP6ZN0coj9-xFnrtw",
       "durationSec": 1688,
@@ -9540,21 +9541,6 @@
         "little"
       ],
       "thumbnail": "https://i.ytimg.com/vi/OjmWon9KebI/hqdefault.jpg"
-    },
-    {
-      "id": "806tA-GZWwE",
-      "title": "If You Like Pasta + More | Bumble Nums + Kids Songs & Nursery Rhymes | Super Simple Songs",
-      "channel": "Super Simple Songs - Kids Songs",
-      "channelId": "UCLsooMJoIpl_7ux2jvdPB-Q",
-      "durationSec": 3718,
-      "publishedAt": "2025-07-24T14:00:22Z",
-      "topics": [
-        "music"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/806tA-GZWwE/hqdefault.jpg"
     },
     {
       "id": "eg_kXqeR15Y",
@@ -13203,6 +13189,22 @@
       "thumbnail": "https://i.ytimg.com/vi/m6KAfSgFaAM/hqdefault.jpg"
     },
     {
+      "id": "BO3fPPpjTBY",
+      "title": "How to Draw Lumiere | Beauty and the Beast",
+      "channel": "Cartooning Club How to Draw",
+      "channelId": "UC-biucJWhM8HwjsQ96uoIUw",
+      "durationSec": 496,
+      "publishedAt": "2026-09-08T14:00:26Z",
+      "topics": [
+        "art",
+        "making"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/BO3fPPpjTBY/hqdefault.jpg"
+    },
+    {
       "id": "lnRi9IRcx3s",
       "title": "How to Draw Bee and Puppycat",
       "channel": "Cartooning Club How to Draw",
@@ -13825,38 +13827,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/Awh5dPQW6Pg/hqdefault.jpg"
-    },
-    {
-      "id": "Jr3D-wpel5Q",
-      "title": "How to Draw a Lion 🔴 LIVE session 🔥 ",
-      "channel": "Cartooning Club How to Draw",
-      "channelId": "UC-biucJWhM8HwjsQ96uoIUw",
-      "durationSec": 3823,
-      "publishedAt": "2026-07-23T06:19:50Z",
-      "topics": [
-        "art",
-        "making"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/Jr3D-wpel5Q/hqdefault.jpg"
-    },
-    {
-      "id": "3MGHA9LMOf4",
-      "title": "How to Draw Lilypad | Toy Story 5",
-      "channel": "Cartooning Club How to Draw",
-      "channelId": "UC-biucJWhM8HwjsQ96uoIUw",
-      "durationSec": 346,
-      "publishedAt": "2026-07-22T14:00:26Z",
-      "topics": [
-        "art",
-        "making"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/3MGHA9LMOf4/hqdefault.jpg"
     },
     {
       "id": "kf1QzxnISmk",
@@ -19911,7 +19881,7 @@
     },
     {
       "id": "CVm9L48HhP8",
-      "title": "The ULTIMATE Gingerbread Spice Hunt | Maddie Moate",
+      "title": "A SPICY Christmas GINGERBREAD HUNT! | Maddie Moate",
       "channel": "Maddie Moate",
       "channelId": "UCQ0_JQL4wdQd-Xe5hC4PwTg",
       "durationSec": 982,
@@ -20027,23 +19997,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/KOqtyZ8jfX8/hqdefault.jpg"
-    },
-    {
-      "id": "Niyx2bLoMpI",
-      "title": "3 Easy Halloween Face Paints 🧙‍♀️💀🎃 | Maddie Moate",
-      "channel": "Maddie Moate",
-      "channelId": "UCQ0_JQL4wdQd-Xe5hC4PwTg",
-      "durationSec": 742,
-      "publishedAt": "2025-10-09T14:27:29Z",
-      "topics": [
-        "science",
-        "nature"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/Niyx2bLoMpI/hqdefault.jpg"
     },
     {
       "id": "KT3vyVBacSA",
@@ -29638,6 +29591,21 @@
       "thumbnail": "https://i.ytimg.com/vi/jG50Un1mvy0/hqdefault.jpg"
     },
     {
+      "id": "HUG74RMGYBs",
+      "title": "Fireboat | true story read aloud | 9/11 children books read aloud",
+      "channel": "KidTimeStoryTime",
+      "channelId": "UCEPsNDUhUm-7yZhUjQQNqwQ",
+      "durationSec": 698,
+      "publishedAt": "2026-09-09T13:00:35Z",
+      "topics": [
+        "reading"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/HUG74RMGYBs/hqdefault.jpg"
+    },
+    {
       "id": "KuGCu-BqxpQ",
       "title": "The Naughty Bench | school humor read aloud | hard day at school story",
       "channel": "KidTimeStoryTime",
@@ -30373,21 +30341,6 @@
       "thumbnail": "https://i.ytimg.com/vi/O9V8ypewMZg/hqdefault.jpg"
     },
     {
-      "id": "nwEFRu-gVdU",
-      "title": "DOGGYLAND Affirmations Read Aloud | Snoop Dogg Affirmations for Kids | Doggyland read aloud",
-      "channel": "KidTimeStoryTime",
-      "channelId": "UCEPsNDUhUm-7yZhUjQQNqwQ",
-      "durationSec": 510,
-      "publishedAt": "2026-02-24T14:00:00Z",
-      "topics": [
-        "reading"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/nwEFRu-gVdU/hqdefault.jpg"
-    },
-    {
       "id": "bEtF1PgsYr4",
       "title": "Jasper G and the Grumpity Grumps! | Read Aloud Kids Book | Vooks Narrated Storybooks",
       "channel": "Vooks - Stories and Read Alouds for Kids",
@@ -30943,6 +30896,21 @@
       "thumbnail": "https://i.ytimg.com/vi/BVhT45lRsW8/hqdefault.jpg"
     },
     {
+      "id": "5a5QLfcFTeA",
+      "title": "Time to Read! - Go All In 📖🌟 | Alphablocks Phonics Song for Kids | Alphablocks",
+      "channel": "Alphablocks",
+      "channelId": "UC_qs3c0ehDvZkbiEbOj6Drg",
+      "durationSec": 192,
+      "publishedAt": "2026-09-08T16:15:09Z",
+      "topics": [
+        "reading"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/5a5QLfcFTeA/hqdefault.jpg"
+    },
+    {
       "id": "0G7aJPzZKAI",
       "title": "Long Vowels OE O_E LONG O | Lesson Twenty Eight - Phonics Made Easy | Alphablocks",
       "channel": "Alphablocks",
@@ -31001,21 +30969,6 @@
         "little"
       ],
       "thumbnail": "https://i.ytimg.com/vi/QOihCOo897g/hqdefault.jpg"
-    },
-    {
-      "id": "VF26MOuZbDQ",
-      "title": "Time to Read! - Go All In 📖🌟 | Alphablocks Phonics Song for Kids | Alphablocks",
-      "channel": "Alphablocks",
-      "channelId": "UC_qs3c0ehDvZkbiEbOj6Drg",
-      "durationSec": 192,
-      "publishedAt": "2026-09-02T11:00:17Z",
-      "topics": [
-        "reading"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/VF26MOuZbDQ/hqdefault.jpg"
     },
     {
       "id": "Bee-BDdivVY",
@@ -33969,125 +33922,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/h5PvLB5gZkg/hqdefault.jpg"
-    },
-    {
-      "id": "l0w-qjYe9dQ",
-      "title": "Getting Started with CodeAI: Creating a Classroom Section",
-      "channel": "CodeAI",
-      "channelId": "UCJyEBMU1xVP2be1-AoGS1BA",
-      "durationSec": 364,
-      "publishedAt": "2024-06-24T13:00:46Z",
-      "topics": [
-        "coding",
-        "tech"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/l0w-qjYe9dQ/hqdefault.jpg"
-    },
-    {
-      "id": "hrFfvUBBWhU",
-      "title": "Getting Started with CodeAI: Basic Features",
-      "channel": "CodeAI",
-      "channelId": "UCJyEBMU1xVP2be1-AoGS1BA",
-      "durationSec": 323,
-      "publishedAt": "2024-06-24T13:00:43Z",
-      "topics": [
-        "coding",
-        "tech"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/hrFfvUBBWhU/hqdefault.jpg"
-    },
-    {
-      "id": "cl-zQjJKYX4",
-      "title": "Getting Started with CodeAI: Student Experience",
-      "channel": "CodeAI",
-      "channelId": "UCJyEBMU1xVP2be1-AoGS1BA",
-      "durationSec": 254,
-      "publishedAt": "2024-06-24T13:00:39Z",
-      "topics": [
-        "coding",
-        "tech"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/cl-zQjJKYX4/hqdefault.jpg"
-    },
-    {
-      "id": "GpaeAdq36Ls",
-      "title": "Getting Started with CodeAI: Integrations for Learning Management Systems",
-      "channel": "CodeAI",
-      "channelId": "UCJyEBMU1xVP2be1-AoGS1BA",
-      "durationSec": 391,
-      "publishedAt": "2024-06-24T13:00:25Z",
-      "topics": [
-        "coding",
-        "tech"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/GpaeAdq36Ls/hqdefault.jpg"
-    },
-    {
-      "id": "GqlP5s7KTl4",
-      "title": "Music Lab | Make Music, Learn Code",
-      "channel": "CodeAI",
-      "channelId": "UCJyEBMU1xVP2be1-AoGS1BA",
-      "durationSec": 123,
-      "publishedAt": "2024-05-21T12:59:27Z",
-      "topics": [
-        "coding",
-        "tech"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/GqlP5s7KTl4/hqdefault.jpg"
-    },
-    {
-      "id": "jL8hp-nfEfU",
-      "title": "Butifarra Instructions Challenge",
-      "channel": "CodeAI",
-      "channelId": "UCJyEBMU1xVP2be1-AoGS1BA",
-      "durationSec": 157,
-      "publishedAt": "2024-05-07T14:57:24Z",
-      "topics": [
-        "coding",
-        "tech"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/jL8hp-nfEfU/hqdefault.jpg"
-    },
-    {
-      "id": "C2jSudTZMbs",
-      "title": "Code org in India",
-      "channel": "CodeAI",
-      "channelId": "UCJyEBMU1xVP2be1-AoGS1BA",
-      "durationSec": 158,
-      "publishedAt": "2024-04-18T20:31:00Z",
-      "topics": [
-        "coding",
-        "tech"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/C2jSudTZMbs/hqdefault.jpg"
     },
     {
       "id": "kvEStq5WFxc",
@@ -48159,6 +47993,21 @@
       "thumbnail": "https://i.ytimg.com/vi/jvebwDXmBSw/hqdefault.jpg"
     },
     {
+      "id": "0sT1i3pMf58",
+      "title": "I Found the Most Delusional Conspiracy Bro",
+      "channel": "Professor Dave Explains",
+      "channelId": "UC0cd_-e49hZpWLH3UIwoWRA",
+      "durationSec": 6956,
+      "publishedAt": "2026-09-08T19:08:03Z",
+      "topics": [
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/0sT1i3pMf58/hqdefault.jpg"
+    },
+    {
       "id": "E05ZbgMlGKM",
       "title": "Interrogatives in Latin",
       "channel": "Professor Dave Explains",
@@ -48892,21 +48741,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/n-LFfqOtf6s/hqdefault.jpg"
-    },
-    {
-      "id": "Z6HW-q0g4X8",
-      "title": "Middle/Later Byzantine Empire Part 2: Komnenian Restoration and the Paleologos Family",
-      "channel": "Professor Dave Explains",
-      "channelId": "UC0cd_-e49hZpWLH3UIwoWRA",
-      "durationSec": 529,
-      "publishedAt": "2026-06-17T14:00:20Z",
-      "topics": [
-        "science"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/Z6HW-q0g4X8/hqdefault.jpg"
     },
     {
       "id": "BjyJlN1npdw",
@@ -76744,6 +76578,22 @@
       "thumbnail": "https://i.ytimg.com/vi/FDhx6EMGX3I/hqdefault.jpg"
     },
     {
+      "id": "leorRembMHA",
+      "title": "Memorial Day for Kids | Learn about this special holiday honoring fallen soldiers",
+      "channel": "Learn Bright",
+      "channelId": "UCKCsVSA5THlkHbnkZTPm6-g",
+      "durationSec": 241,
+      "publishedAt": "2026-09-08T15:00:39Z",
+      "topics": [
+        "maths",
+        "history"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/leorRembMHA/hqdefault.jpg"
+    },
+    {
       "id": "qGVgOTaJF7U",
       "title": "Careers for Kids: Civil Engineer | Learn about the field of civil engineering",
       "channel": "Learn Bright",
@@ -77382,22 +77232,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/qAZYMewwXZg/hqdefault.jpg"
-    },
-    {
-      "id": "_zHUdRNOhno",
-      "title": "50 States and Capitals Song | Do you know these facts about the state capitals of the USA?",
-      "channel": "Learn Bright",
-      "channelId": "UCKCsVSA5THlkHbnkZTPm6-g",
-      "durationSec": 313,
-      "publishedAt": "2026-06-04T15:00:00Z",
-      "topics": [
-        "maths",
-        "history"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/_zHUdRNOhno/hqdefault.jpg"
     },
     {
       "id": "2roxzglAMSY",
@@ -82940,6 +82774,22 @@
       "thumbnail": "https://i.ytimg.com/vi/GLVhXClV5QU/hqdefault.jpg"
     },
     {
+      "id": "Yma092NaylM",
+      "title": "Peep Deep in the Big Muddy | Peep and the Big Wide World",
+      "channel": "Peep and the Big Wide World",
+      "channelId": "UCPq6g4Q4-SFMIJ048IXmupA",
+      "durationSec": 644,
+      "publishedAt": "2026-09-08T15:00:34Z",
+      "topics": [
+        "science",
+        "nature"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/Yma092NaylM/hqdefault.jpg"
+    },
+    {
       "id": "KcvZ7jXc1Xs",
       "title": "Reflection Affection | Peep and the Big Wide World",
       "channel": "Peep and the Big Wide World",
@@ -83626,22 +83476,6 @@
         "little"
       ],
       "thumbnail": "https://i.ytimg.com/vi/9zpCaMnGK_8/hqdefault.jpg"
-    },
-    {
-      "id": "vejf8hc7vNc",
-      "title": "Peep's Lost Leaf | Peep and the Big Wide World",
-      "channel": "Peep and the Big Wide World",
-      "channelId": "UCPq6g4Q4-SFMIJ048IXmupA",
-      "durationSec": 645,
-      "publishedAt": "2026-07-30T15:00:05Z",
-      "topics": [
-        "science",
-        "nature"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/vejf8hc7vNc/hqdefault.jpg"
     },
     {
       "id": "9IaCGypvb7Y",
@@ -84613,6 +84447,60 @@
       "thumbnail": "https://i.ytimg.com/vi/Ii3EczyoFk4/hqdefault.jpg"
     },
     {
+      "id": "LCet2UwLt08",
+      "title": "JP’s Product Pick of the Week  9/8/26",
+      "channel": "Adafruit Industries",
+      "channelId": "UCpOlOeQjj7EsVnDh3zuCgsA",
+      "durationSec": 1140,
+      "publishedAt": "2026-09-09T07:22:34Z",
+      "topics": [
+        "making",
+        "tech",
+        "engineering",
+        "coding"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/LCet2UwLt08/hqdefault.jpg"
+    },
+    {
+      "id": "WKIOX7DlFbs",
+      "title": "Deep Dive w/ Tim: pico-faces Image Gen Model Running on RP2350 Outputting DVI #fruitjam #adafruit",
+      "channel": "Adafruit Industries",
+      "channelId": "UCpOlOeQjj7EsVnDh3zuCgsA",
+      "durationSec": 3622,
+      "publishedAt": "2026-09-09T04:25:15Z",
+      "topics": [
+        "making",
+        "tech",
+        "engineering",
+        "coding"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/WKIOX7DlFbs/hqdefault.jpg"
+    },
+    {
+      "id": "h0bkdhplaFw",
+      "title": "CircuitPython Weekly Meeting for September 8, 2026 @circuitpython #circuitpython #adafruit",
+      "channel": "Adafruit Industries",
+      "channelId": "UCpOlOeQjj7EsVnDh3zuCgsA",
+      "durationSec": 1619,
+      "publishedAt": "2026-09-08T18:43:23Z",
+      "topics": [
+        "making",
+        "tech",
+        "engineering",
+        "coding"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/h0bkdhplaFw/hqdefault.jpg"
+    },
+    {
       "id": "qoXRv5uTYW0",
       "title": "Deep Dive w/Scott: Bugs and Bootloader #adafruit",
       "channel": "Adafruit Industries",
@@ -84971,78 +84859,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/dzzlEehqK_w/hqdefault.jpg"
-    },
-    {
-      "id": "0tYdXpAkBUo",
-      "title": "Making Music with CircuitPython #CircuitPythonDay2026",
-      "channel": "Adafruit Industries",
-      "channelId": "UCpOlOeQjj7EsVnDh3zuCgsA",
-      "durationSec": 2524,
-      "publishedAt": "2026-08-22T05:55:41Z",
-      "topics": [
-        "making",
-        "tech",
-        "engineering",
-        "coding"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/0tYdXpAkBUo/hqdefault.jpg"
-    },
-    {
-      "id": "sIxd46cHq0Y",
-      "title": "3D Hangouts #CircuitPythonDay2026",
-      "channel": "Adafruit Industries",
-      "channelId": "UCpOlOeQjj7EsVnDh3zuCgsA",
-      "durationSec": 3327,
-      "publishedAt": "2026-08-22T04:05:10Z",
-      "topics": [
-        "making",
-        "tech",
-        "engineering",
-        "coding"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/sIxd46cHq0Y/hqdefault.jpg"
-    },
-    {
-      "id": "7pRVx2xGexU",
-      "title": "The Bootloader Podcast: Live! #CircuitPythonDay2026",
-      "channel": "Adafruit Industries",
-      "channelId": "UCpOlOeQjj7EsVnDh3zuCgsA",
-      "durationSec": 2067,
-      "publishedAt": "2026-08-21T19:37:10Z",
-      "topics": [
-        "making",
-        "tech",
-        "engineering",
-        "coding"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/7pRVx2xGexU/hqdefault.jpg"
-    },
-    {
-      "id": "BPg6TSSUDps",
-      "title": "3D Hangouts 537 CircuitPythonDay 2026 Eye projection + Meshtastic eink display #3dprinting #adafruit",
-      "channel": "Adafruit Industries",
-      "channelId": "UCpOlOeQjj7EsVnDh3zuCgsA",
-      "durationSec": 177,
-      "publishedAt": "2026-08-21T17:33:22Z",
-      "topics": [
-        "making",
-        "tech",
-        "engineering",
-        "coding"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/BPg6TSSUDps/hqdefault.jpg"
     },
     {
       "id": "VmBS2N1FzmE",
@@ -85574,6 +85390,22 @@
       "thumbnail": "https://i.ytimg.com/vi/Hwuw3sJAJdY/hqdefault.jpg"
     },
     {
+      "id": "BvGphB0iaHE",
+      "title": "Making Tentacle Robots Useful",
+      "channel": "James Bruton",
+      "channelId": "UCUbDcUPed50Y_7KmfCXKohA",
+      "durationSec": 1227,
+      "publishedAt": "2026-09-08T14:00:25Z",
+      "topics": [
+        "engineering",
+        "tech"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/BvGphB0iaHE/hqdefault.jpg"
+    },
+    {
       "id": "5YPduEo7dU4",
       "title": "Using 20-sided dice to stabilise my walking machine?",
       "channel": "James Bruton",
@@ -86068,22 +85900,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/U5Su26FxBuo/hqdefault.jpg"
-    },
-    {
-      "id": "UtQrloHD3Co",
-      "title": "I found a use for the Mobius Strip Tank",
-      "channel": "James Bruton",
-      "channelId": "UCUbDcUPed50Y_7KmfCXKohA",
-      "durationSec": 995,
-      "publishedAt": "2024-01-09T06:45:01Z",
-      "topics": [
-        "engineering",
-        "tech"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/UtQrloHD3Co/hqdefault.jpg"
     },
     {
       "id": "SSkJCOriO8E",
@@ -86729,6 +86545,23 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/XasThxf_YGo/hqdefault.jpg"
+    },
+    {
+      "id": "8L2syA68L2U",
+      "title": "Sunny's Lost Key  | Jaime's Yoga Adventures! | Kids Animated Yoga",
+      "channel": "Cosmic Kids Yoga",
+      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
+      "durationSec": 901,
+      "publishedAt": "2026-09-08T15:00:33Z",
+      "topics": [
+        "reading",
+        "nature"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/8L2syA68L2U/hqdefault.jpg"
     },
     {
       "id": "jik718RMrTs",
@@ -87683,6 +87516,22 @@
       "thumbnail": "https://i.ytimg.com/vi/Ilr2DjYOfqA/hqdefault.jpg"
     },
     {
+      "id": "Cey_YRnOBOs",
+      "title": "E is for Elmo! Learn the Letter E ❤️ | 50 Mins | Sesame Street",
+      "channel": "Sesame Street",
+      "channelId": "UCoookXUzPciGrEZEXmh4Jjg",
+      "durationSec": 2977,
+      "publishedAt": "2026-09-09T11:30:12Z",
+      "topics": [
+        "reading",
+        "music"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/Cey_YRnOBOs/hqdefault.jpg"
+    },
+    {
       "id": "t7Oq2925CSM",
       "title": "The Monster at the End of This Story with Grover and Elmo! | Sesame Street",
       "channel": "Sesame Street",
@@ -88159,7 +88008,7 @@
     },
     {
       "id": "0xyKfzljeD4",
-      "title": "Did Climate Change This Year's Super El Nino?",
+      "title": "Did Climate Change Cause 2026's Super El Nino?",
       "channel": "ClimateAdam",
       "channelId": "UCCu5wtZ5uOWZp_roz7wHPfg",
       "durationSec": 604,
