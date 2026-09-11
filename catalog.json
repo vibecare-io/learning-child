@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-10T13:11:31.605Z",
+  "generatedAt": "2026-09-11T13:05:03.200Z",
   "profiles": {
     "little": {
       "label": "Ages 3-7"
@@ -131,6 +131,22 @@
       "thumbnail": "https://i.ytimg.com/vi/kKqd0_cydZM/hqdefault.jpg"
     },
     {
+      "id": "OYPovmiOlBg",
+      "title": "Seeing the Future Can Get You Into Trouble 🔮 | Greeking Out Podcast | S4 E7 FULL EP | ‪Nat Geo Kids",
+      "channel": "Nat Geo Kids",
+      "channelId": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "durationSec": 1068,
+      "publishedAt": "2026-09-11T11:00:31Z",
+      "topics": [
+        "animals",
+        "science"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/OYPovmiOlBg/hqdefault.jpg"
+    },
+    {
       "id": "OE7-gYFnCEs",
       "title": "Exploring a Hidden Ghost City! 👻 | Lost Cities with Albert Lin | Nat Geo Kids",
       "channel": "Nat Geo Kids",
@@ -211,20 +227,19 @@
       "thumbnail": "https://i.ytimg.com/vi/BjwsFEAAvQU/hqdefault.jpg"
     },
     {
-      "id": "JVLSZd27mo4",
-      "title": "Which Wild Cat LOVES Water? 💦 🐆 Animal Facts for Kids I Nat Geo Kids",
-      "channel": "Nat Geo Kids",
-      "channelId": "UCXVCgDuD_QCkI7gTKU7-tpg",
-      "durationSec": 219,
-      "publishedAt": "2026-09-05T15:00:01Z",
+      "id": "p-dHw804GIo",
+      "title": "How To Draw A Cartoon Ankylosaurus",
+      "channel": "Art for Kids Hub",
+      "channelId": "UC5XMF3Inoi8R9nSI8ChOsdQ",
+      "durationSec": 431,
+      "publishedAt": "2026-09-10T14:00:27Z",
       "topics": [
-        "animals",
-        "science"
+        "art"
       ],
       "profiles": [
         "little"
       ],
-      "thumbnail": "https://i.ytimg.com/vi/JVLSZd27mo4/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/p-dHw804GIo/hqdefault.jpg"
     },
     {
       "id": "p1lqjlmwfL4",
@@ -287,19 +302,19 @@
       "thumbnail": "https://i.ytimg.com/vi/Y133m0xtC-I/hqdefault.jpg"
     },
     {
-      "id": "2CiVR8ZOwbM",
-      "title": "How To Draw The Frog Life Cycle",
-      "channel": "Art for Kids Hub",
-      "channelId": "UC5XMF3Inoi8R9nSI8ChOsdQ",
-      "durationSec": 533,
-      "publishedAt": "2026-09-03T14:00:15Z",
+      "id": "swrZN0Q5jXE",
+      "title": "I know my four times table | Learn to Count | Numberblocks",
+      "channel": "Numberblocks",
+      "channelId": "UCPlwvN0w4qFSP1FllALB92w",
+      "durationSec": 142,
+      "publishedAt": "2026-09-11T10:00:07Z",
       "topics": [
-        "art"
+        "maths"
       ],
       "profiles": [
         "little"
       ],
-      "thumbnail": "https://i.ytimg.com/vi/2CiVR8ZOwbM/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/swrZN0Q5jXE/hqdefault.jpg"
     },
     {
       "id": "sB1cDtHoKSs",
@@ -332,34 +347,20 @@
       "thumbnail": "https://i.ytimg.com/vi/VPFWs5mwZbA/hqdefault.jpg"
     },
     {
-      "id": "vpA5wuraL4Y",
-      "title": "The Numberblock 100 Special | Learn to Count for Kids Compilation | Number Cartoon | Numberblocks",
-      "channel": "Numberblocks",
-      "channelId": "UCPlwvN0w4qFSP1FllALB92w",
-      "durationSec": 2406,
-      "publishedAt": "2026-09-06T10:00:11Z",
+      "id": "I8XaYkRW1tA",
+      "title": "Why do some people have a better sense of direction than others? - Oliver Baumann",
+      "channel": "TED-Ed",
+      "channelId": "UCsooa4yRKGN_zEE8iknghZA",
+      "durationSec": 354,
+      "publishedAt": "2026-09-10T15:00:58Z",
       "topics": [
-        "maths"
+        "science",
+        "history"
       ],
       "profiles": [
-        "little"
+        "big"
       ],
-      "thumbnail": "https://i.ytimg.com/vi/vpA5wuraL4Y/hqdefault.jpg"
-    },
-    {
-      "id": "hidvKz9eUqo",
-      "title": "50, 60, 70 - Big Numbers and Beyond! | Learn to Count for Kids | Number Cartoon | Numberblocks",
-      "channel": "Numberblocks",
-      "channelId": "UCPlwvN0w4qFSP1FllALB92w",
-      "durationSec": 4539,
-      "publishedAt": "2026-09-05T10:00:13Z",
-      "topics": [
-        "maths"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/hidvKz9eUqo/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/I8XaYkRW1tA/hqdefault.jpg"
     },
     {
       "id": "_gP3aXvNmv8",
@@ -442,22 +443,6 @@
       "thumbnail": "https://i.ytimg.com/vi/l29K-ZkARmE/hqdefault.jpg"
     },
     {
-      "id": "2A1IEBFt6Xg",
-      "title": "How do Maglev trains work? - Ning Zhao",
-      "channel": "TED-Ed",
-      "channelId": "UCsooa4yRKGN_zEE8iknghZA",
-      "durationSec": 388,
-      "publishedAt": "2026-08-11T15:01:10Z",
-      "topics": [
-        "science",
-        "history"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/2A1IEBFt6Xg/hqdefault.jpg"
-    },
-    {
       "id": "A020pGO5MBs",
       "title": "The Immortal Kangaroo Sequence - Numberphile",
       "channel": "Numberphile",
@@ -533,6 +518,21 @@
       "thumbnail": "https://i.ytimg.com/vi/JEPqrqNqkHw/hqdefault.jpg"
     },
     {
+      "id": "_k5XP8X-3_o",
+      "title": "How To Survive Being Eaten",
+      "channel": "SciShow",
+      "channelId": "UCZYTClx2T1of7BRZ86-8fow",
+      "durationSec": 589,
+      "publishedAt": "2026-09-10T17:00:33Z",
+      "topics": [
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/_k5XP8X-3_o/hqdefault.jpg"
+    },
+    {
       "id": "Ixn3GSVnPcM",
       "title": "Why the Perfect Red Is Impossible to Make",
       "channel": "SciShow",
@@ -576,21 +576,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/nZMyQBVBVqs/hqdefault.jpg"
-    },
-    {
-      "id": "AzTJx-XBXGg",
-      "title": "4 Things We Can Learn From Explosions",
-      "channel": "SciShow",
-      "channelId": "UCZYTClx2T1of7BRZ86-8fow",
-      "durationSec": 673,
-      "publishedAt": "2026-09-03T17:00:25Z",
-      "topics": [
-        "science"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/AzTJx-XBXGg/hqdefault.jpg"
     },
     {
       "id": "GlYgs6v2YfU",
@@ -4091,6 +4076,21 @@
       "thumbnail": "https://i.ytimg.com/vi/Shu4BVjwI7k/hqdefault.jpg"
     },
     {
+      "id": "c1b6adSrK3g",
+      "title": "Why don’t humans have tails?",
+      "channel": "Be Smart",
+      "channelId": "UCH4BNI0-FOK2dMXoFtViWHw",
+      "durationSec": 153,
+      "publishedAt": "2026-09-10T17:12:21Z",
+      "topics": [
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/c1b6adSrK3g/hqdefault.jpg"
+    },
+    {
       "id": "bLX4CSzjRAg",
       "title": "Why don't you remember being a baby?",
       "channel": "Be Smart",
@@ -5743,6 +5743,22 @@
       "thumbnail": "https://i.ytimg.com/vi/G-GD8SQ0AvU/hqdefault.jpg"
     },
     {
+      "id": "hSFrdPXNwtw",
+      "title": "JPL x Aerospace Corporation  |  NXT in Space: Episode 3",
+      "channel": "NASA Jet Propulsion Laboratory",
+      "channelId": "UCryGec9PdUCLjpJW2mgCuLw",
+      "durationSec": 2425,
+      "publishedAt": "2026-09-10T23:00:57Z",
+      "topics": [
+        "space",
+        "engineering"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/hSFrdPXNwtw/hqdefault.jpg"
+    },
+    {
       "id": "s_5V4X6SiWI",
       "title": "What's Up: September 2026 Skywatching Tips from NASA",
       "channel": "NASA Jet Propulsion Laboratory",
@@ -6320,23 +6336,8 @@
       "thumbnail": "https://i.ytimg.com/vi/R6Weziw_4O0/hqdefault.jpg"
     },
     {
-      "id": "NuBIAAG6MTM",
-      "title": "What happened this month at European Space Agency (July 2026)",
-      "channel": "European Space Agency, ESA",
-      "channelId": "UCIBaDdAbGlFDeS33shmlD0A",
-      "durationSec": 194,
-      "publishedAt": "2026-07-31T13:43:34Z",
-      "topics": [
-        "space"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/NuBIAAG6MTM/hqdefault.jpg"
-    },
-    {
       "id": "fPIiJ3iZoJ4",
-      "title": "Scientists Found Proof the Universe Is NOT Going to End… Yet",
+      "title": "Scientists Put a Time Limit on the End of the Universe",
       "channel": "Astrum",
       "channelId": "UC-9b7aDP6ZN0coj9-xFnrtw",
       "durationSec": 1453,
@@ -6672,7 +6673,7 @@
     },
     {
       "id": "NP9AKPeeHXs",
-      "title": "NASA Found Evidence of Water All Over Mars, and It's a Big Deal",
+      "title": "NASA Found Evidence That Mars Used to Be Habitable",
       "channel": "Astrum",
       "channelId": "UC-9b7aDP6ZN0coj9-xFnrtw",
       "durationSec": 1948,
@@ -8854,6 +8855,21 @@
       "thumbnail": "https://i.ytimg.com/vi/T5Qf0qSSJFI/hqdefault.jpg"
     },
     {
+      "id": "uBweptmCYZg",
+      "title": "Our Listening Ears 👂 | Animal Sounds & Guessing Game for Kids! | Super Simple Songs",
+      "channel": "Super Simple Songs - Kids Songs",
+      "channelId": "UCLsooMJoIpl_7ux2jvdPB-Q",
+      "durationSec": 139,
+      "publishedAt": "2026-09-10T14:00:00Z",
+      "topics": [
+        "music"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/uBweptmCYZg/hqdefault.jpg"
+    },
+    {
       "id": "2QtoaV22rpY",
       "title": "Top 20 Circle Time Songs ⭕️ | Kids Classroom Favorites | Super Simple's 20th Anniversary!",
       "channel": "Super Simple Songs - Kids Songs",
@@ -9559,19 +9575,19 @@
       "thumbnail": "https://i.ytimg.com/vi/lkLt8CYqESQ/hqdefault.jpg"
     },
     {
-      "id": "OjmWon9KebI",
-      "title": "Can You Please Help Me? | Review Colors, Toys and Family Members | Super Simple Songs",
-      "channel": "Super Simple Songs - Kids Songs",
-      "channelId": "UCLsooMJoIpl_7ux2jvdPB-Q",
-      "durationSec": 190,
-      "publishedAt": "2025-07-31T14:00:30Z",
+      "id": "4JGFXAGUaTA",
+      "title": "Live Berkner Break 🎶 Back To School 🚍 Party Mini Concert for Kids | Laurie Berkner Band",
+      "channel": "The Laurie Berkner Band - Kids Songs",
+      "channelId": "UCQ9o9F8HYJV85XjciUS86_Q",
+      "durationSec": 2002,
+      "publishedAt": "2026-09-11T10:30:28Z",
       "topics": [
         "music"
       ],
       "profiles": [
         "little"
       ],
-      "thumbnail": "https://i.ytimg.com/vi/OjmWon9KebI/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/4JGFXAGUaTA/hqdefault.jpg"
     },
     {
       "id": "eg_kXqeR15Y",
@@ -9857,21 +9873,6 @@
         "little"
       ],
       "thumbnail": "https://i.ytimg.com/vi/ivq3wMXKLuY/hqdefault.jpg"
-    },
-    {
-      "id": "NHeOJpcljlM",
-      "title": "Read Along with Laurie 📖 Songs from Her Picture Books (11 Minutes) | Kids Music Video",
-      "channel": "The Laurie Berkner Band - Kids Songs",
-      "channelId": "UCQ9o9F8HYJV85XjciUS86_Q",
-      "durationSec": 683,
-      "publishedAt": "2026-05-29T10:00:59Z",
-      "topics": [
-        "music"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/NHeOJpcljlM/hqdefault.jpg"
     },
     {
       "id": "RideGnMsclM",
@@ -10688,6 +10689,22 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/yVtsVCVqy4Q/hqdefault.jpg"
+    },
+    {
+      "id": "5zM9ws2gp8c",
+      "title": "‘Bar Notes’ with Principal Conductor Santtu-Matias Rouvali | Autumn 2026",
+      "channel": "Philharmonia Orchestra",
+      "channelId": "UCKzx92ZqX1PKYTC-FC-CZRQ",
+      "durationSec": 128,
+      "publishedAt": "2026-09-10T14:46:48Z",
+      "topics": [
+        "music"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/5zM9ws2gp8c/hqdefault.jpg"
     },
     {
       "id": "kLL5aDTAblU",
@@ -11554,6 +11571,23 @@
       "thumbnail": "https://i.ytimg.com/vi/kdWR6HDFwFs/hqdefault.jpg"
     },
     {
+      "id": "uga7FIDJEuk",
+      "title": "How to Draw King Bob Omb | Super Mario Game Character Drawing",
+      "channel": "Draw So Cute",
+      "channelId": "UC3dEvA1is6-0_yuei9iCdEw",
+      "durationSec": 623,
+      "publishedAt": "2026-09-10T14:00:35Z",
+      "topics": [
+        "art",
+        "making"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/uga7FIDJEuk/hqdefault.jpg"
+    },
+    {
       "id": "ivffpkehGUQ",
       "title": "How to Draw Cure Black Nagisa Misumi | Pretty Cute Anime Girl",
       "channel": "Draw So Cute",
@@ -12387,23 +12421,6 @@
       "thumbnail": "https://i.ytimg.com/vi/nwqU1C2D0bE/hqdefault.jpg"
     },
     {
-      "id": "sp3O2gGK2jg",
-      "title": "How to Buttercup Unicorn | Toy Story | Relaxing Follow Along Hobby",
-      "channel": "Draw So Cute",
-      "channelId": "UC3dEvA1is6-0_yuei9iCdEw",
-      "durationSec": 696,
-      "publishedAt": "2026-06-03T14:00:32Z",
-      "topics": [
-        "art",
-        "making"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/sp3O2gGK2jg/hqdefault.jpg"
-    },
-    {
       "id": "MB7wxd8Bz18",
       "title": "Learn to Draw Super Simple Characters! Finny the Shark, The Bumble Nums, & More!",
       "channel": "Super Simple Draw! - How To Draw for Kids",
@@ -13204,6 +13221,22 @@
       "thumbnail": "https://i.ytimg.com/vi/m6KAfSgFaAM/hqdefault.jpg"
     },
     {
+      "id": "nLoYXiH0iuY",
+      "title": "How to Draw Sonic the Hedgehog",
+      "channel": "Cartooning Club How to Draw",
+      "channelId": "UC-biucJWhM8HwjsQ96uoIUw",
+      "durationSec": 571,
+      "publishedAt": "2026-09-10T14:00:31Z",
+      "topics": [
+        "art",
+        "making"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/nLoYXiH0iuY/hqdefault.jpg"
+    },
+    {
       "id": "4ehQg0cNVUU",
       "title": "How to Draw Omni Brainz",
       "channel": "Cartooning Club How to Draw",
@@ -13250,22 +13283,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/lnRi9IRcx3s/hqdefault.jpg"
-    },
-    {
-      "id": "rL9RxYuC50w",
-      "title": "How to Draw Morbius 🔴 LIVE",
-      "channel": "Cartooning Club How to Draw",
-      "channelId": "UC-biucJWhM8HwjsQ96uoIUw",
-      "durationSec": 5871,
-      "publishedAt": "2026-09-05T06:31:34Z",
-      "topics": [
-        "art",
-        "making"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/rL9RxYuC50w/hqdefault.jpg"
     },
     {
       "id": "Lry-MD2rTv4",
@@ -13492,38 +13509,6 @@
       "thumbnail": "https://i.ytimg.com/vi/mD0m5azko1A/hqdefault.jpg"
     },
     {
-      "id": "XopfcE0tDRA",
-      "title": "Member-Only LIVE Workshop 🔴 The Odyssey",
-      "channel": "Cartooning Club How to Draw",
-      "channelId": "UC-biucJWhM8HwjsQ96uoIUw",
-      "durationSec": 5256,
-      "publishedAt": "2026-08-22T22:30:53Z",
-      "topics": [
-        "art",
-        "making"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/XopfcE0tDRA/hqdefault.jpg"
-    },
-    {
-      "id": "-VX9jq5AFs8",
-      "title": "How to Draw a Utah Raptor 🔴 LIVE Workshop",
-      "channel": "Cartooning Club How to Draw",
-      "channelId": "UC-biucJWhM8HwjsQ96uoIUw",
-      "durationSec": 7115,
-      "publishedAt": "2026-08-22T22:30:29Z",
-      "topics": [
-        "art",
-        "making"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/-VX9jq5AFs8/hqdefault.jpg"
-    },
-    {
       "id": "pStE85stTfQ",
       "title": "How to Draw Spiderman | Brand New Day",
       "channel": "Cartooning Club How to Draw",
@@ -13652,22 +13637,6 @@
       "thumbnail": "https://i.ytimg.com/vi/rbHZv822Nz8/hqdefault.jpg"
     },
     {
-      "id": "ee05tpTZw74",
-      "title": "How to Draw a Boat Still Life 🔥 LIVE drawing session",
-      "channel": "Cartooning Club How to Draw",
-      "channelId": "UC-biucJWhM8HwjsQ96uoIUw",
-      "durationSec": 4430,
-      "publishedAt": "2026-08-08T06:22:48Z",
-      "topics": [
-        "art",
-        "making"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/ee05tpTZw74/hqdefault.jpg"
-    },
-    {
       "id": "yo5UFFPH7DI",
       "title": "How to Draw Mystique | Xmen",
       "channel": "Cartooning Club How to Draw",
@@ -13698,22 +13667,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/TJLi-AzA7hs/hqdefault.jpg"
-    },
-    {
-      "id": "hEJv4xck2kM",
-      "title": "How to Draw Jake Sully 🔥LIVE drawing session",
-      "channel": "Cartooning Club How to Draw",
-      "channelId": "UC-biucJWhM8HwjsQ96uoIUw",
-      "durationSec": 5141,
-      "publishedAt": "2026-08-05T06:31:32Z",
-      "topics": [
-        "art",
-        "making"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/hEJv4xck2kM/hqdefault.jpg"
     },
     {
       "id": "HJsdRYhmq_U",
@@ -13810,6 +13763,54 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/01NmuKZtZ6Y/hqdefault.jpg"
+    },
+    {
+      "id": "FE5vjFTLa1Y",
+      "title": "How to Draw Arthur Morgan | Red Dead Redemption",
+      "channel": "Cartooning Club How to Draw",
+      "channelId": "UC-biucJWhM8HwjsQ96uoIUw",
+      "durationSec": 1897,
+      "publishedAt": "2026-07-25T14:00:07Z",
+      "topics": [
+        "art",
+        "making"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/FE5vjFTLa1Y/hqdefault.jpg"
+    },
+    {
+      "id": "Awh5dPQW6Pg",
+      "title": "How to Draw Baby Peach | Super Mario",
+      "channel": "Cartooning Club How to Draw",
+      "channelId": "UC-biucJWhM8HwjsQ96uoIUw",
+      "durationSec": 457,
+      "publishedAt": "2026-07-23T14:00:25Z",
+      "topics": [
+        "art",
+        "making"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/Awh5dPQW6Pg/hqdefault.jpg"
+    },
+    {
+      "id": "3MGHA9LMOf4",
+      "title": "How to Draw Lilypad | Toy Story 5",
+      "channel": "Cartooning Club How to Draw",
+      "channelId": "UC-biucJWhM8HwjsQ96uoIUw",
+      "durationSec": 346,
+      "publishedAt": "2026-07-22T14:00:26Z",
+      "topics": [
+        "art",
+        "making"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/3MGHA9LMOf4/hqdefault.jpg"
     },
     {
       "id": "kf1QzxnISmk",
@@ -20413,6 +20414,23 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/fcwb46Rj7bY/hqdefault.jpg"
+    },
+    {
+      "id": "ZCF_BVEWgEY",
+      "title": "World's LARGEST Hairdryer!",
+      "channel": "Kids Invent Stuff",
+      "channelId": "UC-glo52BMvZH9PPUamjGIcw",
+      "durationSec": 901,
+      "publishedAt": "2026-09-10T15:00:30Z",
+      "topics": [
+        "engineering",
+        "making"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/ZCF_BVEWgEY/hqdefault.jpg"
     },
     {
       "id": "2y7rIzIWp5c",
@@ -27957,22 +27975,6 @@
       "thumbnail": "https://i.ytimg.com/vi/-4YC1VKLLP4/hqdefault.jpg"
     },
     {
-      "id": "CHpbZ7HXP7Q",
-      "title": "We took the back off a Michelangelo and it took 7 months | Saving Michelangelo’s Epifania Cartoon",
-      "channel": "The British Museum",
-      "channelId": "UCvpQ-l09fCVxJd3urZbxzHg",
-      "durationSec": 1303,
-      "publishedAt": "2025-06-05T15:33:17Z",
-      "topics": [
-        "history",
-        "art"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/CHpbZ7HXP7Q/hqdefault.jpg"
-    },
-    {
       "id": "YaKanPaCF_o",
       "title": "Catalan vs other Romance languages",
       "channel": "Langfocus",
@@ -30896,6 +30898,21 @@
       "thumbnail": "https://i.ytimg.com/vi/BVhT45lRsW8/hqdefault.jpg"
     },
     {
+      "id": "hWh59GPbt3A",
+      "title": "The Best Reading Songs from The Band!  | Learn to Read and Spell for Kids Compilation | Alphablocks",
+      "channel": "Alphablocks",
+      "channelId": "UC_qs3c0ehDvZkbiEbOj6Drg",
+      "durationSec": 2835,
+      "publishedAt": "2026-09-11T11:00:36Z",
+      "topics": [
+        "reading"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/hWh59GPbt3A/hqdefault.jpg"
+    },
+    {
       "id": "5a5QLfcFTeA",
       "title": "Time to Read! - Go All In 📖🌟 | Alphablocks Phonics Song for Kids | Alphablocks",
       "channel": "Alphablocks",
@@ -31434,21 +31451,6 @@
         "little"
       ],
       "thumbnail": "https://i.ytimg.com/vi/Az8HjUlqUro/hqdefault.jpg"
-    },
-    {
-      "id": "coF0mWt9fmU",
-      "title": "Letter Blends CL CR DR PL  | Lesson Twenty One - Phonics Made Easy Compilation | Alphablocks",
-      "channel": "Alphablocks",
-      "channelId": "UC_qs3c0ehDvZkbiEbOj6Drg",
-      "durationSec": 1785,
-      "publishedAt": "2026-06-20T11:00:00Z",
-      "topics": [
-        "reading"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/coF0mWt9fmU/hqdefault.jpg"
     },
     {
       "id": "r-da_mkDMDk",
@@ -32282,6 +32284,22 @@
         "little"
       ],
       "thumbnail": "https://i.ytimg.com/vi/2czbtYe4fZU/hqdefault.jpg"
+    },
+    {
+      "id": "oo8NKOx2sSo",
+      "title": "Transport Poems Michael Rosen Rhyme Time",
+      "channel": "Kids’ Poems and Stories With Michael Rosen",
+      "channelId": "UC7D-mXO4kk-XWvH6lBXdrPw",
+      "durationSec": 242,
+      "publishedAt": "2026-09-11T08:03:21Z",
+      "topics": [
+        "reading"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/oo8NKOx2sSo/hqdefault.jpg"
     },
     {
       "id": "rG2NKfKRFp8",
@@ -33890,23 +33908,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/Ix_lDw4xxTk/hqdefault.jpg"
-    },
-    {
-      "id": "h5PvLB5gZkg",
-      "title": "Getting Started with CodeAI: Progress Feedback & Assessment",
-      "channel": "CodeAI",
-      "channelId": "UCJyEBMU1xVP2be1-AoGS1BA",
-      "durationSec": 373,
-      "publishedAt": "2024-06-24T13:00:46Z",
-      "topics": [
-        "coding",
-        "tech"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/h5PvLB5gZkg/hqdefault.jpg"
     },
     {
       "id": "kvEStq5WFxc",
@@ -36923,6 +36924,22 @@
       "thumbnail": "https://i.ytimg.com/vi/eelvWAURfdI/hqdefault.jpg"
     },
     {
+      "id": "iWUp2kMCv6o",
+      "title": "How Do Fossils Form?: Crash Course Geology #18",
+      "channel": "CrashCourse",
+      "channelId": "UCX6b17PVsYBQ0ip5gyeme-Q",
+      "durationSec": 620,
+      "publishedAt": "2026-09-10T16:00:25Z",
+      "topics": [
+        "tech",
+        "coding"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/iWUp2kMCv6o/hqdefault.jpg"
+    },
+    {
       "id": "mIIJd66Ycr8",
       "title": "How old is the Earth?: Crash Course Geology #17",
       "channel": "CrashCourse",
@@ -37577,22 +37594,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/2XWGxVuOwJQ/hqdefault.jpg"
-    },
-    {
-      "id": "t6xLo1XYZZs",
-      "title": "How is AI impacting society?: Crash Course Futures of AI #2",
-      "channel": "CrashCourse",
-      "channelId": "UCX6b17PVsYBQ0ip5gyeme-Q",
-      "durationSec": 807,
-      "publishedAt": "2025-11-26T17:01:42Z",
-      "topics": [
-        "tech",
-        "coding"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/t6xLo1XYZZs/hqdefault.jpg"
     },
     {
       "id": "xQasKPF0Fr8",
@@ -46461,6 +46462,21 @@
       "thumbnail": "https://i.ytimg.com/vi/bZ1Z_QIU-fQ/hqdefault.jpg"
     },
     {
+      "id": "jZZcgnKl_Gg",
+      "title": "IRON (new video) - Periodic Table of Videos",
+      "channel": "Periodic Videos",
+      "channelId": "UCtESv1e7ntJaLJYKIO1FoYw",
+      "durationSec": 1319,
+      "publishedAt": "2026-09-11T10:18:40Z",
+      "topics": [
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/jZZcgnKl_Gg/hqdefault.jpg"
+    },
+    {
       "id": "7nwFegN6Fyk",
       "title": "A Copper Discovery - Periodic Table of Videos",
       "channel": "Periodic Videos",
@@ -47179,21 +47195,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/k0Hh48wyuW0/hqdefault.jpg"
-    },
-    {
-      "id": "LclOOAT6pvA",
-      "title": "Burning Magnesium in Nitrogen - Periodic Table of Videos",
-      "channel": "Periodic Videos",
-      "channelId": "UCtESv1e7ntJaLJYKIO1FoYw",
-      "durationSec": 492,
-      "publishedAt": "2022-09-01T11:09:27Z",
-      "topics": [
-        "science"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/LclOOAT6pvA/hqdefault.jpg"
     },
     {
       "id": "3HslG2J84IA",
@@ -64556,6 +64557,22 @@
       "thumbnail": "https://i.ytimg.com/vi/jP6R7FV22ns/hqdefault.jpg"
     },
     {
+      "id": "gaNUzvyj3xc",
+      "title": "Huge Sarracenia Purpurea Growth! Care Tips & Fertilizer Routine",
+      "channel": "Carnivorous Plants Hub",
+      "channelId": "UCtdFyx2wj8dysinQuyNTX3Q",
+      "durationSec": 454,
+      "publishedAt": "2026-09-10T13:30:33Z",
+      "topics": [
+        "nature",
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/gaNUzvyj3xc/hqdefault.jpg"
+    },
+    {
       "id": "QiTfPS2450I",
       "title": "Is Venus Flytrap Dormancy Really Necessary? The Evidence Says Maybe Not!",
       "channel": "Carnivorous Plants Hub",
@@ -65226,22 +65243,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/n0YzYBjLLEk/hqdefault.jpg"
-    },
-    {
-      "id": "ud8lpd4qlkE",
-      "title": "Spider Farmer Glow80 Full Spectrum Bar Grow Lights Tested & Reviewed",
-      "channel": "Carnivorous Plants Hub",
-      "channelId": "UCtdFyx2wj8dysinQuyNTX3Q",
-      "durationSec": 318,
-      "publishedAt": "2024-11-29T15:01:08Z",
-      "topics": [
-        "nature",
-        "science"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/ud8lpd4qlkE/hqdefault.jpg"
     },
     {
       "id": "Rya5qCqug2U",
@@ -68728,6 +68729,22 @@
       "thumbnail": "https://i.ytimg.com/vi/BQwZCTtp3r0/hqdefault.jpg"
     },
     {
+      "id": "0vSEb8Fcf-M",
+      "title": "These Rocks Aren't Tilted; Why Cross-Bedding Forms",
+      "channel": "GeologyHub",
+      "channelId": "UCYeGh5VML5XPr5jYnzh3J6g",
+      "durationSec": 153,
+      "publishedAt": "2026-09-10T19:00:17Z",
+      "topics": [
+        "science",
+        "geography"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/0vSEb8Fcf-M/hqdefault.jpg"
+    },
+    {
       "id": "aPz3fA1jJbk",
       "title": "Strong Eruption Occurs at Ambae Volcano; 54,000 Ft Plume, Geologist Analysis",
       "channel": "GeologyHub",
@@ -69462,22 +69479,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/3kBZ_F_6BXY/hqdefault.jpg"
-    },
-    {
-      "id": "2nJ0I5tmqiw",
-      "title": "California Earthquake Update; M5.6 Quake Strikes, Felt by 10+ Million",
-      "channel": "GeologyHub",
-      "channelId": "UCYeGh5VML5XPr5jYnzh3J6g",
-      "durationSec": 268,
-      "publishedAt": "2026-06-26T19:00:27Z",
-      "topics": [
-        "science",
-        "geography"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/2nJ0I5tmqiw/hqdefault.jpg"
     },
     {
       "id": "jQew1IK3nP8",
@@ -72294,7 +72295,7 @@
       "title": "2-Minute Neuroscience: Antipsychotics",
       "channel": "Neuroscientifically Challenged",
       "channelId": "UCUgZq9PkDp1xaEivtcfJPSg",
-      "durationSec": 120,
+      "durationSec": 121,
       "publishedAt": "2025-05-15T19:38:30Z",
       "topics": [
         "science"
@@ -73593,7 +73594,7 @@
     },
     {
       "id": "58SrtQNt4YE",
-      "title": "Why America Keeps Making Nickels at a Loss",
+      "title": "America Forgot It's Allowed to Stop Making Coins",
       "channel": "CGP Grey",
       "channelId": "UC2C_jShtL725hvbm1arSV9w",
       "durationSec": 456,
@@ -76563,6 +76564,22 @@
       "thumbnail": "https://i.ytimg.com/vi/FDhx6EMGX3I/hqdefault.jpg"
     },
     {
+      "id": "sKf0jyh39_4",
+      "title": "Tsukimi Autumn Moon Festival | Learn about this interesting Japanese festival",
+      "channel": "Learn Bright",
+      "channelId": "UCKCsVSA5THlkHbnkZTPm6-g",
+      "durationSec": 260,
+      "publishedAt": "2026-09-10T15:00:20Z",
+      "topics": [
+        "maths",
+        "history"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/sKf0jyh39_4/hqdefault.jpg"
+    },
+    {
       "id": "leorRembMHA",
       "title": "Memorial Day for Kids | Learn about this special holiday honoring fallen soldiers",
       "channel": "Learn Bright",
@@ -76999,7 +77016,7 @@
       "title": "ASL Wild Facts about Marsupials",
       "channel": "Learn Bright",
       "channelId": "UCKCsVSA5THlkHbnkZTPm6-g",
-      "durationSec": 320,
+      "durationSec": 321,
       "publishedAt": "2026-06-09T15:01:57Z",
       "topics": [
         "maths",
@@ -77201,22 +77218,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/uwOnEC1p5rY/hqdefault.jpg"
-    },
-    {
-      "id": "qAZYMewwXZg",
-      "title": "Careers for Kids: Astronaut | Learn about the career of an astronaut",
-      "channel": "Learn Bright",
-      "channelId": "UCKCsVSA5THlkHbnkZTPm6-g",
-      "durationSec": 206,
-      "publishedAt": "2026-06-09T15:00:26Z",
-      "topics": [
-        "maths",
-        "history"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/qAZYMewwXZg/hqdefault.jpg"
     },
     {
       "id": "2roxzglAMSY",
@@ -82759,6 +82760,22 @@
       "thumbnail": "https://i.ytimg.com/vi/GLVhXClV5QU/hqdefault.jpg"
     },
     {
+      "id": "I5AjQ3g7OSM",
+      "title": "Hear Here | Peep and the Big Wide World",
+      "channel": "Peep and the Big Wide World",
+      "channelId": "UCPq6g4Q4-SFMIJ048IXmupA",
+      "durationSec": 654,
+      "publishedAt": "2026-09-10T15:00:35Z",
+      "topics": [
+        "science",
+        "nature"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/I5AjQ3g7OSM/hqdefault.jpg"
+    },
+    {
       "id": "IWJde4iarA0",
       "title": "Chirp Sorts It Out (sort of) | Peep and the Big Wide World",
       "channel": "Peep and the Big Wide World",
@@ -83461,22 +83478,6 @@
         "little"
       ],
       "thumbnail": "https://i.ytimg.com/vi/aZNwzvhPzgQ/hqdefault.jpg"
-    },
-    {
-      "id": "9zpCaMnGK_8",
-      "title": "Birds of a Feather | Peep and the Big Wide World",
-      "channel": "Peep and the Big Wide World",
-      "channelId": "UCPq6g4Q4-SFMIJ048IXmupA",
-      "durationSec": 646,
-      "publishedAt": "2026-07-31T15:00:00Z",
-      "topics": [
-        "science",
-        "nature"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/9zpCaMnGK_8/hqdefault.jpg"
     },
     {
       "id": "9IaCGypvb7Y",
@@ -84446,6 +84447,42 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/Ii3EczyoFk4/hqdefault.jpg"
+    },
+    {
+      "id": "CbLAvtwI0DE",
+      "title": "John Park's Workshop Live 9/10/26 part 2.",
+      "channel": "Adafruit Industries",
+      "channelId": "UCpOlOeQjj7EsVnDh3zuCgsA",
+      "durationSec": 2115,
+      "publishedAt": "2026-09-11T09:37:37Z",
+      "topics": [
+        "making",
+        "tech",
+        "engineering",
+        "coding"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/CbLAvtwI0DE/hqdefault.jpg"
+    },
+    {
+      "id": "uogWTTl3fCk",
+      "title": "John Park's Workshop Live 9/3/26",
+      "channel": "Adafruit Industries",
+      "channelId": "UCpOlOeQjj7EsVnDh3zuCgsA",
+      "durationSec": 2275,
+      "publishedAt": "2026-09-11T08:48:56Z",
+      "topics": [
+        "making",
+        "tech",
+        "engineering",
+        "coding"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/uogWTTl3fCk/hqdefault.jpg"
     },
     {
       "id": "dOYB77YSUC8",
@@ -85867,6 +85904,21 @@
       "thumbnail": "https://i.ytimg.com/vi/U5Su26FxBuo/hqdefault.jpg"
     },
     {
+      "id": "6hvszNCxsn0",
+      "title": "Mecanum Wheels Are So Weird They Are Genius",
+      "channel": "Jeremy Fielding",
+      "channelId": "UC_SLthyNX_ivd-dmsFgmJVg",
+      "durationSec": 177,
+      "publishedAt": "2026-09-10T15:39:08Z",
+      "topics": [
+        "engineering"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/6hvszNCxsn0/hqdefault.jpg"
+    },
+    {
       "id": "SSkJCOriO8E",
       "title": "Engineering The Perfect Stereo Camera. Engineer Vs Bee : Round 3",
       "channel": "Jeremy Fielding",
@@ -86497,19 +86549,55 @@
       "thumbnail": "https://i.ytimg.com/vi/DPbKux9cemU/hqdefault.jpg"
     },
     {
-      "id": "XasThxf_YGo",
-      "title": "Industrial Robot Built from Scratch. Jarvis 2.0, The Full Build : Jeremy Fielding 104",
-      "channel": "Jeremy Fielding",
-      "channelId": "UC_SLthyNX_ivd-dmsFgmJVg",
-      "durationSec": 1238,
-      "publishedAt": "2022-07-08T11:26:59Z",
+      "id": "ybeYIC0zTpE",
+      "title": "Kids Yoga LIVE 🌟 | Fun Yoga Adventures & Movement for Kids",
+      "channel": "Cosmic Kids Yoga",
+      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
+      "durationSec": 42900,
+      "publishedAt": "2026-09-11T03:29:48Z",
       "topics": [
-        "engineering"
+        "reading",
+        "nature"
       ],
       "profiles": [
+        "little",
         "big"
       ],
-      "thumbnail": "https://i.ytimg.com/vi/XasThxf_YGo/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/ybeYIC0zTpE/hqdefault.jpg"
+    },
+    {
+      "id": "5Qs5trOvaUY",
+      "title": "Halloween Kids Yoga LIVE! Cosmic Kids Halloween Adventure Compilation 👻✨",
+      "channel": "Cosmic Kids Yoga",
+      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
+      "durationSec": 42894,
+      "publishedAt": "2026-09-11T02:19:16Z",
+      "topics": [
+        "reading",
+        "nature"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/5Qs5trOvaUY/hqdefault.jpg"
+    },
+    {
+      "id": "xfXBFe0kul8",
+      "title": "Kids Yoga LIVE 🌟 | Fun Yoga Adventures & Movement for Kids",
+      "channel": "Cosmic Kids Yoga",
+      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
+      "durationSec": 42899,
+      "publishedAt": "2026-09-10T15:37:12Z",
+      "topics": [
+        "reading",
+        "nature"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/xfXBFe0kul8/hqdefault.jpg"
     },
     {
       "id": "8L2syA68L2U",
@@ -87479,6 +87567,22 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/Ilr2DjYOfqA/hqdefault.jpg"
+    },
+    {
+      "id": "6fYTzbEKl84",
+      "title": "Elmo & Friends Read Their Favorite Books  📖 📕 | FOUR Sesame Street Full Episodes",
+      "channel": "Sesame Street",
+      "channelId": "UCoookXUzPciGrEZEXmh4Jjg",
+      "durationSec": 7934,
+      "publishedAt": "2026-09-11T11:30:08Z",
+      "topics": [
+        "reading",
+        "music"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/6fYTzbEKl84/hqdefault.jpg"
     },
     {
       "id": "Cey_YRnOBOs",
@@ -89525,6 +89629,22 @@
       "thumbnail": "https://i.ytimg.com/vi/H5VNPfHIgpE/hqdefault.jpg"
     },
     {
+      "id": "M1RFiy967JU",
+      "title": "Mountains can breathe",
+      "channel": "PBS Terra",
+      "channelId": "UCpxYSWgxVt3Pyn1ovXsGQ0g",
+      "durationSec": 133,
+      "publishedAt": "2026-09-10T18:00:39Z",
+      "topics": [
+        "science",
+        "nature"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/M1RFiy967JU/hqdefault.jpg"
+    },
+    {
       "id": "y9HlSWmDtLw",
       "title": "How This Dying Rainforest Is a Sign of Things to Come",
       "channel": "PBS Terra",
@@ -89987,22 +90107,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/tYNwfj74WsI/hqdefault.jpg"
-    },
-    {
-      "id": "U-kreNB4avQ",
-      "title": "Why Bees Are Swarming Our Cities",
-      "channel": "PBS Terra",
-      "channelId": "UCpxYSWgxVt3Pyn1ovXsGQ0g",
-      "durationSec": 632,
-      "publishedAt": "2025-12-18T16:00:49Z",
-      "topics": [
-        "science",
-        "nature"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/U-kreNB4avQ/hqdefault.jpg"
     },
     {
       "id": "z_WiMgPClW4",
