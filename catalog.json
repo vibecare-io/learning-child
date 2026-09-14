@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-13T13:30:57.521Z",
+  "generatedAt": "2026-09-14T15:21:55.806Z",
   "profiles": {
     "little": {
       "label": "Ages 3-7"
@@ -131,6 +131,22 @@
       "thumbnail": "https://i.ytimg.com/vi/kKqd0_cydZM/hqdefault.jpg"
     },
     {
+      "id": "h64W_6Vnpvc",
+      "title": "Weird But True! Full Episode Compilation | Science Rules 🧠 | Nat Geo Kids",
+      "channel": "Nat Geo Kids",
+      "channelId": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "durationSec": 3972,
+      "publishedAt": "2026-09-14T11:00:06Z",
+      "topics": [
+        "animals",
+        "science"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/h64W_6Vnpvc/hqdefault.jpg"
+    },
+    {
       "id": "uOtg4plWpHI",
       "title": "Jack Hanna's Passport Full Episode | Colors of the World 🌎 | Nat Geo Kids",
       "channel": "Nat Geo Kids",
@@ -211,20 +227,19 @@
       "thumbnail": "https://i.ytimg.com/vi/pXFR6RQ6JXk/hqdefault.jpg"
     },
     {
-      "id": "7IVHtph87pw",
-      "title": "Lion vs. Giraffe vs. Zebra! | Whoa Factor | Nat Geo Kids",
-      "channel": "Nat Geo Kids",
-      "channelId": "UCXVCgDuD_QCkI7gTKU7-tpg",
-      "durationSec": 323,
-      "publishedAt": "2026-09-09T11:00:11Z",
+      "id": "RdkYiMTOW1U",
+      "title": "How To Draw A Traffic Cone - Drawing With Shapes",
+      "channel": "Art for Kids Hub",
+      "channelId": "UC5XMF3Inoi8R9nSI8ChOsdQ",
+      "durationSec": 702,
+      "publishedAt": "2026-09-14T14:10:05Z",
       "topics": [
-        "animals",
-        "science"
+        "art"
       ],
       "profiles": [
         "little"
       ],
-      "thumbnail": "https://i.ytimg.com/vi/7IVHtph87pw/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/RdkYiMTOW1U/hqdefault.jpg"
     },
     {
       "id": "QPcSceXFric",
@@ -287,19 +302,19 @@
       "thumbnail": "https://i.ytimg.com/vi/1dsLJNDn45I/hqdefault.jpg"
     },
     {
-      "id": "LNAH9vztxmg",
-      "title": "How To Draw A Forklift",
-      "channel": "Art for Kids Hub",
-      "channelId": "UC5XMF3Inoi8R9nSI8ChOsdQ",
-      "durationSec": 490,
-      "publishedAt": "2026-09-07T14:00:35Z",
+      "id": "J8eVD2PpX_Q",
+      "title": "BRAND NEW CHARACTER REVEAL: Numberblock 33! | Learn to Count | Numberblocks",
+      "channel": "Numberblocks",
+      "channelId": "UCPlwvN0w4qFSP1FllALB92w",
+      "durationSec": 127,
+      "publishedAt": "2026-09-14T10:45:06Z",
       "topics": [
-        "art"
+        "maths"
       ],
       "profiles": [
         "little"
       ],
-      "thumbnail": "https://i.ytimg.com/vi/LNAH9vztxmg/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/J8eVD2PpX_Q/hqdefault.jpg"
     },
     {
       "id": "6qWAEHhFUtE",
@@ -345,21 +360,6 @@
         "little"
       ],
       "thumbnail": "https://i.ytimg.com/vi/swrZN0Q5jXE/hqdefault.jpg"
-    },
-    {
-      "id": "sB1cDtHoKSs",
-      "title": "Random Numbers! Silly Math Galore | Learn to Count for Kids | Number Cartoon | Numberblocks",
-      "channel": "Numberblocks",
-      "channelId": "UCPlwvN0w4qFSP1FllALB92w",
-      "durationSec": 3779,
-      "publishedAt": "2026-09-10T10:00:11Z",
-      "topics": [
-        "maths"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/sB1cDtHoKSs/hqdefault.jpg"
     },
     {
       "id": "I8XaYkRW1tA",
@@ -6349,7 +6349,7 @@
     },
     {
       "id": "S3emb6rHDZ0",
-      "title": "The Entire History of Earth In One Video",
+      "title": "Earth’s Entire Existence In One Video",
       "channel": "Astrum",
       "channelId": "UC-9b7aDP6ZN0coj9-xFnrtw",
       "durationSec": 7465,
@@ -10623,22 +10623,6 @@
       "thumbnail": "https://i.ytimg.com/vi/e09bufzVsdM/hqdefault.jpg"
     },
     {
-      "id": "CIZ2FquR-Sg",
-      "title": "Super Mario Galaxy Rhythm Challenge | Follow Along with Music Notation",
-      "channel": "Mr. Henry's Music World",
-      "channelId": "UCFtJ3FoPlbZ0JZqdfSgdyYQ",
-      "durationSec": 529,
-      "publishedAt": "2026-06-04T11:30:01Z",
-      "topics": [
-        "music"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/CIZ2FquR-Sg/hqdefault.jpg"
-    },
-    {
       "id": "5zM9ws2gp8c",
       "title": "‘Bar Notes’ with Principal Conductor Santtu-Matias Rouvali | Autumn 2026",
       "channel": "Philharmonia Orchestra",
@@ -11519,6 +11503,23 @@
       "thumbnail": "https://i.ytimg.com/vi/kdWR6HDFwFs/hqdefault.jpg"
     },
     {
+      "id": "SCnKB75-sMM",
+      "title": "How to Draw Usahana | Sanrio Cute Flower Rabbit",
+      "channel": "Draw So Cute",
+      "channelId": "UC3dEvA1is6-0_yuei9iCdEw",
+      "durationSec": 477,
+      "publishedAt": "2026-09-14T14:00:33Z",
+      "topics": [
+        "art",
+        "making"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/SCnKB75-sMM/hqdefault.jpg"
+    },
+    {
       "id": "YrMQjLtChos",
       "title": "How to Draw Mackenzie Border Collie Dog | Bluey",
       "channel": "Draw So Cute",
@@ -12352,23 +12353,6 @@
       "thumbnail": "https://i.ytimg.com/vi/UIm8l8_3VB0/hqdefault.jpg"
     },
     {
-      "id": "AAvfdJ3g1I8",
-      "title": "How to Draw Princess Peach | Paper Mario | Relaxing Game Character Art",
-      "channel": "Draw So Cute",
-      "channelId": "UC3dEvA1is6-0_yuei9iCdEw",
-      "durationSec": 806,
-      "publishedAt": "2026-06-09T14:00:34Z",
-      "topics": [
-        "art",
-        "making"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/AAvfdJ3g1I8/hqdefault.jpg"
-    },
-    {
       "id": "MB7wxd8Bz18",
       "title": "Learn to Draw Super Simple Characters! Finny the Shark, The Bumble Nums, & More!",
       "channel": "Super Simple Draw! - How To Draw for Kids",
@@ -13169,6 +13153,22 @@
       "thumbnail": "https://i.ytimg.com/vi/m6KAfSgFaAM/hqdefault.jpg"
     },
     {
+      "id": "37sUxOXQY00",
+      "title": "How to Draw Cogsworth | Beauty and the Beast",
+      "channel": "Cartooning Club How to Draw",
+      "channelId": "UC-biucJWhM8HwjsQ96uoIUw",
+      "durationSec": 464,
+      "publishedAt": "2026-09-14T14:00:12Z",
+      "topics": [
+        "art",
+        "making"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/37sUxOXQY00/hqdefault.jpg"
+    },
+    {
       "id": "zHR8qGZXrNo",
       "title": "How to Draw Grogu | Drawing Tutorial for Beginners",
       "channel": "Cartooning Club How to Draw",
@@ -13727,38 +13727,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/01NmuKZtZ6Y/hqdefault.jpg"
-    },
-    {
-      "id": "FE5vjFTLa1Y",
-      "title": "How to Draw Arthur Morgan | Red Dead Redemption",
-      "channel": "Cartooning Club How to Draw",
-      "channelId": "UC-biucJWhM8HwjsQ96uoIUw",
-      "durationSec": 1897,
-      "publishedAt": "2026-07-25T14:00:07Z",
-      "topics": [
-        "art",
-        "making"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/FE5vjFTLa1Y/hqdefault.jpg"
-    },
-    {
-      "id": "Awh5dPQW6Pg",
-      "title": "How to Draw Baby Peach | Super Mario",
-      "channel": "Cartooning Club How to Draw",
-      "channelId": "UC-biucJWhM8HwjsQ96uoIUw",
-      "durationSec": 457,
-      "publishedAt": "2026-07-23T14:00:25Z",
-      "topics": [
-        "art",
-        "making"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/Awh5dPQW6Pg/hqdefault.jpg"
     },
     {
       "id": "NGch1vjkT8I",
@@ -18595,23 +18563,6 @@
       "thumbnail": "https://i.ytimg.com/vi/3qTR6BkzzME/hqdefault.jpg"
     },
     {
-      "id": "-v9jUAzqOBA",
-      "title": "OET's 2026 Expedition Season Preview | Nautilus Live",
-      "channel": "EVNautilus",
-      "channelId": "UC1KOOWHthbQVXH2kZue3_xA",
-      "durationSec": 386,
-      "publishedAt": "2026-06-05T19:13:36Z",
-      "topics": [
-        "nature",
-        "exploration"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/-v9jUAzqOBA/hqdefault.jpg"
-    },
-    {
       "id": "48cQQL8pXI8",
       "title": "Jelly Jams featuring Yeobo",
       "channel": "Monterey Bay Aquarium",
@@ -20446,23 +20397,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/WfSLCrFfB1o/hqdefault.jpg"
-    },
-    {
-      "id": "FuqLVnDUz-c",
-      "title": "Food Inventions designed by Kids!",
-      "channel": "Kids Invent Stuff",
-      "channelId": "UC-glo52BMvZH9PPUamjGIcw",
-      "durationSec": 3760,
-      "publishedAt": "2026-04-06T15:00:34Z",
-      "topics": [
-        "engineering",
-        "making"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/FuqLVnDUz-c/hqdefault.jpg"
     },
     {
       "id": "PiwyfVsk6mw",
@@ -25861,6 +25795,22 @@
       "thumbnail": "https://i.ytimg.com/vi/qdnRAub1cmw/hqdefault.jpg"
     },
     {
+      "id": "vlnOihQ5qxE",
+      "title": "EVEREST❌- GORNO BADAKHSHAN✅",
+      "channel": "Geography Now",
+      "channelId": "UCmmPgObSUPw1HL2lq6H4ffA",
+      "durationSec": 156,
+      "publishedAt": "2026-09-13T21:47:58Z",
+      "topics": [
+        "geography",
+        "exploration"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/vlnOihQ5qxE/hqdefault.jpg"
+    },
+    {
       "id": "Bx_MA0MPyz4",
       "title": "The BRICS Summit was ...awkard?",
       "channel": "Geography Now",
@@ -30323,6 +30273,21 @@
       "thumbnail": "https://i.ytimg.com/vi/O9V8ypewMZg/hqdefault.jpg"
     },
     {
+      "id": "UAp_QnQUoyE",
+      "title": "Silly Stories for Kids! | Read Aloud Kids Book | Vooks Narrated Storybooks",
+      "channel": "Vooks - Stories and Read Alouds for Kids",
+      "channelId": "UCGfA6UdZEmpIwBZ4btAKkgA",
+      "durationSec": 2644,
+      "publishedAt": "2026-09-14T12:00:17Z",
+      "topics": [
+        "reading"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/UAp_QnQUoyE/hqdefault.jpg"
+    },
+    {
       "id": "bEtF1PgsYr4",
       "title": "Jasper G and the Grumpity Grumps! | Read Aloud Kids Book | Vooks Narrated Storybooks",
       "channel": "Vooks - Stories and Read Alouds for Kids",
@@ -30861,21 +30826,6 @@
         "little"
       ],
       "thumbnail": "https://i.ytimg.com/vi/G9iBn6_9308/hqdefault.jpg"
-    },
-    {
-      "id": "BVhT45lRsW8",
-      "title": "Hiku the Penguin! | Penguin Winter Read Aloud Kids Book | Vooks Narrated Storybooks",
-      "channel": "Vooks - Stories and Read Alouds for Kids",
-      "channelId": "UCGfA6UdZEmpIwBZ4btAKkgA",
-      "durationSec": 451,
-      "publishedAt": "2024-11-25T13:00:12Z",
-      "topics": [
-        "reading"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/BVhT45lRsW8/hqdefault.jpg"
     },
     {
       "id": "6bX8xYMerts",
@@ -42079,6 +42029,22 @@
       "thumbnail": "https://i.ytimg.com/vi/6dKiEY0UOtA/hqdefault.jpg"
     },
     {
+      "id": "eNIzHndQQsU",
+      "title": "Hot Transit Debates | RMTransit Off-Script",
+      "channel": "RMTransit",
+      "channelId": "UCf4iKXL_SJQ5d0qsKkboRRQ",
+      "durationSec": 3430,
+      "publishedAt": "2026-09-14T13:11:30Z",
+      "topics": [
+        "engineering",
+        "geography"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/eNIzHndQQsU/hqdefault.jpg"
+    },
+    {
       "id": "wgAlgu7BCoI",
       "title": "The Eglinton Crosstown Podcast Episode | RMTransit Off-Script",
       "channel": "RMTransit",
@@ -42863,22 +42829,6 @@
       "thumbnail": "https://i.ytimg.com/vi/j_s7OeJq83E/hqdefault.jpg"
     },
     {
-      "id": "hikUKEd6GII",
-      "title": "Boston vs Toronto — Which City has Better Transit?",
-      "channel": "RMTransit",
-      "channelId": "UCf4iKXL_SJQ5d0qsKkboRRQ",
-      "durationSec": 828,
-      "publishedAt": "2024-08-17T13:05:50Z",
-      "topics": [
-        "engineering",
-        "geography"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/hikUKEd6GII/hqdefault.jpg"
-    },
-    {
       "id": "2JOmHYyQoO4",
       "title": "AI’s Newest Buildings Are Already Obsolete",
       "channel": "Stewart Hicks",
@@ -43661,6 +43611,22 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/5VNP9RYIS_E/hqdefault.jpg"
+    },
+    {
+      "id": "FGvS4T-r_fk",
+      "title": "The Untold Race for the Atomic Bomb",
+      "channel": "The Vintage Space",
+      "channelId": "UCw95T_TgbGHhTml4xZ9yIqg",
+      "durationSec": 6918,
+      "publishedAt": "2026-09-13T14:18:29Z",
+      "topics": [
+        "space",
+        "history"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/FGvS4T-r_fk/hqdefault.jpg"
     },
     {
       "id": "vpaJ-zJVfTw",
@@ -47975,6 +47941,36 @@
       "thumbnail": "https://i.ytimg.com/vi/jvebwDXmBSw/hqdefault.jpg"
     },
     {
+      "id": "t8dDvNNzEJE",
+      "title": "Fourth Declension Nouns in Latin Part 1: Masculine and Feminine Nouns",
+      "channel": "Professor Dave Explains",
+      "channelId": "UC0cd_-e49hZpWLH3UIwoWRA",
+      "durationSec": 404,
+      "publishedAt": "2026-09-14T14:00:29Z",
+      "topics": [
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/t8dDvNNzEJE/hqdefault.jpg"
+    },
+    {
+      "id": "-lcEsbwebno",
+      "title": "Everything Is Crumbling For Destiny (And Pangburn)",
+      "channel": "Professor Dave Explains",
+      "channelId": "UC0cd_-e49hZpWLH3UIwoWRA",
+      "durationSec": 9786,
+      "publishedAt": "2026-09-13T14:00:22Z",
+      "topics": [
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/-lcEsbwebno/hqdefault.jpg"
+    },
+    {
       "id": "Rf8N4crfVe4",
       "title": "Eric Weinstein is Propaganda in Human Form",
       "channel": "Professor Dave Explains",
@@ -48693,36 +48689,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/fCSTjnyxBdU/hqdefault.jpg"
-    },
-    {
-      "id": "n6D-WlwPBI4",
-      "title": "Cardinal Numbers in Latin",
-      "channel": "Professor Dave Explains",
-      "channelId": "UC0cd_-e49hZpWLH3UIwoWRA",
-      "durationSec": 498,
-      "publishedAt": "2026-06-22T14:00:25Z",
-      "topics": [
-        "science"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/n6D-WlwPBI4/hqdefault.jpg"
-    },
-    {
-      "id": "zdy_Ep41Vpw",
-      "title": "Beyond the Standard Model of Particle Physics: An Overview",
-      "channel": "Professor Dave Explains",
-      "channelId": "UC0cd_-e49hZpWLH3UIwoWRA",
-      "durationSec": 536,
-      "publishedAt": "2026-06-19T14:00:39Z",
-      "topics": [
-        "science"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/zdy_Ep41Vpw/hqdefault.jpg"
     },
     {
       "id": "BjyJlN1npdw",
@@ -68006,6 +67972,21 @@
       "thumbnail": "https://i.ytimg.com/vi/grmBDsBQJ64/hqdefault.jpg"
     },
     {
+      "id": "4ASjo1zx-Fc",
+      "title": "How Life Changed Earth’s Geology Forever, Making the Search for Extraterrestrial Life More Difficult",
+      "channel": "GEO GIRL",
+      "channelId": "UC5uH43CVzGWg9XGYGuLwI_w",
+      "durationSec": 627,
+      "publishedAt": "2026-09-13T13:30:25Z",
+      "topics": [
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/4ASjo1zx-Fc/hqdefault.jpg"
+    },
+    {
       "id": "SihR1ddzPRs",
       "title": "Geology of Nepal’s August 26 Flood",
       "channel": "GEO GIRL",
@@ -68726,19 +68707,20 @@
       "thumbnail": "https://i.ytimg.com/vi/3GcS55X4epw/hqdefault.jpg"
     },
     {
-      "id": "BQwZCTtp3r0",
-      "title": "What Gives Rocks & Minerals Their Colors? GEO GIRL",
-      "channel": "GEO GIRL",
-      "channelId": "UC5uH43CVzGWg9XGYGuLwI_w",
-      "durationSec": 644,
-      "publishedAt": "2025-06-29T13:30:10Z",
+      "id": "aFTyh7FJ4NI",
+      "title": "Azores Furnas Volcano Update; Alert Level Raised, Geologist Analysis",
+      "channel": "GeologyHub",
+      "channelId": "UCYeGh5VML5XPr5jYnzh3J6g",
+      "durationSec": 252,
+      "publishedAt": "2026-09-13T18:00:27Z",
       "topics": [
-        "science"
+        "science",
+        "geography"
       ],
       "profiles": [
         "big"
       ],
-      "thumbnail": "https://i.ytimg.com/vi/BQwZCTtp3r0/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/aFTyh7FJ4NI/hqdefault.jpg"
     },
     {
       "id": "IoszPwrZHz0",
@@ -69475,22 +69457,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/UNL2ck4Itzk/hqdefault.jpg"
-    },
-    {
-      "id": "3WZ9K-ytPSs",
-      "title": "Venezuela Earthquake Update; 65,000+ Missing, Casualties Climb",
-      "channel": "GeologyHub",
-      "channelId": "UCYeGh5VML5XPr5jYnzh3J6g",
-      "durationSec": 238,
-      "publishedAt": "2026-06-29T19:00:30Z",
-      "topics": [
-        "science",
-        "geography"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/3WZ9K-ytPSs/hqdefault.jpg"
     },
     {
       "id": "rxnwmTmO1uw",
@@ -77204,7 +77170,7 @@
       "title": "ASL Geologic Time",
       "channel": "Learn Bright",
       "channelId": "UCKCsVSA5THlkHbnkZTPm6-g",
-      "durationSec": 449,
+      "durationSec": 450,
       "publishedAt": "2026-06-09T15:01:24Z",
       "topics": [
         "maths",
@@ -78133,7 +78099,7 @@
     },
     {
       "id": "NJxU0YQmzsU",
-      "title": "Colombia's \"Cocaine\" Hippos Are a Big, BIG Problem",
+      "title": "Colombia’s Cocaine Hippo Problem Is Worse Than You Think",
       "channel": "KPassionate",
       "channelId": "UCUvSqEH92Fqn9uw1kmCfLGA",
       "durationSec": 733,
@@ -78293,7 +78259,7 @@
     },
     {
       "id": "F2dPT24PI0o",
-      "title": "Orcas Attacked Another Orca... And Solved A Decades Long Mystery",
+      "title": "How Orca Cannibalism Might Have Solved a Decades Long Mystery",
       "channel": "KPassionate",
       "channelId": "UCUvSqEH92Fqn9uw1kmCfLGA",
       "durationSec": 749,
@@ -82772,6 +82738,38 @@
       "thumbnail": "https://i.ytimg.com/vi/GLVhXClV5QU/hqdefault.jpg"
     },
     {
+      "id": "wp6Xo9oARG0",
+      "title": "Snow Daze | Peep and the Big Wide World",
+      "channel": "Peep and the Big Wide World",
+      "channelId": "UCPq6g4Q4-SFMIJ048IXmupA",
+      "durationSec": 645,
+      "publishedAt": "2026-09-14T15:00:23Z",
+      "topics": [
+        "science",
+        "nature"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/wp6Xo9oARG0/hqdefault.jpg"
+    },
+    {
+      "id": "gLrTtv9tn2M",
+      "title": "Peep Finds a Piece of Sky! | Peep and the Big Wide World",
+      "channel": "Peep and the Big Wide World",
+      "channelId": "UCPq6g4Q4-SFMIJ048IXmupA",
+      "durationSec": 3807,
+      "publishedAt": "2026-09-13T15:00:04Z",
+      "topics": [
+        "science",
+        "nature"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/gLrTtv9tn2M/hqdefault.jpg"
+    },
+    {
       "id": "1_SNgq-_N3g",
       "title": "Dry Duck (Part 2) | Peep and the Big Wide World",
       "channel": "Peep and the Big Wide World",
@@ -83474,22 +83472,6 @@
         "little"
       ],
       "thumbnail": "https://i.ytimg.com/vi/-chazUIYiQI/hqdefault.jpg"
-    },
-    {
-      "id": "_8ey1TGcJXo",
-      "title": "Chirp is Trying to Fly!🪽 | Peep and the Big Wide World",
-      "channel": "Peep and the Big Wide World",
-      "channelId": "UCPq6g4Q4-SFMIJ048IXmupA",
-      "durationSec": 3801,
-      "publishedAt": "2026-08-02T15:00:06Z",
-      "topics": [
-        "science",
-        "nature"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/_8ey1TGcJXo/hqdefault.jpg"
     },
     {
       "id": "9IaCGypvb7Y",
@@ -84461,6 +84443,42 @@
       "thumbnail": "https://i.ytimg.com/vi/LifiynyBy-o/hqdefault.jpg"
     },
     {
+      "id": "AiHqYRUnBLw",
+      "title": "Build an interactive tombstone for Halloween with #Adafruit RP2040 PropMaker Feather #3dprinting",
+      "channel": "Adafruit Industries",
+      "channelId": "UCpOlOeQjj7EsVnDh3zuCgsA",
+      "durationSec": 180,
+      "publishedAt": "2026-09-14T11:48:48Z",
+      "topics": [
+        "making",
+        "tech",
+        "engineering",
+        "coding"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/AiHqYRUnBLw/hqdefault.jpg"
+    },
+    {
+      "id": "PaxBBIJVN1o",
+      "title": "A tiny fly-brain lab on a microcontroller | CircuitPython + RP2350",
+      "channel": "Adafruit Industries",
+      "channelId": "UCpOlOeQjj7EsVnDh3zuCgsA",
+      "durationSec": 136,
+      "publishedAt": "2026-09-13T14:29:38Z",
+      "topics": [
+        "making",
+        "tech",
+        "engineering",
+        "coding"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/PaxBBIJVN1o/hqdefault.jpg"
+    },
+    {
       "id": "nJQ9KGpJLAc",
       "title": "Deep Dive w/Scott: Zephyr Pin Muxing #adafruit",
       "channel": "Adafruit Industries",
@@ -84837,42 +84855,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/ogNp0-o6Bh8/hqdefault.jpg"
-    },
-    {
-      "id": "Udanr6p1SF0",
-      "title": "JP’s Product Pick of the Week 8/25/26",
-      "channel": "Adafruit Industries",
-      "channelId": "UCpOlOeQjj7EsVnDh3zuCgsA",
-      "durationSec": 1280,
-      "publishedAt": "2026-08-26T07:26:13Z",
-      "topics": [
-        "making",
-        "tech",
-        "engineering",
-        "coding"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/Udanr6p1SF0/hqdefault.jpg"
-    },
-    {
-      "id": "iBs7Ngw_TOw",
-      "title": "Deep Dive w/ Tim: Working on TE SP-1 Learn Guide",
-      "channel": "Adafruit Industries",
-      "channelId": "UCpOlOeQjj7EsVnDh3zuCgsA",
-      "durationSec": 3619,
-      "publishedAt": "2026-08-26T04:19:19Z",
-      "topics": [
-        "making",
-        "tech",
-        "engineering",
-        "coding"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/iBs7Ngw_TOw/hqdefault.jpg"
     },
     {
       "id": "VmBS2N1FzmE",
@@ -86561,12 +86543,12 @@
       "thumbnail": "https://i.ytimg.com/vi/DPbKux9cemU/hqdefault.jpg"
     },
     {
-      "id": "jZIdEs4svTs",
+      "id": "2YkLHVvTDpg",
       "title": "Kids Yoga LIVE 🌟 | Fun Yoga Adventures & Movement for Kids",
       "channel": "Cosmic Kids Yoga",
       "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
-      "durationSec": 42898,
-      "publishedAt": "2026-09-13T03:28:30Z",
+      "durationSec": 42926,
+      "publishedAt": "2026-09-14T03:02:05Z",
       "topics": [
         "reading",
         "nature"
@@ -86575,83 +86557,15 @@
         "little",
         "big"
       ],
-      "thumbnail": "https://i.ytimg.com/vi/jZIdEs4svTs/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/2YkLHVvTDpg/hqdefault.jpg"
     },
     {
-      "id": "A0NV5cPI-CE",
-      "title": "Halloween Kids Yoga LIVE! Cosmic Kids Halloween Adventure Compilation 👻✨",
-      "channel": "Cosmic Kids Yoga",
-      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
-      "durationSec": 42710,
-      "publishedAt": "2026-09-13T02:22:22Z",
-      "topics": [
-        "reading",
-        "nature"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/A0NV5cPI-CE/hqdefault.jpg"
-    },
-    {
-      "id": "d_K74wgeJ_M",
-      "title": "Kids Yoga LIVE 🌟 | Fun Yoga Adventures & Movement for Kids",
-      "channel": "Cosmic Kids Yoga",
-      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
-      "durationSec": 42899,
-      "publishedAt": "2026-09-12T15:32:34Z",
-      "topics": [
-        "reading",
-        "nature"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/d_K74wgeJ_M/hqdefault.jpg"
-    },
-    {
-      "id": "7QuFkK_7iIE",
-      "title": "Halloween Kids Yoga LIVE! Cosmic Kids Halloween Adventure Compilation 👻✨",
-      "channel": "Cosmic Kids Yoga",
-      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
-      "durationSec": 42900,
-      "publishedAt": "2026-09-12T14:19:46Z",
-      "topics": [
-        "reading",
-        "nature"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/7QuFkK_7iIE/hqdefault.jpg"
-    },
-    {
-      "id": "VSK4Qn83NeQ",
-      "title": "Kids Yoga LIVE 🌟 | Fun Yoga Adventures & Movement for Kids",
-      "channel": "Cosmic Kids Yoga",
-      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
-      "durationSec": 42896,
-      "publishedAt": "2026-09-12T03:29:20Z",
-      "topics": [
-        "reading",
-        "nature"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/VSK4Qn83NeQ/hqdefault.jpg"
-    },
-    {
-      "id": "xn9CGNFtZ2A",
+      "id": "kxOnqyBlBlo",
       "title": "Halloween Kids Yoga LIVE! Cosmic Kids Halloween Adventure Compilation 👻✨",
       "channel": "Cosmic Kids Yoga",
       "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
       "durationSec": 42896,
-      "publishedAt": "2026-09-12T02:20:50Z",
+      "publishedAt": "2026-09-14T14:36:35Z",
       "topics": [
         "reading",
         "nature"
@@ -86660,92 +86574,7 @@
         "little",
         "big"
       ],
-      "thumbnail": "https://i.ytimg.com/vi/xn9CGNFtZ2A/hqdefault.jpg"
-    },
-    {
-      "id": "_5G2XPV_rl4",
-      "title": "Kids Yoga LIVE 🌟 | Fun Yoga Adventures & Movement for Kids",
-      "channel": "Cosmic Kids Yoga",
-      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
-      "durationSec": 42899,
-      "publishedAt": "2026-09-11T15:32:33Z",
-      "topics": [
-        "reading",
-        "nature"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/_5G2XPV_rl4/hqdefault.jpg"
-    },
-    {
-      "id": "lunMZIWfKN0",
-      "title": "Halloween Kids Yoga LIVE! Cosmic Kids Halloween Adventure Compilation 👻✨",
-      "channel": "Cosmic Kids Yoga",
-      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
-      "durationSec": 42896,
-      "publishedAt": "2026-09-11T14:22:28Z",
-      "topics": [
-        "reading",
-        "nature"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/lunMZIWfKN0/hqdefault.jpg"
-    },
-    {
-      "id": "ybeYIC0zTpE",
-      "title": "Kids Yoga LIVE 🌟 | Fun Yoga Adventures & Movement for Kids",
-      "channel": "Cosmic Kids Yoga",
-      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
-      "durationSec": 42900,
-      "publishedAt": "2026-09-11T03:29:48Z",
-      "topics": [
-        "reading",
-        "nature"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/ybeYIC0zTpE/hqdefault.jpg"
-    },
-    {
-      "id": "5Qs5trOvaUY",
-      "title": "Halloween Kids Yoga LIVE! Cosmic Kids Halloween Adventure Compilation 👻✨",
-      "channel": "Cosmic Kids Yoga",
-      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
-      "durationSec": 42894,
-      "publishedAt": "2026-09-11T02:19:16Z",
-      "topics": [
-        "reading",
-        "nature"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/5Qs5trOvaUY/hqdefault.jpg"
-    },
-    {
-      "id": "xfXBFe0kul8",
-      "title": "Kids Yoga LIVE 🌟 | Fun Yoga Adventures & Movement for Kids",
-      "channel": "Cosmic Kids Yoga",
-      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
-      "durationSec": 42899,
-      "publishedAt": "2026-09-10T15:37:12Z",
-      "topics": [
-        "reading",
-        "nature"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/xfXBFe0kul8/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/kxOnqyBlBlo/hqdefault.jpg"
     },
     {
       "id": "8L2syA68L2U",
@@ -86848,6 +86677,23 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/ofjqehUmLFk/hqdefault.jpg"
+    },
+    {
+      "id": "gXg4nq_C0vU",
+      "title": "Super Mario Yoga 🍄  | Yoga for Kids | Cosmic Kids Yoga Adventure",
+      "channel": "Cosmic Kids Yoga",
+      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
+      "durationSec": 1049,
+      "publishedAt": "2026-07-21T12:30:37Z",
+      "topics": [
+        "reading",
+        "nature"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/gXg4nq_C0vU/hqdefault.jpg"
     },
     {
       "id": "xm_GCZKltLA",
