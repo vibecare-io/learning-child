@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-19T12:44:58.863Z",
+  "generatedAt": "2026-09-20T13:16:18.056Z",
   "profiles": {
     "little": {
       "label": "Ages 3-7"
@@ -131,6 +131,38 @@
       "thumbnail": "https://i.ytimg.com/vi/kKqd0_cydZM/hqdefault.jpg"
     },
     {
+      "id": "ca2ReLTX0So",
+      "title": "My Best Friend's an Animal Full Episode | 4K | Rescued Besties! | Nat Geo Kids",
+      "channel": "Nat Geo Kids",
+      "channelId": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "durationSec": 2653,
+      "publishedAt": "2026-09-20T11:00:19Z",
+      "topics": [
+        "animals",
+        "science"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/ca2ReLTX0So/hqdefault.jpg"
+    },
+    {
+      "id": "cJghbzC4dAA",
+      "title": "How Do Animals Talk Without Words? 🙊🐜 Animal Facts for Kids | Nat Geo Kids",
+      "channel": "Nat Geo Kids",
+      "channelId": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "durationSec": 171,
+      "publishedAt": "2026-09-19T12:47:41Z",
+      "topics": [
+        "animals",
+        "science"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/cJghbzC4dAA/hqdefault.jpg"
+    },
+    {
       "id": "zB7yHqfAYlA",
       "title": "Ancient Olympics had CHEATERS?! 🏛️🏅 | Greeking Out Podcast | S4 E8 FULL EP | Nat Geo Kids",
       "channel": "Nat Geo Kids",
@@ -177,22 +209,6 @@
         "little"
       ],
       "thumbnail": "https://i.ytimg.com/vi/lLAyDRLHKXY/hqdefault.jpg"
-    },
-    {
-      "id": "h64W_6Vnpvc",
-      "title": "Weird But True! Full Episode Compilation | Science Rules 🧠 | Nat Geo Kids",
-      "channel": "Nat Geo Kids",
-      "channelId": "UCXVCgDuD_QCkI7gTKU7-tpg",
-      "durationSec": 3972,
-      "publishedAt": "2026-09-14T11:00:06Z",
-      "topics": [
-        "animals",
-        "science"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/h64W_6Vnpvc/hqdefault.jpg"
     },
     {
       "id": "Tsf8JX_pGPw",
@@ -270,6 +286,21 @@
       "thumbnail": "https://i.ytimg.com/vi/QPcSceXFric/hqdefault.jpg"
     },
     {
+      "id": "eZL45lI3WJM",
+      "title": "Sorty and Other Numberblock Friends | Learn to Count for Kids Compilation | Numberblocks",
+      "channel": "Numberblocks",
+      "channelId": "UCPlwvN0w4qFSP1FllALB92w",
+      "durationSec": 4581,
+      "publishedAt": "2026-09-20T10:00:20Z",
+      "topics": [
+        "maths"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/eZL45lI3WJM/hqdefault.jpg"
+    },
+    {
       "id": "xI2uUrWL5Kw",
       "title": "Addition and Subtraction Made Easy for Kids | Learn to Count for Kids Compilation | Numberblocks",
       "channel": "Numberblocks",
@@ -298,21 +329,6 @@
         "little"
       ],
       "thumbnail": "https://i.ytimg.com/vi/kwF1r2ZJd3U/hqdefault.jpg"
-    },
-    {
-      "id": "-osYShkNjVs",
-      "title": "I’m a terrific Time Keeper | Learn to Count | Numberblocks",
-      "channel": "Numberblocks",
-      "channelId": "UCPlwvN0w4qFSP1FllALB92w",
-      "durationSec": 179,
-      "publishedAt": "2026-09-18T10:00:36Z",
-      "topics": [
-        "maths"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/-osYShkNjVs/hqdefault.jpg"
     },
     {
       "id": "bHB5iiDDJ-s",
@@ -620,6 +636,25 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/0NY2gAftzJE/hqdefault.jpg"
+    },
+    {
+      "id": "_L1Rim7-IPo",
+      "title": "Last Cheater Standing Wins $10,000!",
+      "channel": "Mark Rober",
+      "channelId": "UCY1kMZp36IQSyNx_9h4mpCg",
+      "durationSec": 2063,
+      "publishedAt": "2026-09-19T13:00:35Z",
+      "topics": [
+        "science",
+        "engineering"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "flags": [
+        "supervision"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/_L1Rim7-IPo/hqdefault.jpg"
     },
     {
       "id": "TaqsdQADC6s",
@@ -5130,6 +5165,23 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/tIlshNCG6NI/hqdefault.jpg"
+    },
+    {
+      "id": "v03RjDNwG1o",
+      "title": "Progress 96 Cargo Ship Docking",
+      "channel": "NASA",
+      "channelId": "UCLA_DiR1FfKNvjuUpBHmylQ",
+      "durationSec": 3141,
+      "publishedAt": "2026-09-19T13:54:40Z",
+      "topics": [
+        "space",
+        "exploration"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/v03RjDNwG1o/hqdefault.jpg"
     },
     {
       "id": "aujP8wuMTMI",
@@ -17925,6 +17977,23 @@
       "thumbnail": "https://i.ytimg.com/vi/5UTXz9Xclr4/hqdefault.jpg"
     },
     {
+      "id": "kBHSYUo38JI",
+      "title": "Apply to be a #videoengineering intern and sail on #EVNautilus by Oct 15: NautilusLive.org/education",
+      "channel": "EVNautilus",
+      "channelId": "UC1KOOWHthbQVXH2kZue3_xA",
+      "durationSec": 123,
+      "publishedAt": "2026-09-19T18:13:14Z",
+      "topics": [
+        "nature",
+        "exploration"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/kBHSYUo38JI/hqdefault.jpg"
+    },
+    {
       "id": "YQ8lD5qBVJQ",
       "title": "Fossilized Shark Teeth Near Wake Atoll | Nautilus Live",
       "channel": "EVNautilus",
@@ -18399,23 +18468,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/sb_rtELNN8A/hqdefault.jpg"
-    },
-    {
-      "id": "9IIn6szoZOc",
-      "title": "Update from an Expert: Eruption in the Marianas Revealed | Nautilus Live",
-      "channel": "EVNautilus",
-      "channelId": "UC1KOOWHthbQVXH2kZue3_xA",
-      "durationSec": 898,
-      "publishedAt": "2026-07-10T19:00:29Z",
-      "topics": [
-        "nature",
-        "exploration"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/9IIn6szoZOc/hqdefault.jpg"
     },
     {
       "id": "48cQQL8pXI8",
@@ -21118,7 +21170,7 @@
     },
     {
       "id": "irkAtqm-eCs",
-      "title": "The Evolution of Roller Coasters: From Wood to Steel",
+      "title": "How Roller Coasters Actually Work",
       "channel": "Jared Owen",
       "channelId": "UCbsfyGlrjrKQC0gbzK0-EiA",
       "durationSec": 950,
@@ -25633,6 +25685,22 @@
       "thumbnail": "https://i.ytimg.com/vi/jG9804gDDx8/hqdefault.jpg"
     },
     {
+      "id": "bDi7835I4l8",
+      "title": "Sneak peek on the new Geogra-talk video!",
+      "channel": "Geography Now",
+      "channelId": "UCmmPgObSUPw1HL2lq6H4ffA",
+      "durationSec": 5436,
+      "publishedAt": "2026-09-19T13:41:02Z",
+      "topics": [
+        "geography",
+        "exploration"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/bDi7835I4l8/hqdefault.jpg"
+    },
+    {
       "id": "xF5AgRQVU4E",
       "title": "MIDNIGHT LIVESTREAM (for the eastern Hemisphere peeps)",
       "channel": "Geography Now",
@@ -25647,22 +25715,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/xF5AgRQVU4E/hqdefault.jpg"
-    },
-    {
-      "id": "bDi7835I4l8",
-      "title": "Sneak peek on the new Geogra-talk video!",
-      "channel": "Geography Now",
-      "channelId": "UCmmPgObSUPw1HL2lq6H4ffA",
-      "durationSec": 5431,
-      "publishedAt": "2026-09-19T00:06:24Z",
-      "topics": [
-        "geography",
-        "exploration"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/bDi7835I4l8/hqdefault.jpg"
     },
     {
       "id": "CjAP-Pk-7eA",
@@ -27311,6 +27363,22 @@
       "thumbnail": "https://i.ytimg.com/vi/U7TDtrvV_yg/hqdefault.jpg"
     },
     {
+      "id": "FqjXuDgpvSs",
+      "title": "Why does this vase have eyes?",
+      "channel": "The British Museum",
+      "channelId": "UCvpQ-l09fCVxJd3urZbxzHg",
+      "durationSec": 121,
+      "publishedAt": "2026-09-19T15:00:24Z",
+      "topics": [
+        "history",
+        "art"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/FqjXuDgpvSs/hqdefault.jpg"
+    },
+    {
       "id": "3rfTmsGu3cU",
       "title": "Curator's Corner | A remarkable phenomenon",
       "channel": "The British Museum",
@@ -27711,20 +27779,19 @@
       "thumbnail": "https://i.ytimg.com/vi/p-qkQyrp-Yc/hqdefault.jpg"
     },
     {
-      "id": "7eBL5quTa9s",
-      "title": "The revealing details of the Assyrian Lion Hunt Reliefs | Curator’s Corner S10 Ep5",
-      "channel": "The British Museum",
-      "channelId": "UCvpQ-l09fCVxJd3urZbxzHg",
-      "durationSec": 841,
-      "publishedAt": "2025-07-31T15:30:10Z",
+      "id": "ElUBOY4NdGQ",
+      "title": "Can Arabic speakers read Persian? (clip 1)",
+      "channel": "Langfocus",
+      "channelId": "UCNhX3WQEkraW3VHPyup8jkQ",
+      "durationSec": 180,
+      "publishedAt": "2026-09-19T16:17:41Z",
       "topics": [
-        "history",
-        "art"
+        "geography"
       ],
       "profiles": [
         "big"
       ],
-      "thumbnail": "https://i.ytimg.com/vi/7eBL5quTa9s/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/ElUBOY4NdGQ/hqdefault.jpg"
     },
     {
       "id": "YaKanPaCF_o",
@@ -30650,6 +30717,21 @@
       "thumbnail": "https://i.ytimg.com/vi/EdOBFjCHpQQ/hqdefault.jpg"
     },
     {
+      "id": "Cm-of9p2-3I",
+      "title": "Long Vowels AU AW IR | Lesson Thirty - Phonics Made Easy | Alphablocks",
+      "channel": "Alphablocks",
+      "channelId": "UC_qs3c0ehDvZkbiEbOj6Drg",
+      "durationSec": 988,
+      "publishedAt": "2026-09-20T11:00:27Z",
+      "topics": [
+        "reading"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/Cm-of9p2-3I/hqdefault.jpg"
+    },
+    {
       "id": "7TEOsvKTrS4",
       "title": "Little Red N Goes on an Adventure | Learn to Read and Spell for Kids Compilation | Alphablocks",
       "channel": "Alphablocks",
@@ -31188,21 +31270,6 @@
         "little"
       ],
       "thumbnail": "https://i.ytimg.com/vi/uSdRT7tc2eI/hqdefault.jpg"
-    },
-    {
-      "id": "8lxGl1ZGvDg",
-      "title": "Letter Blends with S | Lesson Twenty Two - Phonics Made Easy Compilation | Alphablocks",
-      "channel": "Alphablocks",
-      "channelId": "UC_qs3c0ehDvZkbiEbOj6Drg",
-      "durationSec": 652,
-      "publishedAt": "2026-06-28T11:00:00Z",
-      "topics": [
-        "reading"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/8lxGl1ZGvDg/hqdefault.jpg"
     },
     {
       "id": "ilQIiwbDnfI",
@@ -40507,6 +40574,22 @@
       "thumbnail": "https://i.ytimg.com/vi/p4om4BtfaDY/hqdefault.jpg"
     },
     {
+      "id": "UuGGUySZA_M",
+      "title": "What ISN'T Great British Railways?",
+      "channel": "Jago Hazzard",
+      "channelId": "UCcHuNKYzVMc06FXqsBEAV3A",
+      "durationSec": 702,
+      "publishedAt": "2026-09-20T11:00:30Z",
+      "topics": [
+        "history",
+        "geography"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/UuGGUySZA_M/hqdefault.jpg"
+    },
+    {
       "id": "l3ZOq0tY2z8",
       "title": "I finally rode the new DLR trains!",
       "channel": "Jago Hazzard",
@@ -41289,22 +41372,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/D7vC3MFsVq8/hqdefault.jpg"
-    },
-    {
-      "id": "94ksocL-kZY",
-      "title": "London’s Short-Lived Hoverbus",
-      "channel": "Jago Hazzard",
-      "channelId": "UCcHuNKYzVMc06FXqsBEAV3A",
-      "durationSec": 484,
-      "publishedAt": "2026-05-27T16:30:18Z",
-      "topics": [
-        "history",
-        "geography"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/94ksocL-kZY/hqdefault.jpg"
     },
     {
       "id": "QJ9aiT-kXVU",
@@ -42652,7 +42719,7 @@
     },
     {
       "id": "RjJO-fCWR54",
-      "title": "Why America Painted Itself Beige",
+      "title": "The Problem With Colorful Houses",
       "channel": "Stewart Hicks",
       "channelId": "UCYAm24PkejQR2xMgJgn7xwg",
       "durationSec": 664,
@@ -44093,6 +44160,22 @@
       "thumbnail": "https://i.ytimg.com/vi/V7YflDpAT8o/hqdefault.jpg"
     },
     {
+      "id": "HBpFIYRjuuM",
+      "title": "AI Has Poisoned Everything",
+      "channel": "Cool Worlds",
+      "channelId": "UCGHZpIpAWJQ-Jy_CeCdXhMA",
+      "durationSec": 1112,
+      "publishedAt": "2026-09-19T18:40:19Z",
+      "topics": [
+        "space",
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/HBpFIYRjuuM/hqdefault.jpg"
+    },
+    {
       "id": "JYddxlERmUU",
       "title": "The Genius Who Thought Aliens Lived in the Sun",
       "channel": "Cool Worlds",
@@ -44683,22 +44766,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/bz-DnGtUBeA/hqdefault.jpg"
-    },
-    {
-      "id": "b6-9Hq8dV_4",
-      "title": "Crowded or Lonely? The Statistics of Alien Life",
-      "channel": "Cool Worlds",
-      "channelId": "UCGHZpIpAWJQ-Jy_CeCdXhMA",
-      "durationSec": 1221,
-      "publishedAt": "2024-06-19T15:20:01Z",
-      "topics": [
-        "space",
-        "science"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/b6-9Hq8dV_4/hqdefault.jpg"
     },
     {
       "id": "zvRmTaEjXPQ",
@@ -61906,6 +61973,23 @@
       "thumbnail": "https://i.ytimg.com/vi/IjJWWGPjc-w/hqdefault.jpg"
     },
     {
+      "id": "4R9bSVE5pJQ",
+      "title": "I Built a Card-Launching Purse to Distract Mark Rober",
+      "channel": "Becky Stern",
+      "channelId": "UCsI_41SZafKtB5qE46WjlQQ",
+      "durationSec": 501,
+      "publishedAt": "2026-09-19T13:01:38Z",
+      "topics": [
+        "making",
+        "tech",
+        "art"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/4R9bSVE5pJQ/hqdefault.jpg"
+    },
+    {
       "id": "zmKez6NFyxI",
       "title": "I Built a Light for Every Sale",
       "channel": "Becky Stern",
@@ -65366,6 +65450,22 @@
       "thumbnail": "https://i.ytimg.com/vi/oF3z_tNVllU/hqdefault.jpg"
     },
     {
+      "id": "GAXGJEYq2zw",
+      "title": "Before You Buy a Greenhouse Watch This",
+      "channel": "GrowVeg",
+      "channelId": "UC9r61qohBg1qgGty4_WzojA",
+      "durationSec": 931,
+      "publishedAt": "2026-09-19T14:45:05Z",
+      "topics": [
+        "nature",
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/GAXGJEYq2zw/hqdefault.jpg"
+    },
+    {
       "id": "VkUPEWKGY1Y",
       "title": "Grow FREE Plants from Kitchen Scraps",
       "channel": "GrowVeg",
@@ -65972,22 +66072,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/9wJmnS-3Tfg/hqdefault.jpg"
-    },
-    {
-      "id": "yWAjlVk45Jg",
-      "title": "Organic City Garden: Turn Any Space Into Huge Harvests",
-      "channel": "GrowVeg",
-      "channelId": "UC9r61qohBg1qgGty4_WzojA",
-      "durationSec": 1038,
-      "publishedAt": "2025-12-20T15:45:06Z",
-      "topics": [
-        "nature",
-        "science"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/yWAjlVk45Jg/hqdefault.jpg"
     },
     {
       "id": "rLa1WKwWfwE",
@@ -73165,6 +73249,23 @@
       "thumbnail": "https://i.ytimg.com/vi/5xxmeInCasM/hqdefault.jpg"
     },
     {
+      "id": "HA8DkT6hMyA",
+      "title": "The Biogeography of Humans",
+      "channel": "Atlas Pro",
+      "channelId": "UCz1oFxMrgrQ82-276UCOU9w",
+      "durationSec": 1742,
+      "publishedAt": "2026-09-19T20:30:36Z",
+      "topics": [
+        "geography",
+        "nature",
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/HA8DkT6hMyA/hqdefault.jpg"
+    },
+    {
       "id": "5ZcFnubyT4U",
       "title": "The Great Upstate Bog Tour!",
       "channel": "Atlas Pro",
@@ -73486,23 +73587,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/OvXE_z4uEw4/hqdefault.jpg"
-    },
-    {
-      "id": "WbiqBei3ORc",
-      "title": "Why are there SO MANY Salamanders in Appalachia?",
-      "channel": "Atlas Pro",
-      "channelId": "UCz1oFxMrgrQ82-276UCOU9w",
-      "durationSec": 926,
-      "publishedAt": "2025-02-15T12:00:45Z",
-      "topics": [
-        "geography",
-        "nature",
-        "science"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/WbiqBei3ORc/hqdefault.jpg"
     },
     {
       "id": "HSRmfNDk87s",
@@ -78833,6 +78917,22 @@
       "thumbnail": "https://i.ytimg.com/vi/jObcXvhZu_Q/hqdefault.jpg"
     },
     {
+      "id": "KMPGDoXqNPM",
+      "title": "The Science Behind the Self Aware Dog Talking With Buttons",
+      "channel": "KPassionate",
+      "channelId": "UCUvSqEH92Fqn9uw1kmCfLGA",
+      "durationSec": 642,
+      "publishedAt": "2024-01-27T14:30:06Z",
+      "topics": [
+        "animals",
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/KMPGDoXqNPM/hqdefault.jpg"
+    },
+    {
       "id": "ifiWUHQEK0g",
       "title": "The bumpy jelly stings with their whole body, no tentacles necessary",
       "channel": "MBARI (Monterey Bay Aquarium Research Institute)",
@@ -82705,6 +82805,22 @@
       "thumbnail": "https://i.ytimg.com/vi/GLVhXClV5QU/hqdefault.jpg"
     },
     {
+      "id": "zsQjGj7c_Ck",
+      "title": "Smaller Than a Peep | Peep and the Big Wide World",
+      "channel": "Peep and the Big Wide World",
+      "channelId": "UCPq6g4Q4-SFMIJ048IXmupA",
+      "durationSec": 645,
+      "publishedAt": "2026-09-19T15:00:07Z",
+      "topics": [
+        "science",
+        "nature"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/zsQjGj7c_Ck/hqdefault.jpg"
+    },
+    {
       "id": "cTZ_vrcJfjI",
       "title": "Playing With Ramps, Planting Seeds & MORE! | Explore the Big Wide World",
       "channel": "Peep and the Big Wide World",
@@ -85199,6 +85315,22 @@
       "thumbnail": "https://i.ytimg.com/vi/V7D7jXF2pj8/hqdefault.jpg"
     },
     {
+      "id": "vr_ADr-XrR4",
+      "title": "Can Anything Survive My Crunchinator?",
+      "channel": "CrunchLabs",
+      "channelId": "UC513PdAP2-jWkJunTh5kXRw",
+      "durationSec": 982,
+      "publishedAt": "2026-09-19T13:00:13Z",
+      "topics": [
+        "engineering",
+        "making"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/vr_ADr-XrR4/hqdefault.jpg"
+    },
+    {
       "id": "iSbLf1iOcZQ",
       "title": "Water Experiments That Look Like Magic",
       "channel": "CrunchLabs",
@@ -86596,6 +86728,74 @@
       "thumbnail": "https://i.ytimg.com/vi/DPbKux9cemU/hqdefault.jpg"
     },
     {
+      "id": "SOsAzD6McFk",
+      "title": "Kids Yoga LIVE 🌟 | Fun Yoga Adventures & Movement for Kids",
+      "channel": "Cosmic Kids Yoga",
+      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
+      "durationSec": 42900,
+      "publishedAt": "2026-09-20T03:26:00Z",
+      "topics": [
+        "reading",
+        "nature"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/SOsAzD6McFk/hqdefault.jpg"
+    },
+    {
+      "id": "oyAbIf4QDpA",
+      "title": "Halloween Kids Yoga LIVE! Cosmic Kids Halloween Adventure Compilation 👻✨",
+      "channel": "Cosmic Kids Yoga",
+      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
+      "durationSec": 42897,
+      "publishedAt": "2026-09-20T02:25:14Z",
+      "topics": [
+        "reading",
+        "nature"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/oyAbIf4QDpA/hqdefault.jpg"
+    },
+    {
+      "id": "nIUQ0iZLL8M",
+      "title": "Kids Yoga LIVE 🌟 | Fun Yoga Adventures & Movement for Kids",
+      "channel": "Cosmic Kids Yoga",
+      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
+      "durationSec": 42900,
+      "publishedAt": "2026-09-19T15:38:39Z",
+      "topics": [
+        "reading",
+        "nature"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/nIUQ0iZLL8M/hqdefault.jpg"
+    },
+    {
+      "id": "ga9A7NEl-Ds",
+      "title": "Halloween Kids Yoga LIVE! Cosmic Kids Halloween Adventure Compilation 👻✨",
+      "channel": "Cosmic Kids Yoga",
+      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
+      "durationSec": 42900,
+      "publishedAt": "2026-09-19T14:31:55Z",
+      "topics": [
+        "reading",
+        "nature"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/ga9A7NEl-Ds/hqdefault.jpg"
+    },
+    {
       "id": "seoi9p_exRg",
       "title": "Kids Yoga LIVE 🌟 | Fun Yoga Adventures & Movement for Kids",
       "channel": "Cosmic Kids Yoga",
@@ -87650,6 +87850,22 @@
       "thumbnail": "https://i.ytimg.com/vi/Ilr2DjYOfqA/hqdefault.jpg"
     },
     {
+      "id": "eRImy5lc3LY",
+      "title": "Let's Learn Colors with Elmo!  🌈 🎨 | 65 Min | Sesame Street",
+      "channel": "Sesame Street",
+      "channelId": "UCoookXUzPciGrEZEXmh4Jjg",
+      "durationSec": 4173,
+      "publishedAt": "2026-09-20T11:30:37Z",
+      "topics": [
+        "reading",
+        "music"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/eRImy5lc3LY/hqdefault.jpg"
+    },
+    {
       "id": "x48eq6AYfTY",
       "title": "Elmo's Delivery Bike! 🚲🚗 | FOUR Sesame Street Full Episodes",
       "channel": "Sesame Street",
@@ -88048,22 +88264,6 @@
         "little"
       ],
       "thumbnail": "https://i.ytimg.com/vi/Lt0Uy0Av02A/hqdefault.jpg"
-    },
-    {
-      "id": "XNT5J_h4iSs",
-      "title": "Count to 10 with Elmo and Abby! 😄 Number Songs for Kids | Sesame Street",
-      "channel": "Sesame Street",
-      "channelId": "UCoookXUzPciGrEZEXmh4Jjg",
-      "durationSec": 2289,
-      "publishedAt": "2026-07-22T11:30:12Z",
-      "topics": [
-        "reading",
-        "music"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/XNT5J_h4iSs/hqdefault.jpg"
     },
     {
       "id": "WlD2UN7gPmg",
