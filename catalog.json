@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-21T15:26:23.846Z",
+  "generatedAt": "2026-09-22T13:44:44.148Z",
   "profiles": {
     "little": {
       "label": "Ages 3-7"
@@ -195,22 +195,6 @@
       "thumbnail": "https://i.ytimg.com/vi/zB7yHqfAYlA/hqdefault.jpg"
     },
     {
-      "id": "zu9lzYm4St4",
-      "title": "Funny Named Animals are Cute... But Creepy!🤣 | You're Called What?! | Nat Geo Kids",
-      "channel": "Nat Geo Kids",
-      "channelId": "UCXVCgDuD_QCkI7gTKU7-tpg",
-      "durationSec": 1618,
-      "publishedAt": "2026-09-17T11:00:23Z",
-      "topics": [
-        "animals",
-        "science"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/zu9lzYm4St4/hqdefault.jpg"
-    },
-    {
       "id": "tnmfnRPOBx8",
       "title": "How To Draw A Funny Hay Bale",
       "channel": "Art for Kids Hub",
@@ -286,6 +270,21 @@
       "thumbnail": "https://i.ytimg.com/vi/RdkYiMTOW1U/hqdefault.jpg"
     },
     {
+      "id": "J5CNmHRTj4c",
+      "title": "The Rise of Infinaughty - PART 2: An Even Split | Numberblocks (S9 E2)",
+      "channel": "Numberblocks",
+      "channelId": "UCPlwvN0w4qFSP1FllALB92w",
+      "durationSec": 302,
+      "publishedAt": "2026-09-22T11:00:16Z",
+      "topics": [
+        "maths"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/J5CNmHRTj4c/hqdefault.jpg"
+    },
+    {
       "id": "ErCIgERRC28",
       "title": "The Rise of Infinaughty - PART 1: The Day the Blocks Turned Pink | Numberblocks (S9 E1)",
       "channel": "Numberblocks",
@@ -314,21 +313,6 @@
         "little"
       ],
       "thumbnail": "https://i.ytimg.com/vi/q10hMzUmBnM/hqdefault.jpg"
-    },
-    {
-      "id": "eZL45lI3WJM",
-      "title": "Sorty and Other Numberblock Friends | Learn to Count for Kids Compilation | Numberblocks",
-      "channel": "Numberblocks",
-      "channelId": "UCPlwvN0w4qFSP1FllALB92w",
-      "durationSec": 4581,
-      "publishedAt": "2026-09-20T10:00:20Z",
-      "topics": [
-        "maths"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/eZL45lI3WJM/hqdefault.jpg"
     },
     {
       "id": "bHB5iiDDJ-s",
@@ -487,19 +471,19 @@
       "thumbnail": "https://i.ytimg.com/vi/-mXaU3N9e8Y/hqdefault.jpg"
     },
     {
-      "id": "0aTUTxOiRgU",
-      "title": "291 Holes - Numberphile",
-      "channel": "Numberphile",
-      "channelId": "UCoxcjq-8xIDTYp3uz647V5A",
-      "durationSec": 178,
-      "publishedAt": "2026-08-10T11:59:00Z",
+      "id": "pzTyAqobXRI",
+      "title": "You're Washing Your Dishes Wrong",
+      "channel": "SciShow",
+      "channelId": "UCZYTClx2T1of7BRZ86-8fow",
+      "durationSec": 520,
+      "publishedAt": "2026-09-21T17:00:39Z",
       "topics": [
-        "maths"
+        "science"
       ],
       "profiles": [
         "big"
       ],
-      "thumbnail": "https://i.ytimg.com/vi/0aTUTxOiRgU/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/pzTyAqobXRI/hqdefault.jpg"
     },
     {
       "id": "kBTa41cK4wM",
@@ -547,21 +531,6 @@
       "thumbnail": "https://i.ytimg.com/vi/PtcQaVbjyIM/hqdefault.jpg"
     },
     {
-      "id": "gB6OvhT_KYs",
-      "title": "What Is a Good Gut Microbiome, Anyway?",
-      "channel": "SciShow",
-      "channelId": "UCZYTClx2T1of7BRZ86-8fow",
-      "durationSec": 718,
-      "publishedAt": "2026-09-14T17:00:13Z",
-      "topics": [
-        "science"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/gB6OvhT_KYs/hqdefault.jpg"
-    },
-    {
       "id": "Nbwv5wHQoj0",
       "title": "The last IMO problem AI could not solve",
       "channel": "3Blue1Brown",
@@ -592,6 +561,21 @@
       "thumbnail": "https://i.ytimg.com/vi/GlYgs6v2YfU/hqdefault.jpg"
     },
     {
+      "id": "JsBZOcqZerk",
+      "title": "This Machine Made Wartime Germany (Almost) Impossible to Defeat",
+      "channel": "Veritasium",
+      "channelId": "UCHnyfMqiRRG1u-2MsSQLbXA",
+      "durationSec": 2862,
+      "publishedAt": "2026-09-21T17:49:57Z",
+      "topics": [
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/JsBZOcqZerk/hqdefault.jpg"
+    },
+    {
       "id": "J1WoNuemKOg",
       "title": "We sent a camera to space to film the solar eclipse",
       "channel": "Veritasium",
@@ -605,21 +589,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/J1WoNuemKOg/hqdefault.jpg"
-    },
-    {
-      "id": "wt4p2oalmRY",
-      "title": "Is spider web really stronger than steel?",
-      "channel": "Veritasium",
-      "channelId": "UCHnyfMqiRRG1u-2MsSQLbXA",
-      "durationSec": 1618,
-      "publishedAt": "2026-08-02T13:21:11Z",
-      "topics": [
-        "science"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/wt4p2oalmRY/hqdefault.jpg"
     },
     {
       "id": "0NY2gAftzJE",
@@ -7136,6 +7105,24 @@
       "thumbnail": "https://i.ytimg.com/vi/iqmefUdKFVM/hqdefault.jpg"
     },
     {
+      "id": "x-vpfrs7RIs",
+      "title": "Why Don't Birds Cause MORE Crashes?",
+      "channel": "MinuteEarth",
+      "channelId": "UCeiYXex_fwgYDonaTcSIk6w",
+      "durationSec": 163,
+      "publishedAt": "2026-09-21T15:48:09Z",
+      "topics": [
+        "nature",
+        "science",
+        "geography"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/x-vpfrs7RIs/hqdefault.jpg"
+    },
+    {
       "id": "0AfM2Jitsps",
       "title": "Why The Black Plague Isn't Over",
       "channel": "MinuteEarth",
@@ -13622,22 +13609,6 @@
       "thumbnail": "https://i.ytimg.com/vi/mD0m5azko1A/hqdefault.jpg"
     },
     {
-      "id": "pStE85stTfQ",
-      "title": "How to Draw Spiderman | Brand New Day",
-      "channel": "Cartooning Club How to Draw",
-      "channelId": "UC-biucJWhM8HwjsQ96uoIUw",
-      "durationSec": 726,
-      "publishedAt": "2026-08-20T15:34:11Z",
-      "topics": [
-        "art",
-        "making"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/pStE85stTfQ/hqdefault.jpg"
-    },
-    {
       "id": "tkHzfNZCZiI",
       "title": "BEST. UPGRADE. EVER. - Formlabs 4L 3D Printer!",
       "channel": "Jazza",
@@ -14342,6 +14313,23 @@
       "thumbnail": "https://i.ytimg.com/vi/n4L99H6ZbdM/hqdefault.jpg"
     },
     {
+      "id": "WypmnAOH4V0",
+      "title": "How to sew on a button",
+      "channel": "Red Ted Art (Maggy Woodley)",
+      "channelId": "UCjjRFKvjpU1L1eDmfBWcqig",
+      "durationSec": 265,
+      "publishedAt": "2026-09-22T11:37:15Z",
+      "topics": [
+        "making",
+        "art"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/WypmnAOH4V0/hqdefault.jpg"
+    },
+    {
       "id": "iVTVVp5w-RA",
       "title": "Scarecrow Bookmark Corner",
       "channel": "Red Ted Art (Maggy Woodley)",
@@ -14952,23 +14940,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/YXDiOX9l5Ng/hqdefault.jpg"
-    },
-    {
-      "id": "5PpLTlLZA3k",
-      "title": "Learn Crochet Basics: How to make a Bobble Stitch (BOB)",
-      "channel": "Red Ted Art (Maggy Woodley)",
-      "channelId": "UCjjRFKvjpU1L1eDmfBWcqig",
-      "durationSec": 170,
-      "publishedAt": "2026-01-16T08:00:05Z",
-      "topics": [
-        "making",
-        "art"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/5PpLTlLZA3k/hqdefault.jpg"
     },
     {
       "id": "475v4RiI--U",
@@ -17962,6 +17933,23 @@
       "thumbnail": "https://i.ytimg.com/vi/5UTXz9Xclr4/hqdefault.jpg"
     },
     {
+      "id": "OVlCtTgn92U",
+      "title": "Wake Atoll’s Bitty Baby Squat Lobsters | Nautilus Live",
+      "channel": "EVNautilus",
+      "channelId": "UC1KOOWHthbQVXH2kZue3_xA",
+      "durationSec": 244,
+      "publishedAt": "2026-09-21T19:00:27Z",
+      "topics": [
+        "nature",
+        "exploration"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/OVlCtTgn92U/hqdefault.jpg"
+    },
+    {
       "id": "kBHSYUo38JI",
       "title": "Apply to be a #videoengineering intern and sail on #EVNautilus by Oct 15: NautilusLive.org/education",
       "channel": "EVNautilus",
@@ -18436,40 +18424,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/QLyHToAu51M/hqdefault.jpg"
-    },
-    {
-      "id": "sb_rtELNN8A",
-      "title": "Collecting Deep-Sea Sediment in a Box Corer | Nautilus Live",
-      "channel": "EVNautilus",
-      "channelId": "UC1KOOWHthbQVXH2kZue3_xA",
-      "durationSec": 304,
-      "publishedAt": "2026-07-13T19:00:21Z",
-      "topics": [
-        "nature",
-        "exploration"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/sb_rtELNN8A/hqdefault.jpg"
-    },
-    {
-      "id": "9IIn6szoZOc",
-      "title": "Update from an Expert: Eruption in the Marianas Revealed | Nautilus Live",
-      "channel": "EVNautilus",
-      "channelId": "UC1KOOWHthbQVXH2kZue3_xA",
-      "durationSec": 898,
-      "publishedAt": "2026-07-10T19:00:29Z",
-      "topics": [
-        "nature",
-        "exploration"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/9IIn6szoZOc/hqdefault.jpg"
     },
     {
       "id": "48cQQL8pXI8",
@@ -19870,6 +19824,22 @@
       "thumbnail": "https://i.ytimg.com/vi/IGtbHRPcSe8/hqdefault.jpg"
     },
     {
+      "id": "sx8p1eVHRHQ",
+      "title": "These Grow Bag Mistakes Will Cost You Your Harvest",
+      "channel": "Epic Gardening",
+      "channelId": "UCSbyncU597LMwb3HhnAI_4w",
+      "durationSec": 1549,
+      "publishedAt": "2026-09-21T19:24:55Z",
+      "topics": [
+        "nature",
+        "making"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/sx8p1eVHRHQ/hqdefault.jpg"
+    },
+    {
       "id": "HdgKWKLNSMY",
       "title": "Gardeners React to YOUR Garden Disasters",
       "channel": "Epic Gardening",
@@ -21140,7 +21110,7 @@
     },
     {
       "id": "jvhdNuiyNOI",
-      "title": "Building the Space Station Truss (and the Solar Panel Tear)",
+      "title": "Building the Space Station Truss Structure",
       "channel": "Jared Owen",
       "channelId": "UCbsfyGlrjrKQC0gbzK0-EiA",
       "durationSec": 1159,
@@ -21172,7 +21142,7 @@
     },
     {
       "id": "irkAtqm-eCs",
-      "title": "The Evolution of Roller Coasters: From Wood to Steel",
+      "title": "How Roller Coasters Actually Work",
       "channel": "Jared Owen",
       "channelId": "UCbsfyGlrjrKQC0gbzK0-EiA",
       "durationSec": 950,
@@ -29414,6 +29384,21 @@
       "thumbnail": "https://i.ytimg.com/vi/Cf9tWoziOyY/hqdefault.jpg"
     },
     {
+      "id": "RqKln8l385A",
+      "title": "The Scariest Sleepover Story You've EVER Heard |FUNNY spooky story | sleepover story read aloud",
+      "channel": "KidTimeStoryTime",
+      "channelId": "UCEPsNDUhUm-7yZhUjQQNqwQ",
+      "durationSec": 514,
+      "publishedAt": "2026-09-22T12:30:17Z",
+      "topics": [
+        "reading"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/RqKln8l385A/hqdefault.jpg"
+    },
+    {
       "id": "xWcqog93ze8",
       "title": "Green Eggs and Ham | Dr. Seuss read aloud for kids",
       "channel": "KidTimeStoryTime",
@@ -30147,21 +30132,6 @@
         "little"
       ],
       "thumbnail": "https://i.ytimg.com/vi/CkcJJnE6Dvs/hqdefault.jpg"
-    },
-    {
-      "id": "3pFagJrZuz4",
-      "title": "Leprechauns on STRIKE - St. Patricks Day Read Aloud",
-      "channel": "KidTimeStoryTime",
-      "channelId": "UCEPsNDUhUm-7yZhUjQQNqwQ",
-      "durationSec": 378,
-      "publishedAt": "2026-03-06T14:00:00Z",
-      "topics": [
-        "reading"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/3pFagJrZuz4/hqdefault.jpg"
     },
     {
       "id": "TGCuAdkwFOA",
@@ -44771,7 +44741,7 @@
     },
     {
       "id": "zvRmTaEjXPQ",
-      "title": "The Most Beautiful Object in Space?",
+      "title": "The Most Beautiful Object in Space? (The Cat's Eye Nebula - NGC 2403 or Caldwell 6)",
       "channel": "DeepSkyVideos",
       "channelId": "UCo-3ThNQmPmQSQL_L6Lx1_w",
       "durationSec": 529,
@@ -44867,7 +44837,7 @@
     },
     {
       "id": "kkNWEu5KWkY",
-      "title": "Dark Matter and Aliens in NGC 2403 - Deep Sky Videos",
+      "title": "Dark Matter and Aliens in NGC 2403 (Caldwell 7) - Deep Sky Videos",
       "channel": "DeepSkyVideos",
       "channelId": "UCo-3ThNQmPmQSQL_L6Lx1_w",
       "durationSec": 641,
@@ -54128,6 +54098,23 @@
       "thumbnail": "https://i.ytimg.com/vi/aLfd2rZ1x4I/hqdefault.jpg"
     },
     {
+      "id": "ksyPOk669Uc",
+      "title": "Nervous System Regulation: Helping Kids Move from Chaos to Calm [Episode 141]",
+      "channel": "Katie Kimball",
+      "channelId": "UCT1B3Tb7Bit_S7EWkhSba4A",
+      "durationSec": 1460,
+      "publishedAt": "2026-09-22T10:00:16Z",
+      "topics": [
+        "making",
+        "science"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/ksyPOk669Uc/hqdefault.jpg"
+    },
+    {
       "id": "J2uCtnUyRlE",
       "title": "Philosophy Shifts about Feeding My Family [Episode 140]",
       "channel": "Katie Kimball",
@@ -54823,23 +54810,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/nt8Mx38g9y0/hqdefault.jpg"
-    },
-    {
-      "id": "_Y5uNnWm1kg",
-      "title": "Having Clear Intentions About Things, Memories, Relationships with Diane Boden [Ep 98]",
-      "channel": "Katie Kimball",
-      "channelId": "UCT1B3Tb7Bit_S7EWkhSba4A",
-      "durationSec": 2011,
-      "publishedAt": "2025-12-09T11:01:12Z",
-      "topics": [
-        "making",
-        "science"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/_Y5uNnWm1kg/hqdefault.jpg"
     },
     {
       "id": "p2NnOBFRf8w",
@@ -63896,6 +63866,22 @@
       "thumbnail": "https://i.ytimg.com/vi/OB4jAc2033o/hqdefault.jpg"
     },
     {
+      "id": "Tuxgh8SrzbQ",
+      "title": "Rage-Fixing the Power Washer",
+      "channel": "ElectroBOOM",
+      "channelId": "UCJ0-OtVpF0wOKEqT2Z1HEtA",
+      "durationSec": 751,
+      "publishedAt": "2026-09-21T16:04:44Z",
+      "topics": [
+        "science",
+        "engineering"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/Tuxgh8SrzbQ/hqdefault.jpg"
+    },
+    {
       "id": "nhbeaHuZMQ0",
       "title": "Plasma Globe is a ⚡Shocking⚡🔥Fire Hazard🔥",
       "channel": "ElectroBOOM",
@@ -69496,6 +69482,23 @@
       "thumbnail": "https://i.ytimg.com/vi/ZSrVV5Lc-Bc/hqdefault.jpg"
     },
     {
+      "id": "DIYbr5_0y0g",
+      "title": "Update!  Good photos & more maps?",
+      "channel": "Nick Zentner",
+      "channelId": "UC4szl4Ra1ZD3m80wJP40UBA",
+      "durationSec": 1373,
+      "publishedAt": "2026-09-21T18:10:23Z",
+      "topics": [
+        "science",
+        "geography",
+        "history"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/DIYbr5_0y0g/hqdefault.jpg"
+    },
+    {
       "id": "rxnwmTmO1uw",
       "title": "Nisqually Glacier at Mount Rainier",
       "channel": "Nick Zentner",
@@ -70327,23 +70330,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/nloMl9yukjE/hqdefault.jpg"
-    },
-    {
-      "id": "0NKUhXPX5cg",
-      "title": "Axial Volcano Eruptions w/ Bill Chadwick",
-      "channel": "Nick Zentner",
-      "channelId": "UC4szl4Ra1ZD3m80wJP40UBA",
-      "durationSec": 1719,
-      "publishedAt": "2026-03-22T02:12:54Z",
-      "topics": [
-        "science",
-        "geography",
-        "history"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/0NKUhXPX5cg/hqdefault.jpg"
     },
     {
       "id": "JsTbrFY5xow",
@@ -71666,38 +71652,6 @@
       "thumbnail": "https://i.ytimg.com/vi/Lwh20rNFYFA/hqdefault.jpg"
     },
     {
-      "id": "9fVzCC1wzWc",
-      "title": "Resolver los problemas de la sonda nasogástrica de su hijo",
-      "channel": "Nemours KidsHealth",
-      "channelId": "UCDummp96hqu7KAUbs5k_zOw",
-      "durationSec": 196,
-      "publishedAt": "2026-09-18T18:00:34Z",
-      "topics": [
-        "science"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/9fVzCC1wzWc/hqdefault.jpg"
-    },
-    {
-      "id": "1tWEguKGbj0",
-      "title": "Handling Problems With Your Child's NG-Tube",
-      "channel": "Nemours KidsHealth",
-      "channelId": "UCDummp96hqu7KAUbs5k_zOw",
-      "durationSec": 195,
-      "publishedAt": "2026-09-18T18:00:01Z",
-      "topics": [
-        "science"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/1tWEguKGbj0/hqdefault.jpg"
-    },
-    {
       "id": "SHQFjSpUm9g",
       "title": "Getting Crutches or a Brace",
       "channel": "Nemours KidsHealth",
@@ -72064,6 +72018,22 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/VsUla1M7eHQ/hqdefault.jpg"
+    },
+    {
+      "id": "5nCOi8DsA0A",
+      "title": "How to Diaper Your Baby",
+      "channel": "Nemours KidsHealth",
+      "channelId": "UCDummp96hqu7KAUbs5k_zOw",
+      "durationSec": 124,
+      "publishedAt": "2026-02-27T20:09:05Z",
+      "topics": [
+        "science"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/5nCOi8DsA0A/hqdefault.jpg"
     },
     {
       "id": "BCynIZU2T_I",
@@ -74357,7 +74327,7 @@
     },
     {
       "id": "kh88fVP2FWQ",
-      "title": "Indians Didn't Choose the Name 'Native American'",
+      "title": "The US Has More Tribes Than the World Has Countries",
       "channel": "CGP Grey",
       "channelId": "UC2C_jShtL725hvbm1arSV9w",
       "durationSec": 407,
@@ -74743,6 +74713,22 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/fL6w95YvUQk/hqdefault.jpg"
+    },
+    {
+      "id": "pSzlZMzTwSg",
+      "title": "How much money is lying on the ground at Britain's Drive-thrus? [COIN SURVIVAL 3]",
+      "channel": "GeoWizard",
+      "channelId": "UCW5OrUZ4SeUYkUg1XqcjFYA",
+      "durationSec": 2037,
+      "publishedAt": "2026-09-21T18:25:52Z",
+      "topics": [
+        "geography",
+        "exploration"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/pSzlZMzTwSg/hqdefault.jpg"
     },
     {
       "id": "A_REYUp1QPA",
@@ -75529,22 +75515,6 @@
       "thumbnail": "https://i.ytimg.com/vi/XDq8KQjm4zY/hqdefault.jpg"
     },
     {
-      "id": "RhmzJMzR32A",
-      "title": "Is it me or is this statue pleased to see me? [Balanced Urban World - No Moving Play Along]",
-      "channel": "GeoWizard",
-      "channelId": "UCW5OrUZ4SeUYkUg1XqcjFYA",
-      "durationSec": 1362,
-      "publishedAt": "2024-10-18T19:00:15Z",
-      "topics": [
-        "geography",
-        "exploration"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/RhmzJMzR32A/hqdefault.jpg"
-    },
-    {
       "id": "6vaIZxyr628",
       "title": "Allowance Explained: Should Teens Earn One?",
       "channel": "Biz Kid$ (TV Series)",
@@ -76169,6 +76139,21 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/xaUKgnhZ9y4/hqdefault.jpg"
+    },
+    {
+      "id": "HZ4S7_GRo2E",
+      "title": "HSA Explained for Beginners (Triple Tax Advantage)",
+      "channel": "Easy Peasy Finance",
+      "channelId": "UCZl9ry5ew_2YeCQ6ECk8sxA",
+      "durationSec": 256,
+      "publishedAt": "2026-09-22T13:00:32Z",
+      "topics": [
+        "maths"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/HZ4S7_GRo2E/hqdefault.jpg"
     },
     {
       "id": "ZMLDN04HOFc",
@@ -83575,6 +83560,22 @@
       "thumbnail": "https://i.ytimg.com/vi/Y8VvL32C7Sw/hqdefault.jpg"
     },
     {
+      "id": "PhAMo4dSh98",
+      "title": "Let's Go Behind The Scenes 🎬 | Celebrate 20 years of Super Simple | Super Simple Play",
+      "channel": "Super Simple Play with Caitie!",
+      "channelId": "UCxG6Tbopv4XcHfem65bgFeg",
+      "durationSec": 786,
+      "publishedAt": "2026-09-22T13:00:30Z",
+      "topics": [
+        "music",
+        "making"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/PhAMo4dSh98/hqdefault.jpg"
+    },
+    {
       "id": "aELyhlZF8_w",
       "title": "Fire Truck Fun!  | Playtime Adventure for Kids! 🚒 | Freeze Dance + more!  | Super Simple Play",
       "channel": "Super Simple Play with Caitie!",
@@ -83845,22 +83846,6 @@
         "little"
       ],
       "thumbnail": "https://i.ytimg.com/vi/GtR917QydM8/hqdefault.jpg"
-    },
-    {
-      "id": "xpHOHE6qMEA",
-      "title": "Let's Go For A Bike Ride! 🚲 | Learn How To Ride with Caitie! | First Experiences | Super Simple Play",
-      "channel": "Super Simple Play with Caitie!",
-      "channelId": "UCxG6Tbopv4XcHfem65bgFeg",
-      "durationSec": 572,
-      "publishedAt": "2026-03-24T14:01:26Z",
-      "topics": [
-        "music",
-        "making"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/xpHOHE6qMEA/hqdefault.jpg"
     },
     {
       "id": "nu8Zx6jtsp8",
@@ -84560,6 +84545,24 @@
       "thumbnail": "https://i.ytimg.com/vi/vfnG2pYDftE/hqdefault.jpg"
     },
     {
+      "id": "rieBZEeqDQA",
+      "title": "CircuitPython Weekly Meeting for September 21, 2026 @circuitpython #circuitpython #adafruit",
+      "channel": "Adafruit Industries",
+      "channelId": "UCpOlOeQjj7EsVnDh3zuCgsA",
+      "durationSec": 2972,
+      "publishedAt": "2026-09-21T19:17:07Z",
+      "topics": [
+        "making",
+        "tech",
+        "engineering",
+        "coding"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/rieBZEeqDQA/hqdefault.jpg"
+    },
+    {
       "id": "pvZt15uN56A",
       "title": "Deep Dive w/Scott: Testing Pin Muxing #adafruit",
       "channel": "Adafruit Industries",
@@ -84990,24 +84993,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/VMTH2lCkJks/hqdefault.jpg"
-    },
-    {
-      "id": "BwrnnEZdCEQ",
-      "title": "John Park's Workshop Live 9/3/26",
-      "channel": "Adafruit Industries",
-      "channelId": "UCpOlOeQjj7EsVnDh3zuCgsA",
-      "durationSec": 3601,
-      "publishedAt": "2026-09-04T09:08:31Z",
-      "topics": [
-        "making",
-        "tech",
-        "engineering",
-        "coding"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/BwrnnEZdCEQ/hqdefault.jpg"
     },
     {
       "id": "VmBS2N1FzmE",
@@ -86712,12 +86697,12 @@
       "thumbnail": "https://i.ytimg.com/vi/DPbKux9cemU/hqdefault.jpg"
     },
     {
-      "id": "ceo_UmWQecY",
-      "title": "Kids Yoga LIVE 🌟 | Fun Yoga Adventures & Movement for Kids",
+      "id": "T2Wltv2e4lA",
+      "title": "Ghostbusters Kids Yoga Adventure 👻 | Yoga for Kids | Cosmic Kids",
       "channel": "Cosmic Kids Yoga",
       "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
-      "durationSec": 42924,
-      "publishedAt": "2026-09-21T03:02:05Z",
+      "durationSec": 897,
+      "publishedAt": "2026-09-22T13:30:36Z",
       "topics": [
         "reading",
         "nature"
@@ -86726,24 +86711,7 @@
         "little",
         "big"
       ],
-      "thumbnail": "https://i.ytimg.com/vi/ceo_UmWQecY/hqdefault.jpg"
-    },
-    {
-      "id": "dolosry3CkQ",
-      "title": "Halloween Kids Yoga LIVE! Cosmic Kids Halloween Adventure Compilation 👻✨",
-      "channel": "Cosmic Kids Yoga",
-      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
-      "durationSec": 42899,
-      "publishedAt": "2026-09-21T14:29:31Z",
-      "topics": [
-        "reading",
-        "nature"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/dolosry3CkQ/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/T2Wltv2e4lA/hqdefault.jpg"
     },
     {
       "id": "sDvPN6Z6po0",
