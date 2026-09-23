@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-22T13:44:44.148Z",
+  "generatedAt": "2026-09-23T13:56:25.922Z",
   "profiles": {
     "little": {
       "label": "Ages 3-7"
@@ -131,6 +131,22 @@
       "thumbnail": "https://i.ytimg.com/vi/kKqd0_cydZM/hqdefault.jpg"
     },
     {
+      "id": "6Eyz9qUAYRg",
+      "title": "Grizzly vs. Panda vs. Polar Bear! | Whoa Factor | Nat Geo Kids",
+      "channel": "Nat Geo Kids",
+      "channelId": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "durationSec": 310,
+      "publishedAt": "2026-09-23T11:00:12Z",
+      "topics": [
+        "animals",
+        "science"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/6Eyz9qUAYRg/hqdefault.jpg"
+    },
+    {
       "id": "gQ0urWUYDMg",
       "title": "Beginning of a Black Bear's Rescue Journey 🐻 | Cub Camp Full Episode Compilation | Nat Geo Kids",
       "channel": "Nat Geo Kids",
@@ -177,22 +193,6 @@
         "little"
       ],
       "thumbnail": "https://i.ytimg.com/vi/cJghbzC4dAA/hqdefault.jpg"
-    },
-    {
-      "id": "zB7yHqfAYlA",
-      "title": "Ancient Olympics had CHEATERS?! 🏛️🏅 | Greeking Out Podcast | S4 E8 FULL EP | Nat Geo Kids",
-      "channel": "Nat Geo Kids",
-      "channelId": "UCXVCgDuD_QCkI7gTKU7-tpg",
-      "durationSec": 1508,
-      "publishedAt": "2026-09-18T11:00:33Z",
-      "topics": [
-        "animals",
-        "science"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/zB7yHqfAYlA/hqdefault.jpg"
     },
     {
       "id": "tnmfnRPOBx8",
@@ -255,19 +255,34 @@
       "thumbnail": "https://i.ytimg.com/vi/NWngZs2qAD8/hqdefault.jpg"
     },
     {
-      "id": "RdkYiMTOW1U",
-      "title": "How To Draw A Traffic Cone - Drawing With Shapes",
-      "channel": "Art for Kids Hub",
-      "channelId": "UC5XMF3Inoi8R9nSI8ChOsdQ",
-      "durationSec": 702,
-      "publishedAt": "2026-09-14T14:10:05Z",
+      "id": "rQva7iOnkkM",
+      "title": "The Rise of Infinaughty - PART 3: Trying Times | Numberblocks (S9 E3)",
+      "channel": "Numberblocks",
+      "channelId": "UCPlwvN0w4qFSP1FllALB92w",
+      "durationSec": 302,
+      "publishedAt": "2026-09-23T11:00:18Z",
       "topics": [
-        "art"
+        "maths"
       ],
       "profiles": [
         "little"
       ],
-      "thumbnail": "https://i.ytimg.com/vi/RdkYiMTOW1U/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/rQva7iOnkkM/hqdefault.jpg"
+    },
+    {
+      "id": "_tICzC_RLo8",
+      "title": "Meet Numberblock 47 | BRAND NEW CHARACTER REVEAL | Learn to Count | Numberblocks",
+      "channel": "Numberblocks",
+      "channelId": "UCPlwvN0w4qFSP1FllALB92w",
+      "durationSec": 138,
+      "publishedAt": "2026-09-23T09:00:13Z",
+      "topics": [
+        "maths"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/_tICzC_RLo8/hqdefault.jpg"
     },
     {
       "id": "J5CNmHRTj4c",
@@ -285,34 +300,20 @@
       "thumbnail": "https://i.ytimg.com/vi/J5CNmHRTj4c/hqdefault.jpg"
     },
     {
-      "id": "ErCIgERRC28",
-      "title": "The Rise of Infinaughty - PART 1: The Day the Blocks Turned Pink | Numberblocks (S9 E1)",
-      "channel": "Numberblocks",
-      "channelId": "UCPlwvN0w4qFSP1FllALB92w",
-      "durationSec": 302,
-      "publishedAt": "2026-09-21T11:00:18Z",
+      "id": "N2uQWfV6Jr4",
+      "title": "4 ways to fix your attention span - Shannon Odell",
+      "channel": "TED-Ed",
+      "channelId": "UCsooa4yRKGN_zEE8iknghZA",
+      "durationSec": 326,
+      "publishedAt": "2026-09-22T15:00:51Z",
       "topics": [
-        "maths"
+        "science",
+        "history"
       ],
       "profiles": [
-        "little"
+        "big"
       ],
-      "thumbnail": "https://i.ytimg.com/vi/ErCIgERRC28/hqdefault.jpg"
-    },
-    {
-      "id": "q10hMzUmBnM",
-      "title": "Meet Numberblock 44 | BRAND NEW CHARACTER REVEAL | Learn to Count | Numberblocks",
-      "channel": "Numberblocks",
-      "channelId": "UCPlwvN0w4qFSP1FllALB92w",
-      "durationSec": 147,
-      "publishedAt": "2026-09-21T10:00:03Z",
-      "topics": [
-        "maths"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/q10hMzUmBnM/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/N2uQWfV6Jr4/hqdefault.jpg"
     },
     {
       "id": "bHB5iiDDJ-s",
@@ -395,22 +396,6 @@
       "thumbnail": "https://i.ytimg.com/vi/BSdEiOYvKpE/hqdefault.jpg"
     },
     {
-      "id": "JOs-q7rXqdk",
-      "title": "4 ways to tell a great story",
-      "channel": "TED-Ed",
-      "channelId": "UCsooa4yRKGN_zEE8iknghZA",
-      "durationSec": 306,
-      "publishedAt": "2026-09-01T15:00:06Z",
-      "topics": [
-        "science",
-        "history"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/JOs-q7rXqdk/hqdefault.jpg"
-    },
-    {
       "id": "3geDF-DAwpg",
       "title": "SOLVED: Navier-Stokes cracked by AI - Numberphile",
       "channel": "Numberphile",
@@ -471,6 +456,21 @@
       "thumbnail": "https://i.ytimg.com/vi/-mXaU3N9e8Y/hqdefault.jpg"
     },
     {
+      "id": "NSlTyM3tEHc",
+      "title": "What Does Ketamine Actually Do?",
+      "channel": "SciShow",
+      "channelId": "UCZYTClx2T1of7BRZ86-8fow",
+      "durationSec": 560,
+      "publishedAt": "2026-09-22T17:00:35Z",
+      "topics": [
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/NSlTyM3tEHc/hqdefault.jpg"
+    },
+    {
       "id": "pzTyAqobXRI",
       "title": "You're Washing Your Dishes Wrong",
       "channel": "SciShow",
@@ -514,21 +514,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/iL7f2bkcv1Q/hqdefault.jpg"
-    },
-    {
-      "id": "PtcQaVbjyIM",
-      "title": "Why Only 1% of All Possible Flights Are Direct",
-      "channel": "SciShow",
-      "channelId": "UCZYTClx2T1of7BRZ86-8fow",
-      "durationSec": 670,
-      "publishedAt": "2026-09-15T17:00:33Z",
-      "topics": [
-        "science"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/PtcQaVbjyIM/hqdefault.jpg"
     },
     {
       "id": "Nbwv5wHQoj0",
@@ -589,6 +574,22 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/J1WoNuemKOg/hqdefault.jpg"
+    },
+    {
+      "id": "QW_jlUn4gA8",
+      "title": "This Is What a Godlike Civilization Would Look Like",
+      "channel": "Kurzgesagt – In a Nutshell",
+      "channelId": "UCsXVk37bltHxD1rDPwtNM8Q",
+      "durationSec": 852,
+      "publishedAt": "2026-09-22T14:00:01Z",
+      "topics": [
+        "science",
+        "space"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/QW_jlUn4gA8/hqdefault.jpg"
     },
     {
       "id": "0NY2gAftzJE",
@@ -6322,21 +6323,6 @@
       "thumbnail": "https://i.ytimg.com/vi/xgx9mTZnjG4/hqdefault.jpg"
     },
     {
-      "id": "DRDx2xDR8NA",
-      "title": "Total solar eclipse 2026: Coming to Europe (Official ESA broadcast)",
-      "channel": "European Space Agency, ESA",
-      "channelId": "UCIBaDdAbGlFDeS33shmlD0A",
-      "durationSec": 4230,
-      "publishedAt": "2026-08-12T18:47:18Z",
-      "topics": [
-        "space"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/DRDx2xDR8NA/hqdefault.jpg"
-    },
-    {
       "id": "UPWQimElMhQ",
       "title": "The Surprising Danger of Building a Human Colony on the Moon",
       "channel": "Astrum",
@@ -7501,6 +7487,38 @@
       "thumbnail": "https://i.ytimg.com/vi/hTyU-1Y8oCo/hqdefault.jpg"
     },
     {
+      "id": "7ZYq-41Yfp8",
+      "title": "Hora del cuento: La pintura | Lectura en voz alta | Khan Academy Kids",
+      "channel": "Khan Academy Kids",
+      "channelId": "UC2ri4rEb8abnNwXvTjg5ARw",
+      "durationSec": 260,
+      "publishedAt": "2026-09-23T04:00:25Z",
+      "topics": [
+        "maths",
+        "reading"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/7ZYq-41Yfp8/hqdefault.jpg"
+    },
+    {
+      "id": "OqeFavYwwJs",
+      "title": "Story Time: The Painting | Read Aloud for Kids | Khan Academy Kids",
+      "channel": "Khan Academy Kids",
+      "channelId": "UC2ri4rEb8abnNwXvTjg5ARw",
+      "durationSec": 208,
+      "publishedAt": "2026-09-23T04:00:17Z",
+      "topics": [
+        "maths",
+        "reading"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/OqeFavYwwJs/hqdefault.jpg"
+    },
+    {
       "id": "HKqv4QrmGVw",
       "title": "A Helping Hand | Story Time Read-Aloud for Kids | Animals + Winter + Sharing | Khan Academy Kids",
       "channel": "Khan Academy Kids",
@@ -7643,22 +7661,6 @@
         "little"
       ],
       "thumbnail": "https://i.ytimg.com/vi/7uhQsn4RV90/hqdefault.jpg"
-    },
-    {
-      "id": "n3OT8JI-8S4",
-      "title": "Snow Day | Kids Book Read Aloud | Story Time with Khan Academy Kids | Winter Books",
-      "channel": "Khan Academy Kids",
-      "channelId": "UC2ri4rEb8abnNwXvTjg5ARw",
-      "durationSec": 209,
-      "publishedAt": "2024-12-02T08:00:06Z",
-      "topics": [
-        "maths",
-        "reading"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/n3OT8JI-8S4/hqdefault.jpg"
     },
     {
       "id": "6-snKlZXMEQ",
@@ -8135,6 +8137,21 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/jLmM4FuHZwo/hqdefault.jpg"
+    },
+    {
+      "id": "61OPqIp9xkA",
+      "title": "Transformations - Math Antics",
+      "channel": "mathantics",
+      "channelId": "UCBuMwlP7kHkNxdPAqtFSJTw",
+      "durationSec": 745,
+      "publishedAt": "2026-09-22T18:32:11Z",
+      "topics": [
+        "maths"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/61OPqIp9xkA/hqdefault.jpg"
     },
     {
       "id": "pWJzqTYS8no",
@@ -8825,21 +8842,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/v-6MShC82ow/hqdefault.jpg"
-    },
-    {
-      "id": "T5Qf0qSSJFI",
-      "title": "Math Antics - Place Value",
-      "channel": "mathantics",
-      "channelId": "UCBuMwlP7kHkNxdPAqtFSJTw",
-      "durationSec": 566,
-      "publishedAt": "2016-03-22T20:18:17Z",
-      "topics": [
-        "maths"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/T5Qf0qSSJFI/hqdefault.jpg"
     },
     {
       "id": "GzIObE7uR8Q",
@@ -13193,6 +13195,22 @@
       "thumbnail": "https://i.ytimg.com/vi/m6KAfSgFaAM/hqdefault.jpg"
     },
     {
+      "id": "LCDz_Z6wvJU",
+      "title": "How to Draw Creature Mel | Minions and Monsters",
+      "channel": "Cartooning Club How to Draw",
+      "channelId": "UC-biucJWhM8HwjsQ96uoIUw",
+      "durationSec": 469,
+      "publishedAt": "2026-09-22T14:00:24Z",
+      "topics": [
+        "art",
+        "making"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/LCDz_Z6wvJU/hqdefault.jpg"
+    },
+    {
       "id": "iht6uQHljq4",
       "title": "How to Draw Goomba Cat | Super Mario",
       "channel": "Cartooning Club How to Draw",
@@ -16176,6 +16194,23 @@
       "thumbnail": "https://i.ytimg.com/vi/aLOB-MiXtaE/hqdefault.jpg"
     },
     {
+      "id": "MUcqcXrCyfE",
+      "title": "A Speaker That Shows Sound and 2 More STEM Builds from KiwiCo",
+      "channel": "TheDadLab",
+      "channelId": "UCc_-hy0u9-oKlNdMKHBudcQ",
+      "durationSec": 320,
+      "publishedAt": "2026-09-23T09:39:51Z",
+      "topics": [
+        "making",
+        "science"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/MUcqcXrCyfE/hqdefault.jpg"
+    },
+    {
       "id": "sFKvofqmdGs",
       "title": "We Tried 4 Alternatives to Mentos in Cola… Which One Works Best?",
       "channel": "TheDadLab",
@@ -16599,23 +16634,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/bD5XW2741o8/hqdefault.jpg"
-    },
-    {
-      "id": "crfrLEqRUQ4",
-      "title": "Kids Saving Oceans: Fun Recycling Activity for Toddlers",
-      "channel": "TheDadLab",
-      "channelId": "UCc_-hy0u9-oKlNdMKHBudcQ",
-      "durationSec": 126,
-      "publishedAt": "2023-11-12T12:20:13Z",
-      "topics": [
-        "making",
-        "science"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/crfrLEqRUQ4/hqdefault.jpg"
     },
     {
       "id": "MQ2dXuns7Kw",
@@ -19711,23 +19729,6 @@
       "thumbnail": "https://i.ytimg.com/vi/cDq2tXd5ogU/hqdefault.jpg"
     },
     {
-      "id": "KOqtyZ8jfX8",
-      "title": "Let's make a GOO MONSTER! (OOBLECK)| Spooky Science with Maddie",
-      "channel": "Maddie Moate",
-      "channelId": "UCQ0_JQL4wdQd-Xe5hC4PwTg",
-      "durationSec": 130,
-      "publishedAt": "2025-10-15T20:46:05Z",
-      "topics": [
-        "science",
-        "nature"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/KOqtyZ8jfX8/hqdefault.jpg"
-    },
-    {
       "id": "KT3vyVBacSA",
       "title": "Don’t Touch These Animals. Seriously. | Deep Look",
       "channel": "Deep Look",
@@ -20158,22 +20159,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/YyLpQkkzIho/hqdefault.jpg"
-    },
-    {
-      "id": "uyGWCC3iO1Y",
-      "title": "Pro Gardeners Expose The Truth Behind Viral Garden Hacks",
-      "channel": "Epic Gardening",
-      "channelId": "UCSbyncU597LMwb3HhnAI_4w",
-      "durationSec": 1117,
-      "publishedAt": "2026-05-25T17:27:02Z",
-      "topics": [
-        "nature",
-        "making"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/uyGWCC3iO1Y/hqdefault.jpg"
     },
     {
       "id": "0XTTvb5Kgrs",
@@ -21110,7 +21095,7 @@
     },
     {
       "id": "jvhdNuiyNOI",
-      "title": "Building the Space Station Truss Structure",
+      "title": "Building the Space Station Truss (and the Solar Panel Tear)",
       "channel": "Jared Owen",
       "channelId": "UCbsfyGlrjrKQC0gbzK0-EiA",
       "durationSec": 1159,
@@ -21142,7 +21127,7 @@
     },
     {
       "id": "irkAtqm-eCs",
-      "title": "How Roller Coasters Actually Work",
+      "title": "The Evolution of Roller Coasters: From Wood to Steel",
       "channel": "Jared Owen",
       "channelId": "UCbsfyGlrjrKQC0gbzK0-EiA",
       "durationSec": 950,
@@ -21335,7 +21320,7 @@
     },
     {
       "id": "N_6k_jd5pnA",
-      "title": "Tap to Pay - 72x More Complicated Than a Simple Tap! 💳📡",
+      "title": "What Exactly Happens when you Tap your Credit Card? 💳📡",
       "channel": "Branch Education",
       "channelId": "UCdp4_l1vPmpN-gDbUwhaRUQ",
       "durationSec": 1818,
@@ -26169,22 +26154,6 @@
       "thumbnail": "https://i.ytimg.com/vi/mEISjwLZe5U/hqdefault.jpg"
     },
     {
-      "id": "w78OUk3lrvY",
-      "title": "Africa's ONLY Spanish speaker",
-      "channel": "Geography Now",
-      "channelId": "UCmmPgObSUPw1HL2lq6H4ffA",
-      "durationSec": 144,
-      "publishedAt": "2026-07-23T00:06:53Z",
-      "topics": [
-        "geography",
-        "exploration"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/w78OUk3lrvY/hqdefault.jpg"
-    },
-    {
       "id": "3G1wZPeZZTQ",
       "title": "Beyond Stonewall: Exploring LGBTQ+ History Through the Smithsonian Archives 🏳️‍🌈 Smithsonian Channel",
       "channel": "Smithsonian Channel",
@@ -28679,6 +28648,21 @@
       "thumbnail": "https://i.ytimg.com/vi/NqBzMd3FGJg/hqdefault.jpg"
     },
     {
+      "id": "1UhTVNKLJG4",
+      "title": "🦔 PICKLES' PRICKLY PROBLEM - Read Aloud Picture Book | Brightly Storytime",
+      "channel": "Brightly Storytime",
+      "channelId": "UCvQagFNHMrGgQpYunk4rHXg",
+      "durationSec": 429,
+      "publishedAt": "2026-09-23T13:53:47Z",
+      "topics": [
+        "reading"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/1UhTVNKLJG4/hqdefault.jpg"
+    },
+    {
       "id": "3SNJrKdxDvE",
       "title": "🎸🐳 Bilingual Book + Sing Along | BABY BALLENA by MISTER G (Ben Gundersheimer) | English + Spanish",
       "channel": "Brightly Storytime",
@@ -29367,21 +29351,6 @@
         "little"
       ],
       "thumbnail": "https://i.ytimg.com/vi/v1ay1qTvF0Y/hqdefault.jpg"
-    },
-    {
-      "id": "Cf9tWoziOyY",
-      "title": "👻 TRICK-OR-TREATING IN THE CITY - Read Aloud with the Author | Brightly Storytime",
-      "channel": "Brightly Storytime",
-      "channelId": "UCvQagFNHMrGgQpYunk4rHXg",
-      "durationSec": 291,
-      "publishedAt": "2024-10-12T21:23:10Z",
-      "topics": [
-        "reading"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/Cf9tWoziOyY/hqdefault.jpg"
     },
     {
       "id": "RqKln8l385A",
@@ -35915,6 +35884,22 @@
       "thumbnail": "https://i.ytimg.com/vi/VxVOwCIyqO8/hqdefault.jpg"
     },
     {
+      "id": "giTmBaNGaHw",
+      "title": "What the Labs Kept Secret: The German Wiki & RubyGems Hacks - Computerphile",
+      "channel": "Computerphile",
+      "channelId": "UC9-y-6csu5WGm29I7JiwpnA",
+      "durationSec": 1672,
+      "publishedAt": "2026-09-23T13:00:20Z",
+      "topics": [
+        "tech",
+        "coding"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/giTmBaNGaHw/hqdefault.jpg"
+    },
+    {
       "id": "iuHddnIzKRA",
       "title": "The AI Language We Can't Read: Neuralese ft. Rob Miles - Computerphile",
       "channel": "Computerphile",
@@ -36699,12 +36684,12 @@
       "thumbnail": "https://i.ytimg.com/vi/FBv1xk5_G1c/hqdefault.jpg"
     },
     {
-      "id": "eelvWAURfdI",
-      "title": "Network Layers Model (Networking Basics) - Computerphile",
-      "channel": "Computerphile",
-      "channelId": "UC9-y-6csu5WGm29I7JiwpnA",
-      "durationSec": 774,
-      "publishedAt": "2025-10-09T15:59:18Z",
+      "id": "dsGoS_M7AW8",
+      "title": "Why Are US Politics Today So Divisive?: Crash Course US Government #1",
+      "channel": "CrashCourse",
+      "channelId": "UCX6b17PVsYBQ0ip5gyeme-Q",
+      "durationSec": 733,
+      "publishedAt": "2026-09-22T16:00:05Z",
       "topics": [
         "tech",
         "coding"
@@ -36712,7 +36697,7 @@
       "profiles": [
         "big"
       ],
-      "thumbnail": "https://i.ytimg.com/vi/eelvWAURfdI/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/dsGoS_M7AW8/hqdefault.jpg"
     },
     {
       "id": "HICDzXfCAs4",
@@ -37369,22 +37354,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/Sp3aCsQUsDc/hqdefault.jpg"
-    },
-    {
-      "id": "fA7Y0tKlOFk",
-      "title": "Life under a dictatorship: Crash Course Latin American Literature #5",
-      "channel": "CrashCourse",
-      "channelId": "UCX6b17PVsYBQ0ip5gyeme-Q",
-      "durationSec": 713,
-      "publishedAt": "2025-12-04T17:01:14Z",
-      "topics": [
-        "tech",
-        "coding"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/fA7Y0tKlOFk/hqdefault.jpg"
     },
     {
       "id": "xQasKPF0Fr8",
@@ -43491,7 +43460,7 @@
     },
     {
       "id": "FGvS4T-r_fk",
-      "title": "The Untold Race for the Atomic Bomb",
+      "title": "What Really Happened in the Race for the Bomb",
       "channel": "The Vintage Space",
       "channelId": "UCw95T_TgbGHhTml4xZ9yIqg",
       "durationSec": 6918,
@@ -43536,22 +43505,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/9RpQ6kRM-tk/hqdefault.jpg"
-    },
-    {
-      "id": "krbnSw2RJxM",
-      "title": "Slow and steady wins #shorts #history",
-      "channel": "The Vintage Space",
-      "channelId": "UCw95T_TgbGHhTml4xZ9yIqg",
-      "durationSec": 127,
-      "publishedAt": "2026-02-26T18:31:05Z",
-      "topics": [
-        "space",
-        "history"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/krbnSw2RJxM/hqdefault.jpg"
     },
     {
       "id": "ksk36W2vCoM",
@@ -47849,6 +47802,21 @@
       "thumbnail": "https://i.ytimg.com/vi/jvebwDXmBSw/hqdefault.jpg"
     },
     {
+      "id": "Ws_eoNNNucw",
+      "title": "Reacting to Elephant Graveyard's Doomsday Cult Masterpiece",
+      "channel": "Professor Dave Explains",
+      "channelId": "UC0cd_-e49hZpWLH3UIwoWRA",
+      "durationSec": 8672,
+      "publishedAt": "2026-09-22T14:00:07Z",
+      "topics": [
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/Ws_eoNNNucw/hqdefault.jpg"
+    },
+    {
       "id": "S-Y3riNnylQ",
       "title": "Fourth Declension Nouns in Latin Part 2: Neuter Nouns",
       "channel": "Professor Dave Explains",
@@ -48582,21 +48550,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/dUQ--dVH72w/hqdefault.jpg"
-    },
-    {
-      "id": "mEeKnCwNf-g",
-      "title": "Roman Ordinal Numbers",
-      "channel": "Professor Dave Explains",
-      "channelId": "UC0cd_-e49hZpWLH3UIwoWRA",
-      "durationSec": 284,
-      "publishedAt": "2026-06-29T14:00:04Z",
-      "topics": [
-        "science"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/mEeKnCwNf-g/hqdefault.jpg"
     },
     {
       "id": "BjyJlN1npdw",
@@ -68714,6 +68667,22 @@
       "thumbnail": "https://i.ytimg.com/vi/Uw6F-MdsRqo/hqdefault.jpg"
     },
     {
+      "id": "lXcKIoXN0Xw",
+      "title": "Canada's Most Active Volcano; Mount Edziza",
+      "channel": "GeologyHub",
+      "channelId": "UCYeGh5VML5XPr5jYnzh3J6g",
+      "durationSec": 531,
+      "publishedAt": "2026-09-22T19:00:00Z",
+      "topics": [
+        "science",
+        "geography"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/lXcKIoXN0Xw/hqdefault.jpg"
+    },
+    {
       "id": "ebbb7S6A8J8",
       "title": "This Week in Volcano News; 6 New Vents Erupt at Kilauea, Lokon Earthquakes",
       "channel": "GeologyHub",
@@ -76261,21 +76230,6 @@
       "thumbnail": "https://i.ytimg.com/vi/mzoMmSag0_I/hqdefault.jpg"
     },
     {
-      "id": "WD6zncNCqTo",
-      "title": "Trump Accounts Explained: Get $1,000 Free (But There’s a Catch)",
-      "channel": "Easy Peasy Finance",
-      "channelId": "UCZl9ry5ew_2YeCQ6ECk8sxA",
-      "durationSec": 333,
-      "publishedAt": "2026-07-28T13:00:02Z",
-      "topics": [
-        "maths"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/WD6zncNCqTo/hqdefault.jpg"
-    },
-    {
       "id": "kRbSO-ZCG4g",
       "title": "Loans for Kids",
       "channel": "Kid Economist",
@@ -76562,6 +76516,22 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/FDhx6EMGX3I/hqdefault.jpg"
+    },
+    {
+      "id": "VkvhjyyHa_E",
+      "title": "Dinos A to Z: Utahraptor | Learn about the state dinosaur of Utah",
+      "channel": "Learn Bright",
+      "channelId": "UCKCsVSA5THlkHbnkZTPm6-g",
+      "durationSec": 224,
+      "publishedAt": "2026-09-22T15:00:31Z",
+      "topics": [
+        "maths",
+        "history"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/VkvhjyyHa_E/hqdefault.jpg"
     },
     {
       "id": "wrOUnI94hwE",
@@ -77202,22 +77172,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/3vVlAAYKz0M/hqdefault.jpg"
-    },
-    {
-      "id": "Ks5LzxCp2ks",
-      "title": "ASL Greek Mythology: Athena",
-      "channel": "Learn Bright",
-      "channelId": "UCKCsVSA5THlkHbnkZTPm6-g",
-      "durationSec": 324,
-      "publishedAt": "2026-06-09T15:01:27Z",
-      "topics": [
-        "maths",
-        "history"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/Ks5LzxCp2ks/hqdefault.jpg"
     },
     {
       "id": "2roxzglAMSY",
@@ -82792,6 +82746,22 @@
       "thumbnail": "https://i.ytimg.com/vi/GLVhXClV5QU/hqdefault.jpg"
     },
     {
+      "id": "TOXw6iAQ6B0",
+      "title": "One Duck Two Many | Peep and the Big Wide World",
+      "channel": "Peep and the Big Wide World",
+      "channelId": "UCPq6g4Q4-SFMIJ048IXmupA",
+      "durationSec": 644,
+      "publishedAt": "2026-09-22T15:00:28Z",
+      "topics": [
+        "science",
+        "nature"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/TOXw6iAQ6B0/hqdefault.jpg"
+    },
+    {
       "id": "7yISF5Yz37E",
       "title": "Quack Quack | Peep and the Big Wide World",
       "channel": "Peep and the Big Wide World",
@@ -83542,22 +83512,6 @@
         "little"
       ],
       "thumbnail": "https://i.ytimg.com/vi/gfVWV0j4ZaI/hqdefault.jpg"
-    },
-    {
-      "id": "Y8VvL32C7Sw",
-      "title": "Leaves in The Wind, Different Weights & MORE! | Explore the Big Wide World",
-      "channel": "Peep and the Big Wide World",
-      "channelId": "UCPq6g4Q4-SFMIJ048IXmupA",
-      "durationSec": 2460,
-      "publishedAt": "2026-08-08T19:00:38Z",
-      "topics": [
-        "science",
-        "nature"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/Y8VvL32C7Sw/hqdefault.jpg"
     },
     {
       "id": "PhAMo4dSh98",
@@ -84545,6 +84499,78 @@
       "thumbnail": "https://i.ytimg.com/vi/vfnG2pYDftE/hqdefault.jpg"
     },
     {
+      "id": "KSA8Lf95mYI",
+      "title": "MeshFruit displays messages from LoRa networks on a tri-color e-ink #3dprinting #adafruit",
+      "channel": "Adafruit Industries",
+      "channelId": "UCpOlOeQjj7EsVnDh3zuCgsA",
+      "durationSec": 179,
+      "publishedAt": "2026-09-23T11:51:04Z",
+      "topics": [
+        "making",
+        "tech",
+        "engineering",
+        "coding"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/KSA8Lf95mYI/hqdefault.jpg"
+    },
+    {
+      "id": "pEhmTj8lJcM",
+      "title": "JP’s Product Pick of the Week 9/22/26",
+      "channel": "Adafruit Industries",
+      "channelId": "UCpOlOeQjj7EsVnDh3zuCgsA",
+      "durationSec": 1240,
+      "publishedAt": "2026-09-23T07:27:06Z",
+      "topics": [
+        "making",
+        "tech",
+        "engineering",
+        "coding"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/pEhmTj8lJcM/hqdefault.jpg"
+    },
+    {
+      "id": "uqm7OdLaJGQ",
+      "title": "Deep Dive w/ Tim: CircuitPython USB Host Camera",
+      "channel": "Adafruit Industries",
+      "channelId": "UCpOlOeQjj7EsVnDh3zuCgsA",
+      "durationSec": 3654,
+      "publishedAt": "2026-09-23T04:08:44Z",
+      "topics": [
+        "making",
+        "tech",
+        "engineering",
+        "coding"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/uqm7OdLaJGQ/hqdefault.jpg"
+    },
+    {
+      "id": "FxuyWbHRbRs",
+      "title": "Meshfruit e-ink message board #adafruit #3dprinting",
+      "channel": "Adafruit Industries",
+      "channelId": "UCpOlOeQjj7EsVnDh3zuCgsA",
+      "durationSec": 179,
+      "publishedAt": "2026-09-23T04:00:06Z",
+      "topics": [
+        "making",
+        "tech",
+        "engineering",
+        "coding"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/FxuyWbHRbRs/hqdefault.jpg"
+    },
+    {
       "id": "rieBZEeqDQA",
       "title": "CircuitPython Weekly Meeting for September 21, 2026 @circuitpython #circuitpython #adafruit",
       "channel": "Adafruit Industries",
@@ -84957,42 +84983,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/h0bkdhplaFw/hqdefault.jpg"
-    },
-    {
-      "id": "qoXRv5uTYW0",
-      "title": "Deep Dive w/Scott: Bugs and Bootloader #adafruit",
-      "channel": "Adafruit Industries",
-      "channelId": "UCpOlOeQjj7EsVnDh3zuCgsA",
-      "durationSec": 3896,
-      "publishedAt": "2026-09-05T10:28:16Z",
-      "topics": [
-        "making",
-        "tech",
-        "engineering",
-        "coding"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/qoXRv5uTYW0/hqdefault.jpg"
-    },
-    {
-      "id": "VMTH2lCkJks",
-      "title": "John Park's CircuitPython Parsec: Fruit Jam SD Card Contents",
-      "channel": "Adafruit Industries",
-      "channelId": "UCpOlOeQjj7EsVnDh3zuCgsA",
-      "durationSec": 196,
-      "publishedAt": "2026-09-04T17:27:44Z",
-      "topics": [
-        "making",
-        "tech",
-        "engineering",
-        "coding"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/VMTH2lCkJks/hqdefault.jpg"
     },
     {
       "id": "VmBS2N1FzmE",
@@ -86697,6 +86687,23 @@
       "thumbnail": "https://i.ytimg.com/vi/DPbKux9cemU/hqdefault.jpg"
     },
     {
+      "id": "4gahuZxbyiw",
+      "title": "Halloween Kids Yoga LIVE! Cosmic Kids Halloween Adventure Compilation 👻✨",
+      "channel": "Cosmic Kids Yoga",
+      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
+      "durationSec": 42893,
+      "publishedAt": "2026-09-23T01:59:08Z",
+      "topics": [
+        "reading",
+        "nature"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/4gahuZxbyiw/hqdefault.jpg"
+    },
+    {
       "id": "T2Wltv2e4lA",
       "title": "Ghostbusters Kids Yoga Adventure 👻 | Yoga for Kids | Cosmic Kids",
       "channel": "Cosmic Kids Yoga",
@@ -87698,6 +87705,22 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/Ilr2DjYOfqA/hqdefault.jpg"
+    },
+    {
+      "id": "RgLsdBgJqbQ",
+      "title": "Let's Find Shapes with Elmo! 🔴 🟦 ⭐  | 60 Mins | Sesame Street",
+      "channel": "Sesame Street",
+      "channelId": "UCoookXUzPciGrEZEXmh4Jjg",
+      "durationSec": 3368,
+      "publishedAt": "2026-09-23T11:30:04Z",
+      "topics": [
+        "reading",
+        "music"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/RgLsdBgJqbQ/hqdefault.jpg"
     },
     {
       "id": "eRImy5lc3LY",
@@ -90222,22 +90245,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/wugkIxGKzx8/hqdefault.jpg"
-    },
-    {
-      "id": "tYNwfj74WsI",
-      "title": "I Know Why LA Burned (And Why It WILL Happen Again)",
-      "channel": "PBS Terra",
-      "channelId": "UCpxYSWgxVt3Pyn1ovXsGQ0g",
-      "durationSec": 3370,
-      "publishedAt": "2026-01-08T01:01:21Z",
-      "topics": [
-        "science",
-        "nature"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/tYNwfj74WsI/hqdefault.jpg"
     },
     {
       "id": "z_WiMgPClW4",
