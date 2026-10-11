@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-10T14:53:23.494Z",
+  "generatedAt": "2026-10-11T15:10:31.664Z",
   "profiles": {
     "little": {
       "label": "Ages 3-7"
@@ -131,6 +131,38 @@
       "thumbnail": "https://i.ytimg.com/vi/kKqd0_cydZM/hqdefault.jpg"
     },
     {
+      "id": "wEz-NB7CRp0",
+      "title": "We Built a HUMAN-SIZED Wasps Nest | Live Like an Animal Full Episode | Nat Geo Kids",
+      "channel": "Nat Geo Kids",
+      "channelId": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "durationSec": 2468,
+      "publishedAt": "2026-10-11T11:00:39Z",
+      "topics": [
+        "animals",
+        "science"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/wEz-NB7CRp0/hqdefault.jpg"
+    },
+    {
+      "id": "iAIpKDObuWg",
+      "title": "Halloween Animals in REAL Life! 🎃 Learn some Fun Facts about Bats, Spiders, and Owls! | Nat Geo Kids",
+      "channel": "Nat Geo Kids",
+      "channelId": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "durationSec": 272,
+      "publishedAt": "2026-10-10T15:00:35Z",
+      "topics": [
+        "animals",
+        "science"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/iAIpKDObuWg/hqdefault.jpg"
+    },
+    {
       "id": "w4n93HV5i-Q",
       "title": "The One Where a Marble Statue Comes to Life | Greeking Out Podcast | S5 E2 FULL EP | Nat Geo Kids",
       "channel": "Nat Geo Kids",
@@ -179,38 +211,6 @@
       "thumbnail": "https://i.ytimg.com/vi/YBGPMztHR4Y/hqdefault.jpg"
     },
     {
-      "id": "HwSarE09HqE",
-      "title": "2 Hours of America's Funniest Videos: Animal Edition | Full Episode Compilation | Nat Geo Kids",
-      "channel": "Nat Geo Kids",
-      "channelId": "UCXVCgDuD_QCkI7gTKU7-tpg",
-      "durationSec": 7935,
-      "publishedAt": "2026-10-05T11:00:27Z",
-      "topics": [
-        "animals",
-        "science"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/HwSarE09HqE/hqdefault.jpg"
-    },
-    {
-      "id": "aPKGR4MQlXw",
-      "title": "Space Rockets and Sneakers 🚀👟 | Made in a Day Full Episode | Nat Geo Kids",
-      "channel": "Nat Geo Kids",
-      "channelId": "UCXVCgDuD_QCkI7gTKU7-tpg",
-      "durationSec": 2513,
-      "publishedAt": "2026-10-04T11:00:07Z",
-      "topics": [
-        "animals",
-        "science"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/aPKGR4MQlXw/hqdefault.jpg"
-    },
-    {
       "id": "dgMuNfIZ0Kw",
       "title": "1 Hour of Halloween Drawing Fun! 🎃 Easy Art Lessons for Kids",
       "channel": "Art for Kids Hub",
@@ -239,6 +239,21 @@
         "little"
       ],
       "thumbnail": "https://i.ytimg.com/vi/k6RHLmAL-NU/hqdefault.jpg"
+    },
+    {
+      "id": "4PCLWIc9OYM",
+      "title": "Numberblock One's Spooky Counting Adventure! | Spooky Number Cartoon Compilation | Numberblocks",
+      "channel": "Numberblocks",
+      "channelId": "UCPlwvN0w4qFSP1FllALB92w",
+      "durationSec": 5638,
+      "publishedAt": "2026-10-11T11:00:06Z",
+      "topics": [
+        "maths"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/4PCLWIc9OYM/hqdefault.jpg"
     },
     {
       "id": "nkYJhtF3trc",
@@ -3426,6 +3441,21 @@
       "thumbnail": "https://i.ytimg.com/vi/LLlghvxVoH0/hqdefault.jpg"
     },
     {
+      "id": "tYNYqdRoKzg",
+      "title": "Why the Universe Forbids Perfect Balance",
+      "channel": "The Action Lab",
+      "channelId": "UC1VLQPn9cYSqx8plbk9RxxQ",
+      "durationSec": 592,
+      "publishedAt": "2026-10-10T15:02:06Z",
+      "topics": [
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/tYNYqdRoKzg/hqdefault.jpg"
+    },
+    {
       "id": "Auju7duS_8A",
       "title": "Virtual Particles: The Particles That Aren’t Real",
       "channel": "The Action Lab",
@@ -4129,21 +4159,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/ZKz0_kSFSP0/hqdefault.jpg"
-    },
-    {
-      "id": "SUq_tM3yGTM",
-      "title": "Only Geniuses Can Solve This Buoyancy Riddle",
-      "channel": "The Action Lab",
-      "channelId": "UC1VLQPn9cYSqx8plbk9RxxQ",
-      "durationSec": 433,
-      "publishedAt": "2025-09-06T15:03:00Z",
-      "topics": [
-        "science"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/SUq_tM3yGTM/hqdefault.jpg"
     },
     {
       "id": "w6hK2PML6Uc",
@@ -6150,6 +6165,21 @@
       "thumbnail": "https://i.ytimg.com/vi/fTmIUypawcs/hqdefault.jpg"
     },
     {
+      "id": "AX4S7mbMC8M",
+      "title": "Sophie Adenot's return to Earth - Statement from Cologne Airport",
+      "channel": "European Space Agency, ESA",
+      "channelId": "UCIBaDdAbGlFDeS33shmlD0A",
+      "durationSec": 645,
+      "publishedAt": "2026-10-10T19:04:11Z",
+      "topics": [
+        "space"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/AX4S7mbMC8M/hqdefault.jpg"
+    },
+    {
       "id": "dqI0Ds4F2nA",
       "title": "Crew-12 Splashdown with Sophie Adenot | εpsilon mission (Official broadcast)",
       "channel": "European Space Agency, ESA",
@@ -6403,21 +6433,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/gF70orCmD1E/hqdefault.jpg"
-    },
-    {
-      "id": "oC7lQngNG3o",
-      "title": "BepiColombo’s Mercury arrival begins (Official ESA broadcast)",
-      "channel": "European Space Agency, ESA",
-      "channelId": "UCIBaDdAbGlFDeS33shmlD0A",
-      "durationSec": 8740,
-      "publishedAt": "2026-09-03T16:53:04Z",
-      "topics": [
-        "space"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/oC7lQngNG3o/hqdefault.jpg"
     },
     {
       "id": "MGQcrX7DMYw",
@@ -11598,6 +11613,23 @@
       "thumbnail": "https://i.ytimg.com/vi/jb9OPM1tUfk/hqdefault.jpg"
     },
     {
+      "id": "6Uap-uQ5uxg",
+      "title": "How to Draw a Cat Witch | Pusheen Halloween",
+      "channel": "Draw So Cute",
+      "channelId": "UC3dEvA1is6-0_yuei9iCdEw",
+      "durationSec": 559,
+      "publishedAt": "2026-10-10T16:00:26Z",
+      "topics": [
+        "art",
+        "making"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/6Uap-uQ5uxg/hqdefault.jpg"
+    },
+    {
       "id": "KNLItqL1lt0",
       "title": "How to Draw a Pumpkin and Candy Corn 🎃 Halloween Fall Art",
       "channel": "Draw So Cute",
@@ -12431,23 +12463,6 @@
       "thumbnail": "https://i.ytimg.com/vi/_WM0I0RCX5Y/hqdefault.jpg"
     },
     {
-      "id": "JCJdsDQsfP0",
-      "title": "How to Draw Erling Haaland ⚽️ FIFA World Cup | Norway Football Soccer Player",
-      "channel": "Draw So Cute",
-      "channelId": "UC3dEvA1is6-0_yuei9iCdEw",
-      "durationSec": 930,
-      "publishedAt": "2026-07-10T14:00:06Z",
-      "topics": [
-        "art",
-        "making"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/JCJdsDQsfP0/hqdefault.jpg"
-    },
-    {
       "id": "MB7wxd8Bz18",
       "title": "Learn to Draw Super Simple Characters! Finny the Shark, The Bumble Nums, & More!",
       "channel": "Super Simple Draw! - How To Draw for Kids",
@@ -13248,6 +13263,22 @@
       "thumbnail": "https://i.ytimg.com/vi/m6KAfSgFaAM/hqdefault.jpg"
     },
     {
+      "id": "Zc3G8wq3mtU",
+      "title": "How to Draw Michael Myers | Halloween Drawing Tutorial",
+      "channel": "Cartooning Club How to Draw",
+      "channelId": "UC-biucJWhM8HwjsQ96uoIUw",
+      "durationSec": 1819,
+      "publishedAt": "2026-10-11T14:00:25Z",
+      "topics": [
+        "art",
+        "making"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/Zc3G8wq3mtU/hqdefault.jpg"
+    },
+    {
       "id": "7FRaGAiHYMY",
       "title": "How to Draw Human Skull | Sketch Saturday",
       "channel": "Cartooning Club How to Draw",
@@ -13728,12 +13759,12 @@
       "thumbnail": "https://i.ytimg.com/vi/rL9RxYuC50w/hqdefault.jpg"
     },
     {
-      "id": "WetcYRpe9RM",
-      "title": "How to Draw Batman",
-      "channel": "Cartooning Club How to Draw",
-      "channelId": "UC-biucJWhM8HwjsQ96uoIUw",
-      "durationSec": 575,
-      "publishedAt": "2026-09-03T14:00:21Z",
+      "id": "vsH5--kTMxE",
+      "title": "Is \"PAINTING PC\" a GAME or GIMMICK?",
+      "channel": "Jazza",
+      "channelId": "UCHu2KNu6TtJ0p4hpSW7Yv7Q",
+      "durationSec": 1364,
+      "publishedAt": "2026-10-11T11:06:21Z",
       "topics": [
         "art",
         "making"
@@ -13741,7 +13772,7 @@
       "profiles": [
         "big"
       ],
-      "thumbnail": "https://i.ytimg.com/vi/WetcYRpe9RM/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/vsH5--kTMxE/hqdefault.jpg"
     },
     {
       "id": "z5yer1ZXzr4",
@@ -27693,22 +27724,6 @@
       "thumbnail": "https://i.ytimg.com/vi/NU_fEv0hRvs/hqdefault.jpg"
     },
     {
-      "id": "j6-lGAfmXXI",
-      "title": "The most ingenious armour you've never heard of | Curator's Corner S10 E8",
-      "channel": "The British Museum",
-      "channelId": "UCvpQ-l09fCVxJd3urZbxzHg",
-      "durationSec": 1071,
-      "publishedAt": "2025-11-06T18:49:09Z",
-      "topics": [
-        "history",
-        "art"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/j6-lGAfmXXI/hqdefault.jpg"
-    },
-    {
       "id": "6z46ZAOBjfE",
       "title": "Can Arabic speakers read Persian? (clip 3)",
       "channel": "Langfocus",
@@ -30647,6 +30662,21 @@
       "thumbnail": "https://i.ytimg.com/vi/qrwiX7Dc60Q/hqdefault.jpg"
     },
     {
+      "id": "eTAAS0eQ-1s",
+      "title": "Let's Learn Halloween CVC Words | Halloween Cartoons | Learn to Read & Spell for Kids | Alphablocks",
+      "channel": "Alphablocks",
+      "channelId": "UC_qs3c0ehDvZkbiEbOj6Drg",
+      "durationSec": 1609,
+      "publishedAt": "2026-10-11T11:00:03Z",
+      "topics": [
+        "reading"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/eTAAS0eQ-1s/hqdefault.jpg"
+    },
+    {
       "id": "7owPTDsB0Jw",
       "title": "Spelling Made Easy - Songs for Kids | Learn to Read and Spell for Kids Compilation | Alphablocks",
       "channel": "Alphablocks",
@@ -31200,21 +31230,6 @@
         "little"
       ],
       "thumbnail": "https://i.ytimg.com/vi/o_S7-g-4IN8/hqdefault.jpg"
-    },
-    {
-      "id": "8tksnJWAw84",
-      "title": "C and K - Best of Friends | Learn to Read and Spell for Kids Compilation | Alphablocks",
-      "channel": "Alphablocks",
-      "channelId": "UC_qs3c0ehDvZkbiEbOj6Drg",
-      "durationSec": 3525,
-      "publishedAt": "2026-07-18T11:00:38Z",
-      "topics": [
-        "reading"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/8tksnJWAw84/hqdefault.jpg"
     },
     {
       "id": "Hocfvp5QItE",
@@ -38952,6 +38967,22 @@
       "thumbnail": "https://i.ytimg.com/vi/lzjbkMmpoq0/hqdefault.jpg"
     },
     {
+      "id": "PsP2twhD-A0",
+      "title": "Massive Siege Battle - Total War: Shogun 2 (4 vs 1)",
+      "channel": "Invicta",
+      "channelId": "UCwO-UgquohXwoe7f0e6lMnw",
+      "durationSec": 1224,
+      "publishedAt": "2026-10-10T16:35:07Z",
+      "topics": [
+        "history",
+        "engineering"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/PsP2twhD-A0/hqdefault.jpg"
+    },
+    {
       "id": "1nfOp6HedyY",
       "title": "The Mega Corporations Who Ruled Rome (DOCUMENTARY)",
       "channel": "Invicta",
@@ -39734,22 +39765,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/GuwPILhNGOM/hqdefault.jpg"
-    },
-    {
-      "id": "cjxHpKWIdfk",
-      "title": "Why were Japanese castles so deadly? 3D DOCUMENTARY",
-      "channel": "Invicta",
-      "channelId": "UCwO-UgquohXwoe7f0e6lMnw",
-      "durationSec": 1135,
-      "publishedAt": "2025-03-20T16:01:58Z",
-      "topics": [
-        "history",
-        "engineering"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/cjxHpKWIdfk/hqdefault.jpg"
     },
     {
       "id": "0By4M6a-r3w",
@@ -40536,6 +40551,22 @@
       "thumbnail": "https://i.ytimg.com/vi/vmXRvQ0cCRQ/hqdefault.jpg"
     },
     {
+      "id": "GbcnuoTFQ00",
+      "title": "Why is the Piccadilly Line blue?",
+      "channel": "Jago Hazzard",
+      "channelId": "UCcHuNKYzVMc06FXqsBEAV3A",
+      "durationSec": 657,
+      "publishedAt": "2026-10-11T11:00:27Z",
+      "topics": [
+        "history",
+        "geography"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/GbcnuoTFQ00/hqdefault.jpg"
+    },
+    {
       "id": "gzDd3koxLp4",
       "title": "Let's NOT build this station.",
       "channel": "Jago Hazzard",
@@ -41318,22 +41349,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/zZuO-a6v5Hg/hqdefault.jpg"
-    },
-    {
-      "id": "NNQyQHfVfGM",
-      "title": "A Mysterious Underground Line from 1845",
-      "channel": "Jago Hazzard",
-      "channelId": "UCcHuNKYzVMc06FXqsBEAV3A",
-      "durationSec": 653,
-      "publishedAt": "2026-06-17T16:30:24Z",
-      "topics": [
-        "history",
-        "geography"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/NNQyQHfVfGM/hqdefault.jpg"
     },
     {
       "id": "ka8kT_YOtU0",
@@ -56872,6 +56887,23 @@
       "thumbnail": "https://i.ytimg.com/vi/MoPEyQrChdg/hqdefault.jpg"
     },
     {
+      "id": "-BoprWYCTiM",
+      "title": "How the Black Robin Became the New Zealand Bird of the Year",
+      "channel": "Henry the PaleoGuy",
+      "channelId": "UCN1rSOJNzfjzPOsPXRI-hGA",
+      "durationSec": 305,
+      "publishedAt": "2026-10-11T09:43:04Z",
+      "topics": [
+        "science",
+        "animals",
+        "nature"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/-BoprWYCTiM/hqdefault.jpg"
+    },
+    {
       "id": "7EvtadcwWNU",
       "title": "Wobbegong - The Carpets of the Ocean",
       "channel": "Henry the PaleoGuy",
@@ -63839,6 +63871,22 @@
       "thumbnail": "https://i.ytimg.com/vi/OB4jAc2033o/hqdefault.jpg"
     },
     {
+      "id": "6Uv94zhK9M0",
+      "title": "Facebook is FULL of It 🤬",
+      "channel": "ElectroBOOM",
+      "channelId": "UCJ0-OtVpF0wOKEqT2Z1HEtA",
+      "durationSec": 959,
+      "publishedAt": "2026-10-10T16:00:03Z",
+      "topics": [
+        "science",
+        "engineering"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/6Uv94zhK9M0/hqdefault.jpg"
+    },
+    {
       "id": "Tuxgh8SrzbQ",
       "title": "Rage-Fixing the Power Washer",
       "channel": "ElectroBOOM",
@@ -64497,6 +64545,22 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/jP6R7FV22ns/hqdefault.jpg"
+    },
+    {
+      "id": "a_D4V2uclmg",
+      "title": "Can You Guess These Venus Flytrap Cultivars? (Hint: It's Not What You Think)",
+      "channel": "Carnivorous Plants Hub",
+      "channelId": "UCtdFyx2wj8dysinQuyNTX3Q",
+      "durationSec": 483,
+      "publishedAt": "2026-10-11T13:30:03Z",
+      "topics": [
+        "nature",
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/a_D4V2uclmg/hqdefault.jpg"
     },
     {
       "id": "VqTYlfVVH2M",
@@ -65169,22 +65233,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/vq9fZ1VxfuY/hqdefault.jpg"
-    },
-    {
-      "id": "2hEyWrK36o4",
-      "title": "Indoor Grow Light For Venus Fly Traps Tested + Flower Stalk Propagations",
-      "channel": "Carnivorous Plants Hub",
-      "channelId": "UCtdFyx2wj8dysinQuyNTX3Q",
-      "durationSec": 428,
-      "publishedAt": "2025-02-24T14:45:00Z",
-      "topics": [
-        "nature",
-        "science"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/2hEyWrK36o4/hqdefault.jpg"
     },
     {
       "id": "oLyy_KpUh8I",
@@ -66051,6 +66099,22 @@
       "thumbnail": "https://i.ytimg.com/vi/KjvFBP06trc/hqdefault.jpg"
     },
     {
+      "id": "XHExm1NtgQQ",
+      "title": "WITCHES HAT WORKSHOP / GRAPEVINE HUNTING / CONFETTI PHOTO BOMB / COSMOS & ZINNIAS / FALL FLOWERS",
+      "channel": "Guiding Green Thumbs",
+      "channelId": "UCcgYyMRPW7z4fbJabbSWQ8g",
+      "durationSec": 2623,
+      "publishedAt": "2026-10-11T12:07:14Z",
+      "topics": [
+        "nature",
+        "making"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/XHExm1NtgQQ/hqdefault.jpg"
+    },
+    {
       "id": "pKIzG0OoPg0",
       "title": "HARVESTING OUR BLOOMING DAHLIAS IN THE HIGH TUNNEL / MAKING FALL BOUQUETS",
       "channel": "Guiding Green Thumbs",
@@ -66833,22 +66897,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/OKxji-hyQnw/hqdefault.jpg"
-    },
-    {
-      "id": "Ruy8fpl9Xws",
-      "title": "HARVESTING DAHLIAS / CLIENT SHADE GARDEN DESIGN",
-      "channel": "Guiding Green Thumbs",
-      "channelId": "UCcgYyMRPW7z4fbJabbSWQ8g",
-      "durationSec": 2142,
-      "publishedAt": "2025-10-05T12:56:11Z",
-      "topics": [
-        "nature",
-        "making"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/Ruy8fpl9Xws/hqdefault.jpg"
     },
     {
       "id": "4GLbmr9yh-Y",
@@ -67985,6 +68033,21 @@
       "thumbnail": "https://i.ytimg.com/vi/A_zQKW8ipL4/hqdefault.jpg"
     },
     {
+      "id": "ZIwt4mGyyn8",
+      "title": "What Makes Siccar Point The Birthplace of Geology? @Scottishgeologist Explains Hutton's Unconformity",
+      "channel": "GEO GIRL",
+      "channelId": "UC5uH43CVzGWg9XGYGuLwI_w",
+      "durationSec": 322,
+      "publishedAt": "2026-10-11T13:30:10Z",
+      "topics": [
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/ZIwt4mGyyn8/hqdefault.jpg"
+    },
+    {
       "id": "37DXAPteKIw",
       "title": "How Does Lava Form Hexagon Columns?",
       "channel": "GEO GIRL",
@@ -68705,19 +68768,20 @@
       "thumbnail": "https://i.ytimg.com/vi/PapDzTCx_xI/hqdefault.jpg"
     },
     {
-      "id": "CnYf9aVD8Ig",
-      "title": "Geology of Waterfalls- How They Form, How Long They Last, Even Different Types! GEO GIRL",
-      "channel": "GEO GIRL",
-      "channelId": "UC5uH43CVzGWg9XGYGuLwI_w",
-      "durationSec": 666,
-      "publishedAt": "2025-08-10T13:30:21Z",
+      "id": "HzxuhQlEpzQ",
+      "title": "Major M7.7 Earthquake Strikes Panama, Tsunami Generated; Geologist Analysis",
+      "channel": "GeologyHub",
+      "channelId": "UCYeGh5VML5XPr5jYnzh3J6g",
+      "durationSec": 332,
+      "publishedAt": "2026-10-10T21:30:24Z",
       "topics": [
-        "science"
+        "science",
+        "geography"
       ],
       "profiles": [
         "big"
       ],
-      "thumbnail": "https://i.ytimg.com/vi/CnYf9aVD8Ig/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/HzxuhQlEpzQ/hqdefault.jpg"
     },
     {
       "id": "MPTpjwalIdM",
@@ -69486,22 +69550,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/BAYccBMfVow/hqdefault.jpg"
-    },
-    {
-      "id": "NZTDNcjFUHw",
-      "title": "Texas Earthquake Update; M5.0 Earthquake Strikes the Panhandle",
-      "channel": "GeologyHub",
-      "channelId": "UCYeGh5VML5XPr5jYnzh3J6g",
-      "durationSec": 331,
-      "publishedAt": "2026-07-24T19:00:27Z",
-      "topics": [
-        "science",
-        "geography"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/NZTDNcjFUHw/hqdefault.jpg"
     },
     {
       "id": "zWunDC4UZCw",
@@ -78078,6 +78126,38 @@
       "thumbnail": "https://i.ytimg.com/vi/AxksN1PIquE/hqdefault.jpg"
     },
     {
+      "id": "SxDg50mH86s",
+      "title": "Marine Biologist AMA: KPassionate Livestream",
+      "channel": "KPassionate",
+      "channelId": "UCUvSqEH92Fqn9uw1kmCfLGA",
+      "durationSec": 4116,
+      "publishedAt": "2026-10-11T13:38:01Z",
+      "topics": [
+        "animals",
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/SxDg50mH86s/hqdefault.jpg"
+    },
+    {
+      "id": "nTMZeddHwOs",
+      "title": "A Huge Sperm Whale Sank A Yacht! A Marine Biologist Reacts",
+      "channel": "KPassionate",
+      "channelId": "UCUvSqEH92Fqn9uw1kmCfLGA",
+      "durationSec": 806,
+      "publishedAt": "2026-10-10T19:08:29Z",
+      "topics": [
+        "animals",
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/nTMZeddHwOs/hqdefault.jpg"
+    },
+    {
       "id": "ZMXuzoMTx4s",
       "title": "Marine Biologist Reacts to WHALEFALL | Can a Whale Swallow a Human?",
       "channel": "KPassionate",
@@ -78828,54 +78908,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/TnJVE2oNJH0/hqdefault.jpg"
-    },
-    {
-      "id": "IdUHZt8lsCA",
-      "title": "The Bizarre Truth About Ape Sign Language",
-      "channel": "KPassionate",
-      "channelId": "UCUvSqEH92Fqn9uw1kmCfLGA",
-      "durationSec": 482,
-      "publishedAt": "2024-03-23T13:45:01Z",
-      "topics": [
-        "animals",
-        "science"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/IdUHZt8lsCA/hqdefault.jpg"
-    },
-    {
-      "id": "Ikz1dX0jU1I",
-      "title": "Is a Stingray Pregnant by a Shark? Marine Biologist Explains!",
-      "channel": "KPassionate",
-      "channelId": "UCUvSqEH92Fqn9uw1kmCfLGA",
-      "durationSec": 287,
-      "publishedAt": "2024-02-24T14:45:00Z",
-      "topics": [
-        "animals",
-        "science"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/Ikz1dX0jU1I/hqdefault.jpg"
-    },
-    {
-      "id": "jObcXvhZu_Q",
-      "title": "Can a Self Aware Dog REALLY Talk with Buttons?",
-      "channel": "KPassionate",
-      "channelId": "UCUvSqEH92Fqn9uw1kmCfLGA",
-      "durationSec": 514,
-      "publishedAt": "2024-02-10T15:06:14Z",
-      "topics": [
-        "animals",
-        "science"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/jObcXvhZu_Q/hqdefault.jpg"
     },
     {
       "id": "vsit2ZvNbNs",
@@ -82780,6 +82812,38 @@
       "thumbnail": "https://i.ytimg.com/vi/GLVhXClV5QU/hqdefault.jpg"
     },
     {
+      "id": "5VeH8IYn2Qs",
+      "title": "Where is That Smell Coming From?! | Peep and the Big Wide World",
+      "channel": "Peep and the Big Wide World",
+      "channelId": "UCPq6g4Q4-SFMIJ048IXmupA",
+      "durationSec": 3818,
+      "publishedAt": "2026-10-11T15:00:15Z",
+      "topics": [
+        "science",
+        "nature"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/5VeH8IYn2Qs/hqdefault.jpg"
+    },
+    {
+      "id": "lz6Gvx5G1tM",
+      "title": "Star Light, Star Bright | Peep and the Big Wide World",
+      "channel": "Peep and the Big Wide World",
+      "channelId": "UCPq6g4Q4-SFMIJ048IXmupA",
+      "durationSec": 655,
+      "publishedAt": "2026-10-10T15:00:24Z",
+      "topics": [
+        "science",
+        "nature"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/lz6Gvx5G1tM/hqdefault.jpg"
+    },
+    {
       "id": "aw1HaXCt2Ag",
       "title": "Making Drums, Creating Dams & MORE! | Explore the Big Wide World",
       "channel": "Peep and the Big Wide World",
@@ -83546,38 +83610,6 @@
         "little"
       ],
       "thumbnail": "https://i.ytimg.com/vi/jn36h_FCj-4/hqdefault.jpg"
-    },
-    {
-      "id": "QPrX6GLLFos",
-      "title": "Wandering Beaver | Peep and the Big Wide World",
-      "channel": "Peep and the Big Wide World",
-      "channelId": "UCPq6g4Q4-SFMIJ048IXmupA",
-      "durationSec": 644,
-      "publishedAt": "2026-08-24T15:00:18Z",
-      "topics": [
-        "science",
-        "nature"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/QPrX6GLLFos/hqdefault.jpg"
-    },
-    {
-      "id": "T9apWdpY1-I",
-      "title": "Peep is Trying to Hide! | Peep and the Big Wide World",
-      "channel": "Peep and the Big Wide World",
-      "channelId": "UCPq6g4Q4-SFMIJ048IXmupA",
-      "durationSec": 3801,
-      "publishedAt": "2026-08-23T15:00:10Z",
-      "topics": [
-        "science",
-        "nature"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/T9apWdpY1-I/hqdefault.jpg"
     },
     {
       "id": "gMWyiU7ZWgA",
@@ -86700,6 +86732,91 @@
       "thumbnail": "https://i.ytimg.com/vi/DPbKux9cemU/hqdefault.jpg"
     },
     {
+      "id": "9AkavqqUkH0",
+      "title": "Kids Yoga LIVE 🌟 | Fun Yoga Adventures & Movement for Kids",
+      "channel": "Cosmic Kids Yoga",
+      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
+      "durationSec": 42895,
+      "publishedAt": "2026-10-11T03:02:05Z",
+      "topics": [
+        "reading",
+        "nature"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/9AkavqqUkH0/hqdefault.jpg"
+    },
+    {
+      "id": "Lp43j3Qocj4",
+      "title": "Halloween Kids Yoga LIVE! Cosmic Kids Halloween Adventure Compilation 👻✨",
+      "channel": "Cosmic Kids Yoga",
+      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
+      "durationSec": 42900,
+      "publishedAt": "2026-10-11T14:54:13Z",
+      "topics": [
+        "reading",
+        "nature"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/Lp43j3Qocj4/hqdefault.jpg"
+    },
+    {
+      "id": "PCPF2H8Y3JA",
+      "title": "Kids Yoga LIVE 🌟 | Fun Yoga Adventures & Movement for Kids",
+      "channel": "Cosmic Kids Yoga",
+      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
+      "durationSec": 42897,
+      "publishedAt": "2026-10-11T03:24:51Z",
+      "topics": [
+        "reading",
+        "nature"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/PCPF2H8Y3JA/hqdefault.jpg"
+    },
+    {
+      "id": "3CwN5eZZkto",
+      "title": "Halloween Kids Yoga LIVE! Cosmic Kids Halloween Adventure Compilation 👻✨",
+      "channel": "Cosmic Kids Yoga",
+      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
+      "durationSec": 42897,
+      "publishedAt": "2026-10-11T02:20:34Z",
+      "topics": [
+        "reading",
+        "nature"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/3CwN5eZZkto/hqdefault.jpg"
+    },
+    {
+      "id": "JHjO2JtP3HQ",
+      "title": "Kids Yoga LIVE 🌟 | Fun Yoga Adventures & Movement for Kids",
+      "channel": "Cosmic Kids Yoga",
+      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
+      "durationSec": 42898,
+      "publishedAt": "2026-10-10T15:44:41Z",
+      "topics": [
+        "reading",
+        "nature"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/JHjO2JtP3HQ/hqdefault.jpg"
+    },
+    {
       "id": "rH7SYPv87lM",
       "title": "Halloween Kids Yoga LIVE! Cosmic Kids Halloween Adventure Compilation 👻✨",
       "channel": "Cosmic Kids Yoga",
@@ -87890,6 +88007,22 @@
       "thumbnail": "https://i.ytimg.com/vi/Ilr2DjYOfqA/hqdefault.jpg"
     },
     {
+      "id": "aVbmOHHHlC8",
+      "title": "Let's Play Sesame Street: Friends and Fun Game with Elmo, Cookie Monster & More! 😃",
+      "channel": "Sesame Street",
+      "channelId": "UCoookXUzPciGrEZEXmh4Jjg",
+      "durationSec": 752,
+      "publishedAt": "2026-10-11T11:30:00Z",
+      "topics": [
+        "reading",
+        "music"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/aVbmOHHHlC8/hqdefault.jpg"
+    },
+    {
       "id": "boR8mKhXJuI",
       "title": "Celebrate Halloween on Sesame Street! 🎃| FOUR Sesame Street Full Episodes",
       "channel": "Sesame Street",
@@ -88320,22 +88453,6 @@
         "little"
       ],
       "thumbnail": "https://i.ytimg.com/vi/yaD0n5awR_E/hqdefault.jpg"
-    },
-    {
-      "id": "MtVywDiugYY",
-      "title": "Elmo's Arts & Crafts! 🎨🖍️ | 49 Mins | Sesame Street",
-      "channel": "Sesame Street",
-      "channelId": "UCoookXUzPciGrEZEXmh4Jjg",
-      "durationSec": 2945,
-      "publishedAt": "2026-08-09T11:30:05Z",
-      "topics": [
-        "reading",
-        "music"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/MtVywDiugYY/hqdefault.jpg"
     },
     {
       "id": "Ibh72Nhxl14",
