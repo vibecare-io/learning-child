@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-11T15:10:31.664Z",
+  "generatedAt": "2026-10-12T18:19:21.664Z",
   "profiles": {
     "little": {
       "label": "Ages 3-7"
@@ -131,6 +131,22 @@
       "thumbnail": "https://i.ytimg.com/vi/kKqd0_cydZM/hqdefault.jpg"
     },
     {
+      "id": "G59TqTjtuhg",
+      "title": "Exploring Earth's Closest Neighbors | A Traveler's Guide to the Planets Compilation | Nat Geo Kids",
+      "channel": "Nat Geo Kids",
+      "channelId": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "durationSec": 5491,
+      "publishedAt": "2026-10-12T11:00:31Z",
+      "topics": [
+        "animals",
+        "science"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/G59TqTjtuhg/hqdefault.jpg"
+    },
+    {
       "id": "wEz-NB7CRp0",
       "title": "We Built a HUMAN-SIZED Wasps Nest | Live Like an Animal Full Episode | Nat Geo Kids",
       "channel": "Nat Geo Kids",
@@ -195,20 +211,19 @@
       "thumbnail": "https://i.ytimg.com/vi/Df49TC9NONk/hqdefault.jpg"
     },
     {
-      "id": "YBGPMztHR4Y",
-      "title": "Octopus Showdown 🐙 | Whoa Factor | Nat Geo Kids",
-      "channel": "Nat Geo Kids",
-      "channelId": "UCXVCgDuD_QCkI7gTKU7-tpg",
-      "durationSec": 282,
-      "publishedAt": "2026-10-07T11:00:14Z",
+      "id": "TxQ8haK5u6Q",
+      "title": "How To Draw A Halloween Pumpkin House",
+      "channel": "Art for Kids Hub",
+      "channelId": "UC5XMF3Inoi8R9nSI8ChOsdQ",
+      "durationSec": 466,
+      "publishedAt": "2026-10-12T16:00:25Z",
       "topics": [
-        "animals",
-        "science"
+        "art"
       ],
       "profiles": [
         "little"
       ],
-      "thumbnail": "https://i.ytimg.com/vi/YBGPMztHR4Y/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/TxQ8haK5u6Q/hqdefault.jpg"
     },
     {
       "id": "dgMuNfIZ0Kw",
@@ -224,21 +239,6 @@
         "little"
       ],
       "thumbnail": "https://i.ytimg.com/vi/dgMuNfIZ0Kw/hqdefault.jpg"
-    },
-    {
-      "id": "k6RHLmAL-NU",
-      "title": "How To Draw A Haunted School Bus",
-      "channel": "Art for Kids Hub",
-      "channelId": "UC5XMF3Inoi8R9nSI8ChOsdQ",
-      "durationSec": 690,
-      "publishedAt": "2026-10-07T15:00:19Z",
-      "topics": [
-        "art"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/k6RHLmAL-NU/hqdefault.jpg"
     },
     {
       "id": "4PCLWIc9OYM",
@@ -457,6 +457,21 @@
       "thumbnail": "https://i.ytimg.com/vi/9HlIuxnuTKQ/hqdefault.jpg"
     },
     {
+      "id": "wxfARKaQyDE",
+      "title": "The Cure for Ulcers Is ... Cabbage",
+      "channel": "SciShow",
+      "channelId": "UCZYTClx2T1of7BRZ86-8fow",
+      "durationSec": 509,
+      "publishedAt": "2026-10-12T17:00:32Z",
+      "topics": [
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/wxfARKaQyDE/hqdefault.jpg"
+    },
+    {
       "id": "9yYQHUTv9t4",
       "title": "The Science That Finally Explains the Dyatlov Pass Incident",
       "channel": "SciShow",
@@ -502,21 +517,6 @@
       "thumbnail": "https://i.ytimg.com/vi/rd_kVzsqRAc/hqdefault.jpg"
     },
     {
-      "id": "Nmtr13laur0",
-      "title": "How to Make a Whole City Invisible",
-      "channel": "SciShow",
-      "channelId": "UCZYTClx2T1of7BRZ86-8fow",
-      "durationSec": 798,
-      "publishedAt": "2026-10-05T17:00:25Z",
-      "topics": [
-        "science"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/Nmtr13laur0/hqdefault.jpg"
-    },
-    {
       "id": "Nbwv5wHQoj0",
       "title": "The last IMO problem AI could not solve",
       "channel": "3Blue1Brown",
@@ -545,6 +545,21 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/GlYgs6v2YfU/hqdefault.jpg"
+    },
+    {
+      "id": "NiCgcUTL9_Q",
+      "title": "The Technology that Made the Internet Possible",
+      "channel": "Veritasium",
+      "channelId": "UCHnyfMqiRRG1u-2MsSQLbXA",
+      "durationSec": 2072,
+      "publishedAt": "2026-10-12T17:11:45Z",
+      "topics": [
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/NiCgcUTL9_Q/hqdefault.jpg"
     },
     {
       "id": "ONAuUyml0yI",
@@ -6165,6 +6180,21 @@
       "thumbnail": "https://i.ytimg.com/vi/fTmIUypawcs/hqdefault.jpg"
     },
     {
+      "id": "5KKsVymQS3w",
+      "title": "Welcome home, Sophie Adenot",
+      "channel": "European Space Agency, ESA",
+      "channelId": "UCIBaDdAbGlFDeS33shmlD0A",
+      "durationSec": 175,
+      "publishedAt": "2026-10-12T15:00:41Z",
+      "topics": [
+        "space"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/5KKsVymQS3w/hqdefault.jpg"
+    },
+    {
       "id": "AX4S7mbMC8M",
       "title": "Sophie Adenot's return to Earth - Statement from Cologne Airport",
       "channel": "European Space Agency, ESA",
@@ -6418,21 +6448,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/Dgfv64iMvm8/hqdefault.jpg"
-    },
-    {
-      "id": "gF70orCmD1E",
-      "title": "200 days in space, 150,000 push-ups later 💪🧑‍🚀",
-      "channel": "European Space Agency, ESA",
-      "channelId": "UCIBaDdAbGlFDeS33shmlD0A",
-      "durationSec": 137,
-      "publishedAt": "2026-09-04T12:52:53Z",
-      "topics": [
-        "space"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/gF70orCmD1E/hqdefault.jpg"
     },
     {
       "id": "MGQcrX7DMYw",
@@ -9854,21 +9869,6 @@
       "thumbnail": "https://i.ytimg.com/vi/gev1uPEj-70/hqdefault.jpg"
     },
     {
-      "id": "zFZhE5rQB5c",
-      "title": "🔴LIVE - Play & Learn Songs for Kids (45+ Minutes) 🛝🔤🤔 | Laurie Berkner Band",
-      "channel": "The Laurie Berkner Band - Kids Songs",
-      "channelId": "UCQ9o9F8HYJV85XjciUS86_Q",
-      "durationSec": 42899,
-      "publishedAt": "2026-06-21T23:16:54Z",
-      "topics": [
-        "music"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/zFZhE5rQB5c/hqdefault.jpg"
-    },
-    {
       "id": "RideGnMsclM",
       "title": "Kids | Learn Music from the Civil Rights Era and Beyond",
       "channel": "Carnegie Hall Kids",
@@ -11485,22 +11485,6 @@
       "thumbnail": "https://i.ytimg.com/vi/WeJ3wz1S01Q/hqdefault.jpg"
     },
     {
-      "id": "lnJA5rOrp-M",
-      "title": "25 song transition tips I wish I learned from the start",
-      "channel": "ANDREW HUANG",
-      "channelId": "UCdcemy56JtVTrsFIOoqvV8g",
-      "durationSec": 832,
-      "publishedAt": "2026-05-04T16:41:38Z",
-      "topics": [
-        "music",
-        "making"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/lnJA5rOrp-M/hqdefault.jpg"
-    },
-    {
       "id": "blWnqtNxhYA",
       "title": "10 Levels of Advanced Listening",
       "channel": "Nahre Sol",
@@ -11611,6 +11595,23 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/jb9OPM1tUfk/hqdefault.jpg"
+    },
+    {
+      "id": "VKJTXcdlbe0",
+      "title": "How to Draw a Spooky Candy Apple 🍎 Cute Halloween Drawing",
+      "channel": "Draw So Cute",
+      "channelId": "UC3dEvA1is6-0_yuei9iCdEw",
+      "durationSec": 609,
+      "publishedAt": "2026-10-12T14:00:27Z",
+      "topics": [
+        "art",
+        "making"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/VKJTXcdlbe0/hqdefault.jpg"
     },
     {
       "id": "6Uap-uQ5uxg",
@@ -12446,23 +12447,6 @@
       "thumbnail": "https://i.ytimg.com/vi/F8rRDaIFw2c/hqdefault.jpg"
     },
     {
-      "id": "_WM0I0RCX5Y",
-      "title": "How to Draw a Steamed Bao Dumpling Dim Sum 🥟 Cute Food Art",
-      "channel": "Draw So Cute",
-      "channelId": "UC3dEvA1is6-0_yuei9iCdEw",
-      "durationSec": 475,
-      "publishedAt": "2026-07-13T14:00:00Z",
-      "topics": [
-        "art",
-        "making"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/_WM0I0RCX5Y/hqdefault.jpg"
-    },
-    {
       "id": "MB7wxd8Bz18",
       "title": "Learn to Draw Super Simple Characters! Finny the Shark, The Bumble Nums, & More!",
       "channel": "Super Simple Draw! - How To Draw for Kids",
@@ -13261,6 +13245,22 @@
         "little"
       ],
       "thumbnail": "https://i.ytimg.com/vi/m6KAfSgFaAM/hqdefault.jpg"
+    },
+    {
+      "id": "MKj0xgYp4rc",
+      "title": "How to Draw Kamek | Super Mario",
+      "channel": "Cartooning Club How to Draw",
+      "channelId": "UC-biucJWhM8HwjsQ96uoIUw",
+      "durationSec": 389,
+      "publishedAt": "2026-10-12T14:00:24Z",
+      "topics": [
+        "art",
+        "making"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/MKj0xgYp4rc/hqdefault.jpg"
     },
     {
       "id": "Zc3G8wq3mtU",
@@ -47821,6 +47821,21 @@
       "thumbnail": "https://i.ytimg.com/vi/jvebwDXmBSw/hqdefault.jpg"
     },
     {
+      "id": "h0RbDcFv_ew",
+      "title": "Present Passive System in Latin (III-IV Conjugation)",
+      "channel": "Professor Dave Explains",
+      "channelId": "UC0cd_-e49hZpWLH3UIwoWRA",
+      "durationSec": 333,
+      "publishedAt": "2026-10-12T14:00:27Z",
+      "topics": [
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/h0RbDcFv_ew/hqdefault.jpg"
+    },
+    {
       "id": "5Zx3bc96Dm8",
       "title": "Adam Young and Artifact Foundation: Pseudoarcheology Megascam",
       "channel": "Professor Dave Explains",
@@ -48554,21 +48569,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/HrChSizLT44/hqdefault.jpg"
-    },
-    {
-      "id": "e8DwQ6ujqBo",
-      "title": "Michael Button: Rising Pseudoarcheology Fraud",
-      "channel": "Professor Dave Explains",
-      "channelId": "UC0cd_-e49hZpWLH3UIwoWRA",
-      "durationSec": 7623,
-      "publishedAt": "2026-07-16T14:00:36Z",
-      "topics": [
-        "science"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/e8DwQ6ujqBo/hqdefault.jpg"
     },
     {
       "id": "BjyJlN1npdw",
@@ -68768,6 +68768,22 @@
       "thumbnail": "https://i.ytimg.com/vi/PapDzTCx_xI/hqdefault.jpg"
     },
     {
+      "id": "df5sYXuGwKc",
+      "title": "Taal Volcano Erupts; Throws Lava Bombs, Generates Volcanic Lightning",
+      "channel": "GeologyHub",
+      "channelId": "UCYeGh5VML5XPr5jYnzh3J6g",
+      "durationSec": 288,
+      "publishedAt": "2026-10-11T22:45:28Z",
+      "topics": [
+        "science",
+        "geography"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/df5sYXuGwKc/hqdefault.jpg"
+    },
+    {
       "id": "HzxuhQlEpzQ",
       "title": "Major M7.7 Earthquake Strikes Panama, Tsunami Generated; Geologist Analysis",
       "channel": "GeologyHub",
@@ -69534,22 +69550,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/9J0X4bQe7K4/hqdefault.jpg"
-    },
-    {
-      "id": "BAYccBMfVow",
-      "title": "Strong M6.8 Earthquake Strikes Japan, Geologist Analysis",
-      "channel": "GeologyHub",
-      "channelId": "UCYeGh5VML5XPr5jYnzh3J6g",
-      "durationSec": 267,
-      "publishedAt": "2026-07-29T01:30:15Z",
-      "topics": [
-        "science",
-        "geography"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/BAYccBMfVow/hqdefault.jpg"
     },
     {
       "id": "zWunDC4UZCw",
@@ -74361,7 +74361,7 @@
     },
     {
       "id": "hsWr_JWTZss",
-      "title": "A Tumbleweed Is a Plant That Killed Itself",
+      "title": "Tumbleweeds Aren't From Here",
       "channel": "CGP Grey",
       "channelId": "UC2C_jShtL725hvbm1arSV9w",
       "durationSec": 402,
@@ -78126,22 +78126,6 @@
       "thumbnail": "https://i.ytimg.com/vi/AxksN1PIquE/hqdefault.jpg"
     },
     {
-      "id": "SxDg50mH86s",
-      "title": "Marine Biologist AMA: KPassionate Livestream",
-      "channel": "KPassionate",
-      "channelId": "UCUvSqEH92Fqn9uw1kmCfLGA",
-      "durationSec": 4116,
-      "publishedAt": "2026-10-11T13:38:01Z",
-      "topics": [
-        "animals",
-        "science"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/SxDg50mH86s/hqdefault.jpg"
-    },
-    {
       "id": "nTMZeddHwOs",
       "title": "A Huge Sperm Whale Sank A Yacht! A Marine Biologist Reacts",
       "channel": "KPassionate",
@@ -78191,7 +78175,7 @@
     },
     {
       "id": "cpWI7iz6z-s",
-      "title": "People Are Injecting Salmon WHAT Into Their Face?!",
+      "title": "Why Are People Injecting Salmon \"DNA\" Into Their Face?!",
       "channel": "KPassionate",
       "channelId": "UCUvSqEH92Fqn9uw1kmCfLGA",
       "durationSec": 760,
@@ -78908,6 +78892,22 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/TnJVE2oNJH0/hqdefault.jpg"
+    },
+    {
+      "id": "IdUHZt8lsCA",
+      "title": "The Bizarre Truth About Ape Sign Language",
+      "channel": "KPassionate",
+      "channelId": "UCUvSqEH92Fqn9uw1kmCfLGA",
+      "durationSec": 482,
+      "publishedAt": "2024-03-23T13:45:01Z",
+      "topics": [
+        "animals",
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/IdUHZt8lsCA/hqdefault.jpg"
     },
     {
       "id": "vsit2ZvNbNs",
@@ -80503,22 +80503,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/IQrJry5baxA/hqdefault.jpg"
-    },
-    {
-      "id": "_MEgmW85xJw",
-      "title": "Top Physics Toys of the Week | Episode 9",
-      "channel": "physicsfun",
-      "channelId": "UCVs-1uGf7DWid0GNWgPWLzw",
-      "durationSec": 349,
-      "publishedAt": "2026-08-29T11:30:49Z",
-      "topics": [
-        "science"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/_MEgmW85xJw/hqdefault.jpg"
     },
     {
       "id": "2zsBwnZlYRs",
@@ -82812,6 +82796,22 @@
       "thumbnail": "https://i.ytimg.com/vi/GLVhXClV5QU/hqdefault.jpg"
     },
     {
+      "id": "VNRiVxSKxdU",
+      "title": "Bedtime Story | Peep and the Big Wide World",
+      "channel": "Peep and the Big Wide World",
+      "channelId": "UCPq6g4Q4-SFMIJ048IXmupA",
+      "durationSec": 643,
+      "publishedAt": "2026-10-12T15:00:35Z",
+      "topics": [
+        "science",
+        "nature"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/VNRiVxSKxdU/hqdefault.jpg"
+    },
+    {
       "id": "5VeH8IYn2Qs",
       "title": "Where is That Smell Coming From?! | Peep and the Big Wide World",
       "channel": "Peep and the Big Wide World",
@@ -83594,22 +83594,6 @@
         "little"
       ],
       "thumbnail": "https://i.ytimg.com/vi/F9LmtEvsHDE/hqdefault.jpg"
-    },
-    {
-      "id": "jn36h_FCj-4",
-      "title": "Peep's New Friend | Peep and the Big Wide World",
-      "channel": "Peep and the Big Wide World",
-      "channelId": "UCPq6g4Q4-SFMIJ048IXmupA",
-      "durationSec": 645,
-      "publishedAt": "2026-08-25T15:00:11Z",
-      "topics": [
-        "science",
-        "nature"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/jn36h_FCj-4/hqdefault.jpg"
     },
     {
       "id": "gMWyiU7ZWgA",
@@ -84598,6 +84582,24 @@
       "thumbnail": "https://i.ytimg.com/vi/wV5vN1mZgfM/hqdefault.jpg"
     },
     {
+      "id": "1ZCfP3h5A_I",
+      "title": "Build a prop replica of the Faz Wrench #adafruit #3dprinting",
+      "channel": "Adafruit Industries",
+      "channelId": "UCpOlOeQjj7EsVnDh3zuCgsA",
+      "durationSec": 160,
+      "publishedAt": "2026-10-12T11:43:41Z",
+      "topics": [
+        "making",
+        "tech",
+        "engineering",
+        "coding"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/1ZCfP3h5A_I/hqdefault.jpg"
+    },
+    {
       "id": "aTJmQLvsgG8",
       "title": "Deep Dive w/Scott: CircuitPython Video Pipeline #adafruit",
       "channel": "Adafruit Industries",
@@ -84992,42 +84994,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/CM4Zh--N-KU/hqdefault.jpg"
-    },
-    {
-      "id": "ZUMptACiXH4",
-      "title": "Deep Dive w/Scott: Adaboot #adafruit",
-      "channel": "Adafruit Industries",
-      "channelId": "UCpOlOeQjj7EsVnDh3zuCgsA",
-      "durationSec": 3680,
-      "publishedAt": "2026-09-25T22:13:23Z",
-      "topics": [
-        "making",
-        "tech",
-        "engineering",
-        "coding"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/ZUMptACiXH4/hqdefault.jpg"
-    },
-    {
-      "id": "9xyvy1yAUhs",
-      "title": "John Park's CircuitPython Parsec: Random Choice",
-      "channel": "Adafruit Industries",
-      "channelId": "UCpOlOeQjj7EsVnDh3zuCgsA",
-      "durationSec": 171,
-      "publishedAt": "2026-09-25T22:11:18Z",
-      "topics": [
-        "making",
-        "tech",
-        "engineering",
-        "coding"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/9xyvy1yAUhs/hqdefault.jpg"
     },
     {
       "id": "4whgw2gLBS8",
@@ -86732,12 +86698,80 @@
       "thumbnail": "https://i.ytimg.com/vi/DPbKux9cemU/hqdefault.jpg"
     },
     {
+      "id": "-PCQKSSRTjw",
+      "title": "Kids Yoga LIVE 🌟 | Fun Yoga Adventures & Movement for Kids",
+      "channel": "Cosmic Kids Yoga",
+      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
+      "durationSec": 42899,
+      "publishedAt": "2026-10-12T16:29:46Z",
+      "topics": [
+        "reading",
+        "nature"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/-PCQKSSRTjw/hqdefault.jpg"
+    },
+    {
+      "id": "kMvtcRbgyCY",
+      "title": "Halloween Kids Yoga LIVE! Cosmic Kids Halloween Adventure Compilation 👻✨",
+      "channel": "Cosmic Kids Yoga",
+      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
+      "durationSec": 42896,
+      "publishedAt": "2026-10-12T14:27:34Z",
+      "topics": [
+        "reading",
+        "nature"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/kMvtcRbgyCY/hqdefault.jpg"
+    },
+    {
+      "id": "EUw2F4yeZAw",
+      "title": "Kids Yoga LIVE 🌟 | Fun Yoga Adventures & Movement for Kids",
+      "channel": "Cosmic Kids Yoga",
+      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
+      "durationSec": 42900,
+      "publishedAt": "2026-10-12T03:40:49Z",
+      "topics": [
+        "reading",
+        "nature"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/EUw2F4yeZAw/hqdefault.jpg"
+    },
+    {
+      "id": "VwHgXROmpAs",
+      "title": "Halloween Kids Yoga LIVE! Cosmic Kids Halloween Adventure Compilation 👻✨",
+      "channel": "Cosmic Kids Yoga",
+      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
+      "durationSec": 42898,
+      "publishedAt": "2026-10-12T02:19:40Z",
+      "topics": [
+        "reading",
+        "nature"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/VwHgXROmpAs/hqdefault.jpg"
+    },
+    {
       "id": "9AkavqqUkH0",
       "title": "Kids Yoga LIVE 🌟 | Fun Yoga Adventures & Movement for Kids",
       "channel": "Cosmic Kids Yoga",
       "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
-      "durationSec": 42895,
-      "publishedAt": "2026-10-11T03:02:05Z",
+      "durationSec": 42898,
+      "publishedAt": "2026-10-11T15:37:23Z",
       "topics": [
         "reading",
         "nature"
