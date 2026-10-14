@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-13T16:33:25.093Z",
+  "generatedAt": "2026-10-14T14:08:16.323Z",
   "profiles": {
     "little": {
       "label": "Ages 3-7"
@@ -131,6 +131,22 @@
       "thumbnail": "https://i.ytimg.com/vi/kKqd0_cydZM/hqdefault.jpg"
     },
     {
+      "id": "CGEtugYEJok",
+      "title": "Pigs vs. Cows vs. Goats: Barnyard Showdown! | Whoa Factor | Nat Geo Kids",
+      "channel": "Nat Geo Kids",
+      "channelId": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "durationSec": 299,
+      "publishedAt": "2026-10-14T11:00:12Z",
+      "topics": [
+        "animals",
+        "science"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/CGEtugYEJok/hqdefault.jpg"
+    },
+    {
       "id": "G59TqTjtuhg",
       "title": "Exploring Earth's Closest Neighbors | A Traveler's Guide to the Planets Compilation | Nat Geo Kids",
       "channel": "Nat Geo Kids",
@@ -179,38 +195,6 @@
       "thumbnail": "https://i.ytimg.com/vi/iAIpKDObuWg/hqdefault.jpg"
     },
     {
-      "id": "w4n93HV5i-Q",
-      "title": "The One Where a Marble Statue Comes to Life | Greeking Out Podcast | S5 E2 FULL EP | Nat Geo Kids",
-      "channel": "Nat Geo Kids",
-      "channelId": "UCXVCgDuD_QCkI7gTKU7-tpg",
-      "durationSec": 926,
-      "publishedAt": "2026-10-09T11:00:26Z",
-      "topics": [
-        "animals",
-        "science"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/w4n93HV5i-Q/hqdefault.jpg"
-    },
-    {
-      "id": "Df49TC9NONk",
-      "title": "Weird But True Full Episode | The Science Behind Your Senses! | Nat Geo Kids",
-      "channel": "Nat Geo Kids",
-      "channelId": "UCXVCgDuD_QCkI7gTKU7-tpg",
-      "durationSec": 2653,
-      "publishedAt": "2026-10-08T11:00:30Z",
-      "topics": [
-        "animals",
-        "science"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/Df49TC9NONk/hqdefault.jpg"
-    },
-    {
       "id": "ga8wyomPt68",
       "title": "How To Draw Frankenstein Big Mouth",
       "channel": "Art for Kids Hub",
@@ -239,21 +223,6 @@
         "little"
       ],
       "thumbnail": "https://i.ytimg.com/vi/TxQ8haK5u6Q/hqdefault.jpg"
-    },
-    {
-      "id": "dgMuNfIZ0Kw",
-      "title": "1 Hour of Halloween Drawing Fun! 🎃 Easy Art Lessons for Kids",
-      "channel": "Art for Kids Hub",
-      "channelId": "UC5XMF3Inoi8R9nSI8ChOsdQ",
-      "durationSec": 3625,
-      "publishedAt": "2026-10-09T15:00:12Z",
-      "topics": [
-        "art"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/dgMuNfIZ0Kw/hqdefault.jpg"
     },
     {
       "id": "4PCLWIc9OYM",
@@ -299,21 +268,6 @@
         "little"
       ],
       "thumbnail": "https://i.ytimg.com/vi/bvdQr1rUPZI/hqdefault.jpg"
-    },
-    {
-      "id": "lRe36GiOEdU",
-      "title": "Octoblock 8 Saves the Day! | Learn to Count for Kids Compilation | Number Cartoon | Numberblocks",
-      "channel": "Numberblocks",
-      "channelId": "UCPlwvN0w4qFSP1FllALB92w",
-      "durationSec": 4582,
-      "publishedAt": "2026-10-08T10:00:39Z",
-      "topics": [
-        "maths"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/lRe36GiOEdU/hqdefault.jpg"
     },
     {
       "id": "1uTRlM6MbMo",
@@ -397,7 +351,7 @@
     },
     {
       "id": "jG7ULeWUfDw",
-      "title": "Why magnets stumped scientists for so long - Rachel Yang",
+      "title": "Do we actually know how magnets work? - Rachel Yang",
       "channel": "TED-Ed",
       "channelId": "UCsooa4yRKGN_zEE8iknghZA",
       "durationSec": 347,
@@ -472,6 +426,21 @@
       "thumbnail": "https://i.ytimg.com/vi/9HlIuxnuTKQ/hqdefault.jpg"
     },
     {
+      "id": "gLkYRU2fOos",
+      "title": "The Bizarre Case of the Tully Monster",
+      "channel": "SciShow",
+      "channelId": "UCZYTClx2T1of7BRZ86-8fow",
+      "durationSec": 762,
+      "publishedAt": "2026-10-13T17:00:06Z",
+      "topics": [
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/gLkYRU2fOos/hqdefault.jpg"
+    },
+    {
       "id": "wxfARKaQyDE",
       "title": "The Cure for Ulcers Is ... Cabbage",
       "channel": "SciShow",
@@ -515,21 +484,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/rhHj8-dpXx8/hqdefault.jpg"
-    },
-    {
-      "id": "rd_kVzsqRAc",
-      "title": "What the Power Pose Controversy Reveals About Science",
-      "channel": "SciShow",
-      "channelId": "UCZYTClx2T1of7BRZ86-8fow",
-      "durationSec": 720,
-      "publishedAt": "2026-10-06T17:00:08Z",
-      "topics": [
-        "science"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/rd_kVzsqRAc/hqdefault.jpg"
     },
     {
       "id": "Nbwv5wHQoj0",
@@ -2789,6 +2743,23 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/BbzCA0Lgf3Y/hqdefault.jpg"
+    },
+    {
+      "id": "hmrXShTg2hM",
+      "title": "Spooky Crystal Bubble",
+      "channel": "Sick Science!",
+      "channelId": "UCDom90xOqP4avehFjSJO6NA",
+      "durationSec": 155,
+      "publishedAt": "2026-10-13T18:00:36Z",
+      "topics": [
+        "science",
+        "making"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/hmrXShTg2hM/hqdefault.jpg"
     },
     {
       "id": "ieNmcn98XM4",
@@ -13263,6 +13234,22 @@
       "thumbnail": "https://i.ytimg.com/vi/m6KAfSgFaAM/hqdefault.jpg"
     },
     {
+      "id": "iwmicjLv3N4",
+      "title": "How to Draw Ghostface | Scream",
+      "channel": "Cartooning Club How to Draw",
+      "channelId": "UC-biucJWhM8HwjsQ96uoIUw",
+      "durationSec": 717,
+      "publishedAt": "2026-10-14T14:00:05Z",
+      "topics": [
+        "art",
+        "making"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/iwmicjLv3N4/hqdefault.jpg"
+    },
+    {
       "id": "APVwmmAhPSw",
       "title": "How to Draw Shadow the Hedgehog | Step-by-Step Drawing Tutorial",
       "channel": "Cartooning Club How to Draw",
@@ -13773,22 +13760,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/lnRi9IRcx3s/hqdefault.jpg"
-    },
-    {
-      "id": "rL9RxYuC50w",
-      "title": "How to Draw Morbius 🔴 LIVE",
-      "channel": "Cartooning Club How to Draw",
-      "channelId": "UC-biucJWhM8HwjsQ96uoIUw",
-      "durationSec": 5871,
-      "publishedAt": "2026-09-05T06:31:34Z",
-      "topics": [
-        "art",
-        "making"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/rL9RxYuC50w/hqdefault.jpg"
     },
     {
       "id": "vsH5--kTMxE",
@@ -18132,6 +18103,23 @@
       "thumbnail": "https://i.ytimg.com/vi/5UTXz9Xclr4/hqdefault.jpg"
     },
     {
+      "id": "5AC2myk1l0Y",
+      "title": "Meet @OceanCensus scientist Bella Iannotta!",
+      "channel": "EVNautilus",
+      "channelId": "UC1KOOWHthbQVXH2kZue3_xA",
+      "durationSec": 165,
+      "publishedAt": "2026-10-13T17:41:06Z",
+      "topics": [
+        "nature",
+        "exploration"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/5AC2myk1l0Y/hqdefault.jpg"
+    },
+    {
       "id": "Uu1DlqQ8Zf4",
       "title": "Why Do We Explore Abyssal Plains? | Nautilus Live",
       "channel": "EVNautilus",
@@ -18521,23 +18509,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/Xro8vUM1b_s/hqdefault.jpg"
-    },
-    {
-      "id": "4FsNrKEZ4OI",
-      "title": "Abyssal Plain Animals of the Squishy Variety | Nautilus Live",
-      "channel": "EVNautilus",
-      "channelId": "UC1KOOWHthbQVXH2kZue3_xA",
-      "durationSec": 264,
-      "publishedAt": "2026-08-19T19:00:10Z",
-      "topics": [
-        "nature",
-        "exploration"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/4FsNrKEZ4OI/hqdefault.jpg"
     },
     {
       "id": "L3VFCgVN3WQ",
@@ -26235,22 +26206,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/bcd_oHT0Uaw/hqdefault.jpg"
-    },
-    {
-      "id": "6YVeyK1DFVI",
-      "title": "How Yugoslavia broke up in 2 minutes",
-      "channel": "Geography Now",
-      "channelId": "UCmmPgObSUPw1HL2lq6H4ffA",
-      "durationSec": 135,
-      "publishedAt": "2026-08-09T20:57:31Z",
-      "topics": [
-        "geography",
-        "exploration"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/6YVeyK1DFVI/hqdefault.jpg"
     },
     {
       "id": "3G1wZPeZZTQ",
@@ -47835,6 +47790,21 @@
       "thumbnail": "https://i.ytimg.com/vi/jvebwDXmBSw/hqdefault.jpg"
     },
     {
+      "id": "Ac0gPhEkKN0",
+      "title": "Parkinson’s Disease: Dopamine Receptor Agonists and Monoamine Oxidase B Inhibitors",
+      "channel": "Professor Dave Explains",
+      "channelId": "UC0cd_-e49hZpWLH3UIwoWRA",
+      "durationSec": 668,
+      "publishedAt": "2026-10-14T14:00:28Z",
+      "topics": [
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/Ac0gPhEkKN0/hqdefault.jpg"
+    },
+    {
       "id": "t9Zx9XTTc9g",
       "title": "Discussion With Jack Symes (Scicomm, Philosophy, Politics)",
       "channel": "Professor Dave Explains",
@@ -48568,21 +48538,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/AMCUbOkU4lg/hqdefault.jpg"
-    },
-    {
-      "id": "kFPifyGtnSs",
-      "title": "SpudCell: Newest Breakthrough in Synthetic Biology (Featuring Kate Adamala)",
-      "channel": "Professor Dave Explains",
-      "channelId": "UC0cd_-e49hZpWLH3UIwoWRA",
-      "durationSec": 1811,
-      "publishedAt": "2026-07-18T14:00:18Z",
-      "topics": [
-        "science"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/kFPifyGtnSs/hqdefault.jpg"
     },
     {
       "id": "BjyJlN1npdw",
@@ -84661,12 +84616,30 @@
       "thumbnail": "https://i.ytimg.com/vi/wV5vN1mZgfM/hqdefault.jpg"
     },
     {
+      "id": "mBBsKHX1VQE",
+      "title": "JP’s Product Pick of the Week 10/13/26",
+      "channel": "Adafruit Industries",
+      "channelId": "UCpOlOeQjj7EsVnDh3zuCgsA",
+      "durationSec": 1265,
+      "publishedAt": "2026-10-14T07:27:28Z",
+      "topics": [
+        "making",
+        "tech",
+        "engineering",
+        "coding"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/mBBsKHX1VQE/hqdefault.jpg"
+    },
+    {
       "id": "vSkq5Mprm_E",
       "title": "Deep Dive w/ Tim: CircuitPython SSTV Receiver and USB Host Microphone",
       "channel": "Adafruit Industries",
       "channelId": "UCpOlOeQjj7EsVnDh3zuCgsA",
-      "durationSec": 3781,
-      "publishedAt": "2026-10-13T14:30:22Z",
+      "durationSec": 3784,
+      "publishedAt": "2026-10-14T04:14:04Z",
       "topics": [
         "making",
         "tech",
@@ -84677,6 +84650,24 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/vSkq5Mprm_E/hqdefault.jpg"
+    },
+    {
+      "id": "z4A12lNypdA",
+      "title": "CircuitPython Weekly Meeting for October 13, 2026 #adafruit",
+      "channel": "Adafruit Industries",
+      "channelId": "UCpOlOeQjj7EsVnDh3zuCgsA",
+      "durationSec": 1524,
+      "publishedAt": "2026-10-13T18:36:01Z",
+      "topics": [
+        "making",
+        "tech",
+        "engineering",
+        "coding"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/z4A12lNypdA/hqdefault.jpg"
     },
     {
       "id": "1ZCfP3h5A_I",
@@ -85057,6 +85048,23 @@
       "thumbnail": "https://i.ytimg.com/vi/g4jCmRKRblM/hqdefault.jpg"
     },
     {
+      "id": "dP_i7hRvGpE",
+      "title": "Machine, Assemble, Repair: How We Build Atlas | Boston Dynamics",
+      "channel": "Boston Dynamics",
+      "channelId": "UC7vVhkEfw4nOGp8TyDk7RcQ",
+      "durationSec": 357,
+      "publishedAt": "2026-10-14T14:00:18Z",
+      "topics": [
+        "tech",
+        "engineering"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/dP_i7hRvGpE/hqdefault.jpg"
+    },
+    {
       "id": "4whgw2gLBS8",
       "title": "New Hands for Atlas | Boston Dynamics",
       "channel": "Boston Dynamics",
@@ -85327,23 +85335,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/PKKI5O1vfj4/hqdefault.jpg"
-    },
-    {
-      "id": "LMPxtcEgtds",
-      "title": "Air Spot | RL Behavior Research | Boston Dynamics",
-      "channel": "Boston Dynamics",
-      "channelId": "UC7vVhkEfw4nOGp8TyDk7RcQ",
-      "durationSec": 299,
-      "publishedAt": "2025-08-27T12:59:37Z",
-      "topics": [
-        "tech",
-        "engineering"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/LMPxtcEgtds/hqdefault.jpg"
     },
     {
       "id": "4fvkgAJiBQI",
@@ -86114,6 +86105,21 @@
       "thumbnail": "https://i.ytimg.com/vi/U5Su26FxBuo/hqdefault.jpg"
     },
     {
+      "id": "Md_WfyQC6Ys",
+      "title": "Professional Design Tips for Young Engineers",
+      "channel": "Jeremy Fielding",
+      "channelId": "UC_SLthyNX_ivd-dmsFgmJVg",
+      "durationSec": 179,
+      "publishedAt": "2026-10-13T21:09:05Z",
+      "topics": [
+        "engineering"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/Md_WfyQC6Ys/hqdefault.jpg"
+    },
+    {
       "id": "6hvszNCxsn0",
       "title": "Mecanum Wheels Are So Weird They Are Genius",
       "channel": "Jeremy Fielding",
@@ -86744,19 +86750,55 @@
       "thumbnail": "https://i.ytimg.com/vi/Np1Ixd7FWzI/hqdefault.jpg"
     },
     {
-      "id": "DPbKux9cemU",
-      "title": "How To Learn Any New Skill Fast. Jeremy Fielding 105",
-      "channel": "Jeremy Fielding",
-      "channelId": "UC_SLthyNX_ivd-dmsFgmJVg",
-      "durationSec": 1478,
-      "publishedAt": "2022-08-09T14:04:34Z",
+      "id": "iDo73fDqG_4",
+      "title": "Halloween Kids Yoga LIVE! Cosmic Kids Halloween Adventure Compilation 👻✨",
+      "channel": "Cosmic Kids Yoga",
+      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
+      "durationSec": 42896,
+      "publishedAt": "2026-10-14T01:59:04Z",
       "topics": [
-        "engineering"
+        "reading",
+        "nature"
       ],
       "profiles": [
+        "little",
         "big"
       ],
-      "thumbnail": "https://i.ytimg.com/vi/DPbKux9cemU/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/iDo73fDqG_4/hqdefault.jpg"
+    },
+    {
+      "id": "U67EexneX5c",
+      "title": "Kids Yoga LIVE 🌟 | Fun Yoga Adventures & Movement for Kids",
+      "channel": "Cosmic Kids Yoga",
+      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
+      "durationSec": 42896,
+      "publishedAt": "2026-10-14T03:28:50Z",
+      "topics": [
+        "reading",
+        "nature"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/U67EexneX5c/hqdefault.jpg"
+    },
+    {
+      "id": "WJ7NcunO5lc",
+      "title": "Halloween Kids Yoga LIVE! Cosmic Kids Halloween Adventure Compilation 👻✨",
+      "channel": "Cosmic Kids Yoga",
+      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
+      "durationSec": 42899,
+      "publishedAt": "2026-10-14T02:15:01Z",
+      "topics": [
+        "reading",
+        "nature"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/WJ7NcunO5lc/hqdefault.jpg"
     },
     {
       "id": "o3ztsV_EGLM",
@@ -88170,6 +88212,22 @@
       "thumbnail": "https://i.ytimg.com/vi/Ilr2DjYOfqA/hqdefault.jpg"
     },
     {
+      "id": "HjFCSAFm4r4",
+      "title": "Elmo Makes a Bat House with Cookie Monster and The Count! 🦇 | Sesame Street & LEGO Little Ones",
+      "channel": "Sesame Street",
+      "channelId": "UCoookXUzPciGrEZEXmh4Jjg",
+      "durationSec": 189,
+      "publishedAt": "2026-10-14T11:30:12Z",
+      "topics": [
+        "reading",
+        "music"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/HjFCSAFm4r4/hqdefault.jpg"
+    },
+    {
       "id": "aVbmOHHHlC8",
       "title": "Let's Play Sesame Street: Friends and Fun Game with Elmo, Cookie Monster & More! 😃",
       "channel": "Sesame Street",
@@ -88203,7 +88261,7 @@
     },
     {
       "id": "KzwKQK_znZg",
-      "title": "Monster on the Street: Nursery Rhyme Karaoke 🎤  | Sesame Street Songs 🎵",
+      "title": "Monster on the Street: Nursery Rhyme Karaoke with Elmo & Grover 🎤  | Sesame Street Songs 🎵",
       "channel": "Sesame Street",
       "channelId": "UCoookXUzPciGrEZEXmh4Jjg",
       "durationSec": 169,
@@ -90277,6 +90335,22 @@
       "thumbnail": "https://i.ytimg.com/vi/H5VNPfHIgpE/hqdefault.jpg"
     },
     {
+      "id": "PF3SPQ5xCoo",
+      "title": "Why Everyone Was WRONG About the Nepal Floods",
+      "channel": "PBS Terra",
+      "channelId": "UCpxYSWgxVt3Pyn1ovXsGQ0g",
+      "durationSec": 147,
+      "publishedAt": "2026-10-13T20:15:02Z",
+      "topics": [
+        "science",
+        "nature"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/PF3SPQ5xCoo/hqdefault.jpg"
+    },
+    {
       "id": "KIQrTspJMM4",
       "title": "This Hurricane Should NEVER Have Happened… So How Did It?",
       "channel": "PBS Terra",
@@ -90739,22 +90813,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/twMsC2NVBK4/hqdefault.jpg"
-    },
-    {
-      "id": "ZkzlDzfYy6E",
-      "title": "What if the Deccan Traps erupted today?",
-      "channel": "PBS Terra",
-      "channelId": "UCpxYSWgxVt3Pyn1ovXsGQ0g",
-      "durationSec": 124,
-      "publishedAt": "2026-01-20T22:14:05Z",
-      "topics": [
-        "science",
-        "nature"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/ZkzlDzfYy6E/hqdefault.jpg"
     },
     {
       "id": "z_WiMgPClW4",
