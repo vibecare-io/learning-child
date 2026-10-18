@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-17T12:32:34.606Z",
+  "generatedAt": "2026-10-18T12:51:06.376Z",
   "profiles": {
     "little": {
       "label": "Ages 3-7"
@@ -131,6 +131,38 @@
       "thumbnail": "https://i.ytimg.com/vi/kKqd0_cydZM/hqdefault.jpg"
     },
     {
+      "id": "t8cKaMY_sCE",
+      "title": "Jack Hanna's Passport Full Episode | Exploring Remote Worlds | Nat Geo Kids",
+      "channel": "Nat Geo Kids",
+      "channelId": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "durationSec": 1148,
+      "publishedAt": "2026-10-18T11:00:03Z",
+      "topics": [
+        "animals",
+        "science"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/t8cKaMY_sCE/hqdefault.jpg"
+    },
+    {
+      "id": "adABRbEs4G4",
+      "title": "Epic Animal Migrations: Which Animal Travels the Farthest?! | Animal Card Quest | Nat Geo Kids",
+      "channel": "Nat Geo Kids",
+      "channelId": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "durationSec": 287,
+      "publishedAt": "2026-10-17T15:00:23Z",
+      "topics": [
+        "animals",
+        "science"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/adABRbEs4G4/hqdefault.jpg"
+    },
+    {
       "id": "I3abQzLOv2A",
       "title": "The Scariest Ancient Greek Monster Mashup | Greeking Out Podcast | S5 E2 FULL EP | Nat Geo Kids",
       "channel": "Nat Geo Kids",
@@ -179,22 +211,6 @@
       "thumbnail": "https://i.ytimg.com/vi/CGEtugYEJok/hqdefault.jpg"
     },
     {
-      "id": "G59TqTjtuhg",
-      "title": "Exploring Earth's Closest Neighbors | A Traveler's Guide to the Planets Compilation | Nat Geo Kids",
-      "channel": "Nat Geo Kids",
-      "channelId": "UCXVCgDuD_QCkI7gTKU7-tpg",
-      "durationSec": 5491,
-      "publishedAt": "2026-10-12T11:00:31Z",
-      "topics": [
-        "animals",
-        "science"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/G59TqTjtuhg/hqdefault.jpg"
-    },
-    {
       "id": "l4JNjGkQnuM",
       "title": "How To Draw A Vampire Pizza",
       "channel": "Art for Kids Hub",
@@ -238,6 +254,21 @@
         "little"
       ],
       "thumbnail": "https://i.ytimg.com/vi/2trpMnBYbHo/hqdefault.jpg"
+    },
+    {
+      "id": "6PIMATLRo_U",
+      "title": "Learn How to Tell the Time! | Learn to Count for Kids Compilation | Number Cartoon | Numberblocks",
+      "channel": "Numberblocks",
+      "channelId": "UCPlwvN0w4qFSP1FllALB92w",
+      "durationSec": 3154,
+      "publishedAt": "2026-10-18T10:00:28Z",
+      "topics": [
+        "maths"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/6PIMATLRo_U/hqdefault.jpg"
     },
     {
       "id": "iWn4EUZ3tLM",
@@ -381,6 +412,21 @@
       "thumbnail": "https://i.ytimg.com/vi/z3Y-gsBKChc/hqdefault.jpg"
     },
     {
+      "id": "Uvy5Cs9FDLg",
+      "title": "The Ultimate Math Meme - Numberphile",
+      "channel": "Numberphile",
+      "channelId": "UCoxcjq-8xIDTYp3uz647V5A",
+      "durationSec": 967,
+      "publishedAt": "2026-10-18T11:00:24Z",
+      "topics": [
+        "maths"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/Uvy5Cs9FDLg/hqdefault.jpg"
+    },
+    {
       "id": "bAnwMdfcMVw",
       "title": "No More Heroes - Terence Tao Talks to Numberphile About AI",
       "channel": "Numberphile",
@@ -424,21 +470,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/VydHKLBXdVQ/hqdefault.jpg"
-    },
-    {
-      "id": "95335U-cUh8",
-      "title": "Big News in Polyhedra - Numberphile",
-      "channel": "Numberphile",
-      "channelId": "UCoxcjq-8xIDTYp3uz647V5A",
-      "durationSec": 1547,
-      "publishedAt": "2026-10-02T10:41:06Z",
-      "topics": [
-        "maths"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/95335U-cUh8/hqdefault.jpg"
     },
     {
       "id": "OWhZvY6GEK8",
@@ -3472,6 +3503,21 @@
       "thumbnail": "https://i.ytimg.com/vi/LLlghvxVoH0/hqdefault.jpg"
     },
     {
+      "id": "jXzARHsTBQY",
+      "title": "This Ring of Plasma Could Change the World",
+      "channel": "The Action Lab",
+      "channelId": "UC1VLQPn9cYSqx8plbk9RxxQ",
+      "durationSec": 661,
+      "publishedAt": "2026-10-17T15:03:27Z",
+      "topics": [
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/jXzARHsTBQY/hqdefault.jpg"
+    },
+    {
       "id": "tYNYqdRoKzg",
       "title": "Why the Universe Forbids Perfect Balance",
       "channel": "The Action Lab",
@@ -4175,21 +4221,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/_u8kZWBU78g/hqdefault.jpg"
-    },
-    {
-      "id": "ZKz0_kSFSP0",
-      "title": "Chickens Are Weirder Than You Thought",
-      "channel": "The Action Lab",
-      "channelId": "UC1VLQPn9cYSqx8plbk9RxxQ",
-      "durationSec": 512,
-      "publishedAt": "2025-09-13T15:03:00Z",
-      "topics": [
-        "science"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/ZKz0_kSFSP0/hqdefault.jpg"
     },
     {
       "id": "w6hK2PML6Uc",
@@ -11631,6 +11662,23 @@
       "thumbnail": "https://i.ytimg.com/vi/jb9OPM1tUfk/hqdefault.jpg"
     },
     {
+      "id": "PyDL12ra2RE",
+      "title": "How to Draw Sun & Moon Fairy Princess Stella ☀️🌙 Winx Club",
+      "channel": "Draw So Cute",
+      "channelId": "UC3dEvA1is6-0_yuei9iCdEw",
+      "durationSec": 978,
+      "publishedAt": "2026-10-17T16:00:07Z",
+      "topics": [
+        "art",
+        "making"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/PyDL12ra2RE/hqdefault.jpg"
+    },
+    {
       "id": "PjrF-zteRbQ",
       "title": "How to Draw Hello Kitty Trick or Treat 🍭 Sanrio Cute Halloween Art",
       "channel": "Draw So Cute",
@@ -12464,23 +12512,6 @@
       "thumbnail": "https://i.ytimg.com/vi/eBHn8J2Eqw8/hqdefault.jpg"
     },
     {
-      "id": "4XVEH_byjfw",
-      "title": "How to Draw Lamine Yamal ⚽️ FIFA World Cup | Spain Football Soccer Player",
-      "channel": "Draw So Cute",
-      "channelId": "UC3dEvA1is6-0_yuei9iCdEw",
-      "durationSec": 978,
-      "publishedAt": "2026-07-17T14:00:27Z",
-      "topics": [
-        "art",
-        "making"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/4XVEH_byjfw/hqdefault.jpg"
-    },
-    {
       "id": "MB7wxd8Bz18",
       "title": "Learn to Draw Super Simple Characters! Finny the Shark, The Bumble Nums, & More!",
       "channel": "Super Simple Draw! - How To Draw for Kids",
@@ -13281,6 +13312,22 @@
       "thumbnail": "https://i.ytimg.com/vi/m6KAfSgFaAM/hqdefault.jpg"
     },
     {
+      "id": "_Rrky6uRsQM",
+      "title": "How to Draw a Golden Lab Puppy | Easy Dog Sketch Tutorial",
+      "channel": "Cartooning Club How to Draw",
+      "channelId": "UC-biucJWhM8HwjsQ96uoIUw",
+      "durationSec": 1335,
+      "publishedAt": "2026-10-17T14:00:28Z",
+      "topics": [
+        "art",
+        "making"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/_Rrky6uRsQM/hqdefault.jpg"
+    },
+    {
       "id": "Hmh3nfE_zzA",
       "title": "How to Draw Black Panther | The Avengers",
       "channel": "Cartooning Club How to Draw",
@@ -13807,22 +13854,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/4ehQg0cNVUU/hqdefault.jpg"
-    },
-    {
-      "id": "BO3fPPpjTBY",
-      "title": "How to Draw Lumiere | Beauty and the Beast",
-      "channel": "Cartooning Club How to Draw",
-      "channelId": "UC-biucJWhM8HwjsQ96uoIUw",
-      "durationSec": 496,
-      "publishedAt": "2026-09-08T14:00:26Z",
-      "topics": [
-        "art",
-        "making"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/BO3fPPpjTBY/hqdefault.jpg"
     },
     {
       "id": "-IBrx0LhIXc",
@@ -25762,8 +25793,8 @@
       "title": "Midnight fundraiser for Julian's cancer!",
       "channel": "Geography Now",
       "channelId": "UCmmPgObSUPw1HL2lq6H4ffA",
-      "durationSec": 5775,
-      "publishedAt": "2026-10-17T06:55:34Z",
+      "durationSec": 5786,
+      "publishedAt": "2026-10-17T20:39:28Z",
       "topics": [
         "geography",
         "exploration"
@@ -25774,12 +25805,28 @@
       "thumbnail": "https://i.ytimg.com/vi/uFBWIk0jZN4/hqdefault.jpg"
     },
     {
+      "id": "6p9adX5HXEk",
+      "title": "MOST SUCCESSFUL LIVE STREAM EVER. THANK YOU!",
+      "channel": "Geography Now",
+      "channelId": "UCmmPgObSUPw1HL2lq6H4ffA",
+      "durationSec": 152,
+      "publishedAt": "2026-10-17T20:32:32Z",
+      "topics": [
+        "geography",
+        "exploration"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/6p9adX5HXEk/hqdefault.jpg"
+    },
+    {
       "id": "_oToRXgUqbU",
       "title": "Julian fundraiser 3",
       "channel": "Geography Now",
       "channelId": "UCmmPgObSUPw1HL2lq6H4ffA",
-      "durationSec": 3795,
-      "publishedAt": "2026-10-17T00:22:56Z",
+      "durationSec": 3800,
+      "publishedAt": "2026-10-17T13:49:44Z",
       "topics": [
         "geography",
         "exploration"
@@ -25794,8 +25841,8 @@
       "title": "Fundraising for Julian",
       "channel": "Geography Now",
       "channelId": "UCmmPgObSUPw1HL2lq6H4ffA",
-      "durationSec": 1894,
-      "publishedAt": "2026-10-17T00:10:51Z",
+      "durationSec": 1873,
+      "publishedAt": "2026-10-17T12:44:56Z",
       "topics": [
         "geography",
         "exploration"
@@ -27722,22 +27769,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/X2SOf0_mh1A/hqdefault.jpg"
-    },
-    {
-      "id": "FXliM6GsxYY",
-      "title": "How We Share 83 Museum Objects with Mumbai",
-      "channel": "The British Museum",
-      "channelId": "UCvpQ-l09fCVxJd3urZbxzHg",
-      "durationSec": 569,
-      "publishedAt": "2025-12-12T14:08:37Z",
-      "topics": [
-        "history",
-        "art"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/FXliM6GsxYY/hqdefault.jpg"
     },
     {
       "id": "6z46ZAOBjfE",
@@ -30678,6 +30709,21 @@
       "thumbnail": "https://i.ytimg.com/vi/qrwiX7Dc60Q/hqdefault.jpg"
     },
     {
+      "id": "ss3_AQ8ADwA",
+      "title": "The Halloween Theme Tune | Halloween Cartoons - Learn to Read and Spell for Kids | Alphablocks",
+      "channel": "Alphablocks",
+      "channelId": "UC_qs3c0ehDvZkbiEbOj6Drg",
+      "durationSec": 735,
+      "publishedAt": "2026-10-18T11:00:04Z",
+      "topics": [
+        "reading"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/ss3_AQ8ADwA/hqdefault.jpg"
+    },
+    {
       "id": "fQjDqxPtJKc",
       "title": "Alphablocks - Watch Whilst You Eat | Readin and Writing for Kids | ABC | Alphablocks",
       "channel": "Alphablocks",
@@ -31231,21 +31277,6 @@
         "little"
       ],
       "thumbnail": "https://i.ytimg.com/vi/RVOfgOlLbgc/hqdefault.jpg"
-    },
-    {
-      "id": "pn8LEufJ0rM",
-      "title": "Summer Reading Challenge | Learn to Read and Spell for Kids Compilation | Alphablocks",
-      "channel": "Alphablocks",
-      "channelId": "UC_qs3c0ehDvZkbiEbOj6Drg",
-      "durationSec": 3944,
-      "publishedAt": "2026-07-25T11:00:30Z",
-      "topics": [
-        "reading"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/pn8LEufJ0rM/hqdefault.jpg"
     },
     {
       "id": "p38omsjzwxQ",
@@ -40581,6 +40612,22 @@
       "thumbnail": "https://i.ytimg.com/vi/fgQH8wKcDuM/hqdefault.jpg"
     },
     {
+      "id": "l2_ptkUX2gM",
+      "title": "Alfred Hitchcock's Tube Station",
+      "channel": "Jago Hazzard",
+      "channelId": "UCcHuNKYzVMc06FXqsBEAV3A",
+      "durationSec": 698,
+      "publishedAt": "2026-10-18T11:00:02Z",
+      "topics": [
+        "history",
+        "geography"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/l2_ptkUX2gM/hqdefault.jpg"
+    },
+    {
       "id": "ESsoyuSr_BU",
       "title": "Intercity 125: British Rail's Greatest Hit?",
       "channel": "Jago Hazzard",
@@ -41363,22 +41410,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/ko7-3kNSZX8/hqdefault.jpg"
-    },
-    {
-      "id": "5AFFd7naoQ8",
-      "title": "When Interior Designers Attack: Putting a Park in Holland Park Station",
-      "channel": "Jago Hazzard",
-      "channelId": "UCcHuNKYzVMc06FXqsBEAV3A",
-      "durationSec": 485,
-      "publishedAt": "2026-06-24T16:30:13Z",
-      "topics": [
-        "history",
-        "geography"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/5AFFd7naoQ8/hqdefault.jpg"
     },
     {
       "id": "ka8kT_YOtU0",
@@ -65556,6 +65587,22 @@
       "thumbnail": "https://i.ytimg.com/vi/oF3z_tNVllU/hqdefault.jpg"
     },
     {
+      "id": "564gIlxHMqI",
+      "title": "Why Your Garlic is Always too Small (And What to do About it)",
+      "channel": "GrowVeg",
+      "channelId": "UC9r61qohBg1qgGty4_WzojA",
+      "durationSec": 644,
+      "publishedAt": "2026-10-17T14:45:20Z",
+      "topics": [
+        "nature",
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/564gIlxHMqI/hqdefault.jpg"
+    },
+    {
       "id": "KVv-HyDVD_s",
       "title": "The Most Self Sufficient Garden We’ve Ever Filmed ($21,088 of Food)",
       "channel": "GrowVeg",
@@ -66162,22 +66209,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/VHsWZd27B3Y/hqdefault.jpg"
-    },
-    {
-      "id": "KjvFBP06trc",
-      "title": "How He Feeds His Family From a Small Backyard Garden",
-      "channel": "GrowVeg",
-      "channelId": "UC9r61qohBg1qgGty4_WzojA",
-      "durationSec": 1173,
-      "publishedAt": "2026-01-17T15:45:01Z",
-      "topics": [
-        "nature",
-        "science"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/KjvFBP06trc/hqdefault.jpg"
     },
     {
       "id": "XHExm1NtgQQ",
@@ -68849,6 +68880,22 @@
       "thumbnail": "https://i.ytimg.com/vi/PapDzTCx_xI/hqdefault.jpg"
     },
     {
+      "id": "n_86HhhKbAI",
+      "title": "Kilauea Volcano Update; 700+ Ft Lava Fountains Return, Geologist Analysis",
+      "channel": "GeologyHub",
+      "channelId": "UCYeGh5VML5XPr5jYnzh3J6g",
+      "durationSec": 280,
+      "publishedAt": "2026-10-17T22:30:14Z",
+      "topics": [
+        "science",
+        "geography"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/n_86HhhKbAI/hqdefault.jpg"
+    },
+    {
       "id": "hzJanzVt59w",
       "title": "Kilauea Volcano Update; Large Cracks Formed by a Shallow Magma Intrusion",
       "channel": "GeologyHub",
@@ -69615,22 +69662,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/4zSZDPztDhc/hqdefault.jpg"
-    },
-    {
-      "id": "LUX6HbA6hxg",
-      "title": "Campi Flegrei Volcano Update; Strongest Volcanic Earthquake on Record Hits",
-      "channel": "GeologyHub",
-      "channelId": "UCYeGh5VML5XPr5jYnzh3J6g",
-      "durationSec": 483,
-      "publishedAt": "2026-08-02T18:00:09Z",
-      "topics": [
-        "science",
-        "geography"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/LUX6HbA6hxg/hqdefault.jpg"
     },
     {
       "id": "FAtDe1jyVsc",
@@ -74357,7 +74388,7 @@
     },
     {
       "id": "T0fAznO1wA8",
-      "title": "Your Job Has Worse Benefits Than Actual Pirates Had",
+      "title": "The Pirate Captain Wasn't Really the Boss",
       "channel": "CGP Grey",
       "channelId": "UC2C_jShtL725hvbm1arSV9w",
       "durationSec": 441,
@@ -78207,6 +78238,22 @@
       "thumbnail": "https://i.ytimg.com/vi/AxksN1PIquE/hqdefault.jpg"
     },
     {
+      "id": "x7g61Gq6XJ8",
+      "title": "Marine Biologist plays Planet Zoo 2!",
+      "channel": "KPassionate",
+      "channelId": "UCUvSqEH92Fqn9uw1kmCfLGA",
+      "durationSec": 9110,
+      "publishedAt": "2026-10-18T03:07:50Z",
+      "topics": [
+        "animals",
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/x7g61Gq6XJ8/hqdefault.jpg"
+    },
+    {
       "id": "nTMZeddHwOs",
       "title": "A Huge Sperm Whale Sank A Yacht! A Marine Biologist Reacts",
       "channel": "KPassionate",
@@ -78973,22 +79020,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/TnJVE2oNJH0/hqdefault.jpg"
-    },
-    {
-      "id": "IdUHZt8lsCA",
-      "title": "The Bizarre Truth About Ape Sign Language",
-      "channel": "KPassionate",
-      "channelId": "UCUvSqEH92Fqn9uw1kmCfLGA",
-      "durationSec": 482,
-      "publishedAt": "2024-03-23T13:45:01Z",
-      "topics": [
-        "animals",
-        "science"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/IdUHZt8lsCA/hqdefault.jpg"
     },
     {
       "id": "vsit2ZvNbNs",
@@ -82878,6 +82909,22 @@
       "thumbnail": "https://i.ytimg.com/vi/H2hJNAqpsQM/hqdefault.jpg"
     },
     {
+      "id": "_qrYab1OquQ",
+      "title": "Fair Shares | Peep and the Big Wide World",
+      "channel": "Peep and the Big Wide World",
+      "channelId": "UCPq6g4Q4-SFMIJ048IXmupA",
+      "durationSec": 645,
+      "publishedAt": "2026-10-17T15:01:01Z",
+      "topics": [
+        "science",
+        "nature"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/_qrYab1OquQ/hqdefault.jpg"
+    },
+    {
       "id": "-nWGMKt3ybI",
       "title": "Marble Mover | Peep and the Big Wide World",
       "channel": "Peep and the Big Wide World",
@@ -83660,22 +83707,6 @@
         "little"
       ],
       "thumbnail": "https://i.ytimg.com/vi/38RSo0JLSPM/hqdefault.jpg"
-    },
-    {
-      "id": "EokgeqIzPaI",
-      "title": "Finders, Keepers | Peep and the Big Wide World",
-      "channel": "Peep and the Big Wide World",
-      "channelId": "UCPq6g4Q4-SFMIJ048IXmupA",
-      "durationSec": 557,
-      "publishedAt": "2026-08-31T15:00:36Z",
-      "topics": [
-        "science",
-        "nature"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/EokgeqIzPaI/hqdefault.jpg"
     },
     {
       "id": "gMWyiU7ZWgA",
@@ -85058,24 +85089,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/yx6mMwcJToc/hqdefault.jpg"
-    },
-    {
-      "id": "rZLp-tQFmz8",
-      "title": "Spinning distance sensing LED Pumpkin #adafruit #3dprinting",
-      "channel": "Adafruit Industries",
-      "channelId": "UCpOlOeQjj7EsVnDh3zuCgsA",
-      "durationSec": 176,
-      "publishedAt": "2026-10-02T12:02:31Z",
-      "topics": [
-        "making",
-        "tech",
-        "engineering",
-        "coding"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/rZLp-tQFmz8/hqdefault.jpg"
     },
     {
       "id": "dP_i7hRvGpE",
@@ -86780,6 +86793,74 @@
       "thumbnail": "https://i.ytimg.com/vi/Np1Ixd7FWzI/hqdefault.jpg"
     },
     {
+      "id": "TlrtXBFQfWw",
+      "title": "Kids Yoga LIVE 🌟 | Fun Yoga Adventures & Movement for Kids",
+      "channel": "Cosmic Kids Yoga",
+      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
+      "durationSec": 42900,
+      "publishedAt": "2026-10-18T03:27:43Z",
+      "topics": [
+        "reading",
+        "nature"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/TlrtXBFQfWw/hqdefault.jpg"
+    },
+    {
+      "id": "OiXYKp0VBJM",
+      "title": "Halloween Kids Yoga LIVE! Cosmic Kids Halloween Adventure Compilation 👻✨",
+      "channel": "Cosmic Kids Yoga",
+      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
+      "durationSec": 42896,
+      "publishedAt": "2026-10-18T02:23:56Z",
+      "topics": [
+        "reading",
+        "nature"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/OiXYKp0VBJM/hqdefault.jpg"
+    },
+    {
+      "id": "Fs8RmlwD5J0",
+      "title": "Kids Yoga LIVE 🌟 | Fun Yoga Adventures & Movement for Kids",
+      "channel": "Cosmic Kids Yoga",
+      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
+      "durationSec": 42899,
+      "publishedAt": "2026-10-17T15:38:34Z",
+      "topics": [
+        "reading",
+        "nature"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/Fs8RmlwD5J0/hqdefault.jpg"
+    },
+    {
+      "id": "TSVaXsxm3FI",
+      "title": "Halloween Kids Yoga LIVE! Cosmic Kids Halloween Adventure Compilation 👻✨",
+      "channel": "Cosmic Kids Yoga",
+      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
+      "durationSec": 42898,
+      "publishedAt": "2026-10-17T14:29:42Z",
+      "topics": [
+        "reading",
+        "nature"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/TSVaXsxm3FI/hqdefault.jpg"
+    },
+    {
       "id": "QGDsAK32_Ts",
       "title": "Kids Yoga LIVE 🌟 | Fun Yoga Adventures & Movement for Kids",
       "channel": "Cosmic Kids Yoga",
@@ -87953,6 +88034,22 @@
       "thumbnail": "https://i.ytimg.com/vi/Ilr2DjYOfqA/hqdefault.jpg"
     },
     {
+      "id": "L_Few-yESmo",
+      "title": "Halloween Costume Ideas with Elmo, Cookie Monster, and Abby! 👻 🦇  | 50 Mins | Sesame Street",
+      "channel": "Sesame Street",
+      "channelId": "UCoookXUzPciGrEZEXmh4Jjg",
+      "durationSec": 3045,
+      "publishedAt": "2026-10-18T11:30:23Z",
+      "topics": [
+        "reading",
+        "music"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/L_Few-yESmo/hqdefault.jpg"
+    },
+    {
       "id": "WFlSgegCFvc",
       "title": "Saving the Halloween Hayride! #sesamestreet",
       "channel": "Sesame Street",
@@ -88415,22 +88512,6 @@
         "little"
       ],
       "thumbnail": "https://i.ytimg.com/vi/mIXu9K24g30/hqdefault.jpg"
-    },
-    {
-      "id": "d5lKPl5qCkk",
-      "title": "Fun with STEM  🔭 🧮  Building and Counting with Elmo! | 100 Mins | Sesame Street",
-      "channel": "Sesame Street",
-      "channelId": "UCoookXUzPciGrEZEXmh4Jjg",
-      "durationSec": 6357,
-      "publishedAt": "2026-08-16T11:30:10Z",
-      "topics": [
-        "reading",
-        "music"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/d5lKPl5qCkk/hqdefault.jpg"
     },
     {
       "id": "8agZXq6PWwU",
