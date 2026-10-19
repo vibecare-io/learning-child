@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-18T12:51:06.376Z",
+  "generatedAt": "2026-10-19T15:58:42.175Z",
   "profiles": {
     "little": {
       "label": "Ages 3-7"
@@ -131,6 +131,22 @@
       "thumbnail": "https://i.ytimg.com/vi/kKqd0_cydZM/hqdefault.jpg"
     },
     {
+      "id": "aASWMaa5ZU8",
+      "title": "The Most Freaky and Amazing Animals in the World🦇 | Compilation | Nat Geo Kids",
+      "channel": "Nat Geo Kids",
+      "channelId": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "durationSec": 1335,
+      "publishedAt": "2026-10-19T11:00:04Z",
+      "topics": [
+        "animals",
+        "science"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/aASWMaa5ZU8/hqdefault.jpg"
+    },
+    {
       "id": "t8cKaMY_sCE",
       "title": "Jack Hanna's Passport Full Episode | Exploring Remote Worlds | Nat Geo Kids",
       "channel": "Nat Geo Kids",
@@ -193,22 +209,6 @@
         "little"
       ],
       "thumbnail": "https://i.ytimg.com/vi/AOSjUmwVFt4/hqdefault.jpg"
-    },
-    {
-      "id": "CGEtugYEJok",
-      "title": "Pigs vs. Cows vs. Goats: Barnyard Showdown! | Whoa Factor | Nat Geo Kids",
-      "channel": "Nat Geo Kids",
-      "channelId": "UCXVCgDuD_QCkI7gTKU7-tpg",
-      "durationSec": 299,
-      "publishedAt": "2026-10-14T11:00:12Z",
-      "topics": [
-        "animals",
-        "science"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/CGEtugYEJok/hqdefault.jpg"
     },
     {
       "id": "l4JNjGkQnuM",
@@ -413,7 +413,7 @@
     },
     {
       "id": "Uvy5Cs9FDLg",
-      "title": "The Ultimate Math Meme - Numberphile",
+      "title": "A New Math Meme - Numberphile",
       "channel": "Numberphile",
       "channelId": "UCoxcjq-8xIDTYp3uz647V5A",
       "durationSec": 967,
@@ -1733,6 +1733,22 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/VaHy63Mfd2Y/hqdefault.jpg"
+    },
+    {
+      "id": "0jccV82t6rA",
+      "title": "Line Symmetry Snowflake: Winter Math Activity (3-5)",
+      "channel": "GenerationGenius",
+      "channelId": "UCjxu5mHqZnVlb_8-Zjv-D1A",
+      "durationSec": 305,
+      "publishedAt": "2026-10-19T14:30:05Z",
+      "topics": [
+        "science"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/0jccV82t6rA/hqdefault.jpg"
     },
     {
       "id": "-VOJp7GpG-s",
@@ -9919,21 +9935,6 @@
       "thumbnail": "https://i.ytimg.com/vi/byh2tDskiW4/hqdefault.jpg"
     },
     {
-      "id": "WxwkgKImSAk",
-      "title": "Live Berkner Break 2026 🐧🍌 Album Release Party Mini Concert for Kids | Laurie Berkner Band",
-      "channel": "The Laurie Berkner Band - Kids Songs",
-      "channelId": "UCQ9o9F8HYJV85XjciUS86_Q",
-      "durationSec": 2084,
-      "publishedAt": "2026-06-26T16:29:56Z",
-      "topics": [
-        "music"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/WxwkgKImSAk/hqdefault.jpg"
-    },
-    {
       "id": "RideGnMsclM",
       "title": "Kids | Learn Music from the Civil Rights Era and Beyond",
       "channel": "Carnegie Hall Kids",
@@ -11662,6 +11663,23 @@
       "thumbnail": "https://i.ytimg.com/vi/jb9OPM1tUfk/hqdefault.jpg"
     },
     {
+      "id": "TpgkeXO7hQI",
+      "title": "How to Draw Looey the Balloon 🎈Dandy's World Game Character",
+      "channel": "Draw So Cute",
+      "channelId": "UC3dEvA1is6-0_yuei9iCdEw",
+      "durationSec": 576,
+      "publishedAt": "2026-10-19T14:00:17Z",
+      "topics": [
+        "art",
+        "making"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/TpgkeXO7hQI/hqdefault.jpg"
+    },
+    {
       "id": "PyDL12ra2RE",
       "title": "How to Draw Sun & Moon Fairy Princess Stella ☀️🌙 Winx Club",
       "channel": "Draw So Cute",
@@ -12495,23 +12513,6 @@
       "thumbnail": "https://i.ytimg.com/vi/pQNckJtK5Kk/hqdefault.jpg"
     },
     {
-      "id": "eBHn8J2Eqw8",
-      "title": "How to Draw Goomi | Minions & Monsters",
-      "channel": "Draw So Cute",
-      "channelId": "UC3dEvA1is6-0_yuei9iCdEw",
-      "durationSec": 741,
-      "publishedAt": "2026-07-20T14:00:00Z",
-      "topics": [
-        "art",
-        "making"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/eBHn8J2Eqw8/hqdefault.jpg"
-    },
-    {
       "id": "MB7wxd8Bz18",
       "title": "Learn to Draw Super Simple Characters! Finny the Shark, The Bumble Nums, & More!",
       "channel": "Super Simple Draw! - How To Draw for Kids",
@@ -13310,6 +13311,38 @@
         "little"
       ],
       "thumbnail": "https://i.ytimg.com/vi/m6KAfSgFaAM/hqdefault.jpg"
+    },
+    {
+      "id": "xcWhwkO77UM",
+      "title": "How to Draw Art the Clown | Terrifier",
+      "channel": "Cartooning Club How to Draw",
+      "channelId": "UC-biucJWhM8HwjsQ96uoIUw",
+      "durationSec": 493,
+      "publishedAt": "2026-10-19T14:00:26Z",
+      "topics": [
+        "art",
+        "making"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/xcWhwkO77UM/hqdefault.jpg"
+    },
+    {
+      "id": "YrvM4dXyoK4",
+      "title": "How to Draw German Shepherd Dog | Step-by-Step Drawing Tutorial",
+      "channel": "Cartooning Club How to Draw",
+      "channelId": "UC-biucJWhM8HwjsQ96uoIUw",
+      "durationSec": 1897,
+      "publishedAt": "2026-10-18T14:00:30Z",
+      "topics": [
+        "art",
+        "making"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/YrvM4dXyoK4/hqdefault.jpg"
     },
     {
       "id": "_Rrky6uRsQM",
@@ -47882,6 +47915,51 @@
       "thumbnail": "https://i.ytimg.com/vi/jvebwDXmBSw/hqdefault.jpg"
     },
     {
+      "id": "8LJZxi1eeVE",
+      "title": "Fifth Declension in Latin",
+      "channel": "Professor Dave Explains",
+      "channelId": "UC0cd_-e49hZpWLH3UIwoWRA",
+      "durationSec": 381,
+      "publishedAt": "2026-10-19T14:00:02Z",
+      "topics": [
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/8LJZxi1eeVE/hqdefault.jpg"
+    },
+    {
+      "id": "-ZAqdIvsr8c",
+      "title": "How Billionaires Bought Fake Science During the COVID-19 Pandemic",
+      "channel": "Professor Dave Explains",
+      "channelId": "UC0cd_-e49hZpWLH3UIwoWRA",
+      "durationSec": 631,
+      "publishedAt": "2026-10-18T21:00:33Z",
+      "topics": [
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/-ZAqdIvsr8c/hqdefault.jpg"
+    },
+    {
+      "id": "FDuqSadrl7E",
+      "title": "No, Fauci Didn't Lie About Miscarriages and Vaccines",
+      "channel": "Professor Dave Explains",
+      "channelId": "UC0cd_-e49hZpWLH3UIwoWRA",
+      "durationSec": 474,
+      "publishedAt": "2026-10-18T14:00:05Z",
+      "topics": [
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/FDuqSadrl7E/hqdefault.jpg"
+    },
+    {
       "id": "BgdaieZ43YM",
       "title": "Jay Bhattacharya and Martin Kulldorff: Colleagues in Fraudulence",
       "channel": "Professor Dave Explains",
@@ -48585,51 +48663,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/Nr-f9M1HHFo/hqdefault.jpg"
-    },
-    {
-      "id": "wInT848YxFI",
-      "title": "Discussion on the Belief It Or Not Podcast (Atheism, Fascism, and the Revolution)",
-      "channel": "Professor Dave Explains",
-      "channelId": "UC0cd_-e49hZpWLH3UIwoWRA",
-      "durationSec": 2698,
-      "publishedAt": "2026-07-23T14:00:12Z",
-      "topics": [
-        "science"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/wInT848YxFI/hqdefault.jpg"
-    },
-    {
-      "id": "YXKRQzrp6ds",
-      "title": "Reptilian Diversity Part 3: Classifying the Squamates",
-      "channel": "Professor Dave Explains",
-      "channelId": "UC0cd_-e49hZpWLH3UIwoWRA",
-      "durationSec": 772,
-      "publishedAt": "2026-07-22T14:00:18Z",
-      "topics": [
-        "science"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/YXKRQzrp6ds/hqdefault.jpg"
-    },
-    {
-      "id": "5N8l4bVS6WY",
-      "title": "Reacting to Bill Wurtz's \"history of the entire world, i guess\"",
-      "channel": "Professor Dave Explains",
-      "channelId": "UC0cd_-e49hZpWLH3UIwoWRA",
-      "durationSec": 4509,
-      "publishedAt": "2026-07-21T14:00:33Z",
-      "topics": [
-        "science"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/5N8l4bVS6WY/hqdefault.jpg"
     },
     {
       "id": "BjyJlN1npdw",
@@ -62316,6 +62349,23 @@
       "thumbnail": "https://i.ytimg.com/vi/s7D3iOCq8-M/hqdefault.jpg"
     },
     {
+      "id": "ou2RFTK86eA",
+      "title": "Setting the time on my breadboard clock: Breadboard clock part 5",
+      "channel": "Ben Eater",
+      "channelId": "UCS0N5baNlQWJCUrhCEo8WlA",
+      "durationSec": 1222,
+      "publishedAt": "2026-10-18T14:00:12Z",
+      "topics": [
+        "engineering",
+        "tech",
+        "coding"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/ou2RFTK86eA/hqdefault.jpg"
+    },
+    {
       "id": "ZymtNiyGB_g",
       "title": "Building the minutes and seconds for my clock: Breadboard clock part 4",
       "channel": "Ben Eater",
@@ -63147,23 +63197,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/LnzuMJLZRdU/hqdefault.jpg"
-    },
-    {
-      "id": "uqY3FMuMuRo",
-      "title": "World's worst video card? The exciting conclusion",
-      "channel": "Ben Eater",
-      "channelId": "UCS0N5baNlQWJCUrhCEo8WlA",
-      "durationSec": 1463,
-      "publishedAt": "2019-07-13T17:09:39Z",
-      "topics": [
-        "engineering",
-        "tech",
-        "coding"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/uqY3FMuMuRo/hqdefault.jpg"
     },
     {
       "id": "tyELRiuEG40",
@@ -66211,6 +66244,22 @@
       "thumbnail": "https://i.ytimg.com/vi/VHsWZd27B3Y/hqdefault.jpg"
     },
     {
+      "id": "uZRzz3DjvoY",
+      "title": "FALL FLOWER CENTERPIECES / WE MADE THE COVER OF A MAGAZINE",
+      "channel": "Guiding Green Thumbs",
+      "channelId": "UCcgYyMRPW7z4fbJabbSWQ8g",
+      "durationSec": 1920,
+      "publishedAt": "2026-10-18T14:33:28Z",
+      "topics": [
+        "nature",
+        "making"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/uZRzz3DjvoY/hqdefault.jpg"
+    },
+    {
       "id": "XHExm1NtgQQ",
       "title": "WITCHES HAT WORKSHOP / GRAPEVINE HUNTING / CONFETTI PHOTO BOMB / COSMOS & ZINNIAS / FALL FLOWERS",
       "channel": "Guiding Green Thumbs",
@@ -66993,22 +67042,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/v6haL0sqoA4/hqdefault.jpg"
-    },
-    {
-      "id": "OKxji-hyQnw",
-      "title": "CATCHING PUMPKIN POACHERS / FARM TOUR / TAGGING DAHLIAS",
-      "channel": "Guiding Green Thumbs",
-      "channelId": "UCcgYyMRPW7z4fbJabbSWQ8g",
-      "durationSec": 3836,
-      "publishedAt": "2025-10-12T12:11:19Z",
-      "topics": [
-        "nature",
-        "making"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/OKxji-hyQnw/hqdefault.jpg"
     },
     {
       "id": "MB76zr4lYPc",
@@ -68145,6 +68178,21 @@
       "thumbnail": "https://i.ytimg.com/vi/A_zQKW8ipL4/hqdefault.jpg"
     },
     {
+      "id": "61DcsRo_6Pw",
+      "title": "The Truth About Iceland's Silfra Fissure... Is it Really the Boundary Between Tectonic Plates?",
+      "channel": "GEO GIRL",
+      "channelId": "UC5uH43CVzGWg9XGYGuLwI_w",
+      "durationSec": 461,
+      "publishedAt": "2026-10-18T13:30:17Z",
+      "topics": [
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/61DcsRo_6Pw/hqdefault.jpg"
+    },
+    {
       "id": "ZIwt4mGyyn8",
       "title": "What Makes Siccar Point The Birthplace of Geology? @Scottishgeologist Explains Hutton's Unconformity",
       "channel": "GEO GIRL",
@@ -68865,19 +68913,20 @@
       "thumbnail": "https://i.ytimg.com/vi/hq2A1LLCYKk/hqdefault.jpg"
     },
     {
-      "id": "PapDzTCx_xI",
-      "title": "Working In the Field As An Environmental Consultant w/Grace Suden | GEO GIRL",
-      "channel": "GEO GIRL",
-      "channelId": "UC5uH43CVzGWg9XGYGuLwI_w",
-      "durationSec": 2352,
-      "publishedAt": "2025-08-17T13:30:27Z",
+      "id": "B7xPN33kJbk",
+      "title": "A M9.9 Earthquake Didn't Strike, but a Still Large EQ Did",
+      "channel": "GeologyHub",
+      "channelId": "UCYeGh5VML5XPr5jYnzh3J6g",
+      "durationSec": 266,
+      "publishedAt": "2026-10-18T20:45:29Z",
       "topics": [
-        "science"
+        "science",
+        "geography"
       ],
       "profiles": [
         "big"
       ],
-      "thumbnail": "https://i.ytimg.com/vi/PapDzTCx_xI/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/B7xPN33kJbk/hqdefault.jpg"
     },
     {
       "id": "n_86HhhKbAI",
@@ -69646,22 +69695,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/ZKNaaQApnqg/hqdefault.jpg"
-    },
-    {
-      "id": "4zSZDPztDhc",
-      "title": "Egypt Earthquake Update; M5.6 Quake Strikes, Geologist Analysis",
-      "channel": "GeologyHub",
-      "channelId": "UCYeGh5VML5XPr5jYnzh3J6g",
-      "durationSec": 304,
-      "publishedAt": "2026-08-04T19:00:19Z",
-      "topics": [
-        "science",
-        "geography"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/4zSZDPztDhc/hqdefault.jpg"
     },
     {
       "id": "FAtDe1jyVsc",
@@ -78238,22 +78271,6 @@
       "thumbnail": "https://i.ytimg.com/vi/AxksN1PIquE/hqdefault.jpg"
     },
     {
-      "id": "x7g61Gq6XJ8",
-      "title": "Marine Biologist plays Planet Zoo 2!",
-      "channel": "KPassionate",
-      "channelId": "UCUvSqEH92Fqn9uw1kmCfLGA",
-      "durationSec": 9110,
-      "publishedAt": "2026-10-18T03:07:50Z",
-      "topics": [
-        "animals",
-        "science"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/x7g61Gq6XJ8/hqdefault.jpg"
-    },
-    {
       "id": "nTMZeddHwOs",
       "title": "A Huge Sperm Whale Sank A Yacht! A Marine Biologist Reacts",
       "channel": "KPassionate",
@@ -79020,6 +79037,22 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/TnJVE2oNJH0/hqdefault.jpg"
+    },
+    {
+      "id": "IdUHZt8lsCA",
+      "title": "The Bizarre Truth About Ape Sign Language",
+      "channel": "KPassionate",
+      "channelId": "UCUvSqEH92Fqn9uw1kmCfLGA",
+      "durationSec": 482,
+      "publishedAt": "2024-03-23T13:45:01Z",
+      "topics": [
+        "animals",
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/IdUHZt8lsCA/hqdefault.jpg"
     },
     {
       "id": "vsit2ZvNbNs",
@@ -82909,6 +82942,38 @@
       "thumbnail": "https://i.ytimg.com/vi/H2hJNAqpsQM/hqdefault.jpg"
     },
     {
+      "id": "6CDhjhzKkKc",
+      "title": "The Feats of Peep | Peep and the Big Wide World",
+      "channel": "Peep and the Big Wide World",
+      "channelId": "UCPq6g4Q4-SFMIJ048IXmupA",
+      "durationSec": 644,
+      "publishedAt": "2026-10-19T15:00:10Z",
+      "topics": [
+        "science",
+        "nature"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/6CDhjhzKkKc/hqdefault.jpg"
+    },
+    {
+      "id": "CSzAq0fiSQY",
+      "title": "Where do Ducks Come From? | Peep and the Big Wide World",
+      "channel": "Peep and the Big Wide World",
+      "channelId": "UCPq6g4Q4-SFMIJ048IXmupA",
+      "durationSec": 3797,
+      "publishedAt": "2026-10-18T15:00:21Z",
+      "topics": [
+        "science",
+        "nature"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/CSzAq0fiSQY/hqdefault.jpg"
+    },
+    {
       "id": "_qrYab1OquQ",
       "title": "Fair Shares | Peep and the Big Wide World",
       "channel": "Peep and the Big Wide World",
@@ -83675,38 +83740,6 @@
         "little"
       ],
       "thumbnail": "https://i.ytimg.com/vi/GNsMuwpgiag/hqdefault.jpg"
-    },
-    {
-      "id": "JC9JRusz1EM",
-      "title": "Peep's Moon Mission | Peep and the Big Wide World",
-      "channel": "Peep and the Big Wide World",
-      "channelId": "UCPq6g4Q4-SFMIJ048IXmupA",
-      "durationSec": 645,
-      "publishedAt": "2026-09-02T15:00:25Z",
-      "topics": [
-        "science",
-        "nature"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/JC9JRusz1EM/hqdefault.jpg"
-    },
-    {
-      "id": "38RSo0JLSPM",
-      "title": "Quack Quiets the Universe | Peep and the Big Wide World",
-      "channel": "Peep and the Big Wide World",
-      "channelId": "UCPq6g4Q4-SFMIJ048IXmupA",
-      "durationSec": 645,
-      "publishedAt": "2026-09-01T15:00:25Z",
-      "topics": [
-        "science",
-        "nature"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/38RSo0JLSPM/hqdefault.jpg"
     },
     {
       "id": "gMWyiU7ZWgA",
@@ -85071,24 +85104,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/hZOT9NCrWAo/hqdefault.jpg"
-    },
-    {
-      "id": "yx6mMwcJToc",
-      "title": "John Park's CircuitPython Parsec: Surviving Sensor Drop with Try/Except #adafruit",
-      "channel": "Adafruit Industries",
-      "channelId": "UCpOlOeQjj7EsVnDh3zuCgsA",
-      "durationSec": 243,
-      "publishedAt": "2026-10-02T16:00:21Z",
-      "topics": [
-        "making",
-        "tech",
-        "engineering",
-        "coding"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/yx6mMwcJToc/hqdefault.jpg"
     },
     {
       "id": "dP_i7hRvGpE",
@@ -86793,46 +86808,12 @@
       "thumbnail": "https://i.ytimg.com/vi/Np1Ixd7FWzI/hqdefault.jpg"
     },
     {
-      "id": "TlrtXBFQfWw",
-      "title": "Kids Yoga LIVE 🌟 | Fun Yoga Adventures & Movement for Kids",
-      "channel": "Cosmic Kids Yoga",
-      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
-      "durationSec": 42900,
-      "publishedAt": "2026-10-18T03:27:43Z",
-      "topics": [
-        "reading",
-        "nature"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/TlrtXBFQfWw/hqdefault.jpg"
-    },
-    {
-      "id": "OiXYKp0VBJM",
-      "title": "Halloween Kids Yoga LIVE! Cosmic Kids Halloween Adventure Compilation 👻✨",
-      "channel": "Cosmic Kids Yoga",
-      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
-      "durationSec": 42896,
-      "publishedAt": "2026-10-18T02:23:56Z",
-      "topics": [
-        "reading",
-        "nature"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/OiXYKp0VBJM/hqdefault.jpg"
-    },
-    {
-      "id": "Fs8RmlwD5J0",
+      "id": "NuVH56Z5fFA",
       "title": "Kids Yoga LIVE 🌟 | Fun Yoga Adventures & Movement for Kids",
       "channel": "Cosmic Kids Yoga",
       "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
       "durationSec": 42899,
-      "publishedAt": "2026-10-17T15:38:34Z",
+      "publishedAt": "2026-10-19T15:29:07Z",
       "topics": [
         "reading",
         "nature"
@@ -86841,15 +86822,15 @@
         "little",
         "big"
       ],
-      "thumbnail": "https://i.ytimg.com/vi/Fs8RmlwD5J0/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/NuVH56Z5fFA/hqdefault.jpg"
     },
     {
-      "id": "TSVaXsxm3FI",
+      "id": "5HxuP9aa9mQ",
       "title": "Halloween Kids Yoga LIVE! Cosmic Kids Halloween Adventure Compilation 👻✨",
       "channel": "Cosmic Kids Yoga",
       "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
       "durationSec": 42898,
-      "publishedAt": "2026-10-17T14:29:42Z",
+      "publishedAt": "2026-10-19T14:25:45Z",
       "topics": [
         "reading",
         "nature"
@@ -86858,126 +86839,7 @@
         "little",
         "big"
       ],
-      "thumbnail": "https://i.ytimg.com/vi/TSVaXsxm3FI/hqdefault.jpg"
-    },
-    {
-      "id": "QGDsAK32_Ts",
-      "title": "Kids Yoga LIVE 🌟 | Fun Yoga Adventures & Movement for Kids",
-      "channel": "Cosmic Kids Yoga",
-      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
-      "durationSec": 42900,
-      "publishedAt": "2026-10-17T03:39:30Z",
-      "topics": [
-        "reading",
-        "nature"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/QGDsAK32_Ts/hqdefault.jpg"
-    },
-    {
-      "id": "ItCn7c7KykA",
-      "title": "Halloween Kids Yoga LIVE! Cosmic Kids Halloween Adventure Compilation 👻✨",
-      "channel": "Cosmic Kids Yoga",
-      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
-      "durationSec": 42896,
-      "publishedAt": "2026-10-17T02:17:42Z",
-      "topics": [
-        "reading",
-        "nature"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/ItCn7c7KykA/hqdefault.jpg"
-    },
-    {
-      "id": "D2VYfshCWbk",
-      "title": "Kids Yoga LIVE 🌟 | Fun Yoga Adventures & Movement for Kids",
-      "channel": "Cosmic Kids Yoga",
-      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
-      "durationSec": 42899,
-      "publishedAt": "2026-10-16T15:38:00Z",
-      "topics": [
-        "reading",
-        "nature"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/D2VYfshCWbk/hqdefault.jpg"
-    },
-    {
-      "id": "dqlTZTxqnYo",
-      "title": "Halloween Kids Yoga LIVE! Cosmic Kids Halloween Adventure Compilation 👻✨",
-      "channel": "Cosmic Kids Yoga",
-      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
-      "durationSec": 42900,
-      "publishedAt": "2026-10-16T14:21:44Z",
-      "topics": [
-        "reading",
-        "nature"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/dqlTZTxqnYo/hqdefault.jpg"
-    },
-    {
-      "id": "llC24u12wmQ",
-      "title": "Kids Yoga LIVE 🌟 | Fun Yoga Adventures & Movement for Kids",
-      "channel": "Cosmic Kids Yoga",
-      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
-      "durationSec": 42900,
-      "publishedAt": "2026-10-16T03:25:46Z",
-      "topics": [
-        "reading",
-        "nature"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/llC24u12wmQ/hqdefault.jpg"
-    },
-    {
-      "id": "kAM1ZykmAHI",
-      "title": "Halloween Kids Yoga LIVE! Cosmic Kids Halloween Adventure Compilation 👻✨",
-      "channel": "Cosmic Kids Yoga",
-      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
-      "durationSec": 42899,
-      "publishedAt": "2026-10-16T02:17:38Z",
-      "topics": [
-        "reading",
-        "nature"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/kAM1ZykmAHI/hqdefault.jpg"
-    },
-    {
-      "id": "0mxnxefpGsw",
-      "title": "Kids Yoga LIVE 🌟 | Fun Yoga Adventures & Movement for Kids",
-      "channel": "Cosmic Kids Yoga",
-      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
-      "durationSec": 42900,
-      "publishedAt": "2026-10-15T15:31:42Z",
-      "topics": [
-        "reading",
-        "nature"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/0mxnxefpGsw/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/5HxuP9aa9mQ/hqdefault.jpg"
     },
     {
       "id": "wUcqBo4Tbks",
