@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-19T15:58:42.175Z",
+  "generatedAt": "2026-10-20T13:56:26.443Z",
   "profiles": {
     "little": {
       "label": "Ages 3-7"
@@ -211,6 +211,21 @@
       "thumbnail": "https://i.ytimg.com/vi/AOSjUmwVFt4/hqdefault.jpg"
     },
     {
+      "id": "zvAW8WE0VD4",
+      "title": "How To Draw A Frankenstein Milkshake",
+      "channel": "Art for Kids Hub",
+      "channelId": "UC5XMF3Inoi8R9nSI8ChOsdQ",
+      "durationSec": 488,
+      "publishedAt": "2026-10-19T16:56:31Z",
+      "topics": [
+        "art"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/zvAW8WE0VD4/hqdefault.jpg"
+    },
+    {
       "id": "l4JNjGkQnuM",
       "title": "How To Draw A Vampire Pizza",
       "channel": "Art for Kids Hub",
@@ -239,21 +254,6 @@
         "little"
       ],
       "thumbnail": "https://i.ytimg.com/vi/j8kA0Lav4io/hqdefault.jpg"
-    },
-    {
-      "id": "2trpMnBYbHo",
-      "title": "How To Draw A Caramel Apple Monster",
-      "channel": "Art for Kids Hub",
-      "channelId": "UC5XMF3Inoi8R9nSI8ChOsdQ",
-      "durationSec": 541,
-      "publishedAt": "2026-10-14T16:00:32Z",
-      "topics": [
-        "art"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/2trpMnBYbHo/hqdefault.jpg"
     },
     {
       "id": "6PIMATLRo_U",
@@ -472,6 +472,21 @@
       "thumbnail": "https://i.ytimg.com/vi/VydHKLBXdVQ/hqdefault.jpg"
     },
     {
+      "id": "16-xQ-Dt2mk",
+      "title": "How the Color Mauve Saved Millions of Lives",
+      "channel": "SciShow",
+      "channelId": "UCZYTClx2T1of7BRZ86-8fow",
+      "durationSec": 671,
+      "publishedAt": "2026-10-19T17:00:10Z",
+      "topics": [
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/16-xQ-Dt2mk/hqdefault.jpg"
+    },
+    {
       "id": "OWhZvY6GEK8",
       "title": "5 Unexplored Mysteries of the Deep Sea",
       "channel": "SciShow",
@@ -515,21 +530,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/yndh85o_jvc/hqdefault.jpg"
-    },
-    {
-      "id": "gLkYRU2fOos",
-      "title": "The Bizarre Case of the Tully Monster",
-      "channel": "SciShow",
-      "channelId": "UCZYTClx2T1of7BRZ86-8fow",
-      "durationSec": 762,
-      "publishedAt": "2026-10-13T17:00:06Z",
-      "topics": [
-        "science"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/gLkYRU2fOos/hqdefault.jpg"
     },
     {
       "id": "LKrwhjOI8Nc",
@@ -11535,22 +11535,6 @@
       "thumbnail": "https://i.ytimg.com/vi/viIkv6fA1hc/hqdefault.jpg"
     },
     {
-      "id": "WeJ3wz1S01Q",
-      "title": "WTF did they make? Bastl Kalimba!",
-      "channel": "ANDREW HUANG",
-      "channelId": "UCdcemy56JtVTrsFIOoqvV8g",
-      "durationSec": 662,
-      "publishedAt": "2026-05-07T08:00:35Z",
-      "topics": [
-        "music",
-        "making"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/WeJ3wz1S01Q/hqdefault.jpg"
-    },
-    {
       "id": "blWnqtNxhYA",
       "title": "10 Levels of Advanced Listening",
       "channel": "Nahre Sol",
@@ -18246,6 +18230,23 @@
       "thumbnail": "https://i.ytimg.com/vi/5UTXz9Xclr4/hqdefault.jpg"
     },
     {
+      "id": "U7R1oabhpPM",
+      "title": "Expedition Highlights from the E/V Nautilus 2026 Season | Nautilus Live",
+      "channel": "EVNautilus",
+      "channelId": "UC1KOOWHthbQVXH2kZue3_xA",
+      "durationSec": 5906,
+      "publishedAt": "2026-10-19T20:49:24Z",
+      "topics": [
+        "nature",
+        "exploration"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/U7R1oabhpPM/hqdefault.jpg"
+    },
+    {
       "id": "-9bN7THifGc",
       "title": "Hawaiian Sunset Corals in Papahānaumokuākea | Nautilus Live",
       "channel": "EVNautilus",
@@ -20341,22 +20342,6 @@
       "thumbnail": "https://i.ytimg.com/vi/G7xFh0ZS7WI/hqdefault.jpg"
     },
     {
-      "id": "lOURyxDWywU",
-      "title": "Finally, A Better Irrigation System For Raised Beds",
-      "channel": "Epic Gardening",
-      "channelId": "UCSbyncU597LMwb3HhnAI_4w",
-      "durationSec": 823,
-      "publishedAt": "2026-07-13T00:05:15Z",
-      "topics": [
-        "nature",
-        "making"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/lOURyxDWywU/hqdefault.jpg"
-    },
-    {
       "id": "hS-FlEc1VlI",
       "title": "POV: the giant hairdryer you built from a kid's idea makes the US NEWS 🇺🇲",
       "channel": "Kids Invent Stuff",
@@ -20440,6 +20425,22 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/FP735j4Nk-s/hqdefault.jpg"
+    },
+    {
+      "id": "eU0yf6K9gXc",
+      "title": "Halloween S’mores with Handyman Hal 🎃 | Campfire Fun & State Fair Adventure!",
+      "channel": "Handyman Hal",
+      "channelId": "UC8KyyhPfL4v2sZGbcGg7b7Q",
+      "durationSec": 3981,
+      "publishedAt": "2026-10-20T10:15:23Z",
+      "topics": [
+        "making",
+        "engineering"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/eU0yf6K9gXc/hqdefault.jpg"
     },
     {
       "id": "A6jDE1ZQeGg",
@@ -21208,22 +21209,6 @@
         "little"
       ],
       "thumbnail": "https://i.ytimg.com/vi/Qs5rjH7q270/hqdefault.jpg"
-    },
-    {
-      "id": "7WoS2_Jqc-8",
-      "title": "🍂 Handyman Hal Cleans the Playground with a Leaf Blower!",
-      "channel": "Handyman Hal",
-      "channelId": "UC8KyyhPfL4v2sZGbcGg7b7Q",
-      "durationSec": 1045,
-      "publishedAt": "2026-04-25T10:30:00Z",
-      "topics": [
-        "making",
-        "engineering"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/7WoS2_Jqc-8/hqdefault.jpg"
     },
     {
       "id": "5y2yjd4lSM8",
@@ -22043,6 +22028,21 @@
       "thumbnail": "https://i.ytimg.com/vi/vQesgAtr2e4/hqdefault.jpg"
     },
     {
+      "id": "awV7FP9sAHE",
+      "title": "Whatever Happened to Fire Escapes?",
+      "channel": "Practical Engineering",
+      "channelId": "UCMOqf8ab-42UUQIdVoKwjlQ",
+      "durationSec": 1087,
+      "publishedAt": "2026-10-20T13:00:19Z",
+      "topics": [
+        "engineering"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/awV7FP9sAHE/hqdefault.jpg"
+    },
+    {
       "id": "5_B1Mq02wcI",
       "title": "The Hidden Engineering of Pressure Regulators",
       "channel": "Practical Engineering",
@@ -22777,21 +22777,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/zRM2AnwNY20/hqdefault.jpg"
-    },
-    {
-      "id": "SB0qDQFTyE8",
-      "title": "Is the World Really Running Out of Sand?",
-      "channel": "Practical Engineering",
-      "channelId": "UCMOqf8ab-42UUQIdVoKwjlQ",
-      "durationSec": 1178,
-      "publishedAt": "2024-10-01T13:00:35Z",
-      "topics": [
-        "engineering"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/SB0qDQFTyE8/hqdefault.jpg"
     },
     {
       "id": "pXypQ6d_iDg",
@@ -25822,6 +25807,22 @@
       "thumbnail": "https://i.ytimg.com/vi/xnn3_KqTVPA/hqdefault.jpg"
     },
     {
+      "id": "ZCx3w_rdtfA",
+      "title": "Baltic countries summarized",
+      "channel": "Geography Now",
+      "channelId": "UCmmPgObSUPw1HL2lq6H4ffA",
+      "durationSec": 128,
+      "publishedAt": "2026-10-19T19:59:32Z",
+      "topics": [
+        "geography",
+        "exploration"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/ZCx3w_rdtfA/hqdefault.jpg"
+    },
+    {
       "id": "uFBWIk0jZN4",
       "title": "Midnight fundraiser for Julian's cancer!",
       "channel": "Geography Now",
@@ -26332,22 +26333,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/nsYAf9OSG2g/hqdefault.jpg"
-    },
-    {
-      "id": "pTraBCjMkeU",
-      "title": "My Azerbaijani subscribers asked about Armenia",
-      "channel": "Geography Now",
-      "channelId": "UCmmPgObSUPw1HL2lq6H4ffA",
-      "durationSec": 180,
-      "publishedAt": "2026-08-22T05:32:26Z",
-      "topics": [
-        "geography",
-        "exploration"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/pTraBCjMkeU/hqdefault.jpg"
     },
     {
       "id": "3G1wZPeZZTQ",
@@ -29437,6 +29422,21 @@
       "thumbnail": "https://i.ytimg.com/vi/v1ay1qTvF0Y/hqdefault.jpg"
     },
     {
+      "id": "dRHk7xOEUh8",
+      "title": "How to Build a Haunted House | Halloween read aloud | not very scary read aloud",
+      "channel": "KidTimeStoryTime",
+      "channelId": "UCEPsNDUhUm-7yZhUjQQNqwQ",
+      "durationSec": 433,
+      "publishedAt": "2026-10-20T12:30:18Z",
+      "topics": [
+        "reading"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/dRHk7xOEUh8/hqdefault.jpg"
+    },
+    {
       "id": "nn1S46QvTkg",
       "title": "Vampire Jam Sandwich | Halloween read aloud | not so scary read aloud",
       "channel": "KidTimeStoryTime",
@@ -30170,21 +30170,6 @@
         "little"
       ],
       "thumbnail": "https://i.ytimg.com/vi/dIW6ArhGqag/hqdefault.jpg"
-    },
-    {
-      "id": "VPcwg4KBpig",
-      "title": "The FUNNIEST Picture Book Ever! 🌪️ funny read aloud",
-      "channel": "KidTimeStoryTime",
-      "channelId": "UCEPsNDUhUm-7yZhUjQQNqwQ",
-      "durationSec": 997,
-      "publishedAt": "2026-04-01T13:00:00Z",
-      "topics": [
-        "reading"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/VPcwg4KBpig/hqdefault.jpg"
     },
     {
       "id": "_kxXvUni1tE",
@@ -51625,22 +51610,6 @@
       "thumbnail": "https://i.ytimg.com/vi/faCLpGLjhoc/hqdefault.jpg"
     },
     {
-      "id": "XN-2ckD2v3w",
-      "title": "Hermitcraft 10: I'm not done",
-      "channel": "Mumbo Jumbo",
-      "channelId": "UChFur_NwVSbUozOcF_F2kMg",
-      "durationSec": 1291,
-      "publishedAt": "2025-08-19T19:00:34Z",
-      "topics": [
-        "engineering",
-        "making"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/XN-2ckD2v3w/hqdefault.jpg"
-    },
-    {
       "id": "R034eN4xiPo",
       "title": "I Scripted Your Funny Roblox Ideas.. (Part 23)",
       "channel": "TheDevKing",
@@ -54196,6 +54165,23 @@
       "thumbnail": "https://i.ytimg.com/vi/aLfd2rZ1x4I/hqdefault.jpg"
     },
     {
+      "id": "1n-6rxzg5cQ",
+      "title": "Is It Picky Eating or ARFID? Signs Your Child Needs More Help with Dr. Jessica Bodie [Episode 149]",
+      "channel": "Katie Kimball",
+      "channelId": "UCT1B3Tb7Bit_S7EWkhSba4A",
+      "durationSec": 1396,
+      "publishedAt": "2026-10-20T10:00:05Z",
+      "topics": [
+        "making",
+        "science"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/1n-6rxzg5cQ/hqdefault.jpg"
+    },
+    {
       "id": "3yYlzIyKNwY",
       "title": "Radiant Life Whole-Home Water Filtration: Is It Right for You?",
       "channel": "Katie Kimball",
@@ -54925,23 +54911,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/yDtoabVLblc/hqdefault.jpg"
-    },
-    {
-      "id": "xYjapexq2R0",
-      "title": "Teen Tidbits, Day 1: Passing on Ownership to Your Teens",
-      "channel": "Katie Kimball",
-      "channelId": "UCT1B3Tb7Bit_S7EWkhSba4A",
-      "durationSec": 392,
-      "publishedAt": "2026-01-26T19:09:05Z",
-      "topics": [
-        "making",
-        "science"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/xYjapexq2R0/hqdefault.jpg"
     },
     {
       "id": "BGbN4s_9boo",
@@ -76387,6 +76356,21 @@
       "thumbnail": "https://i.ytimg.com/vi/xaUKgnhZ9y4/hqdefault.jpg"
     },
     {
+      "id": "eo0EshGVPEo",
+      "title": "Roth vs Traditional 401k: Which is Better for Your First Job",
+      "channel": "Easy Peasy Finance",
+      "channelId": "UCZl9ry5ew_2YeCQ6ECk8sxA",
+      "durationSec": 193,
+      "publishedAt": "2026-10-20T13:00:26Z",
+      "topics": [
+        "maths"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/eo0EshGVPEo/hqdefault.jpg"
+    },
+    {
       "id": "Iov84vnk8Kw",
       "title": "Credit Scores Explained: 5 Factors That Affect Your Score",
       "channel": "Easy Peasy Finance",
@@ -83742,6 +83726,22 @@
       "thumbnail": "https://i.ytimg.com/vi/GNsMuwpgiag/hqdefault.jpg"
     },
     {
+      "id": "xJ6_dnaEYbM",
+      "title": "Let's visit a hockey game! | Behind the scenes at the @NHL | Super Simple Play",
+      "channel": "Super Simple Play with Caitie!",
+      "channelId": "UCxG6Tbopv4XcHfem65bgFeg",
+      "durationSec": 631,
+      "publishedAt": "2026-10-20T13:00:21Z",
+      "topics": [
+        "music",
+        "making"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/xJ6_dnaEYbM/hqdefault.jpg"
+    },
+    {
       "id": "gMWyiU7ZWgA",
       "title": "My Hockey Song 🏒 | Hockey Song for Kids | Super Simple x @NHL",
       "channel": "Super Simple Play with Caitie!",
@@ -84728,6 +84728,24 @@
       "thumbnail": "https://i.ytimg.com/vi/wV5vN1mZgfM/hqdefault.jpg"
     },
     {
+      "id": "la1iIbv9ZfY",
+      "title": "CircuitPython Weekly Meeting for October 19, 2026 @circuitpython #circuitpython #adafruit",
+      "channel": "Adafruit Industries",
+      "channelId": "UCpOlOeQjj7EsVnDh3zuCgsA",
+      "durationSec": 3014,
+      "publishedAt": "2026-10-19T19:11:42Z",
+      "topics": [
+        "making",
+        "tech",
+        "engineering",
+        "coding"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/la1iIbv9ZfY/hqdefault.jpg"
+    },
+    {
       "id": "efP7xpNFiuM",
       "title": "Deep Dive w/Scott: CircuitPython CSI Camera! #adafruit",
       "channel": "Adafruit Industries",
@@ -85050,60 +85068,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/LDQwzwCyZqI/hqdefault.jpg"
-    },
-    {
-      "id": "7aZlNXQf7mc",
-      "title": "CircuitPython Weekly Meeting for October 5, 2026 @circuitpython #circuitpython #adafruit",
-      "channel": "Adafruit Industries",
-      "channelId": "UCpOlOeQjj7EsVnDh3zuCgsA",
-      "durationSec": 2708,
-      "publishedAt": "2026-10-05T19:32:48Z",
-      "topics": [
-        "making",
-        "tech",
-        "engineering",
-        "coding"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/7aZlNXQf7mc/hqdefault.jpg"
-    },
-    {
-      "id": "UU4iTZ3SJN4",
-      "title": "Make a glowing Skull that spews out smoke #3DPrinting #Adafruit #halloween",
-      "channel": "Adafruit Industries",
-      "channelId": "UCpOlOeQjj7EsVnDh3zuCgsA",
-      "durationSec": 179,
-      "publishedAt": "2026-10-03T12:15:55Z",
-      "topics": [
-        "making",
-        "tech",
-        "engineering",
-        "coding"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/UU4iTZ3SJN4/hqdefault.jpg"
-    },
-    {
-      "id": "hZOT9NCrWAo",
-      "title": "Deep Dive w/Scott: LLM PR polish w/crit.md #adafruit",
-      "channel": "Adafruit Industries",
-      "channelId": "UCpOlOeQjj7EsVnDh3zuCgsA",
-      "durationSec": 4271,
-      "publishedAt": "2026-10-03T10:15:52Z",
-      "topics": [
-        "making",
-        "tech",
-        "engineering",
-        "coding"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/hZOT9NCrWAo/hqdefault.jpg"
     },
     {
       "id": "dP_i7hRvGpE",
@@ -86806,6 +86770,57 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/Np1Ixd7FWzI/hqdefault.jpg"
+    },
+    {
+      "id": "0CM80AVmnfE",
+      "title": "Halloween Kids Yoga LIVE! Cosmic Kids Halloween Adventure Compilation 👻✨",
+      "channel": "Cosmic Kids Yoga",
+      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
+      "durationSec": 42932,
+      "publishedAt": "2026-10-20T01:59:04Z",
+      "topics": [
+        "reading",
+        "nature"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/0CM80AVmnfE/hqdefault.jpg"
+    },
+    {
+      "id": "ZjDzqooKf44",
+      "title": "Kids Yoga LIVE 🌟 | Fun Yoga Adventures & Movement for Kids",
+      "channel": "Cosmic Kids Yoga",
+      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
+      "durationSec": 42900,
+      "publishedAt": "2026-10-20T03:28:32Z",
+      "topics": [
+        "reading",
+        "nature"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/ZjDzqooKf44/hqdefault.jpg"
+    },
+    {
+      "id": "Vc_HrosS7lE",
+      "title": "Halloween Kids Yoga LIVE! Cosmic Kids Halloween Adventure Compilation 👻✨",
+      "channel": "Cosmic Kids Yoga",
+      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
+      "durationSec": 42897,
+      "publishedAt": "2026-10-20T02:24:32Z",
+      "topics": [
+        "reading",
+        "nature"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/Vc_HrosS7lE/hqdefault.jpg"
     },
     {
       "id": "NuVH56Z5fFA",
