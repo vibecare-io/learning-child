@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-20T13:56:26.443Z",
+  "generatedAt": "2026-10-21T14:12:35.722Z",
   "profiles": {
     "little": {
       "label": "Ages 3-7"
@@ -131,6 +131,22 @@
       "thumbnail": "https://i.ytimg.com/vi/kKqd0_cydZM/hqdefault.jpg"
     },
     {
+      "id": "9q3uiSeT80M",
+      "title": "Spiders vs. Beetles vs. Ants: Battle of the Bugs | Whoa Factor | Nat Geo Kids",
+      "channel": "Nat Geo Kids",
+      "channelId": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "durationSec": 316,
+      "publishedAt": "2026-10-21T11:00:23Z",
+      "topics": [
+        "animals",
+        "science"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/9q3uiSeT80M/hqdefault.jpg"
+    },
+    {
       "id": "aASWMaa5ZU8",
       "title": "The Most Freaky and Amazing Animals in the World🦇 | Compilation | Nat Geo Kids",
       "channel": "Nat Geo Kids",
@@ -195,20 +211,19 @@
       "thumbnail": "https://i.ytimg.com/vi/I3abQzLOv2A/hqdefault.jpg"
     },
     {
-      "id": "AOSjUmwVFt4",
-      "title": "Unlikely Animal Friends Full Episode | Zany Zoo Duos | Nat Geo Kids",
-      "channel": "Nat Geo Kids",
-      "channelId": "UCXVCgDuD_QCkI7gTKU7-tpg",
-      "durationSec": 2302,
-      "publishedAt": "2026-10-15T11:00:33Z",
+      "id": "yjuQptALLzM",
+      "title": "Our NEW Drawing App for Kids! 🎨",
+      "channel": "Art for Kids Hub",
+      "channelId": "UC5XMF3Inoi8R9nSI8ChOsdQ",
+      "durationSec": 725,
+      "publishedAt": "2026-10-20T16:54:46Z",
       "topics": [
-        "animals",
-        "science"
+        "art"
       ],
       "profiles": [
         "little"
       ],
-      "thumbnail": "https://i.ytimg.com/vi/AOSjUmwVFt4/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/yjuQptALLzM/hqdefault.jpg"
     },
     {
       "id": "zvAW8WE0VD4",
@@ -239,21 +254,6 @@
         "little"
       ],
       "thumbnail": "https://i.ytimg.com/vi/l4JNjGkQnuM/hqdefault.jpg"
-    },
-    {
-      "id": "j8kA0Lav4io",
-      "title": "How To Draw A Halloween Claw Machine",
-      "channel": "Art for Kids Hub",
-      "channelId": "UC5XMF3Inoi8R9nSI8ChOsdQ",
-      "durationSec": 447,
-      "publishedAt": "2026-10-15T16:00:18Z",
-      "topics": [
-        "art"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/j8kA0Lav4io/hqdefault.jpg"
     },
     {
       "id": "6PIMATLRo_U",
@@ -301,19 +301,20 @@
       "thumbnail": "https://i.ytimg.com/vi/I4-m-mtNeuw/hqdefault.jpg"
     },
     {
-      "id": "Jk9hlntqsWA",
-      "title": "Aliens? In Numberland? | Halloween Math for Kids Compilation | Numberblocks",
-      "channel": "Numberblocks",
-      "channelId": "UCPlwvN0w4qFSP1FllALB92w",
-      "durationSec": 5112,
-      "publishedAt": "2026-10-15T10:00:17Z",
+      "id": "NPJ9KZqrl50",
+      "title": "Why does this animal never age? - Raymond Adkins",
+      "channel": "TED-Ed",
+      "channelId": "UCsooa4yRKGN_zEE8iknghZA",
+      "durationSec": 351,
+      "publishedAt": "2026-10-20T15:01:00Z",
       "topics": [
-        "maths"
+        "science",
+        "history"
       ],
       "profiles": [
-        "little"
+        "big"
       ],
-      "thumbnail": "https://i.ytimg.com/vi/Jk9hlntqsWA/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/NPJ9KZqrl50/hqdefault.jpg"
     },
     {
       "id": "av3zdxYvCp8",
@@ -396,22 +397,6 @@
       "thumbnail": "https://i.ytimg.com/vi/G3hXvByzLHs/hqdefault.jpg"
     },
     {
-      "id": "z3Y-gsBKChc",
-      "title": "Why are AI data centers using so much electricity? - Sajan Saini",
-      "channel": "TED-Ed",
-      "channelId": "UCsooa4yRKGN_zEE8iknghZA",
-      "durationSec": 397,
-      "publishedAt": "2026-09-29T15:00:44Z",
-      "topics": [
-        "science",
-        "history"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/z3Y-gsBKChc/hqdefault.jpg"
-    },
-    {
       "id": "Uvy5Cs9FDLg",
       "title": "A New Math Meme - Numberphile",
       "channel": "Numberphile",
@@ -472,6 +457,21 @@
       "thumbnail": "https://i.ytimg.com/vi/VydHKLBXdVQ/hqdefault.jpg"
     },
     {
+      "id": "rk0O1xcuXQ4",
+      "title": "How the Black Market Saved Thousands of Cats",
+      "channel": "SciShow",
+      "channelId": "UCZYTClx2T1of7BRZ86-8fow",
+      "durationSec": 840,
+      "publishedAt": "2026-10-20T17:00:01Z",
+      "topics": [
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/rk0O1xcuXQ4/hqdefault.jpg"
+    },
+    {
       "id": "16-xQ-Dt2mk",
       "title": "How the Color Mauve Saved Millions of Lives",
       "channel": "SciShow",
@@ -517,21 +517,6 @@
       "thumbnail": "https://i.ytimg.com/vi/09Zd9k-szWw/hqdefault.jpg"
     },
     {
-      "id": "yndh85o_jvc",
-      "title": "Scientists Are Getting Close to Creating a Universal Vaccine",
-      "channel": "SciShow",
-      "channelId": "UCZYTClx2T1of7BRZ86-8fow",
-      "durationSec": 547,
-      "publishedAt": "2026-10-14T17:00:26Z",
-      "topics": [
-        "science"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/yndh85o_jvc/hqdefault.jpg"
-    },
-    {
       "id": "LKrwhjOI8Nc",
       "title": "There's never been a better time to go into math",
       "channel": "3Blue1Brown",
@@ -563,7 +548,7 @@
     },
     {
       "id": "NiCgcUTL9_Q",
-      "title": "The Absurd Engineering Behind the Internet",
+      "title": "The Insane Engineering of Fiber Optics",
       "channel": "Veritasium",
       "channelId": "UCHnyfMqiRRG1u-2MsSQLbXA",
       "durationSec": 2072,
@@ -605,6 +590,22 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/JsBZOcqZerk/hqdefault.jpg"
+    },
+    {
+      "id": "PXbVn-f_wuM",
+      "title": "You Will Only Like Half of This Video",
+      "channel": "Kurzgesagt – In a Nutshell",
+      "channelId": "UCsXVk37bltHxD1rDPwtNM8Q",
+      "durationSec": 214,
+      "publishedAt": "2026-10-20T14:00:11Z",
+      "topics": [
+        "science",
+        "space"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/PXbVn-f_wuM/hqdefault.jpg"
     },
     {
       "id": "_y9JuojAIg0",
@@ -675,7 +676,7 @@
       "title": "Last Cheater Standing Wins $10,000",
       "channel": "Mark Rober",
       "channelId": "UCY1kMZp36IQSyNx_9h4mpCg",
-      "durationSec": 2063,
+      "durationSec": 1971,
       "publishedAt": "2026-09-19T13:00:35Z",
       "topics": [
         "science",
@@ -1733,6 +1734,22 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/VaHy63Mfd2Y/hqdefault.jpg"
+    },
+    {
+      "id": "yn8Nw1jg6tg",
+      "title": "K-2 Math Lesson: Doubles Addition",
+      "channel": "GenerationGenius",
+      "channelId": "UCjxu5mHqZnVlb_8-Zjv-D1A",
+      "durationSec": 137,
+      "publishedAt": "2026-10-20T14:04:44Z",
+      "topics": [
+        "science"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/yn8Nw1jg6tg/hqdefault.jpg"
     },
     {
       "id": "0jccV82t6rA",
@@ -2837,6 +2854,23 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/BbzCA0Lgf3Y/hqdefault.jpg"
+    },
+    {
+      "id": "IyDPsPp24Dg",
+      "title": "Science That Glows",
+      "channel": "Sick Science!",
+      "channelId": "UCDom90xOqP4avehFjSJO6NA",
+      "durationSec": 178,
+      "publishedAt": "2026-10-20T18:30:34Z",
+      "topics": [
+        "science",
+        "making"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/IyDPsPp24Dg/hqdefault.jpg"
     },
     {
       "id": "hmrXShTg2hM",
@@ -5315,6 +5349,40 @@
       "thumbnail": "https://i.ytimg.com/vi/tIlshNCG6NI/hqdefault.jpg"
     },
     {
+      "id": "UleiRdWFG7o",
+      "title": "U.S. Spacewalk Preview News Conference (Oct. 20, 2026)",
+      "channel": "NASA",
+      "channelId": "UCLA_DiR1FfKNvjuUpBHmylQ",
+      "durationSec": 1690,
+      "publishedAt": "2026-10-20T18:30:12Z",
+      "topics": [
+        "space",
+        "exploration"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/UleiRdWFG7o/hqdefault.jpg"
+    },
+    {
+      "id": "Zezt6EsG9WE",
+      "title": "NASA Moon Base: Rovers and Lunar Terrain Vehicles (October 2026 Update)",
+      "channel": "NASA",
+      "channelId": "UCLA_DiR1FfKNvjuUpBHmylQ",
+      "durationSec": 558,
+      "publishedAt": "2026-10-20T15:02:15Z",
+      "topics": [
+        "space",
+        "exploration"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/Zezt6EsG9WE/hqdefault.jpg"
+    },
+    {
       "id": "ivng4U5xeYM",
       "title": "NASA's SpaceX Crew-12 Postflight News Conference (Oct. 15, 2026)",
       "channel": "NASA",
@@ -5891,23 +5959,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/x8344PSeH30/hqdefault.jpg"
-    },
-    {
-      "id": "IDUtReQSlb0",
-      "title": "NASA's SpaceX Crew-13 Mission Overview News Conference (Aug. 3, 2026)",
-      "channel": "NASA",
-      "channelId": "UCLA_DiR1FfKNvjuUpBHmylQ",
-      "durationSec": 3683,
-      "publishedAt": "2026-08-03T17:05:09Z",
-      "topics": [
-        "space",
-        "exploration"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/IDUtReQSlb0/hqdefault.jpg"
     },
     {
       "id": "gIURQuAEec4",
@@ -10783,6 +10834,22 @@
       "thumbnail": "https://i.ytimg.com/vi/O_RjQkRYtx4/hqdefault.jpg"
     },
     {
+      "id": "4SO5bX6gNn0",
+      "title": "Tom Service introduces Beethoven 200: What Makes a Classic?",
+      "channel": "Philharmonia Orchestra",
+      "channelId": "UCKzx92ZqX1PKYTC-FC-CZRQ",
+      "durationSec": 206,
+      "publishedAt": "2026-10-21T09:58:57Z",
+      "topics": [
+        "music"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/4SO5bX6gNn0/hqdefault.jpg"
+    },
+    {
       "id": "xO_bxR7-A_U",
       "title": "Taylor Mac: A 24-Decade History of Popular Music",
       "channel": "Philharmonia Orchestra",
@@ -11312,7 +11379,7 @@
     },
     {
       "id": "Fv0v9BfD5xc",
-      "title": "Finding rhythms in strange places!",
+      "title": "Finding Rhythms In Strange Places",
       "channel": "ANDREW HUANG",
       "channelId": "UCdcemy56JtVTrsFIOoqvV8g",
       "durationSec": 360,
@@ -11645,6 +11712,23 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/jb9OPM1tUfk/hqdefault.jpg"
+    },
+    {
+      "id": "H0X9gOzNHGc",
+      "title": "How to Draw Socks Heeler Dog | Bluey",
+      "channel": "Draw So Cute",
+      "channelId": "UC3dEvA1is6-0_yuei9iCdEw",
+      "durationSec": 724,
+      "publishedAt": "2026-10-20T14:00:27Z",
+      "topics": [
+        "art",
+        "making"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/H0X9gOzNHGc/hqdefault.jpg"
     },
     {
       "id": "TpgkeXO7hQI",
@@ -12480,23 +12564,6 @@
       "thumbnail": "https://i.ytimg.com/vi/U3JyoWrZgGo/hqdefault.jpg"
     },
     {
-      "id": "pQNckJtK5Kk",
-      "title": "How to Draw Muffin Heeler Dog | Bluey",
-      "channel": "Draw So Cute",
-      "channelId": "UC3dEvA1is6-0_yuei9iCdEw",
-      "durationSec": 882,
-      "publishedAt": "2026-07-21T14:00:03Z",
-      "topics": [
-        "art",
-        "making"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/pQNckJtK5Kk/hqdefault.jpg"
-    },
-    {
       "id": "MB7wxd8Bz18",
       "title": "Learn to Draw Super Simple Characters! Finny the Shark, The Bumble Nums, & More!",
       "channel": "Super Simple Draw! - How To Draw for Kids",
@@ -13297,6 +13364,38 @@
       "thumbnail": "https://i.ytimg.com/vi/m6KAfSgFaAM/hqdefault.jpg"
     },
     {
+      "id": "KBTre1Cuo4o",
+      "title": "How to Draw a Skull | Charcoal Sketch Tutorial",
+      "channel": "Cartooning Club How to Draw",
+      "channelId": "UC-biucJWhM8HwjsQ96uoIUw",
+      "durationSec": 907,
+      "publishedAt": "2026-10-21T14:00:00Z",
+      "topics": [
+        "art",
+        "making"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/KBTre1Cuo4o/hqdefault.jpg"
+    },
+    {
+      "id": "jKJogwPF1nU",
+      "title": "How to Draw the Grim Reaper | Step-by-Step Drawing Tutorial",
+      "channel": "Cartooning Club How to Draw",
+      "channelId": "UC-biucJWhM8HwjsQ96uoIUw",
+      "durationSec": 770,
+      "publishedAt": "2026-10-20T14:00:18Z",
+      "topics": [
+        "art",
+        "making"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/jKJogwPF1nU/hqdefault.jpg"
+    },
+    {
       "id": "xcWhwkO77UM",
       "title": "How to Draw Art the Clown | Terrifier",
       "channel": "Cartooning Club How to Draw",
@@ -13857,12 +13956,12 @@
       "thumbnail": "https://i.ytimg.com/vi/nLoYXiH0iuY/hqdefault.jpg"
     },
     {
-      "id": "4ehQg0cNVUU",
-      "title": "How to Draw Omni Brainz",
-      "channel": "Cartooning Club How to Draw",
-      "channelId": "UC-biucJWhM8HwjsQ96uoIUw",
-      "durationSec": 557,
-      "publishedAt": "2026-09-09T14:00:17Z",
+      "id": "wq-So3pvskw",
+      "title": "LAIKA Sent me a PACKAGE! (And made me cry)",
+      "channel": "Jazza",
+      "channelId": "UCHu2KNu6TtJ0p4hpSW7Yv7Q",
+      "durationSec": 1525,
+      "publishedAt": "2026-10-21T09:52:14Z",
       "topics": [
         "art",
         "making"
@@ -13870,7 +13969,7 @@
       "profiles": [
         "big"
       ],
-      "thumbnail": "https://i.ytimg.com/vi/4ehQg0cNVUU/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/wq-So3pvskw/hqdefault.jpg"
     },
     {
       "id": "-IBrx0LhIXc",
@@ -14593,6 +14692,23 @@
       "thumbnail": "https://i.ytimg.com/vi/J2aHaJA35Bc/hqdefault.jpg"
     },
     {
+      "id": "btxlmvHTiiA",
+      "title": "Totoro Corner Bookmark easy",
+      "channel": "Red Ted Art (Maggy Woodley)",
+      "channelId": "UCjjRFKvjpU1L1eDmfBWcqig",
+      "durationSec": 435,
+      "publishedAt": "2026-10-21T09:31:12Z",
+      "topics": [
+        "making",
+        "art"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/btxlmvHTiiA/hqdefault.jpg"
+    },
+    {
       "id": "t-EsUUmXQkI",
       "title": "3d Paper Cat Ornament",
       "channel": "Red Ted Art (Maggy Woodley)",
@@ -15220,23 +15336,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/eNyLf0BDFNQ/hqdefault.jpg"
-    },
-    {
-      "id": "tR7-5ojFZRE",
-      "title": "How to Crochet a Seagull Amigurumi - Easy Beginner Crochet Along",
-      "channel": "Red Ted Art (Maggy Woodley)",
-      "channelId": "UCjjRFKvjpU1L1eDmfBWcqig",
-      "durationSec": 3146,
-      "publishedAt": "2026-02-03T16:00:06Z",
-      "topics": [
-        "making",
-        "art"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/tR7-5ojFZRE/hqdefault.jpg"
     },
     {
       "id": "475v4RiI--U",
@@ -36784,6 +36883,22 @@
       "thumbnail": "https://i.ytimg.com/vi/SJE2lFR5utM/hqdefault.jpg"
     },
     {
+      "id": "9Q9WAe_aqPs",
+      "title": "Is the Electoral College Broken?: Crash Course US Government #5",
+      "channel": "CrashCourse",
+      "channelId": "UCX6b17PVsYBQ0ip5gyeme-Q",
+      "durationSec": 872,
+      "publishedAt": "2026-10-20T16:00:23Z",
+      "topics": [
+        "tech",
+        "coding"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/9Q9WAe_aqPs/hqdefault.jpg"
+    },
+    {
       "id": "9-JFgpMIb_I",
       "title": "What is Geothermal Energy?: Crash Course Geology #21",
       "channel": "CrashCourse",
@@ -37438,22 +37553,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/d2r7Bk1NlgU/hqdefault.jpg"
-    },
-    {
-      "id": "ubrntCf-pEc",
-      "title": "Family, Power, and Legacy: Crash Course Latin American Literature #9",
-      "channel": "CrashCourse",
-      "channelId": "UCX6b17PVsYBQ0ip5gyeme-Q",
-      "durationSec": 666,
-      "publishedAt": "2026-01-15T17:01:37Z",
-      "topics": [
-        "tech",
-        "coding"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/ubrntCf-pEc/hqdefault.jpg"
     },
     {
       "id": "xQasKPF0Fr8",
@@ -47900,6 +47999,36 @@
       "thumbnail": "https://i.ytimg.com/vi/jvebwDXmBSw/hqdefault.jpg"
     },
     {
+      "id": "A-RdavTMv1g",
+      "title": "Destiny Will Never Stop Shilling For Israel",
+      "channel": "Professor Dave Explains",
+      "channelId": "UC0cd_-e49hZpWLH3UIwoWRA",
+      "durationSec": 3314,
+      "publishedAt": "2026-10-21T14:00:21Z",
+      "topics": [
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/A-RdavTMv1g/hqdefault.jpg"
+    },
+    {
+      "id": "LBrPv21ZiDk",
+      "title": "What's James Tour Been Up To?",
+      "channel": "Professor Dave Explains",
+      "channelId": "UC0cd_-e49hZpWLH3UIwoWRA",
+      "durationSec": 8455,
+      "publishedAt": "2026-10-20T14:00:17Z",
+      "topics": [
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/LBrPv21ZiDk/hqdefault.jpg"
+    },
+    {
       "id": "8LJZxi1eeVE",
       "title": "Fifth Declension in Latin",
       "channel": "Professor Dave Explains",
@@ -48618,36 +48747,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/DvDvhLkb9ms/hqdefault.jpg"
-    },
-    {
-      "id": "MM_xzNnJePo",
-      "title": "Common Latin Phrases Everyone Should Know",
-      "channel": "Professor Dave Explains",
-      "channelId": "UC0cd_-e49hZpWLH3UIwoWRA",
-      "durationSec": 300,
-      "publishedAt": "2026-07-27T14:00:09Z",
-      "topics": [
-        "science"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/MM_xzNnJePo/hqdefault.jpg"
-    },
-    {
-      "id": "Nr-f9M1HHFo",
-      "title": "Braindead Flat Earthers Have to Give Me $200,000!",
-      "channel": "Professor Dave Explains",
-      "channelId": "UC0cd_-e49hZpWLH3UIwoWRA",
-      "durationSec": 1070,
-      "publishedAt": "2026-07-24T14:00:01Z",
-      "topics": [
-        "science"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/Nr-f9M1HHFo/hqdefault.jpg"
     },
     {
       "id": "BjyJlN1npdw",
@@ -56981,23 +57080,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/mfVPfMpC_60/hqdefault.jpg"
-    },
-    {
-      "id": "MoPEyQrChdg",
-      "title": "How Chewing May Have Beat Extinction",
-      "channel": "PBS Eons",
-      "channelId": "UCzR-rom72PHN9Zg7RML9EbA",
-      "durationSec": 686,
-      "publishedAt": "2025-11-18T15:00:45Z",
-      "topics": [
-        "history",
-        "science",
-        "animals"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/MoPEyQrChdg/hqdefault.jpg"
     },
     {
       "id": "-BoprWYCTiM",
@@ -68147,6 +68229,21 @@
       "thumbnail": "https://i.ytimg.com/vi/A_zQKW8ipL4/hqdefault.jpg"
     },
     {
+      "id": "TF6aMLxjZ6Q",
+      "title": "Asking Geologists Which Ancient Time Period They'd Visit & Why | GSA Connects 2026",
+      "channel": "GEO GIRL",
+      "channelId": "UC5uH43CVzGWg9XGYGuLwI_w",
+      "durationSec": 944,
+      "publishedAt": "2026-10-21T13:30:30Z",
+      "topics": [
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/TF6aMLxjZ6Q/hqdefault.jpg"
+    },
+    {
       "id": "61DcsRo_6Pw",
       "title": "The Truth About Iceland's Silfra Fissure... Is it Really the Boundary Between Tectonic Plates?",
       "channel": "GEO GIRL",
@@ -68867,19 +68964,20 @@
       "thumbnail": "https://i.ytimg.com/vi/70Gi2rxpGe4/hqdefault.jpg"
     },
     {
-      "id": "hq2A1LLCYKk",
-      "title": "Addressing The ‘Gray Areas’ of Geology & The Importance of Mining For Our Future | GEO GIRL",
-      "channel": "GEO GIRL",
-      "channelId": "UC5uH43CVzGWg9XGYGuLwI_w",
-      "durationSec": 650,
-      "publishedAt": "2025-08-24T13:30:40Z",
+      "id": "PEGadl5ZvcY",
+      "title": "Two Large Earthquakes Struck the Center of the Atlantic Ocean; Geologist Analysis",
+      "channel": "GeologyHub",
+      "channelId": "UCYeGh5VML5XPr5jYnzh3J6g",
+      "durationSec": 251,
+      "publishedAt": "2026-10-20T19:00:08Z",
       "topics": [
-        "science"
+        "science",
+        "geography"
       ],
       "profiles": [
         "big"
       ],
-      "thumbnail": "https://i.ytimg.com/vi/hq2A1LLCYKk/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/PEGadl5ZvcY/hqdefault.jpg"
     },
     {
       "id": "B7xPN33kJbk",
@@ -69648,22 +69746,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/7mDmXOP-Gr0/hqdefault.jpg"
-    },
-    {
-      "id": "ZKNaaQApnqg",
-      "title": "The Lake Created by an Earthquake in Washington; Lena Lake",
-      "channel": "GeologyHub",
-      "channelId": "UCYeGh5VML5XPr5jYnzh3J6g",
-      "durationSec": 285,
-      "publishedAt": "2026-08-06T19:00:22Z",
-      "topics": [
-        "science",
-        "geography"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/ZKNaaQApnqg/hqdefault.jpg"
     },
     {
       "id": "FAtDe1jyVsc",
@@ -74067,7 +74149,7 @@
     },
     {
       "id": "qEV9qoup2mQ",
-      "title": "Someone Dead Ruined My Life… Again.",
+      "title": "Alexander Pope Wrote a 35-Page Takedown of a Historian",
       "channel": "CGP Grey",
       "channelId": "UC2C_jShtL725hvbm1arSV9w",
       "durationSec": 1292,
@@ -75714,6 +75796,22 @@
       "thumbnail": "https://i.ytimg.com/vi/GJkgDBXKdCs/hqdefault.jpg"
     },
     {
+      "id": "N6-4EYfI_JQ",
+      "title": "Stop Wasting Money: Smart Spending for Teens",
+      "channel": "Biz Kid$ (TV Series)",
+      "channelId": "UCufmiGK0I_9g_iwUR-E8mwA",
+      "durationSec": 1727,
+      "publishedAt": "2026-10-20T15:00:13Z",
+      "topics": [
+        "maths",
+        "making"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/N6-4EYfI_JQ/hqdefault.jpg"
+    },
+    {
       "id": "xUcjWtKlH3A",
       "title": "Are You Financially Literate?! Watch This To Find Out!",
       "channel": "Biz Kid$ (TV Series)",
@@ -76372,7 +76470,7 @@
     },
     {
       "id": "Iov84vnk8Kw",
-      "title": "Credit Scores Explained: 5 Factors That Affect Your Score",
+      "title": "Credit Score Explained: The 5 Things That Actually Move It",
       "channel": "Easy Peasy Finance",
       "channelId": "UCZl9ry5ew_2YeCQ6ECk8sxA",
       "durationSec": 229,
@@ -76777,6 +76875,22 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/FDhx6EMGX3I/hqdefault.jpg"
+    },
+    {
+      "id": "UoCBmUoc8AY",
+      "title": "Dinos A to Z: Jaxartosaurus | Learn interesting facts about the \"Jaxartes river lizard\"",
+      "channel": "Learn Bright",
+      "channelId": "UCKCsVSA5THlkHbnkZTPm6-g",
+      "durationSec": 203,
+      "publishedAt": "2026-10-20T15:00:23Z",
+      "topics": [
+        "maths",
+        "history"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/UoCBmUoc8AY/hqdefault.jpg"
     },
     {
       "id": "tayoxQOk3VA",
@@ -77337,22 +77451,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/xarGfpiEvaU/hqdefault.jpg"
-    },
-    {
-      "id": "uL2OAuCRbko",
-      "title": "ASL Dinos A to Z: Iguanodon",
-      "channel": "Learn Bright",
-      "channelId": "UCKCsVSA5THlkHbnkZTPm6-g",
-      "durationSec": 213,
-      "publishedAt": "2026-06-19T16:53:02Z",
-      "topics": [
-        "maths",
-        "history"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/uL2OAuCRbko/hqdefault.jpg"
     },
     {
       "id": "13QmHYfWf5g",
@@ -82926,6 +83024,22 @@
       "thumbnail": "https://i.ytimg.com/vi/H2hJNAqpsQM/hqdefault.jpg"
     },
     {
+      "id": "59jEw5qUfvE",
+      "title": "Quack Goes Nuts | Peep and the Big Wide World",
+      "channel": "Peep and the Big Wide World",
+      "channelId": "UCPq6g4Q4-SFMIJ048IXmupA",
+      "durationSec": 645,
+      "publishedAt": "2026-10-20T15:00:08Z",
+      "topics": [
+        "science",
+        "nature"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/59jEw5qUfvE/hqdefault.jpg"
+    },
+    {
       "id": "6CDhjhzKkKc",
       "title": "The Feats of Peep | Peep and the Big Wide World",
       "channel": "Peep and the Big Wide World",
@@ -83710,22 +83824,6 @@
       "thumbnail": "https://i.ytimg.com/vi/y8GtaVsfNzM/hqdefault.jpg"
     },
     {
-      "id": "GNsMuwpgiag",
-      "title": "The Many Moons of Quack the Duck | Peep and the Big Wide World",
-      "channel": "Peep and the Big Wide World",
-      "channelId": "UCPq6g4Q4-SFMIJ048IXmupA",
-      "durationSec": 645,
-      "publishedAt": "2026-09-03T15:00:28Z",
-      "topics": [
-        "science",
-        "nature"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/GNsMuwpgiag/hqdefault.jpg"
-    },
-    {
       "id": "xJ6_dnaEYbM",
       "title": "Let's visit a hockey game! | Behind the scenes at the @NHL | Super Simple Play",
       "channel": "Super Simple Play with Caitie!",
@@ -84012,6 +84110,23 @@
         "little"
       ],
       "thumbnail": "https://i.ytimg.com/vi/UVjqZqgx5NU/hqdefault.jpg"
+    },
+    {
+      "id": "NvU5NbO_F8A",
+      "title": "Wild Kratts SCARIEST Creatures 🎃 Halloween FULL EPISODE MARATHON 🦒",
+      "channel": "Wild Kratts",
+      "channelId": "UCxEmDFo1yUbbxjEb9RjitVA",
+      "durationSec": 868,
+      "publishedAt": "2026-10-20T17:08:08Z",
+      "topics": [
+        "animals",
+        "nature"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/NvU5NbO_F8A/hqdefault.jpg"
     },
     {
       "id": "SxephKrRftA",
@@ -84711,21 +84826,40 @@
       "thumbnail": "https://i.ytimg.com/vi/JaXnAbcDPhw/hqdefault.jpg"
     },
     {
-      "id": "wV5vN1mZgfM",
-      "title": "Ravens Mimicking Sounds | Creature Facts | Wild Kratts",
-      "channel": "Wild Kratts",
-      "channelId": "UCxEmDFo1yUbbxjEb9RjitVA",
-      "durationSec": 3894,
-      "publishedAt": "2026-03-24T13:01:41Z",
+      "id": "bex3QBFbrUY",
+      "title": "Deep Dive w/ Tim: CircuitPython audiotap module, FT8 Receiver, Fruit Jam Web Workflow",
+      "channel": "Adafruit Industries",
+      "channelId": "UCpOlOeQjj7EsVnDh3zuCgsA",
+      "durationSec": 3619,
+      "publishedAt": "2026-10-21T04:52:14Z",
       "topics": [
-        "animals",
-        "nature"
+        "making",
+        "tech",
+        "engineering",
+        "coding"
       ],
       "profiles": [
-        "little",
         "big"
       ],
-      "thumbnail": "https://i.ytimg.com/vi/wV5vN1mZgfM/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/bex3QBFbrUY/hqdefault.jpg"
+    },
+    {
+      "id": "fz6NjFim0Ns",
+      "title": "JP’s Product Pick of the Week 10/20/26",
+      "channel": "Adafruit Industries",
+      "channelId": "UCpOlOeQjj7EsVnDh3zuCgsA",
+      "durationSec": 971,
+      "publishedAt": "2026-10-20T21:12:56Z",
+      "topics": [
+        "making",
+        "tech",
+        "engineering",
+        "coding"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/fz6NjFim0Ns/hqdefault.jpg"
     },
     {
       "id": "la1iIbv9ZfY",
@@ -85014,60 +85148,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/wUnGCnqM1Q4/hqdefault.jpg"
-    },
-    {
-      "id": "V3sjxf0XkLQ",
-      "title": "Build a pepper’s ghost effect of an animated eyeball #adafruit #3dprinting",
-      "channel": "Adafruit Industries",
-      "channelId": "UCpOlOeQjj7EsVnDh3zuCgsA",
-      "durationSec": 120,
-      "publishedAt": "2026-10-07T12:04:55Z",
-      "topics": [
-        "making",
-        "tech",
-        "engineering",
-        "coding"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/V3sjxf0XkLQ/hqdefault.jpg"
-    },
-    {
-      "id": "_p5xFp25KEU",
-      "title": "JP’s Product Pick of the Week 10/6/26",
-      "channel": "Adafruit Industries",
-      "channelId": "UCpOlOeQjj7EsVnDh3zuCgsA",
-      "durationSec": 1231,
-      "publishedAt": "2026-10-07T07:24:47Z",
-      "topics": [
-        "making",
-        "tech",
-        "engineering",
-        "coding"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/_p5xFp25KEU/hqdefault.jpg"
-    },
-    {
-      "id": "LDQwzwCyZqI",
-      "title": "Deep Dive w/ Tim: CircuitPython USB Host Bulk In Support for SDR",
-      "channel": "Adafruit Industries",
-      "channelId": "UCpOlOeQjj7EsVnDh3zuCgsA",
-      "durationSec": 3728,
-      "publishedAt": "2026-10-07T04:06:36Z",
-      "topics": [
-        "making",
-        "tech",
-        "engineering",
-        "coding"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/LDQwzwCyZqI/hqdefault.jpg"
     },
     {
       "id": "dP_i7hRvGpE",
@@ -86772,80 +86852,12 @@
       "thumbnail": "https://i.ytimg.com/vi/Np1Ixd7FWzI/hqdefault.jpg"
     },
     {
-      "id": "0CM80AVmnfE",
-      "title": "Halloween Kids Yoga LIVE! Cosmic Kids Halloween Adventure Compilation 👻✨",
-      "channel": "Cosmic Kids Yoga",
-      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
-      "durationSec": 42932,
-      "publishedAt": "2026-10-20T01:59:04Z",
-      "topics": [
-        "reading",
-        "nature"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/0CM80AVmnfE/hqdefault.jpg"
-    },
-    {
-      "id": "ZjDzqooKf44",
-      "title": "Kids Yoga LIVE 🌟 | Fun Yoga Adventures & Movement for Kids",
-      "channel": "Cosmic Kids Yoga",
-      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
-      "durationSec": 42900,
-      "publishedAt": "2026-10-20T03:28:32Z",
-      "topics": [
-        "reading",
-        "nature"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/ZjDzqooKf44/hqdefault.jpg"
-    },
-    {
-      "id": "Vc_HrosS7lE",
-      "title": "Halloween Kids Yoga LIVE! Cosmic Kids Halloween Adventure Compilation 👻✨",
-      "channel": "Cosmic Kids Yoga",
-      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
-      "durationSec": 42897,
-      "publishedAt": "2026-10-20T02:24:32Z",
-      "topics": [
-        "reading",
-        "nature"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/Vc_HrosS7lE/hqdefault.jpg"
-    },
-    {
-      "id": "NuVH56Z5fFA",
-      "title": "Kids Yoga LIVE 🌟 | Fun Yoga Adventures & Movement for Kids",
-      "channel": "Cosmic Kids Yoga",
-      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
-      "durationSec": 42899,
-      "publishedAt": "2026-10-19T15:29:07Z",
-      "topics": [
-        "reading",
-        "nature"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/NuVH56Z5fFA/hqdefault.jpg"
-    },
-    {
-      "id": "5HxuP9aa9mQ",
+      "id": "t_7XOpCBK20",
       "title": "Halloween Kids Yoga LIVE! Cosmic Kids Halloween Adventure Compilation 👻✨",
       "channel": "Cosmic Kids Yoga",
       "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
       "durationSec": 42898,
-      "publishedAt": "2026-10-19T14:25:45Z",
+      "publishedAt": "2026-10-21T01:59:04Z",
       "topics": [
         "reading",
         "nature"
@@ -86854,7 +86866,24 @@
         "little",
         "big"
       ],
-      "thumbnail": "https://i.ytimg.com/vi/5HxuP9aa9mQ/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/t_7XOpCBK20/hqdefault.jpg"
+    },
+    {
+      "id": "Q4fyzEm0bOQ",
+      "title": "Mischievous Moles | Jaime's Yoga Adventures! | Kids Animated Yoga",
+      "channel": "Cosmic Kids Yoga",
+      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
+      "durationSec": 907,
+      "publishedAt": "2026-10-20T15:00:33Z",
+      "topics": [
+        "reading",
+        "nature"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/Q4fyzEm0bOQ/hqdefault.jpg"
     },
     {
       "id": "wUcqBo4Tbks",
@@ -87911,6 +87940,22 @@
       "thumbnail": "https://i.ytimg.com/vi/Ilr2DjYOfqA/hqdefault.jpg"
     },
     {
+      "id": "LfJpqzOOPUY",
+      "title": "Pumpkin Songs with Elmo & Friends! 🎃 🎃 | 20 Mins | Sesame Street",
+      "channel": "Sesame Street",
+      "channelId": "UCoookXUzPciGrEZEXmh4Jjg",
+      "durationSec": 1256,
+      "publishedAt": "2026-10-21T11:30:32Z",
+      "topics": [
+        "reading",
+        "music"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/LfJpqzOOPUY/hqdefault.jpg"
+    },
+    {
       "id": "L_Few-yESmo",
       "title": "Halloween Costume Ideas with Elmo, Cookie Monster, and Abby! 👻 🦇  | 50 Mins | Sesame Street",
       "channel": "Sesame Street",
@@ -88375,20 +88420,19 @@
       "thumbnail": "https://i.ytimg.com/vi/3bSc019PvpM/hqdefault.jpg"
     },
     {
-      "id": "mIXu9K24g30",
-      "title": "Go for the Gold 🌟(Golden Parody) | Sesame Street Songs",
-      "channel": "Sesame Street",
-      "channelId": "UCoookXUzPciGrEZEXmh4Jjg",
-      "durationSec": 185,
-      "publishedAt": "2026-08-19T11:30:20Z",
+      "id": "LJUXDY5gMaM",
+      "title": "Climate Scientist Watches Digger Movie (so you don't have to)",
+      "channel": "ClimateAdam",
+      "channelId": "UCCu5wtZ5uOWZp_roz7wHPfg",
+      "durationSec": 960,
+      "publishedAt": "2026-10-21T12:40:20Z",
       "topics": [
-        "reading",
-        "music"
+        "science"
       ],
       "profiles": [
-        "little"
+        "big"
       ],
-      "thumbnail": "https://i.ytimg.com/vi/mIXu9K24g30/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/LJUXDY5gMaM/hqdefault.jpg"
     },
     {
       "id": "8agZXq6PWwU",
@@ -88719,21 +88763,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/ClZGMeiFT6w/hqdefault.jpg"
-    },
-    {
-      "id": "9MmqKEkOtwo",
-      "title": "Climate Scientist Responds to Bill Gates",
-      "channel": "ClimateAdam",
-      "channelId": "UCCu5wtZ5uOWZp_roz7wHPfg",
-      "durationSec": 1209,
-      "publishedAt": "2025-11-05T15:38:36Z",
-      "topics": [
-        "science"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/9MmqKEkOtwo/hqdefault.jpg"
     },
     {
       "id": "on9QyDkbnJk",
