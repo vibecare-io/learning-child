@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-24T12:59:05.128Z",
+  "generatedAt": "2026-10-25T13:25:34.715Z",
   "profiles": {
     "little": {
       "label": "Ages 3-7"
@@ -131,6 +131,38 @@
       "thumbnail": "https://i.ytimg.com/vi/kKqd0_cydZM/hqdefault.jpg"
     },
     {
+      "id": "iZooMGvvZdo",
+      "title": "Lost Treasures of Egypt Full Episode | Building the Pyramids | Nat Geo Kids",
+      "channel": "Nat Geo Kids",
+      "channelId": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "durationSec": 1773,
+      "publishedAt": "2026-10-25T12:00:06Z",
+      "topics": [
+        "animals",
+        "science"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/iZooMGvvZdo/hqdefault.jpg"
+    },
+    {
+      "id": "DLRdkTUJ-kY",
+      "title": "Sea Otters: Tiny Guardians of a Giant Ocean Forest! 🦦🌿 Animal Card Quest | Nat Geo Kids",
+      "channel": "Nat Geo Kids",
+      "channelId": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "durationSec": 364,
+      "publishedAt": "2026-10-24T15:00:24Z",
+      "topics": [
+        "animals",
+        "science"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/DLRdkTUJ-kY/hqdefault.jpg"
+    },
+    {
       "id": "Xakbw3sQcd0",
       "title": "Loki Turns into a Bird to Fix His Mess | Greeking Out Podcast | S5 E4 FULL EP | Nat Geo Kids",
       "channel": "Nat Geo Kids",
@@ -179,22 +211,6 @@
       "thumbnail": "https://i.ytimg.com/vi/9q3uiSeT80M/hqdefault.jpg"
     },
     {
-      "id": "aASWMaa5ZU8",
-      "title": "The Most Freaky and Amazing Animals in the World🦇 | Compilation | Nat Geo Kids",
-      "channel": "Nat Geo Kids",
-      "channelId": "UCXVCgDuD_QCkI7gTKU7-tpg",
-      "durationSec": 1335,
-      "publishedAt": "2026-10-19T11:00:04Z",
-      "topics": [
-        "animals",
-        "science"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/aASWMaa5ZU8/hqdefault.jpg"
-    },
-    {
       "id": "bPzs8S3UB9Q",
       "title": "How To Draw A Vampire Bat Holding A Pumpkin",
       "channel": "Art for Kids Hub",
@@ -223,6 +239,21 @@
         "little"
       ],
       "thumbnail": "https://i.ytimg.com/vi/yjuQptALLzM/hqdefault.jpg"
+    },
+    {
+      "id": "4z0jCz7e_s4",
+      "title": "Spooky Cartoons for a Halloween Night | Halloween Math for Kids Compilation | Numberblocks",
+      "channel": "Numberblocks",
+      "channelId": "UCPlwvN0w4qFSP1FllALB92w",
+      "durationSec": 4073,
+      "publishedAt": "2026-10-25T11:00:05Z",
+      "topics": [
+        "maths"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/4z0jCz7e_s4/hqdefault.jpg"
     },
     {
       "id": "T-C1wF41baU",
@@ -654,6 +685,25 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/0NY2gAftzJE/hqdefault.jpg"
+    },
+    {
+      "id": "26P1KyvrmjI",
+      "title": "I Solved Every Board Game",
+      "channel": "Mark Rober",
+      "channelId": "UCY1kMZp36IQSyNx_9h4mpCg",
+      "durationSec": 1734,
+      "publishedAt": "2026-10-24T13:00:22Z",
+      "topics": [
+        "science",
+        "engineering"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "flags": [
+        "supervision"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/26P1KyvrmjI/hqdefault.jpg"
     },
     {
       "id": "_L1Rim7-IPo",
@@ -3537,6 +3587,21 @@
       "thumbnail": "https://i.ytimg.com/vi/LLlghvxVoH0/hqdefault.jpg"
     },
     {
+      "id": "WzHKEXc-8f4",
+      "title": "The Sun Is the Wrong Color",
+      "channel": "The Action Lab",
+      "channelId": "UC1VLQPn9cYSqx8plbk9RxxQ",
+      "durationSec": 628,
+      "publishedAt": "2026-10-24T15:02:18Z",
+      "topics": [
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/WzHKEXc-8f4/hqdefault.jpg"
+    },
+    {
       "id": "jXzARHsTBQY",
       "title": "This Ring of Plasma Could Change the World",
       "channel": "The Action Lab",
@@ -4240,21 +4305,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/F2M2aRXI8lc/hqdefault.jpg"
-    },
-    {
-      "id": "_u8kZWBU78g",
-      "title": "Add This To Water To Make It Not Splash!",
-      "channel": "The Action Lab",
-      "channelId": "UC1VLQPn9cYSqx8plbk9RxxQ",
-      "durationSec": 441,
-      "publishedAt": "2025-09-19T15:03:00Z",
-      "topics": [
-        "science"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/_u8kZWBU78g/hqdefault.jpg"
     },
     {
       "id": "YgoiujmwLKI",
@@ -11695,6 +11745,23 @@
       "thumbnail": "https://i.ytimg.com/vi/jb9OPM1tUfk/hqdefault.jpg"
     },
     {
+      "id": "aXSZlJ-BZRY",
+      "title": "How to Draw Quaxly Duck | Pokemon",
+      "channel": "Draw So Cute",
+      "channelId": "UC3dEvA1is6-0_yuei9iCdEw",
+      "durationSec": 549,
+      "publishedAt": "2026-10-24T16:00:15Z",
+      "topics": [
+        "art",
+        "making"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/aXSZlJ-BZRY/hqdefault.jpg"
+    },
+    {
       "id": "1J5D8BqU2LA",
       "title": "How to Draw Pikachu Halloween Trick or Treat 🎃 Pokemon",
       "channel": "Draw So Cute",
@@ -12528,23 +12595,6 @@
       "thumbnail": "https://i.ytimg.com/vi/HuYvn-Zaq0o/hqdefault.jpg"
     },
     {
-      "id": "Nfnpdg68G2I",
-      "title": "How to Draw a Cup of Shave Ice 🍧 Cute Summer Drawing",
-      "channel": "Draw So Cute",
-      "channelId": "UC3dEvA1is6-0_yuei9iCdEw",
-      "durationSec": 365,
-      "publishedAt": "2026-07-27T17:47:02Z",
-      "topics": [
-        "art",
-        "making"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/Nfnpdg68G2I/hqdefault.jpg"
-    },
-    {
       "id": "MB7wxd8Bz18",
       "title": "Learn to Draw Super Simple Characters! Finny the Shark, The Bumble Nums, & More!",
       "channel": "Super Simple Draw! - How To Draw for Kids",
@@ -13343,6 +13393,22 @@
         "little"
       ],
       "thumbnail": "https://i.ytimg.com/vi/m6KAfSgFaAM/hqdefault.jpg"
+    },
+    {
+      "id": "sLs3pjmbByY",
+      "title": "How to Draw Iron Man | Sketch Saturday",
+      "channel": "Cartooning Club How to Draw",
+      "channelId": "UC-biucJWhM8HwjsQ96uoIUw",
+      "durationSec": 1625,
+      "publishedAt": "2026-10-24T14:00:20Z",
+      "topics": [
+        "art",
+        "making"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/sLs3pjmbByY/hqdefault.jpg"
     },
     {
       "id": "6kjFzL8nAAI",
@@ -18748,23 +18814,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/F3_oZc2eyqs/hqdefault.jpg"
-    },
-    {
-      "id": "D0cnM1txpYA",
-      "title": "Isopods Perched on Glass Sponges in Deep Sea | Nautilus Live",
-      "channel": "EVNautilus",
-      "channelId": "UC1KOOWHthbQVXH2kZue3_xA",
-      "durationSec": 132,
-      "publishedAt": "2026-08-28T19:00:30Z",
-      "topics": [
-        "nature",
-        "exploration"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/D0cnM1txpYA/hqdefault.jpg"
     },
     {
       "id": "L3VFCgVN3WQ",
@@ -27901,22 +27950,6 @@
       "thumbnail": "https://i.ytimg.com/vi/HWSlI9HZqZQ/hqdefault.jpg"
     },
     {
-      "id": "lqO1QxAvX6U",
-      "title": "Historian plays Samurai games | Nioh 3, Ghost of Tsushima, Assassin's Creed, Nobunaga's Ambition",
-      "channel": "The British Museum",
-      "channelId": "UCvpQ-l09fCVxJd3urZbxzHg",
-      "durationSec": 3117,
-      "publishedAt": "2026-02-19T16:33:47Z",
-      "topics": [
-        "history",
-        "art"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/lqO1QxAvX6U/hqdefault.jpg"
-    },
-    {
       "id": "6z46ZAOBjfE",
       "title": "Can Arabic speakers read Persian? (clip 3)",
       "channel": "Langfocus",
@@ -30855,6 +30888,21 @@
       "thumbnail": "https://i.ytimg.com/vi/qrwiX7Dc60Q/hqdefault.jpg"
     },
     {
+      "id": "kbxt9dljNgc",
+      "title": "Halloween Let's Spell Together | Halloween Cartoons - Learn to Read & Spell for Kids | Alphablocks",
+      "channel": "Alphablocks",
+      "channelId": "UC_qs3c0ehDvZkbiEbOj6Drg",
+      "durationSec": 1235,
+      "publishedAt": "2026-10-25T12:00:37Z",
+      "topics": [
+        "reading"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/kbxt9dljNgc/hqdefault.jpg"
+    },
+    {
       "id": "3bepWxmLSKg",
       "title": "The Wonderful Wizard of Az - An Alphalocks Dress Up Special | Halloween Cartoons | Alphablocks",
       "channel": "Alphablocks",
@@ -31408,21 +31456,6 @@
         "little"
       ],
       "thumbnail": "https://i.ytimg.com/vi/-1WEie8vWIs/hqdefault.jpg"
-    },
-    {
-      "id": "e33JKhyvT-c",
-      "title": "Super Saturday Morning Cartoons | Learn to Read and Spell for Kids Compilation | Alphablocks",
-      "channel": "Alphablocks",
-      "channelId": "UC_qs3c0ehDvZkbiEbOj6Drg",
-      "durationSec": 2444,
-      "publishedAt": "2026-08-01T05:00:27Z",
-      "topics": [
-        "reading"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/e33JKhyvT-c/hqdefault.jpg"
     },
     {
       "id": "ZX-l4-C8rQo",
@@ -32913,6 +32946,21 @@
       "thumbnail": "https://i.ytimg.com/vi/kX0eBdgEP2w/hqdefault.jpg"
     },
     {
+      "id": "iP6n2zTHtUQ",
+      "title": "Some countries have the wrong name.",
+      "channel": "RobWords",
+      "channelId": "UC4a9LfdavRlVMaSSWFdIciA",
+      "durationSec": 1283,
+      "publishedAt": "2026-10-24T13:00:25Z",
+      "topics": [
+        "reading"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/iP6n2zTHtUQ/hqdefault.jpg"
+    },
+    {
       "id": "8Wx_lDqbM-Y",
       "title": "The rest of the world does names differently.",
       "channel": "RobWords",
@@ -33541,21 +33589,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/2Pcv2ySMi40/hqdefault.jpg"
-    },
-    {
-      "id": "6lhxxiqqlQY",
-      "title": "The weirdest things about English",
-      "channel": "RobWords",
-      "channelId": "UC4a9LfdavRlVMaSSWFdIciA",
-      "durationSec": 1298,
-      "publishedAt": "2024-05-25T13:00:06Z",
-      "topics": [
-        "reading"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/6lhxxiqqlQY/hqdefault.jpg"
     },
     {
       "id": "jpcmKWAmXx4",
@@ -35244,22 +35277,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/xs24-pSdDb4/hqdefault.jpg"
-    },
-    {
-      "id": "AWq1ZCONokg",
-      "title": "Create Epic Explosions! 💥 Geometry Dash in Scratch #4",
-      "channel": "griffpatch",
-      "channelId": "UCawsI_mlmPA7Cfld-qZhBQA",
-      "durationSec": 920,
-      "publishedAt": "2023-09-30T08:18:17Z",
-      "topics": [
-        "coding",
-        "making"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/AWq1ZCONokg/hqdefault.jpg"
     },
     {
       "id": "t_QuHSwB0HY",
@@ -40790,6 +40807,22 @@
       "thumbnail": "https://i.ytimg.com/vi/fgQH8wKcDuM/hqdefault.jpg"
     },
     {
+      "id": "yTJXEV0BgaU",
+      "title": "What You Can't Advertise on the Tube",
+      "channel": "Jago Hazzard",
+      "channelId": "UCcHuNKYzVMc06FXqsBEAV3A",
+      "durationSec": 685,
+      "publishedAt": "2026-10-25T12:00:33Z",
+      "topics": [
+        "history",
+        "geography"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/yTJXEV0BgaU/hqdefault.jpg"
+    },
+    {
       "id": "jPac4h8euuE",
       "title": "Train Station or Railway Station?",
       "channel": "Jago Hazzard",
@@ -41572,22 +41605,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/ghJLEJju4-A/hqdefault.jpg"
-    },
-    {
-      "id": "HIsYxths51Y",
-      "title": "Trains on Film: Get Carter",
-      "channel": "Jago Hazzard",
-      "channelId": "UCcHuNKYzVMc06FXqsBEAV3A",
-      "durationSec": 572,
-      "publishedAt": "2026-07-01T16:30:26Z",
-      "topics": [
-        "history",
-        "geography"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/HIsYxths51Y/hqdefault.jpg"
     },
     {
       "id": "CMf9_p3ywiA",
@@ -45769,6 +45786,22 @@
       "thumbnail": "https://i.ytimg.com/vi/PMXPyOXXG40/hqdefault.jpg"
     },
     {
+      "id": "IDAU8_c0Oow",
+      "title": "NOBEL PRIZE FOR NEUTRINOS! #shorts",
+      "channel": "Dr. Becky",
+      "channelId": "UCYNbYGl89UUowy8oXkipC-Q",
+      "durationSec": 168,
+      "publishedAt": "2026-10-24T17:00:39Z",
+      "topics": [
+        "space",
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/IDAU8_c0Oow/hqdefault.jpg"
+    },
+    {
       "id": "i7YzzE6A26g",
       "title": "Why neutrino astronomy won the Nobel Prize | Night Sky News October 2026",
       "channel": "Dr. Becky",
@@ -46135,22 +46168,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/5rcvBHwA-zg/hqdefault.jpg"
-    },
-    {
-      "id": "Rr52wOlyOaM",
-      "title": "The most studied star system in astronomy has been hiding something... | Night Sky News July 2026",
-      "channel": "Dr. Becky",
-      "channelId": "UCYNbYGl89UUowy8oXkipC-Q",
-      "durationSec": 1546,
-      "publishedAt": "2026-07-23T19:00:04Z",
-      "topics": [
-        "space",
-        "science"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/Rr52wOlyOaM/hqdefault.jpg"
     },
     {
       "id": "e4MrrwGOs2o",
@@ -48077,6 +48094,21 @@
       "thumbnail": "https://i.ytimg.com/vi/jvebwDXmBSw/hqdefault.jpg"
     },
     {
+      "id": "5hKz_Qqo6hk",
+      "title": "More Elephant Graveyard Awesomeness",
+      "channel": "Professor Dave Explains",
+      "channelId": "UC0cd_-e49hZpWLH3UIwoWRA",
+      "durationSec": 7949,
+      "publishedAt": "2026-10-24T14:00:05Z",
+      "topics": [
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/5hKz_Qqo6hk/hqdefault.jpg"
+    },
+    {
       "id": "XW4D6NguJmA",
       "title": "Recent News in Artificial Intelligence: Critical Analysis (Featuring Connor Leahy)",
       "channel": "Professor Dave Explains",
@@ -48812,21 +48844,6 @@
       "thumbnail": "https://i.ytimg.com/vi/EO-yGnYNcEc/hqdefault.jpg"
     },
     {
-      "id": "d5jOYIbt6Rk",
-      "title": "Introduction to the Apollo Program",
-      "channel": "Professor Dave Explains",
-      "channelId": "UC0cd_-e49hZpWLH3UIwoWRA",
-      "durationSec": 1561,
-      "publishedAt": "2026-07-31T14:00:02Z",
-      "topics": [
-        "science"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/d5jOYIbt6Rk/hqdefault.jpg"
-    },
-    {
       "id": "BjyJlN1npdw",
       "title": "Why Grow A Garden Blew Up",
       "channel": "AlvinBlox",
@@ -49407,7 +49424,7 @@
       "title": "UserInputService - Roblox Scripting Tutorial",
       "channel": "AlvinBlox",
       "channelId": "UCp1R0TBvgM7gj0rwTYULmSA",
-      "durationSec": 392,
+      "durationSec": 393,
       "publishedAt": "2024-05-13T17:00:36Z",
       "topics": [
         "coding",
@@ -59529,6 +59546,21 @@
       "thumbnail": "https://i.ytimg.com/vi/Fjseik9MVtY/hqdefault.jpg"
     },
     {
+      "id": "vNRuS7f3MtI",
+      "title": "\"Does This Look Like A...?\" - 20 DESIGNS 1 TATTOO",
+      "channel": "Kasey The Golden",
+      "channelId": "UCNwJz8-bLJge72TzJu4ARUA",
+      "durationSec": 1254,
+      "publishedAt": "2026-10-24T16:21:19Z",
+      "topics": [
+        "art"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/vNRuS7f3MtI/hqdefault.jpg"
+    },
+    {
       "id": "gS4rmS0y4q4",
       "title": "Bursting Into Flames - 20 DESIGNS 1 TATTOO",
       "channel": "Kasey The Golden",
@@ -60247,21 +60279,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/9e6oxpWFezk/hqdefault.jpg"
-    },
-    {
-      "id": "YhxCIlpNYBw",
-      "title": "Said I Would NEVER Do This Again... PAINTING ON THRIFT ART",
-      "channel": "Kasey The Golden",
-      "channelId": "UCNwJz8-bLJge72TzJu4ARUA",
-      "durationSec": 1008,
-      "publishedAt": "2024-07-20T19:20:28Z",
-      "topics": [
-        "art"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/YhxCIlpNYBw/hqdefault.jpg"
     },
     {
       "id": "wtzzVe_jCoc",
@@ -65765,6 +65782,22 @@
       "thumbnail": "https://i.ytimg.com/vi/oF3z_tNVllU/hqdefault.jpg"
     },
     {
+      "id": "llny7tvk4gI",
+      "title": "6 Surprising Plants You Need to Start in November",
+      "channel": "GrowVeg",
+      "channelId": "UC9r61qohBg1qgGty4_WzojA",
+      "durationSec": 1107,
+      "publishedAt": "2026-10-24T14:45:15Z",
+      "topics": [
+        "nature",
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/llny7tvk4gI/hqdefault.jpg"
+    },
+    {
       "id": "564gIlxHMqI",
       "title": "Why Your Garlic is Always too Small (And What to do About it)",
       "channel": "GrowVeg",
@@ -66371,22 +66404,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/EGU9dojCDus/hqdefault.jpg"
-    },
-    {
-      "id": "VHsWZd27B3Y",
-      "title": "Smart Gardeners Sow These Seeds in Late Winter",
-      "channel": "GrowVeg",
-      "channelId": "UC9r61qohBg1qgGty4_WzojA",
-      "durationSec": 1160,
-      "publishedAt": "2026-01-24T18:15:21Z",
-      "topics": [
-        "nature",
-        "science"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/VHsWZd27B3Y/hqdefault.jpg"
     },
     {
       "id": "uZRzz3DjvoY",
@@ -69058,6 +69075,22 @@
       "thumbnail": "https://i.ytimg.com/vi/70Gi2rxpGe4/hqdefault.jpg"
     },
     {
+      "id": "kbUkBJ66qgo",
+      "title": "An Unusual M6.9 Earthquake Struck Vanuatu; Small Tsunami Generated",
+      "channel": "GeologyHub",
+      "channelId": "UCYeGh5VML5XPr5jYnzh3J6g",
+      "durationSec": 265,
+      "publishedAt": "2026-10-25T00:00:04Z",
+      "topics": [
+        "science",
+        "geography"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/kbUkBJ66qgo/hqdefault.jpg"
+    },
+    {
       "id": "O18hsMa49d4",
       "title": "Major M7.0 Earthquake Strikes China; Geologist Analysis",
       "channel": "GeologyHub",
@@ -69808,22 +69841,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/nFlrU-Js7dE/hqdefault.jpg"
-    },
-    {
-      "id": "f3D8W7h80hg",
-      "title": "Sinabung Volcano Update; A New Explosive Eruption is Likely",
-      "channel": "GeologyHub",
-      "channelId": "UCYeGh5VML5XPr5jYnzh3J6g",
-      "durationSec": 308,
-      "publishedAt": "2026-08-13T19:00:09Z",
-      "topics": [
-        "science",
-        "geography"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/f3D8W7h80hg/hqdefault.jpg"
     },
     {
       "id": "QmRIlho9j-0",
@@ -78384,6 +78401,22 @@
       "thumbnail": "https://i.ytimg.com/vi/AxksN1PIquE/hqdefault.jpg"
     },
     {
+      "id": "SJStoGtSfJE",
+      "title": "These Whales Exist. No One Has Ever Seen Them.",
+      "channel": "KPassionate",
+      "channelId": "UCUvSqEH92Fqn9uw1kmCfLGA",
+      "durationSec": 741,
+      "publishedAt": "2026-10-24T17:21:31Z",
+      "topics": [
+        "animals",
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/SJStoGtSfJE/hqdefault.jpg"
+    },
+    {
       "id": "nTMZeddHwOs",
       "title": "A Huge Sperm Whale Sank A Yacht! A Marine Biologist Reacts",
       "channel": "KPassionate",
@@ -79150,22 +79183,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/TnJVE2oNJH0/hqdefault.jpg"
-    },
-    {
-      "id": "IdUHZt8lsCA",
-      "title": "The Bizarre Truth About Ape Sign Language",
-      "channel": "KPassionate",
-      "channelId": "UCUvSqEH92Fqn9uw1kmCfLGA",
-      "durationSec": 482,
-      "publishedAt": "2024-03-23T13:45:01Z",
-      "topics": [
-        "animals",
-        "science"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/IdUHZt8lsCA/hqdefault.jpg"
     },
     {
       "id": "vsit2ZvNbNs",
@@ -80794,22 +80811,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/S8UKfTLqsGg/hqdefault.jpg"
-    },
-    {
-      "id": "IQrJry5baxA",
-      "title": "Top Physics Toys of the Week | Episode 10",
-      "channel": "physicsfun",
-      "channelId": "UCVs-1uGf7DWid0GNWgPWLzw",
-      "durationSec": 366,
-      "publishedAt": "2026-09-05T11:00:24Z",
-      "topics": [
-        "science"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/IQrJry5baxA/hqdefault.jpg"
     },
     {
       "id": "2zsBwnZlYRs",
@@ -86918,6 +86919,40 @@
       "thumbnail": "https://i.ytimg.com/vi/Np1Ixd7FWzI/hqdefault.jpg"
     },
     {
+      "id": "qZVbdXg85NM",
+      "title": "Kids Yoga LIVE 🌟 | Fun Yoga Adventures & Movement for Kids",
+      "channel": "Cosmic Kids Yoga",
+      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
+      "durationSec": 42899,
+      "publishedAt": "2026-10-25T05:46:39Z",
+      "topics": [
+        "reading",
+        "nature"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/qZVbdXg85NM/hqdefault.jpg"
+    },
+    {
+      "id": "_XMFbHJvRwg",
+      "title": "Kids Yoga LIVE 🌟 | Fun Yoga Adventures & Movement for Kids",
+      "channel": "Cosmic Kids Yoga",
+      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
+      "durationSec": 42899,
+      "publishedAt": "2026-10-24T18:16:07Z",
+      "topics": [
+        "reading",
+        "nature"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/_XMFbHJvRwg/hqdefault.jpg"
+    },
+    {
       "id": "tw0jvDDZgXk",
       "title": "Kids Yoga LIVE 🌟 | Fun Yoga Adventures & Movement for Kids",
       "channel": "Cosmic Kids Yoga",
@@ -88074,6 +88109,22 @@
       "thumbnail": "https://i.ytimg.com/vi/Ilr2DjYOfqA/hqdefault.jpg"
     },
     {
+      "id": "RlR2KbdWVwY",
+      "title": "Elmo's World: Sharing with Friends! 🌟 | 2 Hours | Sesame Street",
+      "channel": "Sesame Street",
+      "channelId": "UCoookXUzPciGrEZEXmh4Jjg",
+      "durationSec": 6747,
+      "publishedAt": "2026-10-25T11:30:14Z",
+      "topics": [
+        "reading",
+        "music"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/RlR2KbdWVwY/hqdefault.jpg"
+    },
+    {
       "id": "E6lZphlPfJ4",
       "title": "Elmo and his Bug Friends! 🐛 🦋 🐝| FOUR Sesame Street Full Episodes",
       "channel": "Sesame Street",
@@ -88520,22 +88571,6 @@
         "little"
       ],
       "thumbnail": "https://i.ytimg.com/vi/_GsWbzPUY2A/hqdefault.jpg"
-    },
-    {
-      "id": "0ll7MVpDJbQ",
-      "title": "Songs About Friendship with Abby & Elmo! ✨ | 32 Mins | Sesame Street",
-      "channel": "Sesame Street",
-      "channelId": "UCoookXUzPciGrEZEXmh4Jjg",
-      "durationSec": 1874,
-      "publishedAt": "2026-08-27T11:30:11Z",
-      "topics": [
-        "reading",
-        "music"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/0ll7MVpDJbQ/hqdefault.jpg"
     },
     {
       "id": "LJUXDY5gMaM",
