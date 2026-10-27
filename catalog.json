@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-26T15:35:20.431Z",
+  "generatedAt": "2026-10-27T14:59:43.909Z",
   "profiles": {
     "little": {
       "label": "Ages 3-7"
@@ -209,6 +209,21 @@
         "little"
       ],
       "thumbnail": "https://i.ytimg.com/vi/Gvmyc2yW_NM/hqdefault.jpg"
+    },
+    {
+      "id": "EcVNQhah89Q",
+      "title": "How To Draw A Scarecrow Folding Surprise",
+      "channel": "Art for Kids Hub",
+      "channelId": "UC5XMF3Inoi8R9nSI8ChOsdQ",
+      "durationSec": 756,
+      "publishedAt": "2026-10-26T15:35:37Z",
+      "topics": [
+        "art"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/EcVNQhah89Q/hqdefault.jpg"
     },
     {
       "id": "bPzs8S3UB9Q",
@@ -457,6 +472,21 @@
       "thumbnail": "https://i.ytimg.com/vi/Zh86i_azaQw/hqdefault.jpg"
     },
     {
+      "id": "SfRqo_trkNo",
+      "title": "How Many Times Can You Clone Your Clone?",
+      "channel": "SciShow",
+      "channelId": "UCZYTClx2T1of7BRZ86-8fow",
+      "durationSec": 634,
+      "publishedAt": "2026-10-26T17:00:31Z",
+      "topics": [
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/SfRqo_trkNo/hqdefault.jpg"
+    },
+    {
       "id": "cqDZt0BOlBI",
       "title": "The Plane Crash That Gave Us Cataract Surgery",
       "channel": "SciShow",
@@ -500,21 +530,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/p7Tb0GNawdM/hqdefault.jpg"
-    },
-    {
-      "id": "rk0O1xcuXQ4",
-      "title": "How the Black Market Saved Thousands of Cats",
-      "channel": "SciShow",
-      "channelId": "UCZYTClx2T1of7BRZ86-8fow",
-      "durationSec": 840,
-      "publishedAt": "2026-10-20T17:00:01Z",
-      "topics": [
-        "science"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/rk0O1xcuXQ4/hqdefault.jpg"
     },
     {
       "id": "LKrwhjOI8Nc",
@@ -6615,7 +6630,7 @@
     },
     {
       "id": "T9HLYPn59S4",
-      "title": "We Stared Into The Heart Of Our Galaxy. This Is What We Found.",
+      "title": "We're About to Discover Millions of New Planets",
       "channel": "Astrum",
       "channelId": "UC-9b7aDP6ZN0coj9-xFnrtw",
       "durationSec": 1347,
@@ -7728,22 +7743,20 @@
       "thumbnail": "https://i.ytimg.com/vi/hItlmfXZBQU/hqdefault.jpg"
     },
     {
-      "id": "jxQdW7COjLk",
-      "title": "Why Hives Turn Against Their Queens",
-      "channel": "MinuteEarth",
-      "channelId": "UCeiYXex_fwgYDonaTcSIk6w",
-      "durationSec": 224,
-      "publishedAt": "2026-01-22T18:05:55Z",
+      "id": "1ml47lVv5Vo",
+      "title": "Into the Night | Bat Week Read-Aloud for Kids | Khan Academy Kids",
+      "channel": "Khan Academy Kids",
+      "channelId": "UC2ri4rEb8abnNwXvTjg5ARw",
+      "durationSec": 259,
+      "publishedAt": "2026-10-27T14:28:26Z",
       "topics": [
-        "nature",
-        "science",
-        "geography"
+        "maths",
+        "reading"
       ],
       "profiles": [
-        "little",
-        "big"
+        "little"
       ],
-      "thumbnail": "https://i.ytimg.com/vi/jxQdW7COjLk/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/1ml47lVv5Vo/hqdefault.jpg"
     },
     {
       "id": "7ZYq-41Yfp8",
@@ -11762,6 +11775,23 @@
       "thumbnail": "https://i.ytimg.com/vi/jb9OPM1tUfk/hqdefault.jpg"
     },
     {
+      "id": "azVO5ocwrT8",
+      "title": "How to Draw Cute Girl in Pikachu Onesie | Pokemon Cosplay",
+      "channel": "Draw So Cute",
+      "channelId": "UC3dEvA1is6-0_yuei9iCdEw",
+      "durationSec": 750,
+      "publishedAt": "2026-10-27T14:00:15Z",
+      "topics": [
+        "art",
+        "making"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/azVO5ocwrT8/hqdefault.jpg"
+    },
+    {
       "id": "Z510j-kxLk0",
       "title": "How to Draw Virus | Deddy Bear",
       "channel": "Draw So Cute",
@@ -12595,23 +12625,6 @@
       "thumbnail": "https://i.ytimg.com/vi/2EVZrwxZ8Io/hqdefault.jpg"
     },
     {
-      "id": "Cv9WdApE3-k",
-      "title": "How to Draw Pusheen Shave Ice Dessert | Cute Summer Drawing",
-      "channel": "Draw So Cute",
-      "channelId": "UC3dEvA1is6-0_yuei9iCdEw",
-      "durationSec": 434,
-      "publishedAt": "2026-07-30T18:00:29Z",
-      "topics": [
-        "art",
-        "making"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/Cv9WdApE3-k/hqdefault.jpg"
-    },
-    {
       "id": "MB7wxd8Bz18",
       "title": "Learn to Draw Super Simple Characters! Finny the Shark, The Bumble Nums, & More!",
       "channel": "Super Simple Draw! - How To Draw for Kids",
@@ -13412,6 +13425,22 @@
       "thumbnail": "https://i.ytimg.com/vi/m6KAfSgFaAM/hqdefault.jpg"
     },
     {
+      "id": "mgd5Gd1gSSw",
+      "title": "How to Draw Toothless | How to Train Your Dragon",
+      "channel": "Cartooning Club How to Draw",
+      "channelId": "UC-biucJWhM8HwjsQ96uoIUw",
+      "durationSec": 430,
+      "publishedAt": "2026-10-27T14:00:06Z",
+      "topics": [
+        "art",
+        "making"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/mgd5Gd1gSSw/hqdefault.jpg"
+    },
+    {
       "id": "LzFAOwCqXio",
       "title": "How to Draw Mouser | Super Mario",
       "channel": "Cartooning Club How to Draw",
@@ -14034,22 +14063,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/r9A2P9ivVi0/hqdefault.jpg"
-    },
-    {
-      "id": "37sUxOXQY00",
-      "title": "How to Draw Cogsworth | Beauty and the Beast",
-      "channel": "Cartooning Club How to Draw",
-      "channelId": "UC-biucJWhM8HwjsQ96uoIUw",
-      "durationSec": 464,
-      "publishedAt": "2026-09-14T14:00:12Z",
-      "topics": [
-        "art",
-        "making"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/37sUxOXQY00/hqdefault.jpg"
     },
     {
       "id": "kSMPMmzMeeA",
@@ -14786,22 +14799,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/Vau4wn9MCIA/hqdefault.jpg"
-    },
-    {
-      "id": "J2aHaJA35Bc",
-      "title": "YouTube is making this impossible.",
-      "channel": "Jazza",
-      "channelId": "UCHu2KNu6TtJ0p4hpSW7Yv7Q",
-      "durationSec": 1225,
-      "publishedAt": "2026-01-16T14:11:31Z",
-      "topics": [
-        "art",
-        "making"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/J2aHaJA35Bc/hqdefault.jpg"
     },
     {
       "id": "ffiGkCX3rqs",
@@ -20168,6 +20165,22 @@
       "thumbnail": "https://i.ytimg.com/vi/Mklgs8T2714/hqdefault.jpg"
     },
     {
+      "id": "Huii-MIcZU4",
+      "title": "Body Snatchers! Four of Nature’s Freakiest Parasites | Deep Look",
+      "channel": "Deep Look",
+      "channelId": "UC-3SbfTPJsL8fJAPKiVqBLg",
+      "durationSec": 1183,
+      "publishedAt": "2026-10-27T15:00:09Z",
+      "topics": [
+        "animals",
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/Huii-MIcZU4/hqdefault.jpg"
+    },
+    {
       "id": "OawSUyFDGGw",
       "title": "This Fly's Face Does WHAT? | Deep Look",
       "channel": "Deep Look",
@@ -20534,22 +20547,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/5XDrNB93EnQ/hqdefault.jpg"
-    },
-    {
-      "id": "G7xFh0ZS7WI",
-      "title": "We Tried The Laziest Potato-Growing Method & This Happened",
-      "channel": "Epic Gardening",
-      "channelId": "UCSbyncU597LMwb3HhnAI_4w",
-      "durationSec": 478,
-      "publishedAt": "2026-07-21T17:37:57Z",
-      "topics": [
-        "nature",
-        "making"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/G7xFh0ZS7WI/hqdefault.jpg"
     },
     {
       "id": "hS-FlEc1VlI",
@@ -24317,6 +24314,23 @@
       "thumbnail": "https://i.ytimg.com/vi/5mzCjlBECn8/hqdefault.jpg"
     },
     {
+      "id": "-IZ2Ft0n5bI",
+      "title": "Building the Test Bench Frame – Revenge! | Marble Machine #479",
+      "channel": "Wintergatan",
+      "channelId": "UCcXhhVwCT6_WqjkEniejRJQ",
+      "durationSec": 803,
+      "publishedAt": "2026-10-26T16:00:22Z",
+      "topics": [
+        "engineering",
+        "music",
+        "making"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/-IZ2Ft0n5bI/hqdefault.jpg"
+    },
+    {
       "id": "ks-YMKs5T-E",
       "title": "Stop Your Parts Fighting – Exact Constraint | Marble Machine #478",
       "channel": "Wintergatan",
@@ -25148,23 +25162,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/lO8Yy0DAfcY/hqdefault.jpg"
-    },
-    {
-      "id": "qq_nXVRP9G8",
-      "title": "Marble Machine Live: Team WIDE For The Win!",
-      "channel": "Wintergatan",
-      "channelId": "UCcXhhVwCT6_WqjkEniejRJQ",
-      "durationSec": 8360,
-      "publishedAt": "2026-03-30T12:45:15Z",
-      "topics": [
-        "engineering",
-        "music",
-        "making"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/qq_nXVRP9G8/hqdefault.jpg"
     },
     {
       "id": "YPdfBOMP5Ng",
@@ -27967,22 +27964,6 @@
       "thumbnail": "https://i.ytimg.com/vi/8W33Qil_WPg/hqdefault.jpg"
     },
     {
-      "id": "HWSlI9HZqZQ",
-      "title": "The oldest bridge in the world | Curators' Corner S10 Ep12",
-      "channel": "The British Museum",
-      "channelId": "UCvpQ-l09fCVxJd3urZbxzHg",
-      "durationSec": 1404,
-      "publishedAt": "2026-03-05T19:20:31Z",
-      "topics": [
-        "history",
-        "art"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/HWSlI9HZqZQ/hqdefault.jpg"
-    },
-    {
       "id": "6z46ZAOBjfE",
       "title": "Can Arabic speakers read Persian? (clip 3)",
       "channel": "Langfocus",
@@ -29616,6 +29597,21 @@
       "thumbnail": "https://i.ytimg.com/vi/v1ay1qTvF0Y/hqdefault.jpg"
     },
     {
+      "id": "9pP19kUhjhw",
+      "title": "When the Witch Wrote Back | Halloween read aloud 🧹",
+      "channel": "KidTimeStoryTime",
+      "channelId": "UCEPsNDUhUm-7yZhUjQQNqwQ",
+      "durationSec": 695,
+      "publishedAt": "2026-10-27T12:30:14Z",
+      "topics": [
+        "reading"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/9pP19kUhjhw/hqdefault.jpg"
+    },
+    {
       "id": "1rzpavTyEyk",
       "title": "Oops! I Just Ate You | spooky read aloud | zombie read aloud",
       "channel": "KidTimeStoryTime",
@@ -30349,21 +30345,6 @@
         "little"
       ],
       "thumbnail": "https://i.ytimg.com/vi/pQMQrJ6eTzY/hqdefault.jpg"
-    },
-    {
-      "id": "iWSUWZvAXKo",
-      "title": "Sticky Hermana | Sibling read aloud | bilingual read aloud",
-      "channel": "KidTimeStoryTime",
-      "channelId": "UCEPsNDUhUm-7yZhUjQQNqwQ",
-      "durationSec": 598,
-      "publishedAt": "2026-04-10T13:00:00Z",
-      "topics": [
-        "reading"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/iWSUWZvAXKo/hqdefault.jpg"
     },
     {
       "id": "_kxXvUni1tE",
@@ -45819,6 +45800,22 @@
       "thumbnail": "https://i.ytimg.com/vi/PMXPyOXXG40/hqdefault.jpg"
     },
     {
+      "id": "TJ6oroM3OrE",
+      "title": "JWST detects MOST distant FRB origin! #Shorts",
+      "channel": "Dr. Becky",
+      "channelId": "UCYNbYGl89UUowy8oXkipC-Q",
+      "durationSec": 178,
+      "publishedAt": "2026-10-26T18:00:35Z",
+      "topics": [
+        "space",
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/TJ6oroM3OrE/hqdefault.jpg"
+    },
+    {
       "id": "IDAU8_c0Oow",
       "title": "NOBEL PRIZE FOR NEUTRINOS! #shorts",
       "channel": "Dr. Becky",
@@ -56816,6 +56813,23 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/auBAEv5HVcc/hqdefault.jpg"
+    },
+    {
+      "id": "O5H7g4RCRnw",
+      "title": "How Ancient People Saved The Pumpkin",
+      "channel": "PBS Eons",
+      "channelId": "UCzR-rom72PHN9Zg7RML9EbA",
+      "durationSec": 843,
+      "publishedAt": "2026-10-27T14:00:37Z",
+      "topics": [
+        "history",
+        "science",
+        "animals"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/O5H7g4RCRnw/hqdefault.jpg"
     },
     {
       "id": "E3yTiMXHb14",
@@ -76566,6 +76580,21 @@
       "thumbnail": "https://i.ytimg.com/vi/xaUKgnhZ9y4/hqdefault.jpg"
     },
     {
+      "id": "hOrkk-FkkxI",
+      "title": "APR vs Interest Rate Explained: Mortgages, Credit Cards, Student Loans",
+      "channel": "Easy Peasy Finance",
+      "channelId": "UCZl9ry5ew_2YeCQ6ECk8sxA",
+      "durationSec": 291,
+      "publishedAt": "2026-10-27T13:00:19Z",
+      "topics": [
+        "maths"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/hOrkk-FkkxI/hqdefault.jpg"
+    },
+    {
       "id": "eo0EshGVPEo",
       "title": "Roth vs Traditional 401k: Which is Better for Your First Job",
       "channel": "Easy Peasy Finance",
@@ -76972,6 +77001,22 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/FDhx6EMGX3I/hqdefault.jpg"
+    },
+    {
+      "id": "_u-AY3bXszo",
+      "title": "All about Autumn for Kids | Learn fun facts about the fall season",
+      "channel": "Learn Bright",
+      "channelId": "UCKCsVSA5THlkHbnkZTPm6-g",
+      "durationSec": 239,
+      "publishedAt": "2026-10-27T15:00:05Z",
+      "topics": [
+        "maths",
+        "history"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/_u-AY3bXszo/hqdefault.jpg"
     },
     {
       "id": "UoCBmUoc8AY",
@@ -77516,22 +77561,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/SSC-qIdjwhE/hqdefault.jpg"
-    },
-    {
-      "id": "eqDc7sYQ3II",
-      "title": "ASL Dinos A to Z: Spinosaurus",
-      "channel": "Learn Bright",
-      "channelId": "UCKCsVSA5THlkHbnkZTPm6-g",
-      "durationSec": 217,
-      "publishedAt": "2026-06-19T16:53:10Z",
-      "topics": [
-        "maths",
-        "history"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/eqDc7sYQ3II/hqdefault.jpg"
     },
     {
       "id": "13QmHYfWf5g",
@@ -83122,6 +83151,22 @@
       "thumbnail": "https://i.ytimg.com/vi/H2hJNAqpsQM/hqdefault.jpg"
     },
     {
+      "id": "_IIMESF_4ZA",
+      "title": "An Inconvenient Tooth: Part 1 | Peep and the Big Wide World",
+      "channel": "Peep and the Big Wide World",
+      "channelId": "UCPq6g4Q4-SFMIJ048IXmupA",
+      "durationSec": 644,
+      "publishedAt": "2026-10-26T16:00:38Z",
+      "topics": [
+        "science",
+        "nature"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/_IIMESF_4ZA/hqdefault.jpg"
+    },
+    {
       "id": "pvrME-zTxM0",
       "title": "What's Wrong With Squirrel? | Peep and the Big Wide World",
       "channel": "Peep and the Big Wide World",
@@ -83906,20 +83951,20 @@
       "thumbnail": "https://i.ytimg.com/vi/Yma092NaylM/hqdefault.jpg"
     },
     {
-      "id": "KcvZ7jXc1Xs",
-      "title": "Reflection Affection | Peep and the Big Wide World",
-      "channel": "Peep and the Big Wide World",
-      "channelId": "UCPq6g4Q4-SFMIJ048IXmupA",
-      "durationSec": 644,
-      "publishedAt": "2026-09-07T15:00:04Z",
+      "id": "CzQwPxNU2as",
+      "title": "My Hockey Song + More | Hockey Hockey Hockey! | Sing and play at home with Super Simple Play",
+      "channel": "Super Simple Play with Caitie!",
+      "channelId": "UCxG6Tbopv4XcHfem65bgFeg",
+      "durationSec": 3703,
+      "publishedAt": "2026-10-27T13:00:29Z",
       "topics": [
-        "science",
-        "nature"
+        "music",
+        "making"
       ],
       "profiles": [
         "little"
       ],
-      "thumbnail": "https://i.ytimg.com/vi/KcvZ7jXc1Xs/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/CzQwPxNU2as/hqdefault.jpg"
     },
     {
       "id": "xJ6_dnaEYbM",
@@ -84908,6 +84953,24 @@
       "thumbnail": "https://i.ytimg.com/vi/JaXnAbcDPhw/hqdefault.jpg"
     },
     {
+      "id": "xJjCufINwmU",
+      "title": "CircuitPython Weekly Meeting for October 26, 206 @circuitpython #circuitpython #adafruit",
+      "channel": "Adafruit Industries",
+      "channelId": "UCpOlOeQjj7EsVnDh3zuCgsA",
+      "durationSec": 1900,
+      "publishedAt": "2026-10-26T18:46:33Z",
+      "topics": [
+        "making",
+        "tech",
+        "engineering",
+        "coding"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/xJjCufINwmU/hqdefault.jpg"
+    },
+    {
       "id": "NwcZTs3Vf5Y",
       "title": "Deep Dive w/ Tim: SSTV Photos From Space! and New CircuitPython Map Tiles Library",
       "channel": "Adafruit Industries",
@@ -85230,24 +85293,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/1ZCfP3h5A_I/hqdefault.jpg"
-    },
-    {
-      "id": "aTJmQLvsgG8",
-      "title": "Deep Dive w/Scott: CircuitPython Video Pipeline #adafruit",
-      "channel": "Adafruit Industries",
-      "channelId": "UCpOlOeQjj7EsVnDh3zuCgsA",
-      "durationSec": 3915,
-      "publishedAt": "2026-10-10T10:13:45Z",
-      "topics": [
-        "making",
-        "tech",
-        "engineering",
-        "coding"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/aTJmQLvsgG8/hqdefault.jpg"
     },
     {
       "id": "dP_i7hRvGpE",
@@ -88157,6 +88202,22 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/Ilr2DjYOfqA/hqdefault.jpg"
+    },
+    {
+      "id": "WnOBO-X-T-0",
+      "title": "Sesame Street in the Writer's Room! #sesamestreet",
+      "channel": "Sesame Street",
+      "channelId": "UCoookXUzPciGrEZEXmh4Jjg",
+      "durationSec": 136,
+      "publishedAt": "2026-10-26T18:44:12Z",
+      "topics": [
+        "reading",
+        "music"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/WnOBO-X-T-0/hqdefault.jpg"
     },
     {
       "id": "qMgts5PPTns",
@@ -92309,7 +92370,7 @@
     },
     {
       "id": "vPrmY7labLA",
-      "title": "The Laurie Berkner Band - We Are The Dinosaurs",
+      "title": "We Are The Dinosaurs 🦖 by The Laurie Berkner Band | Original Video | Best Movement Songs for Kids",
       "channel": "LaurieBerknerVEVO",
       "channelId": "UCz8Ktfj5VUXVxYdoEVT4pag",
       "durationSec": 148,
@@ -92324,7 +92385,7 @@
     },
     {
       "id": "lauLmAYqXdo",
-      "title": "The Laurie Berkner Band - Victor Vito",
+      "title": "The Laurie Berkner Band - Victor Vito 🎶 by The Laurie Berkner Band | Best Movement Songs for Kids",
       "channel": "LaurieBerknerVEVO",
       "channelId": "UCz8Ktfj5VUXVxYdoEVT4pag",
       "durationSec": 152,
@@ -92339,7 +92400,7 @@
     },
     {
       "id": "uCF3vBuxXS8",
-      "title": "The Laurie Berkner Band - The Goldfish",
+      "title": "The Laurie Berkner Band - The Goldfish 🐠 by The Laurie Berkner Band | Best Movement Songs for Kids",
       "channel": "LaurieBerknerVEVO",
       "channelId": "UCz8Ktfj5VUXVxYdoEVT4pag",
       "durationSec": 220,
