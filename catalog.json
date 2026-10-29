@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-28T15:35:02.778Z",
+  "generatedAt": "2026-10-29T15:42:22.477Z",
   "profiles": {
     "little": {
       "label": "Ages 3-7"
@@ -131,6 +131,22 @@
       "thumbnail": "https://i.ytimg.com/vi/kKqd0_cydZM/hqdefault.jpg"
     },
     {
+      "id": "OFLJN2J0-l8",
+      "title": "Craziest Animal Illusions | You're Called What?! | Nat Geo Kids",
+      "channel": "Nat Geo Kids",
+      "channelId": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "durationSec": 1609,
+      "publishedAt": "2026-10-29T12:00:37Z",
+      "topics": [
+        "animals",
+        "science"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/OFLJN2J0-l8/hqdefault.jpg"
+    },
+    {
       "id": "l5OiIZeOtqs",
       "title": "2 Hours of the World's Toughest Fixes 👷🏽👷🏽‍♀️ | Full Episode Compilation | Nat Geo Kids",
       "channel": "Nat Geo Kids",
@@ -195,6 +211,21 @@
       "thumbnail": "https://i.ytimg.com/vi/Xakbw3sQcd0/hqdefault.jpg"
     },
     {
+      "id": "QDU7Qr8-JUc",
+      "title": "How To Draw A Black Cat Folding Surprise",
+      "channel": "Art for Kids Hub",
+      "channelId": "UC5XMF3Inoi8R9nSI8ChOsdQ",
+      "durationSec": 607,
+      "publishedAt": "2026-10-28T16:00:04Z",
+      "topics": [
+        "art"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/QDU7Qr8-JUc/hqdefault.jpg"
+    },
+    {
       "id": "cQvh1XLB2Ws",
       "title": "How To Draw A Cute Ghost Holding Balloons",
       "channel": "Art for Kids Hub",
@@ -240,6 +271,21 @@
       "thumbnail": "https://i.ytimg.com/vi/bPzs8S3UB9Q/hqdefault.jpg"
     },
     {
+      "id": "Z40NJQhjqNk",
+      "title": "The Terrible Two's Spooky Adventure | Halloween Math for Kids Compilation | Numberblocks",
+      "channel": "Numberblocks",
+      "channelId": "UCPlwvN0w4qFSP1FllALB92w",
+      "durationSec": 5106,
+      "publishedAt": "2026-10-29T11:00:09Z",
+      "topics": [
+        "maths"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/Z40NJQhjqNk/hqdefault.jpg"
+    },
+    {
       "id": "4z0jCz7e_s4",
       "title": "Spooky Cartoons for a Halloween Night | Halloween Math for Kids Compilation | Numberblocks",
       "channel": "Numberblocks",
@@ -270,19 +316,20 @@
       "thumbnail": "https://i.ytimg.com/vi/T-C1wF41baU/hqdefault.jpg"
     },
     {
-      "id": "tMMhXM7JG0Q",
-      "title": "A Double Trouble Day | Halloween Math for Kids Compilation | Numberblocks",
-      "channel": "Numberblocks",
-      "channelId": "UCPlwvN0w4qFSP1FllALB92w",
-      "durationSec": 5364,
-      "publishedAt": "2026-10-23T10:00:07Z",
+      "id": "8RPK5KwYhgA",
+      "title": "What if you didn’t brush your teeth for a year? - Justin Meritt",
+      "channel": "TED-Ed",
+      "channelId": "UCsooa4yRKGN_zEE8iknghZA",
+      "durationSec": 330,
+      "publishedAt": "2026-10-29T15:00:29Z",
       "topics": [
-        "maths"
+        "science",
+        "history"
       ],
       "profiles": [
-        "little"
+        "big"
       ],
-      "thumbnail": "https://i.ytimg.com/vi/tMMhXM7JG0Q/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/8RPK5KwYhgA/hqdefault.jpg"
     },
     {
       "id": "nXvKDYRvTno",
@@ -365,22 +412,6 @@
       "thumbnail": "https://i.ytimg.com/vi/1uTRlM6MbMo/hqdefault.jpg"
     },
     {
-      "id": "h6CmKF-mN2U",
-      "title": "Which is better: Buying or renting a home? - Ella Feldman",
-      "channel": "TED-Ed",
-      "channelId": "UCsooa4yRKGN_zEE8iknghZA",
-      "durationSec": 364,
-      "publishedAt": "2026-10-08T15:01:11Z",
-      "topics": [
-        "science",
-        "history"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/h6CmKF-mN2U/hqdefault.jpg"
-    },
-    {
       "id": "EgnAN0ZUl08",
       "title": "Squaring the Triangle - Numberphile",
       "channel": "Numberphile",
@@ -441,6 +472,21 @@
       "thumbnail": "https://i.ytimg.com/vi/Zh86i_azaQw/hqdefault.jpg"
     },
     {
+      "id": "1nVwqDL3XCI",
+      "title": "AI Psychosis Is Killing People. It’s Time to Talk About It",
+      "channel": "SciShow",
+      "channelId": "UCZYTClx2T1of7BRZ86-8fow",
+      "durationSec": 1025,
+      "publishedAt": "2026-10-28T17:00:36Z",
+      "topics": [
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/1nVwqDL3XCI/hqdefault.jpg"
+    },
+    {
       "id": "dfA_VA20A2Y",
       "title": "How To Hold Something That's 10,000,000 Degrees",
       "channel": "SciShow",
@@ -484,21 +530,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/cqDZt0BOlBI/hqdefault.jpg"
-    },
-    {
-      "id": "ua29hkUXwg4",
-      "title": "Why Can't Every Shot Be a Pill?",
-      "channel": "SciShow",
-      "channelId": "UCZYTClx2T1of7BRZ86-8fow",
-      "durationSec": 521,
-      "publishedAt": "2026-10-22T17:00:20Z",
-      "topics": [
-        "science"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/ua29hkUXwg4/hqdefault.jpg"
     },
     {
       "id": "LKrwhjOI8Nc",
@@ -669,22 +700,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/QW_jlUn4gA8/hqdefault.jpg"
-    },
-    {
-      "id": "0NY2gAftzJE",
-      "title": "This Woman Cured Her Cancer with an Insane Method",
-      "channel": "Kurzgesagt – In a Nutshell",
-      "channelId": "UCsXVk37bltHxD1rDPwtNM8Q",
-      "durationSec": 914,
-      "publishedAt": "2026-09-15T14:00:02Z",
-      "topics": [
-        "science",
-        "space"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/0NY2gAftzJE/hqdefault.jpg"
     },
     {
       "id": "26P1KyvrmjI",
@@ -9086,6 +9101,21 @@
       "thumbnail": "https://i.ytimg.com/vi/qJwecTgce6c/hqdefault.jpg"
     },
     {
+      "id": "6afOZPs7tUE",
+      "title": "🔴 Trick or Treat With Super Simple Live! 🎃 | Best Halloween Kids Songs | Super Simple Songs",
+      "channel": "Super Simple Songs - Kids Songs",
+      "channelId": "UCLsooMJoIpl_7ux2jvdPB-Q",
+      "durationSec": 37135,
+      "publishedAt": "2026-10-29T00:42:02Z",
+      "topics": [
+        "music"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/6afOZPs7tUE/hqdefault.jpg"
+    },
+    {
       "id": "KKNHyhl6aXU",
       "title": "Top 20 Halloween Songs 🎃 🍬| Kids Songs | Super Simple Songs",
       "channel": "Super Simple Songs - Kids Songs",
@@ -13410,8 +13440,24 @@
       "thumbnail": "https://i.ytimg.com/vi/m6KAfSgFaAM/hqdefault.jpg"
     },
     {
+      "id": "YI3twukX06g",
+      "title": "How to Draw Greninja | Easy Pokemon Drawing Tutorial for Beginners",
+      "channel": "Cartooning Club How to Draw",
+      "channelId": "UC-biucJWhM8HwjsQ96uoIUw",
+      "durationSec": 450,
+      "publishedAt": "2026-10-29T14:00:04Z",
+      "topics": [
+        "art",
+        "making"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/YI3twukX06g/hqdefault.jpg"
+    },
+    {
       "id": "4aRU0q4ezKA",
-      "title": "How to Draw Venom | Step-by-Step Drawing Tutorial",
+      "title": "How to Draw Venom | White Charcoal Drawing Tutorial",
       "channel": "Cartooning Club How to Draw",
       "channelId": "UC-biucJWhM8HwjsQ96uoIUw",
       "durationSec": 876,
@@ -13427,7 +13473,7 @@
     },
     {
       "id": "mgd5Gd1gSSw",
-      "title": "How to Draw Toothless | How to Train Your Dragon",
+      "title": "How to Draw Toothless | Easy Dragon Drawing Tutorial for Beginners",
       "channel": "Cartooning Club How to Draw",
       "channelId": "UC-biucJWhM8HwjsQ96uoIUw",
       "durationSec": 430,
@@ -13459,7 +13505,7 @@
     },
     {
       "id": "7f1_vsj7Dco",
-      "title": "How to Draw Dog | Dachshund Drawing Tutorial",
+      "title": "How to Draw Dashshund Dog | Pencil Sketch Tutorial",
       "channel": "Cartooning Club How to Draw",
       "channelId": "UC-biucJWhM8HwjsQ96uoIUw",
       "durationSec": 2345,
@@ -13475,7 +13521,7 @@
     },
     {
       "id": "sLs3pjmbByY",
-      "title": "How to Draw Iron Man | Sketch Saturday",
+      "title": "How to Draw Iron Man | Pencil Sketch Tutorial",
       "channel": "Cartooning Club How to Draw",
       "channelId": "UC-biucJWhM8HwjsQ96uoIUw",
       "durationSec": 1625,
@@ -13539,7 +13585,7 @@
     },
     {
       "id": "jKJogwPF1nU",
-      "title": "How to Draw the Grim Reaper | Step-by-Step Drawing Tutorial",
+      "title": "How to Draw the Grim Reaper | White Charcoal Drawing Tutorial",
       "channel": "Cartooning Club How to Draw",
       "channelId": "UC-biucJWhM8HwjsQ96uoIUw",
       "durationSec": 770,
@@ -13635,7 +13681,7 @@
     },
     {
       "id": "iwmicjLv3N4",
-      "title": "How to Draw Ghostface | Scream",
+      "title": "How to Draw Ghostface | White Charcoal Sketch Tutorial",
       "channel": "Cartooning Club How to Draw",
       "channelId": "UC-biucJWhM8HwjsQ96uoIUw",
       "durationSec": 717,
@@ -14067,7 +14113,7 @@
     },
     {
       "id": "IJeWrxwxg1k",
-      "title": "These Plastic Beads Turn into CLAY?!",
+      "title": "You can SCULPT with PLASTIC?!",
       "channel": "Jazza",
       "channelId": "UCHu2KNu6TtJ0p4hpSW7Yv7Q",
       "durationSec": 1761,
@@ -20149,25 +20195,8 @@
       "thumbnail": "https://i.ytimg.com/vi/Z9uGfvTfo4s/hqdefault.jpg"
     },
     {
-      "id": "Mklgs8T2714",
-      "title": "How is Sea SALT made? | Maddie Moate",
-      "channel": "Maddie Moate",
-      "channelId": "UCQ0_JQL4wdQd-Xe5hC4PwTg",
-      "durationSec": 567,
-      "publishedAt": "2025-11-15T15:28:09Z",
-      "topics": [
-        "science",
-        "nature"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/Mklgs8T2714/hqdefault.jpg"
-    },
-    {
       "id": "Huii-MIcZU4",
-      "title": "Body Snatchers! Four of Nature’s Freakiest Parasites | Deep Look",
+      "title": "These Four Animals Are Living a Real-Life Horror Movie | Deep Look",
       "channel": "Deep Look",
       "channelId": "UC-3SbfTPJsL8fJAPKiVqBLg",
       "durationSec": 1183,
@@ -25163,6 +25192,23 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/lO8Yy0DAfcY/hqdefault.jpg"
+    },
+    {
+      "id": "_0e4Obl6BbU",
+      "title": "Fun Social Studies Lessons | Election Day, the Constitution & More!",
+      "channel": "Homeschool Pop",
+      "channelId": "UCfPyVJEBD7Di1YYjTdS2v8g",
+      "durationSec": 4488,
+      "publishedAt": "2026-10-29T05:46:39Z",
+      "topics": [
+        "history",
+        "geography"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/_0e4Obl6BbU/hqdefault.jpg"
     },
     {
       "id": "YPdfBOMP5Ng",
@@ -31441,19 +31487,21 @@
       "thumbnail": "https://i.ytimg.com/vi/ZtGpEQ-pYVk/hqdefault.jpg"
     },
     {
-      "id": "-1WEie8vWIs",
-      "title": "Phonetic Sounds from A to Z | Learn to Read and Spell for Kids Compilation | Alphablocks",
-      "channel": "Alphablocks",
-      "channelId": "UC_qs3c0ehDvZkbiEbOj6Drg",
-      "durationSec": 1935,
-      "publishedAt": "2026-08-02T11:00:35Z",
+      "id": "95zgi3oDUIU",
+      "title": "Jack's Best Brain Breaks! | ONE HOUR of Super Fun Brain Breaks for Kids! | Jack Hartmann",
+      "channel": "Jack Hartmann Kids Music Channel",
+      "channelId": "UCVcQH8A634mauPrGbWs7QlQ",
+      "durationSec": 3477,
+      "publishedAt": "2026-10-28T23:00:20Z",
       "topics": [
-        "reading"
+        "reading",
+        "music",
+        "maths"
       ],
       "profiles": [
         "little"
       ],
-      "thumbnail": "https://i.ytimg.com/vi/-1WEie8vWIs/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/95zgi3oDUIU/hqdefault.jpg"
     },
     {
       "id": "ZX-l4-C8rQo",
@@ -32253,23 +32301,6 @@
         "little"
       ],
       "thumbnail": "https://i.ytimg.com/vi/pa9HNTMi0Gw/hqdefault.jpg"
-    },
-    {
-      "id": "-EqfaGvPsto",
-      "title": "The Self-care Song | Forming Good Habits | Jack Hartmann",
-      "channel": "Jack Hartmann Kids Music Channel",
-      "channelId": "UCVcQH8A634mauPrGbWs7QlQ",
-      "durationSec": 153,
-      "publishedAt": "2026-03-02T00:00:00Z",
-      "topics": [
-        "reading",
-        "music",
-        "maths"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/-EqfaGvPsto/hqdefault.jpg"
     },
     {
       "id": "AJPb0Avv6gU",
@@ -36127,6 +36158,22 @@
       "thumbnail": "https://i.ytimg.com/vi/VxVOwCIyqO8/hqdefault.jpg"
     },
     {
+      "id": "cI8IquVEyVY",
+      "title": "?PHP Problem? - Computerphile",
+      "channel": "Computerphile",
+      "channelId": "UC9-y-6csu5WGm29I7JiwpnA",
+      "durationSec": 1158,
+      "publishedAt": "2026-10-28T16:23:55Z",
+      "topics": [
+        "tech",
+        "coding"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/cI8IquVEyVY/hqdefault.jpg"
+    },
+    {
       "id": "h6j_ixGnpiY",
       "title": "How Image Watermarking Works - Computerphile",
       "channel": "Computerphile",
@@ -36909,22 +36956,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/LHHEOjd0z3s/hqdefault.jpg"
-    },
-    {
-      "id": "vrTrOCQZoQE",
-      "title": "The Problem with A.I. Slop! - Computerphile",
-      "channel": "Computerphile",
-      "channelId": "UC9-y-6csu5WGm29I7JiwpnA",
-      "durationSec": 898,
-      "publishedAt": "2025-11-14T12:31:33Z",
-      "topics": [
-        "tech",
-        "coding"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/vrTrOCQZoQE/hqdefault.jpg"
     },
     {
       "id": "2b-H-rxQ8m8",
@@ -40004,6 +40035,22 @@
       "thumbnail": "https://i.ytimg.com/vi/xxlMfeaH4lg/hqdefault.jpg"
     },
     {
+      "id": "zJnQE9O58nc",
+      "title": "How to Be the Best Trick or Treat Neighborhood",
+      "channel": "City Beautiful",
+      "channelId": "UCGc8ZVCsrR3dAuhvUbkbToQ",
+      "durationSec": 720,
+      "publishedAt": "2026-10-28T20:48:51Z",
+      "topics": [
+        "geography",
+        "history"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/zJnQE9O58nc/hqdefault.jpg"
+    },
+    {
       "id": "pjuVfp17xLQ",
       "title": "The Power Broker Read Along: Part 2 #booktube #booktok #readalong",
       "channel": "City Beautiful",
@@ -40772,20 +40819,20 @@
       "thumbnail": "https://i.ytimg.com/vi/78ffidI7__E/hqdefault.jpg"
     },
     {
-      "id": "fgQH8wKcDuM",
-      "title": "How London Was Rebuilt after the Great Fire of 1666",
-      "channel": "City Beautiful",
-      "channelId": "UCGc8ZVCsrR3dAuhvUbkbToQ",
-      "durationSec": 700,
-      "publishedAt": "2023-12-24T17:00:24Z",
+      "id": "yOKdsz6PYTg",
+      "title": "New Announcement: Making Annoying Passengers Illegal",
+      "channel": "Jago Hazzard",
+      "channelId": "UCcHuNKYzVMc06FXqsBEAV3A",
+      "durationSec": 536,
+      "publishedAt": "2026-10-28T17:30:26Z",
       "topics": [
-        "geography",
-        "history"
+        "history",
+        "geography"
       ],
       "profiles": [
         "big"
       ],
-      "thumbnail": "https://i.ytimg.com/vi/fgQH8wKcDuM/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/yOKdsz6PYTg/hqdefault.jpg"
     },
     {
       "id": "yTJXEV0BgaU",
@@ -41572,20 +41619,20 @@
       "thumbnail": "https://i.ytimg.com/vi/QDGrkeQoU5w/hqdefault.jpg"
     },
     {
-      "id": "ghJLEJju4-A",
-      "title": "Canary Wharf: The Tube Station that Broke the Rules",
-      "channel": "Jago Hazzard",
-      "channelId": "UCcHuNKYzVMc06FXqsBEAV3A",
-      "durationSec": 665,
-      "publishedAt": "2026-07-03T16:30:21Z",
+      "id": "S19ag-Ifa8Y",
+      "title": "This Small City's LRT is so Good it Made me Angry",
+      "channel": "Not Just Bikes",
+      "channelId": "UC0intLFzLaudFG-xAvUEO-A",
+      "durationSec": 1510,
+      "publishedAt": "2026-10-28T19:08:00Z",
       "topics": [
-        "history",
-        "geography"
+        "geography",
+        "engineering"
       ],
       "profiles": [
         "big"
       ],
-      "thumbnail": "https://i.ytimg.com/vi/ghJLEJju4-A/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/S19ag-Ifa8Y/hqdefault.jpg"
     },
     {
       "id": "CMf9_p3ywiA",
@@ -42082,22 +42129,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/wPcuL2S2dgk/hqdefault.jpg"
-    },
-    {
-      "id": "ZdDYVjDwgwA",
-      "title": "Are Taipei's Roads Still a \"Living Hell\"?",
-      "channel": "Not Just Bikes",
-      "channelId": "UC0intLFzLaudFG-xAvUEO-A",
-      "durationSec": 1946,
-      "publishedAt": "2024-09-08T10:00:35Z",
-      "topics": [
-        "geography",
-        "engineering"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/ZdDYVjDwgwA/hqdefault.jpg"
     },
     {
       "id": "eNIzHndQQsU",
@@ -69088,6 +69119,22 @@
       "thumbnail": "https://i.ytimg.com/vi/JKZ2VsXz8G0/hqdefault.jpg"
     },
     {
+      "id": "I1RlZkGpxz8",
+      "title": "Recent M4.9 Australia Earthquake Caused by 500 Million Year Old Feature",
+      "channel": "GeologyHub",
+      "channelId": "UCYeGh5VML5XPr5jYnzh3J6g",
+      "durationSec": 236,
+      "publishedAt": "2026-10-28T19:00:00Z",
+      "topics": [
+        "science",
+        "geography"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/I1RlZkGpxz8/hqdefault.jpg"
+    },
+    {
       "id": "kF1Bd5MPEUM",
       "title": "The 10 Most Alien Landscapes on Earth; Geologist Analysis",
       "channel": "GeologyHub",
@@ -69838,22 +69885,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/XF-cdTTUrUU/hqdefault.jpg"
-    },
-    {
-      "id": "mAr1ExauabQ",
-      "title": "Strong M6.9 Earthquake Strikes Near the Toba Supervolcano; Geologist Analysis",
-      "channel": "GeologyHub",
-      "channelId": "UCYeGh5VML5XPr5jYnzh3J6g",
-      "durationSec": 287,
-      "publishedAt": "2026-08-17T19:00:26Z",
-      "topics": [
-        "science",
-        "geography"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/mAr1ExauabQ/hqdefault.jpg"
     },
     {
       "id": "QhFDexpHtrU",
@@ -74122,7 +74153,7 @@
     },
     {
       "id": "l4w6808wJcU",
-      "title": "So Many State Flags Failed I Had to Split the F Tier",
+      "title": "There's No Crying in Flag Design",
       "channel": "CGP Grey",
       "channelId": "UC2C_jShtL725hvbm1arSV9w",
       "durationSec": 1133,
@@ -76985,6 +77016,230 @@
       "thumbnail": "https://i.ytimg.com/vi/FDhx6EMGX3I/hqdefault.jpg"
     },
     {
+      "id": "qJ2RmlOUfpw",
+      "title": "Layers of the Atmosphere | Learn about the \"blanket\" that keeps the earth warm",
+      "channel": "Learn Bright",
+      "channelId": "UCKCsVSA5THlkHbnkZTPm6-g",
+      "durationSec": 353,
+      "publishedAt": "2026-10-29T15:00:18Z",
+      "topics": [
+        "maths",
+        "history"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/qJ2RmlOUfpw/hqdefault.jpg"
+    },
+    {
+      "id": "fDTt8gB_EIs",
+      "title": "ASL Tsukimi Autumn Moon Festival",
+      "channel": "Learn Bright",
+      "channelId": "UCKCsVSA5THlkHbnkZTPm6-g",
+      "durationSec": 260,
+      "publishedAt": "2026-10-28T20:11:36Z",
+      "topics": [
+        "maths",
+        "history"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/fDTt8gB_EIs/hqdefault.jpg"
+    },
+    {
+      "id": "HrSKEO_2IYQ",
+      "title": "ASL Labor Day for Kids",
+      "channel": "Learn Bright",
+      "channelId": "UCKCsVSA5THlkHbnkZTPm6-g",
+      "durationSec": 257,
+      "publishedAt": "2026-10-28T20:11:34Z",
+      "topics": [
+        "maths",
+        "history"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/HrSKEO_2IYQ/hqdefault.jpg"
+    },
+    {
+      "id": "aOeMlfZd2MU",
+      "title": "ASL Greek Mythology: Ares",
+      "channel": "Learn Bright",
+      "channelId": "UCKCsVSA5THlkHbnkZTPm6-g",
+      "durationSec": 317,
+      "publishedAt": "2026-10-28T20:11:31Z",
+      "topics": [
+        "maths",
+        "history"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/aOeMlfZd2MU/hqdefault.jpg"
+    },
+    {
+      "id": "0j0LLWo5pMc",
+      "title": "ASL Droughts for Kids",
+      "channel": "Learn Bright",
+      "channelId": "UCKCsVSA5THlkHbnkZTPm6-g",
+      "durationSec": 305,
+      "publishedAt": "2026-10-28T20:11:28Z",
+      "topics": [
+        "maths",
+        "history"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/0j0LLWo5pMc/hqdefault.jpg"
+    },
+    {
+      "id": "vIblgK-Q0bg",
+      "title": "ASL Descriptive Writing for Kids",
+      "channel": "Learn Bright",
+      "channelId": "UCKCsVSA5THlkHbnkZTPm6-g",
+      "durationSec": 308,
+      "publishedAt": "2026-10-28T20:11:26Z",
+      "topics": [
+        "maths",
+        "history"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/vIblgK-Q0bg/hqdefault.jpg"
+    },
+    {
+      "id": "IFQ3di5u0yc",
+      "title": "ASL Coordinating Conjunctions FANBOYS",
+      "channel": "Learn Bright",
+      "channelId": "UCKCsVSA5THlkHbnkZTPm6-g",
+      "durationSec": 331,
+      "publishedAt": "2026-10-28T20:11:21Z",
+      "topics": [
+        "maths",
+        "history"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/IFQ3di5u0yc/hqdefault.jpg"
+    },
+    {
+      "id": "80cXgGM8tzQ",
+      "title": "ASL Careers for Kids: Civil Engineer",
+      "channel": "Learn Bright",
+      "channelId": "UCKCsVSA5THlkHbnkZTPm6-g",
+      "durationSec": 204,
+      "publishedAt": "2026-10-28T20:11:19Z",
+      "topics": [
+        "maths",
+        "history"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/80cXgGM8tzQ/hqdefault.jpg"
+    },
+    {
+      "id": "_lPFamGC2Vg",
+      "title": "ASL Careers for Kids: Astronaut",
+      "channel": "Learn Bright",
+      "channelId": "UCKCsVSA5THlkHbnkZTPm6-g",
+      "durationSec": 206,
+      "publishedAt": "2026-10-28T20:11:16Z",
+      "topics": [
+        "maths",
+        "history"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/_lPFamGC2Vg/hqdefault.jpg"
+    },
+    {
+      "id": "hxC3teP-bwo",
+      "title": "ASL Careers for Kids: Archaeologist",
+      "channel": "Learn Bright",
+      "channelId": "UCKCsVSA5THlkHbnkZTPm6-g",
+      "durationSec": 254,
+      "publishedAt": "2026-10-28T20:11:13Z",
+      "topics": [
+        "maths",
+        "history"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/hxC3teP-bwo/hqdefault.jpg"
+    },
+    {
+      "id": "TMpJtNp_3z0",
+      "title": "ASL All about Earth Day",
+      "channel": "Learn Bright",
+      "channelId": "UCKCsVSA5THlkHbnkZTPm6-g",
+      "durationSec": 295,
+      "publishedAt": "2026-10-28T20:11:09Z",
+      "topics": [
+        "maths",
+        "history"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/TMpJtNp_3z0/hqdefault.jpg"
+    },
+    {
+      "id": "jITNhCtiYk4",
+      "title": "ASL Adolf Hitler",
+      "channel": "Learn Bright",
+      "channelId": "UCKCsVSA5THlkHbnkZTPm6-g",
+      "durationSec": 592,
+      "publishedAt": "2026-10-28T20:11:05Z",
+      "topics": [
+        "maths",
+        "history"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/jITNhCtiYk4/hqdefault.jpg"
+    },
+    {
+      "id": "yQp2flFVOlc",
+      "title": "ASL 50 States and Capitals Song",
+      "channel": "Learn Bright",
+      "channelId": "UCKCsVSA5THlkHbnkZTPm6-g",
+      "durationSec": 313,
+      "publishedAt": "2026-10-28T20:11:00Z",
+      "topics": [
+        "maths",
+        "history"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/yQp2flFVOlc/hqdefault.jpg"
+    },
+    {
+      "id": "QWrxP5eCUtI",
+      "title": "ASL 20th-Century Technology",
+      "channel": "Learn Bright",
+      "channelId": "UCKCsVSA5THlkHbnkZTPm6-g",
+      "durationSec": 737,
+      "publishedAt": "2026-10-28T20:10:56Z",
+      "topics": [
+        "maths",
+        "history"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/QWrxP5eCUtI/hqdefault.jpg"
+    },
+    {
       "id": "_u-AY3bXszo",
       "title": "All about Autumn for Kids | Learn fun facts about the fall season",
       "channel": "Learn Bright",
@@ -77335,214 +77590,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/CburCnkIaPg/hqdefault.jpg"
-    },
-    {
-      "id": "-7WTmdDA__8",
-      "title": "Adolf Hitler | History of one of the most infamous dictators in world history",
-      "channel": "Learn Bright",
-      "channelId": "UCKCsVSA5THlkHbnkZTPm6-g",
-      "durationSec": 592,
-      "publishedAt": "2026-07-14T15:00:34Z",
-      "topics": [
-        "maths",
-        "history"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/-7WTmdDA__8/hqdefault.jpg"
-    },
-    {
-      "id": "v5RjueE-l6g",
-      "title": "Dinos A to Z: Velociraptor | Learn fun facts about this popular dinosaur!",
-      "channel": "Learn Bright",
-      "channelId": "UCKCsVSA5THlkHbnkZTPm6-g",
-      "durationSec": 215,
-      "publishedAt": "2026-07-09T15:00:24Z",
-      "topics": [
-        "maths",
-        "history"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/v5RjueE-l6g/hqdefault.jpg"
-    },
-    {
-      "id": "Q8u8X8GiDsc",
-      "title": "September 11 | Learn about the tragic 9/11 attacks",
-      "channel": "Learn Bright",
-      "channelId": "UCKCsVSA5THlkHbnkZTPm6-g",
-      "durationSec": 470,
-      "publishedAt": "2026-07-07T15:00:24Z",
-      "topics": [
-        "maths",
-        "history"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/Q8u8X8GiDsc/hqdefault.jpg"
-    },
-    {
-      "id": "jQa086jvpU0",
-      "title": "Ants for Kids | Learn all about these irritating but important insects",
-      "channel": "Learn Bright",
-      "channelId": "UCKCsVSA5THlkHbnkZTPm6-g",
-      "durationSec": 314,
-      "publishedAt": "2026-06-30T15:00:01Z",
-      "topics": [
-        "maths",
-        "history"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/jQa086jvpU0/hqdefault.jpg"
-    },
-    {
-      "id": "811IQEFZ8Js",
-      "title": "Labor Day for Kids | Learn all about this well-known holiday",
-      "channel": "Learn Bright",
-      "channelId": "UCKCsVSA5THlkHbnkZTPm6-g",
-      "durationSec": 257,
-      "publishedAt": "2026-06-25T15:00:26Z",
-      "topics": [
-        "maths",
-        "history"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/811IQEFZ8Js/hqdefault.jpg"
-    },
-    {
-      "id": "aXB29VU0AwY",
-      "title": "20th-Century Technology | Learn about historical technological advances from the 20th century",
-      "channel": "Learn Bright",
-      "channelId": "UCKCsVSA5THlkHbnkZTPm6-g",
-      "durationSec": 737,
-      "publishedAt": "2026-06-23T15:00:12Z",
-      "topics": [
-        "maths",
-        "history"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/aXB29VU0AwY/hqdefault.jpg"
-    },
-    {
-      "id": "I-_yoLmEVYs",
-      "title": "ASL Who Was Mansa Musa?",
-      "channel": "Learn Bright",
-      "channelId": "UCKCsVSA5THlkHbnkZTPm6-g",
-      "durationSec": 345,
-      "publishedAt": "2026-06-19T16:53:35Z",
-      "topics": [
-        "maths",
-        "history"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/I-_yoLmEVYs/hqdefault.jpg"
-    },
-    {
-      "id": "WS5MSdija0U",
-      "title": "ASL The Great Wall of China",
-      "channel": "Learn Bright",
-      "channelId": "UCKCsVSA5THlkHbnkZTPm6-g",
-      "durationSec": 320,
-      "publishedAt": "2026-06-19T16:53:32Z",
-      "topics": [
-        "maths",
-        "history"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/WS5MSdija0U/hqdefault.jpg"
-    },
-    {
-      "id": "elSXmhWLkD8",
-      "title": "ASL Natural Disasters: Droughts",
-      "channel": "Learn Bright",
-      "channelId": "UCKCsVSA5THlkHbnkZTPm6-g",
-      "durationSec": 387,
-      "publishedAt": "2026-06-19T16:53:25Z",
-      "topics": [
-        "maths",
-        "history"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/elSXmhWLkD8/hqdefault.jpg"
-    },
-    {
-      "id": "w2ISqPem39E",
-      "title": "ASL Greek Mythology: Nike",
-      "channel": "Learn Bright",
-      "channelId": "UCKCsVSA5THlkHbnkZTPm6-g",
-      "durationSec": 335,
-      "publishedAt": "2026-06-19T16:53:22Z",
-      "topics": [
-        "maths",
-        "history"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/w2ISqPem39E/hqdefault.jpg"
-    },
-    {
-      "id": "KolxaguPd0w",
-      "title": "ASL Flamingos for Kids",
-      "channel": "Learn Bright",
-      "channelId": "UCKCsVSA5THlkHbnkZTPm6-g",
-      "durationSec": 263,
-      "publishedAt": "2026-06-19T16:53:19Z",
-      "topics": [
-        "maths",
-        "history"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/KolxaguPd0w/hqdefault.jpg"
-    },
-    {
-      "id": "a-vZm8PPDcM",
-      "title": "ASL Dinos A to Z: Triceratops",
-      "channel": "Learn Bright",
-      "channelId": "UCKCsVSA5THlkHbnkZTPm6-g",
-      "durationSec": 240,
-      "publishedAt": "2026-06-19T16:53:15Z",
-      "topics": [
-        "maths",
-        "history"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/a-vZm8PPDcM/hqdefault.jpg"
-    },
-    {
-      "id": "SSC-qIdjwhE",
-      "title": "ASL Dinos A to Z: Stegosaurus",
-      "channel": "Learn Bright",
-      "channelId": "UCKCsVSA5THlkHbnkZTPm6-g",
-      "durationSec": 218,
-      "publishedAt": "2026-06-19T16:53:12Z",
-      "topics": [
-        "maths",
-        "history"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/SSC-qIdjwhE/hqdefault.jpg"
     },
     {
       "id": "13QmHYfWf5g",
@@ -79977,6 +80024,22 @@
       "thumbnail": "https://i.ytimg.com/vi/6ueME1DqPpc/hqdefault.jpg"
     },
     {
+      "id": "doZ5e4YVdEs",
+      "title": "3D-printed, alcohol-powered, Einstein-Szilard absorption refrigerator",
+      "channel": "Applied Science",
+      "channelId": "UCivA7_KLKWo43tFcCkFvydw",
+      "durationSec": 1385,
+      "publishedAt": "2026-10-28T20:26:11Z",
+      "topics": [
+        "science",
+        "engineering"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/doZ5e4YVdEs/hqdefault.jpg"
+    },
+    {
       "id": "NwhVJ7cv9B4",
       "title": "See inside insects with an electron microscope and a femtosecond laser",
       "channel": "Applied Science",
@@ -80727,22 +80790,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/zzVa_tX1OiI/hqdefault.jpg"
-    },
-    {
-      "id": "vwsHRrDYu5o",
-      "title": "Testing UV absorption eyewear and sunscreen with a deuterium light source",
-      "channel": "Applied Science",
-      "channelId": "UCivA7_KLKWo43tFcCkFvydw",
-      "durationSec": 1216,
-      "publishedAt": "2019-02-10T07:06:47Z",
-      "topics": [
-        "science",
-        "engineering"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/vwsHRrDYu5o/hqdefault.jpg"
     },
     {
       "id": "yoK8Y1SAKp0",
@@ -83133,6 +83180,22 @@
       "thumbnail": "https://i.ytimg.com/vi/H2hJNAqpsQM/hqdefault.jpg"
     },
     {
+      "id": "vlRD0Zo_ZzM",
+      "title": "Trading Places | Peep and the Big Wide World",
+      "channel": "Peep and the Big Wide World",
+      "channelId": "UCPq6g4Q4-SFMIJ048IXmupA",
+      "durationSec": 644,
+      "publishedAt": "2026-10-28T16:00:12Z",
+      "topics": [
+        "science",
+        "nature"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/vlRD0Zo_ZzM/hqdefault.jpg"
+    },
+    {
       "id": "BkNRqOBB9kU",
       "title": "An Inconvenient Tooth: Part 2 | Peep and the Big Wide World",
       "channel": "Peep and the Big Wide World",
@@ -83917,22 +83980,6 @@
       "thumbnail": "https://i.ytimg.com/vi/I5AjQ3g7OSM/hqdefault.jpg"
     },
     {
-      "id": "IWJde4iarA0",
-      "title": "Chirp Sorts It Out (sort of) | Peep and the Big Wide World",
-      "channel": "Peep and the Big Wide World",
-      "channelId": "UCPq6g4Q4-SFMIJ048IXmupA",
-      "durationSec": 655,
-      "publishedAt": "2026-09-09T15:00:24Z",
-      "topics": [
-        "science",
-        "nature"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/IWJde4iarA0/hqdefault.jpg"
-    },
-    {
       "id": "CzQwPxNU2as",
       "title": "My Hockey Song + More | Hockey Hockey Hockey! | Sing and play at home with Super Simple Play",
       "channel": "Super Simple Play with Caitie!",
@@ -84203,22 +84250,6 @@
         "little"
       ],
       "thumbnail": "https://i.ytimg.com/vi/_GeUG-ewMUA/hqdefault.jpg"
-    },
-    {
-      "id": "_3z4jsKddMU",
-      "title": "If You Love To Dance & Move + More | 1 Hour Dance Music for Kids! 🎉 | Super Simple Play",
-      "channel": "Super Simple Play with Caitie!",
-      "channelId": "UCxG6Tbopv4XcHfem65bgFeg",
-      "durationSec": 3779,
-      "publishedAt": "2026-05-12T13:01:06Z",
-      "topics": [
-        "music",
-        "making"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/_3z4jsKddMU/hqdefault.jpg"
     },
     {
       "id": "NvU5NbO_F8A",
@@ -84899,6 +84930,78 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/bilYblVD-3M/hqdefault.jpg"
+    },
+    {
+      "id": "aHaH0UpYqwM",
+      "title": "Motion activated flying bat learn.adafruit.com/motion-sensor-bat #adafruit #3dprinting",
+      "channel": "Adafruit Industries",
+      "channelId": "UCpOlOeQjj7EsVnDh3zuCgsA",
+      "durationSec": 120,
+      "publishedAt": "2026-10-29T11:57:01Z",
+      "topics": [
+        "making",
+        "tech",
+        "engineering",
+        "coding"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/aHaH0UpYqwM/hqdefault.jpg"
+    },
+    {
+      "id": "60gsCGmLxzw",
+      "title": "3D Hangouts –  Holiday Wreath, DIY HomeView and Twisty Eyeball",
+      "channel": "Adafruit Industries",
+      "channelId": "UCpOlOeQjj7EsVnDh3zuCgsA",
+      "durationSec": 3455,
+      "publishedAt": "2026-10-29T05:09:45Z",
+      "topics": [
+        "making",
+        "tech",
+        "engineering",
+        "coding"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/60gsCGmLxzw/hqdefault.jpg"
+    },
+    {
+      "id": "O7r8X625eRI",
+      "title": "CG Turbo Demos in CircuitPython",
+      "channel": "Adafruit Industries",
+      "channelId": "UCpOlOeQjj7EsVnDh3zuCgsA",
+      "durationSec": 154,
+      "publishedAt": "2026-10-28T19:51:10Z",
+      "topics": [
+        "making",
+        "tech",
+        "engineering",
+        "coding"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/O7r8X625eRI/hqdefault.jpg"
+    },
+    {
+      "id": "xHNc1t-5HpY",
+      "title": "3D Hangouts Episode 547 Holiday Wreath, DIY HomeView and Twisty Eyeball #3dprinting #adafruit",
+      "channel": "Adafruit Industries",
+      "channelId": "UCpOlOeQjj7EsVnDh3zuCgsA",
+      "durationSec": 178,
+      "publishedAt": "2026-10-28T18:27:46Z",
+      "topics": [
+        "making",
+        "tech",
+        "engineering",
+        "coding"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/xHNc1t-5HpY/hqdefault.jpg"
     },
     {
       "id": "pA-Zsh72nb4",
@@ -86946,12 +87049,29 @@
       "thumbnail": "https://i.ytimg.com/vi/Np1Ixd7FWzI/hqdefault.jpg"
     },
     {
-      "id": "tG-qg9lOusI",
+      "id": "OYKhjAtfsPM",
+      "title": "Balloon-Berries | Jaime's Yoga Adventures! | Kids Animated Yoga",
+      "channel": "Cosmic Kids Yoga",
+      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
+      "durationSec": 900,
+      "publishedAt": "2026-10-29T15:00:11Z",
+      "topics": [
+        "reading",
+        "nature"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/OYKhjAtfsPM/hqdefault.jpg"
+    },
+    {
+      "id": "yS9Sp_WwTLQ",
       "title": "Kids Yoga LIVE 🌟 | Fun Yoga Adventures & Movement for Kids",
       "channel": "Cosmic Kids Yoga",
       "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
-      "durationSec": 42927,
-      "publishedAt": "2026-10-28T03:02:05Z",
+      "durationSec": 42926,
+      "publishedAt": "2026-10-29T03:02:06Z",
       "topics": [
         "reading",
         "nature"
@@ -86960,15 +87080,15 @@
         "little",
         "big"
       ],
-      "thumbnail": "https://i.ytimg.com/vi/tG-qg9lOusI/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/yS9Sp_WwTLQ/hqdefault.jpg"
     },
     {
-      "id": "_AZXAVWoKyE",
+      "id": "9oJObVLQ3zU",
       "title": "Halloween Kids Yoga LIVE! Cosmic Kids Halloween Adventure Compilation 👻✨",
       "channel": "Cosmic Kids Yoga",
       "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
-      "durationSec": 42928,
-      "publishedAt": "2026-10-28T01:59:04Z",
+      "durationSec": 42897,
+      "publishedAt": "2026-10-29T01:59:07Z",
       "topics": [
         "reading",
         "nature"
@@ -86977,15 +87097,15 @@
         "little",
         "big"
       ],
-      "thumbnail": "https://i.ytimg.com/vi/_AZXAVWoKyE/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/9oJObVLQ3zU/hqdefault.jpg"
     },
     {
-      "id": "_nSlieW7y7c",
+      "id": "aOCCoVl7fKA",
       "title": "Kids Yoga LIVE 🌟 | Fun Yoga Adventures & Movement for Kids",
       "channel": "Cosmic Kids Yoga",
       "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
-      "durationSec": 38070,
-      "publishedAt": "2026-10-28T04:51:57Z",
+      "durationSec": 42899,
+      "publishedAt": "2026-10-29T07:35:47Z",
       "topics": [
         "reading",
         "nature"
@@ -86994,15 +87114,15 @@
         "little",
         "big"
       ],
-      "thumbnail": "https://i.ytimg.com/vi/_nSlieW7y7c/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/aOCCoVl7fKA/hqdefault.jpg"
     },
     {
-      "id": "1zt2ee6mR40",
+      "id": "3sA6ByJYP1w",
       "title": "Halloween Kids Yoga LIVE! Cosmic Kids Halloween Adventure Compilation 👻✨",
       "channel": "Cosmic Kids Yoga",
       "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
-      "durationSec": 33752,
-      "publishedAt": "2026-10-28T02:18:19Z",
+      "durationSec": 42899,
+      "publishedAt": "2026-10-29T03:42:43Z",
       "topics": [
         "reading",
         "nature"
@@ -87011,7 +87131,7 @@
         "little",
         "big"
       ],
-      "thumbnail": "https://i.ytimg.com/vi/1zt2ee6mR40/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/3sA6ByJYP1w/hqdefault.jpg"
     },
     {
       "id": "hV2a0GumCQI",
