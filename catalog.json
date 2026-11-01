@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-31T14:53:06.732Z",
+  "generatedAt": "2026-11-01T15:32:02.965Z",
   "profiles": {
     "little": {
       "label": "Ages 3-7"
@@ -131,6 +131,38 @@
       "thumbnail": "https://i.ytimg.com/vi/kKqd0_cydZM/hqdefault.jpg"
     },
     {
+      "id": "5rYfZXlqLvM",
+      "title": "Inside the Factories of Tractors and Sauce! | Made in a Day Full Episode | Nat Geo Kids",
+      "channel": "Nat Geo Kids",
+      "channelId": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "durationSec": 2498,
+      "publishedAt": "2026-11-01T13:00:01Z",
+      "topics": [
+        "animals",
+        "science"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/5rYfZXlqLvM/hqdefault.jpg"
+    },
+    {
+      "id": "PZ5ZJYuD1vw",
+      "title": "How does a Beaver build a Dam and a Lodge? 🦫 Animal Card Quest | Nat Geo Kids",
+      "channel": "Nat Geo Kids",
+      "channelId": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "durationSec": 362,
+      "publishedAt": "2026-10-31T16:00:18Z",
+      "topics": [
+        "animals",
+        "science"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/PZ5ZJYuD1vw/hqdefault.jpg"
+    },
+    {
       "id": "svaGnbGxrs4",
       "title": "Hephaestus’s Golden Throne Trap | Greeking Out Podcast | S5 E5 Full Ep | Nat Geo Kids",
       "channel": "Nat Geo Kids",
@@ -145,38 +177,6 @@
         "little"
       ],
       "thumbnail": "https://i.ytimg.com/vi/svaGnbGxrs4/hqdefault.jpg"
-    },
-    {
-      "id": "OFLJN2J0-l8",
-      "title": "Craziest Animal Illusions | You're Called What?! | Nat Geo Kids",
-      "channel": "Nat Geo Kids",
-      "channelId": "UCXVCgDuD_QCkI7gTKU7-tpg",
-      "durationSec": 1609,
-      "publishedAt": "2026-10-29T12:00:37Z",
-      "topics": [
-        "animals",
-        "science"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/OFLJN2J0-l8/hqdefault.jpg"
-    },
-    {
-      "id": "l5OiIZeOtqs",
-      "title": "2 Hours of the World's Toughest Fixes 👷🏽👷🏽‍♀️ | Full Episode Compilation | Nat Geo Kids",
-      "channel": "Nat Geo Kids",
-      "channelId": "UCXVCgDuD_QCkI7gTKU7-tpg",
-      "durationSec": 7939,
-      "publishedAt": "2026-10-26T12:00:39Z",
-      "topics": [
-        "animals",
-        "science"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/l5OiIZeOtqs/hqdefault.jpg"
     },
     {
       "id": "IQB-_QkWhng",
@@ -224,19 +224,19 @@
       "thumbnail": "https://i.ytimg.com/vi/cQvh1XLB2Ws/hqdefault.jpg"
     },
     {
-      "id": "EcVNQhah89Q",
-      "title": "How To Draw A Scarecrow Folding Surprise",
-      "channel": "Art for Kids Hub",
-      "channelId": "UC5XMF3Inoi8R9nSI8ChOsdQ",
-      "durationSec": 756,
-      "publishedAt": "2026-10-26T15:35:37Z",
+      "id": "f5N4dpyzXfk",
+      "title": "Cold Weather Counting for Kids | Learn to Count for Kids Compilation | Number Cartoon | Numberblocks",
+      "channel": "Numberblocks",
+      "channelId": "UCPlwvN0w4qFSP1FllALB92w",
+      "durationSec": 3491,
+      "publishedAt": "2026-11-01T11:00:14Z",
       "topics": [
-        "art"
+        "maths"
       ],
       "profiles": [
         "little"
       ],
-      "thumbnail": "https://i.ytimg.com/vi/EcVNQhah89Q/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/f5N4dpyzXfk/hqdefault.jpg"
     },
     {
       "id": "kRMZhfGCnlo",
@@ -380,6 +380,21 @@
       "thumbnail": "https://i.ytimg.com/vi/1uTRlM6MbMo/hqdefault.jpg"
     },
     {
+      "id": "vCAD3W43lIk",
+      "title": "Who's Richer, Mario or Sonic? - Numberphile",
+      "channel": "Numberphile",
+      "channelId": "UCoxcjq-8xIDTYp3uz647V5A",
+      "durationSec": 1178,
+      "publishedAt": "2026-11-01T12:06:18Z",
+      "topics": [
+        "maths"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/vCAD3W43lIk/hqdefault.jpg"
+    },
+    {
       "id": "EgnAN0ZUl08",
       "title": "Squaring the Triangle - Numberphile",
       "channel": "Numberphile",
@@ -408,21 +423,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/Uvy5Cs9FDLg/hqdefault.jpg"
-    },
-    {
-      "id": "bAnwMdfcMVw",
-      "title": "No More Heroes - Terence Tao Talks to Numberphile About AI",
-      "channel": "Numberphile",
-      "channelId": "UCoxcjq-8xIDTYp3uz647V5A",
-      "durationSec": 1185,
-      "publishedAt": "2026-10-15T13:58:59Z",
-      "topics": [
-        "maths"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/bAnwMdfcMVw/hqdefault.jpg"
     },
     {
       "id": "3bc9r8zk36s",
@@ -3540,6 +3540,21 @@
       "thumbnail": "https://i.ytimg.com/vi/T47s4L1Wje4/hqdefault.jpg"
     },
     {
+      "id": "qB7d062jcNg",
+      "title": "The Physics Problem With Tesla's Flying Car",
+      "channel": "The Action Lab",
+      "channelId": "UC1VLQPn9cYSqx8plbk9RxxQ",
+      "durationSec": 515,
+      "publishedAt": "2026-10-31T15:03:30Z",
+      "topics": [
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/qB7d062jcNg/hqdefault.jpg"
+    },
+    {
       "id": "WzHKEXc-8f4",
       "title": "The Sun Is the Wrong Color",
       "channel": "The Action Lab",
@@ -4243,21 +4258,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/uPtGGBXiivE/hqdefault.jpg"
-    },
-    {
-      "id": "F2M2aRXI8lc",
-      "title": "Why Do Grains Defy Gravity?",
-      "channel": "The Action Lab",
-      "channelId": "UC1VLQPn9cYSqx8plbk9RxxQ",
-      "durationSec": 416,
-      "publishedAt": "2025-09-27T15:03:00Z",
-      "topics": [
-        "science"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/F2M2aRXI8lc/hqdefault.jpg"
     },
     {
       "id": "4NEdVmPFP7g",
@@ -5963,6 +5963,22 @@
       "thumbnail": "https://i.ytimg.com/vi/mpWTcLv72oE/hqdefault.jpg"
     },
     {
+      "id": "ATwz08wv1pQ",
+      "title": "JPL at 90: A Legacy of Exploration, A Future of Discovery",
+      "channel": "NASA Jet Propulsion Laboratory",
+      "channelId": "UCryGec9PdUCLjpJW2mgCuLw",
+      "durationSec": 147,
+      "publishedAt": "2026-10-31T16:40:47Z",
+      "topics": [
+        "space",
+        "engineering"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/ATwz08wv1pQ/hqdefault.jpg"
+    },
+    {
       "id": "poayrJsYies",
       "title": "What does a kiddie pool have to do with landing on the Moon?  |  NXT in Space: JPL x Firefly",
       "channel": "NASA Jet Propulsion Laboratory",
@@ -6281,22 +6297,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/Di21vgREWLg/hqdefault.jpg"
-    },
-    {
-      "id": "j3Ps1YbTjmk",
-      "title": "What's Up: January 2026 Skywatching Tips from NASA",
-      "channel": "NASA Jet Propulsion Laboratory",
-      "channelId": "UCryGec9PdUCLjpJW2mgCuLw",
-      "durationSec": 145,
-      "publishedAt": "2026-01-01T16:01:08Z",
-      "topics": [
-        "space",
-        "engineering"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/j3Ps1YbTjmk/hqdefault.jpg"
     },
     {
       "id": "72o0cNglths",
@@ -13365,6 +13365,22 @@
       "thumbnail": "https://i.ytimg.com/vi/m6KAfSgFaAM/hqdefault.jpg"
     },
     {
+      "id": "T8JGs53GS0g",
+      "title": "How to Draw Spider Noir using White Charcoal Pencil",
+      "channel": "Cartooning Club How to Draw",
+      "channelId": "UC-biucJWhM8HwjsQ96uoIUw",
+      "durationSec": 735,
+      "publishedAt": "2026-11-01T14:00:12Z",
+      "topics": [
+        "art",
+        "making"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/T8JGs53GS0g/hqdefault.jpg"
+    },
+    {
       "id": "IR2JVARaeZU",
       "title": "How to Draw Light Fury | Graphite Pencil Sketch Tutorial",
       "channel": "Cartooning Club How to Draw",
@@ -14051,22 +14067,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/RC4gsSycWVg/hqdefault.jpg"
-    },
-    {
-      "id": "r9A2P9ivVi0",
-      "title": "How to Draw Luffy | One Piece",
-      "channel": "Cartooning Club How to Draw",
-      "channelId": "UC-biucJWhM8HwjsQ96uoIUw",
-      "durationSec": 586,
-      "publishedAt": "2026-09-15T14:00:03Z",
-      "topics": [
-        "art",
-        "making"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/r9A2P9ivVi0/hqdefault.jpg"
     },
     {
       "id": "n52GoJMsi44",
@@ -20263,6 +20263,22 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/1VGBy04nIjA/hqdefault.jpg"
+    },
+    {
+      "id": "Dt8QsnkpStg",
+      "title": "Everything You Can Bury Under Crops Ranked",
+      "channel": "Epic Gardening",
+      "channelId": "UCSbyncU597LMwb3HhnAI_4w",
+      "durationSec": 1206,
+      "publishedAt": "2026-10-31T18:00:18Z",
+      "topics": [
+        "nature",
+        "making"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/Dt8QsnkpStg/hqdefault.jpg"
     },
     {
       "id": "A85r_SISIDA",
@@ -26563,22 +26579,6 @@
       "thumbnail": "https://i.ytimg.com/vi/dVb6j-Oeiko/hqdefault.jpg"
     },
     {
-      "id": "m9pmQqsai0I",
-      "title": "Working on the next POPCARE INDEX video ...🇦🇿",
-      "channel": "Geography Now",
-      "channelId": "UCmmPgObSUPw1HL2lq6H4ffA",
-      "durationSec": 6336,
-      "publishedAt": "2026-09-05T13:53:03Z",
-      "topics": [
-        "geography",
-        "exploration"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/m9pmQqsai0I/hqdefault.jpg"
-    },
-    {
       "id": "3G1wZPeZZTQ",
       "title": "Beyond Stonewall: Exploring LGBTQ+ History Through the Smithsonian Archives 🏳️‍🌈 Smithsonian Channel",
       "channel": "Smithsonian Channel",
@@ -30907,6 +30907,21 @@
       "thumbnail": "https://i.ytimg.com/vi/qrwiX7Dc60Q/hqdefault.jpg"
     },
     {
+      "id": "6N-7VZueIFA",
+      "title": "Alphablock O's Big Adventure | Learn to Read and Spell for Kids Compilation | Alphablocks",
+      "channel": "Alphablocks",
+      "channelId": "UC_qs3c0ehDvZkbiEbOj6Drg",
+      "durationSec": 1530,
+      "publishedAt": "2026-11-01T12:00:00Z",
+      "topics": [
+        "reading"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/6N-7VZueIFA/hqdefault.jpg"
+    },
+    {
       "id": "0rm9UIGyjJU",
       "title": "Boo - An Alphablocks Halloween Special | Halloween Cartoons - Learn to Read and Spell | Alphablocks",
       "channel": "Alphablocks",
@@ -31460,21 +31475,6 @@
         "little"
       ],
       "thumbnail": "https://i.ytimg.com/vi/6j8_kct3gLw/hqdefault.jpg"
-    },
-    {
-      "id": "FqldR5bfh2E",
-      "title": "Let's Spell 'CAT' and Other Animals! | Learn to Read and Spell for Kids Compilation | Alphablocks",
-      "channel": "Alphablocks",
-      "channelId": "UC_qs3c0ehDvZkbiEbOj6Drg",
-      "durationSec": 3829,
-      "publishedAt": "2026-08-08T11:00:06Z",
-      "topics": [
-        "reading"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/FqldR5bfh2E/hqdefault.jpg"
     },
     {
       "id": "95zgi3oDUIU",
@@ -40809,6 +40809,22 @@
       "thumbnail": "https://i.ytimg.com/vi/78ffidI7__E/hqdefault.jpg"
     },
     {
+      "id": "FZpwPxTygxU",
+      "title": "Is there space under London for another Tube line?",
+      "channel": "Jago Hazzard",
+      "channelId": "UCcHuNKYzVMc06FXqsBEAV3A",
+      "durationSec": 642,
+      "publishedAt": "2026-11-01T12:00:39Z",
+      "topics": [
+        "history",
+        "geography"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/FZpwPxTygxU/hqdefault.jpg"
+    },
+    {
       "id": "_Oj2fGS5JQQ",
       "title": "London's OTHER Train of the Dead",
       "channel": "Jago Hazzard",
@@ -41591,22 +41607,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/kImSQoHVF-w/hqdefault.jpg"
-    },
-    {
-      "id": "dt0VcHXh8fg",
-      "title": "How Many Guys Does it Take to Pull a Train? We found out.",
-      "channel": "Jago Hazzard",
-      "channelId": "UCcHuNKYzVMc06FXqsBEAV3A",
-      "durationSec": 549,
-      "publishedAt": "2026-07-08T16:30:34Z",
-      "topics": [
-        "history",
-        "geography"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/dt0VcHXh8fg/hqdefault.jpg"
     },
     {
       "id": "S19ag-Ifa8Y",
@@ -44332,6 +44332,22 @@
       "thumbnail": "https://i.ytimg.com/vi/gPPZ-1t9gIU/hqdefault.jpg"
     },
     {
+      "id": "Dwidf59KOvo",
+      "title": "We're All Connected. Re-imagining the Galaxy.",
+      "channel": "Cool Worlds",
+      "channelId": "UCGHZpIpAWJQ-Jy_CeCdXhMA",
+      "durationSec": 1192,
+      "publishedAt": "2026-10-31T15:34:33Z",
+      "topics": [
+        "space",
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/Dwidf59KOvo/hqdefault.jpg"
+    },
+    {
       "id": "EhsGkgz-Wc8",
       "title": "How Cold Can You Go? | 50x50 Science",
       "channel": "Cool Worlds",
@@ -44938,22 +44954,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/tR1HTNtcYw0/hqdefault.jpg"
-    },
-    {
-      "id": "zU_R2ghfsBE",
-      "title": "Are Dyson Spheres Physically Possible?",
-      "channel": "Cool Worlds",
-      "channelId": "UCGHZpIpAWJQ-Jy_CeCdXhMA",
-      "durationSec": 1103,
-      "publishedAt": "2024-08-02T16:08:22Z",
-      "topics": [
-        "space",
-        "science"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/zU_R2ghfsBE/hqdefault.jpg"
     },
     {
       "id": "zvRmTaEjXPQ",
@@ -50412,6 +50412,22 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/wGOIHay5y2A/hqdefault.jpg"
+    },
+    {
+      "id": "woe1vMKTJeA",
+      "title": "AI Billionaire Says 13-Year-Olds Should Vibe Code All Day. Is He Right?",
+      "channel": "CodaKid",
+      "channelId": "UCmosgwMRj1rlOBLFYLIzDcw",
+      "durationSec": 130,
+      "publishedAt": "2026-10-31T17:00:49Z",
+      "topics": [
+        "coding",
+        "making"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/woe1vMKTJeA/hqdefault.jpg"
     },
     {
       "id": "1n1mY_DrcrI",
@@ -65799,6 +65815,22 @@
       "thumbnail": "https://i.ytimg.com/vi/oF3z_tNVllU/hqdefault.jpg"
     },
     {
+      "id": "9a4nnQ2iuew",
+      "title": "Grow Like an Italian: Forgotten Food Heritage from WWII",
+      "channel": "GrowVeg",
+      "channelId": "UC9r61qohBg1qgGty4_WzojA",
+      "durationSec": 719,
+      "publishedAt": "2026-10-31T15:45:17Z",
+      "topics": [
+        "nature",
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/9a4nnQ2iuew/hqdefault.jpg"
+    },
+    {
       "id": "llny7tvk4gI",
       "title": "6 Surprising Plants You Need to Start in November",
       "channel": "GrowVeg",
@@ -66405,22 +66437,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/SvkuYquYNns/hqdefault.jpg"
-    },
-    {
-      "id": "EGU9dojCDus",
-      "title": "Why Smart Gardeners Have Stopped Buying Potting Mix",
-      "channel": "GrowVeg",
-      "channelId": "UC9r61qohBg1qgGty4_WzojA",
-      "durationSec": 712,
-      "publishedAt": "2026-01-31T17:45:01Z",
-      "topics": [
-        "nature",
-        "science"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/EGU9dojCDus/hqdefault.jpg"
     },
     {
       "id": "_nLF0wtuuCo",
@@ -68357,6 +68373,21 @@
       "thumbnail": "https://i.ytimg.com/vi/A_zQKW8ipL4/hqdefault.jpg"
     },
     {
+      "id": "zwIhpVei6cw",
+      "title": "Why Are There Black Rocks Inside White Cliffs? The Strange Chemistry of Flint w/@geo.sassie",
+      "channel": "GEO GIRL",
+      "channelId": "UC5uH43CVzGWg9XGYGuLwI_w",
+      "durationSec": 512,
+      "publishedAt": "2026-11-01T14:30:38Z",
+      "topics": [
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/zwIhpVei6cw/hqdefault.jpg"
+    },
+    {
       "id": "L1tNV7KnG3M",
       "title": "How Animals Grow Skeletons & Shells & Why They're So Detailed 🦴🐚",
       "channel": "GEO GIRL",
@@ -69075,21 +69106,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/BlhYf8iOalo/hqdefault.jpg"
-    },
-    {
-      "id": "JKZ2VsXz8G0",
-      "title": "How Agates Form, Why Minnesota Lakes Have So Many, & Where To Look For Them! GEO GIRL",
-      "channel": "GEO GIRL",
-      "channelId": "UC5uH43CVzGWg9XGYGuLwI_w",
-      "durationSec": 533,
-      "publishedAt": "2025-09-07T13:30:28Z",
-      "topics": [
-        "science"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/JKZ2VsXz8G0/hqdefault.jpg"
     },
     {
       "id": "8p0o96kUekY",
@@ -70691,23 +70707,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/mdy17b6jeGI/hqdefault.jpg"
-    },
-    {
-      "id": "Y_88LZdjs4o",
-      "title": "Alaska's Brooks Range",
-      "channel": "Nick Zentner",
-      "channelId": "UC4szl4Ra1ZD3m80wJP40UBA",
-      "durationSec": 2087,
-      "publishedAt": "2026-04-02T17:17:24Z",
-      "topics": [
-        "science",
-        "geography",
-        "history"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/Y_88LZdjs4o/hqdefault.jpg"
     },
     {
       "id": "TbOQIbEEVtA",
@@ -74449,7 +74448,7 @@
     },
     {
       "id": "dDYFiq1l5Dg",
-      "title": "One Senator, Thirty Seconds, Every Three Days",
+      "title": "Only One Supreme Court Justice Has Ever Been Impeached",
       "channel": "CGP Grey",
       "channelId": "UC2C_jShtL725hvbm1arSV9w",
       "durationSec": 722,
@@ -78546,7 +78545,7 @@
     },
     {
       "id": "EJftnccy4b8",
-      "title": "Super El Niño Has Changed Great White Sharks",
+      "title": "Why Are Great White Sharks Suddenly Everywhere In California?",
       "channel": "KPassionate",
       "channelId": "UCUvSqEH92Fqn9uw1kmCfLGA",
       "durationSec": 692,
@@ -78994,7 +78993,7 @@
     },
     {
       "id": "bYyiVlroMu4",
-      "title": "Marine Biologist Reacts to the Largest Great White Sharks Ever!",
+      "title": "The Largest Great White Sharks Ever Recorded!",
       "channel": "KPassionate",
       "channelId": "UCUvSqEH92Fqn9uw1kmCfLGA",
       "durationSec": 893,
@@ -81597,6 +81596,25 @@
       "thumbnail": "https://i.ytimg.com/vi/tuOlM3P7ygA/hqdefault.jpg"
     },
     {
+      "id": "pYMiybNr3vU",
+      "title": "10 Billion Sparks per Hour - The Slow Mo Guys",
+      "channel": "The Slow Mo Guys",
+      "channelId": "UCUK0HBIBWgM2c4vsPhkYY4w",
+      "durationSec": 1493,
+      "publishedAt": "2026-10-31T22:31:53Z",
+      "topics": [
+        "science"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "flags": [
+        "supervision"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/pYMiybNr3vU/hqdefault.jpg"
+    },
+    {
       "id": "8nyQWmflve4",
       "title": "Camera Shutters are Extremely Fast - The Slow Mo Guys",
       "channel": "The Slow Mo Guys",
@@ -83137,6 +83155,22 @@
       "thumbnail": "https://i.ytimg.com/vi/H2hJNAqpsQM/hqdefault.jpg"
     },
     {
+      "id": "Cm2iH3HXT20",
+      "title": "Quack's Pond Party | Peep and the Big Wide World",
+      "channel": "Peep and the Big Wide World",
+      "channelId": "UCPq6g4Q4-SFMIJ048IXmupA",
+      "durationSec": 645,
+      "publishedAt": "2026-10-31T16:00:06Z",
+      "topics": [
+        "science",
+        "nature"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/Cm2iH3HXT20/hqdefault.jpg"
+    },
+    {
       "id": "SHhlEsf9eAk",
       "title": "Bringing Spring | Peep and the Big Wide World",
       "channel": "Peep and the Big Wide World",
@@ -83919,22 +83953,6 @@
         "little"
       ],
       "thumbnail": "https://i.ytimg.com/vi/gLrTtv9tn2M/hqdefault.jpg"
-    },
-    {
-      "id": "1_SNgq-_N3g",
-      "title": "Dry Duck (Part 2) | Peep and the Big Wide World",
-      "channel": "Peep and the Big Wide World",
-      "channelId": "UCPq6g4Q4-SFMIJ048IXmupA",
-      "durationSec": 645,
-      "publishedAt": "2026-09-12T15:00:37Z",
-      "topics": [
-        "science",
-        "nature"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/1_SNgq-_N3g/hqdefault.jpg"
     },
     {
       "id": "CzQwPxNU2as",
@@ -87023,12 +87041,80 @@
       "thumbnail": "https://i.ytimg.com/vi/Np1Ixd7FWzI/hqdefault.jpg"
     },
     {
+      "id": "9JbA3k3ew2o",
+      "title": "Kids Yoga LIVE 🌟 | Fun Yoga Adventures & Movement for Kids",
+      "channel": "Cosmic Kids Yoga",
+      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
+      "durationSec": 42926,
+      "publishedAt": "2026-11-01T03:02:06Z",
+      "topics": [
+        "reading",
+        "nature"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/9JbA3k3ew2o/hqdefault.jpg"
+    },
+    {
+      "id": "oAdbecb8-i0",
+      "title": "Halloween Kids Yoga LIVE! Cosmic Kids Halloween Adventure Compilation 👻✨",
+      "channel": "Cosmic Kids Yoga",
+      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
+      "durationSec": 42925,
+      "publishedAt": "2026-11-01T01:59:05Z",
+      "topics": [
+        "reading",
+        "nature"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/oAdbecb8-i0/hqdefault.jpg"
+    },
+    {
+      "id": "Bq5Tp7y0LRI",
+      "title": "Kids Yoga LIVE 🌟 | Fun Yoga Adventures & Movement for Kids",
+      "channel": "Cosmic Kids Yoga",
+      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
+      "durationSec": 42900,
+      "publishedAt": "2026-11-01T03:52:47Z",
+      "topics": [
+        "reading",
+        "nature"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/Bq5Tp7y0LRI/hqdefault.jpg"
+    },
+    {
+      "id": "Sc9lMfjLA9E",
+      "title": "Halloween Kids Yoga LIVE! Cosmic Kids Halloween Adventure Compilation 👻✨",
+      "channel": "Cosmic Kids Yoga",
+      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
+      "durationSec": 42900,
+      "publishedAt": "2026-11-01T03:30:17Z",
+      "topics": [
+        "reading",
+        "nature"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/Sc9lMfjLA9E/hqdefault.jpg"
+    },
+    {
       "id": "0WjKl3_z1ug",
       "title": "Halloween Kids Yoga LIVE! Cosmic Kids Halloween Adventure Compilation 👻✨",
       "channel": "Cosmic Kids Yoga",
       "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
       "durationSec": 42900,
-      "publishedAt": "2026-10-31T01:59:25Z",
+      "publishedAt": "2026-10-31T22:29:37Z",
       "topics": [
         "reading",
         "nature"
@@ -87038,6 +87124,23 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/0WjKl3_z1ug/hqdefault.jpg"
+    },
+    {
+      "id": "Yh6BKJJP4SI",
+      "title": "Kids Yoga LIVE 🌟 | Fun Yoga Adventures & Movement for Kids",
+      "channel": "Cosmic Kids Yoga",
+      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
+      "durationSec": 42900,
+      "publishedAt": "2026-10-31T20:37:14Z",
+      "topics": [
+        "reading",
+        "nature"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/Yh6BKJJP4SI/hqdefault.jpg"
     },
     {
       "id": "S3qqJAkdyw8",
@@ -88213,6 +88316,22 @@
       "thumbnail": "https://i.ytimg.com/vi/Ilr2DjYOfqA/hqdefault.jpg"
     },
     {
+      "id": "1FqWyIumLZs",
+      "title": "Elmo's Favorite Nursery Rhymes 🤩 | 2 Hours | Sesame Street",
+      "channel": "Sesame Street",
+      "channelId": "UCoookXUzPciGrEZEXmh4Jjg",
+      "durationSec": 6855,
+      "publishedAt": "2026-11-01T12:30:08Z",
+      "topics": [
+        "reading",
+        "music"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/1FqWyIumLZs/hqdefault.jpg"
+    },
+    {
       "id": "r65hiAj3k94",
       "title": "Counting Songs with Elmo! #sesamestreet",
       "channel": "Sesame Street",
@@ -88725,20 +88844,19 @@
       "thumbnail": "https://i.ytimg.com/vi/T_3-dIqh2tg/hqdefault.jpg"
     },
     {
-      "id": "QdHwcPRqIO8",
-      "title": "Elmo Goes to Preschool! 🚌🖍️ | FOUR Sesame Street Full Episodes",
-      "channel": "Sesame Street",
-      "channelId": "UCoookXUzPciGrEZEXmh4Jjg",
-      "durationSec": 9718,
-      "publishedAt": "2026-09-04T11:30:38Z",
+      "id": "_DJ0chj0yA0",
+      "title": "The Paris Climate Agreement Was A Lie",
+      "channel": "ClimateAdam",
+      "channelId": "UCCu5wtZ5uOWZp_roz7wHPfg",
+      "durationSec": 590,
+      "publishedAt": "2026-11-01T15:14:38Z",
       "topics": [
-        "reading",
-        "music"
+        "science"
       ],
       "profiles": [
-        "little"
+        "big"
       ],
-      "thumbnail": "https://i.ytimg.com/vi/QdHwcPRqIO8/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/_DJ0chj0yA0/hqdefault.jpg"
     },
     {
       "id": "LJUXDY5gMaM",
@@ -89069,21 +89187,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/HtldMsa7OH4/hqdefault.jpg"
-    },
-    {
-      "id": "ClZGMeiFT6w",
-      "title": "Why the Climate Crisis is a Health Crisis",
-      "channel": "ClimateAdam",
-      "channelId": "UCCu5wtZ5uOWZp_roz7wHPfg",
-      "durationSec": 839,
-      "publishedAt": "2025-11-17T14:16:52Z",
-      "topics": [
-        "science"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/ClZGMeiFT6w/hqdefault.jpg"
     },
     {
       "id": "on9QyDkbnJk",
