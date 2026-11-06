@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-05T16:55:32.124Z",
+  "generatedAt": "2026-11-06T16:26:54.785Z",
   "profiles": {
     "little": {
       "label": "Ages 3-7"
@@ -131,6 +131,22 @@
       "thumbnail": "https://i.ytimg.com/vi/kKqd0_cydZM/hqdefault.jpg"
     },
     {
+      "id": "7J1VXQ--ElA",
+      "title": "The First Mummy in Egypt | Greeking Out Podcast | S5 E6 FULL EP | Nat Geo Kids",
+      "channel": "Nat Geo Kids",
+      "channelId": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "durationSec": 1137,
+      "publishedAt": "2026-11-06T13:00:39Z",
+      "topics": [
+        "animals",
+        "science"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/7J1VXQ--ElA/hqdefault.jpg"
+    },
+    {
       "id": "sZuusYKOcVY",
       "title": "The Cat in the Funniest Home Videos! | AFV: Animal Edition Full Episode | Nat Geo Kids",
       "channel": "Nat Geo Kids",
@@ -161,22 +177,6 @@
         "little"
       ],
       "thumbnail": "https://i.ytimg.com/vi/DpIfdt0ge58/hqdefault.jpg"
-    },
-    {
-      "id": "5rYfZXlqLvM",
-      "title": "Inside the Factories of Tractors and Sauce! | Made in a Day Full Episode | Nat Geo Kids",
-      "channel": "Nat Geo Kids",
-      "channelId": "UCXVCgDuD_QCkI7gTKU7-tpg",
-      "durationSec": 2498,
-      "publishedAt": "2026-11-01T13:00:01Z",
-      "topics": [
-        "animals",
-        "science"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/5rYfZXlqLvM/hqdefault.jpg"
     },
     {
       "id": "9C6nMo5FmpM",
@@ -224,6 +224,21 @@
       "thumbnail": "https://i.ytimg.com/vi/fc3IIwGIr2Y/hqdefault.jpg"
     },
     {
+      "id": "L58JFJ_r0O8",
+      "title": "Patterns to Learn this Autumn | Learn to Count for Kids Compilation | Number Cartoon | Numberblocks",
+      "channel": "Numberblocks",
+      "channelId": "UCPlwvN0w4qFSP1FllALB92w",
+      "durationSec": 4835,
+      "publishedAt": "2026-11-06T12:00:05Z",
+      "topics": [
+        "maths"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/L58JFJ_r0O8/hqdefault.jpg"
+    },
+    {
       "id": "_cU6DuilZ18",
       "title": "Pattern Palace | Numberblocks COURSE - Level 2, Orange (S3 E17)",
       "channel": "Numberblocks",
@@ -237,21 +252,6 @@
         "little"
       ],
       "thumbnail": "https://i.ytimg.com/vi/_cU6DuilZ18/hqdefault.jpg"
-    },
-    {
-      "id": "f5N4dpyzXfk",
-      "title": "Cold Weather Counting for Kids | Learn to Count for Kids Compilation | Number Cartoon | Numberblocks",
-      "channel": "Numberblocks",
-      "channelId": "UCPlwvN0w4qFSP1FllALB92w",
-      "durationSec": 3491,
-      "publishedAt": "2026-11-01T11:00:14Z",
-      "topics": [
-        "maths"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/f5N4dpyzXfk/hqdefault.jpg"
     },
     {
       "id": "bw5tzcoEG88",
@@ -380,6 +380,21 @@
       "thumbnail": "https://i.ytimg.com/vi/EgnAN0ZUl08/hqdefault.jpg"
     },
     {
+      "id": "1EX702Au9oQ",
+      "title": "The Man O' War Is Scarier Than You Think",
+      "channel": "SciShow",
+      "channelId": "UCZYTClx2T1of7BRZ86-8fow",
+      "durationSec": 351,
+      "publishedAt": "2026-11-05T18:00:36Z",
+      "topics": [
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/1EX702Au9oQ/hqdefault.jpg"
+    },
+    {
       "id": "i7esSCr2UJk",
       "title": "Why Is There No Vitamin F?",
       "channel": "SciShow",
@@ -425,21 +440,6 @@
       "thumbnail": "https://i.ytimg.com/vi/G25Vd8hpLJI/hqdefault.jpg"
     },
     {
-      "id": "3bc9r8zk36s",
-      "title": "5 Maps That Changed History",
-      "channel": "SciShow",
-      "channelId": "UCZYTClx2T1of7BRZ86-8fow",
-      "durationSec": 808,
-      "publishedAt": "2026-10-30T17:00:23Z",
-      "topics": [
-        "science"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/3bc9r8zk36s/hqdefault.jpg"
-    },
-    {
       "id": "LKrwhjOI8Nc",
       "title": "There's never been a better time to go into math",
       "channel": "3Blue1Brown",
@@ -471,7 +471,7 @@
     },
     {
       "id": "KfODG5REyss",
-      "title": "The Closest Thing We’ve Got To Real Perpetual Motion",
+      "title": "I finally saw quantum physics with my own eyes...",
       "channel": "Veritasium",
       "channelId": "UCHnyfMqiRRG1u-2MsSQLbXA",
       "durationSec": 3956,
@@ -5338,6 +5338,23 @@
       "thumbnail": "https://i.ytimg.com/vi/tIlshNCG6NI/hqdefault.jpg"
     },
     {
+      "id": "25JEQqgv5I4",
+      "title": "U.S. Spacewalk 101",
+      "channel": "NASA",
+      "channelId": "UCLA_DiR1FfKNvjuUpBHmylQ",
+      "durationSec": 32958,
+      "publishedAt": "2026-11-05T21:35:58Z",
+      "topics": [
+        "space",
+        "exploration"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/25JEQqgv5I4/hqdefault.jpg"
+    },
+    {
       "id": "IhpBgLB8JUQ",
       "title": "Astronaut Anil Menon Speaks With Mark Rober From the International Space Station",
       "channel": "NASA",
@@ -7258,6 +7275,24 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/wKcMvR2C0oA/hqdefault.jpg"
+    },
+    {
+      "id": "744fHerowJ4",
+      "title": "Why Do We Even Need A Clock This Accurate?",
+      "channel": "MinuteEarth",
+      "channelId": "UCeiYXex_fwgYDonaTcSIk6w",
+      "durationSec": 476,
+      "publishedAt": "2026-11-05T18:56:53Z",
+      "topics": [
+        "nature",
+        "science",
+        "geography"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/744fHerowJ4/hqdefault.jpg"
     },
     {
       "id": "9PJvV5PYDm0",
@@ -11334,6 +11369,22 @@
       "thumbnail": "https://i.ytimg.com/vi/sLEXOcO_PUQ/hqdefault.jpg"
     },
     {
+      "id": "K1gTVGO30DE",
+      "title": "He built a video game inside Ableton that helps you finish tracks",
+      "channel": "ANDREW HUANG",
+      "channelId": "UCdcemy56JtVTrsFIOoqvV8g",
+      "durationSec": 1118,
+      "publishedAt": "2026-11-05T19:00:03Z",
+      "topics": [
+        "music",
+        "making"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/K1gTVGO30DE/hqdefault.jpg"
+    },
+    {
       "id": "wEfqUW0Lt7k",
       "title": "RC-20 V2 in 3 minutes!",
       "channel": "ANDREW HUANG",
@@ -11558,22 +11609,6 @@
       "thumbnail": "https://i.ytimg.com/vi/6zeuQP72rZM/hqdefault.jpg"
     },
     {
-      "id": "0NQt6_zrmcA",
-      "title": "Experimental instrument! (Elta Solar 42N)",
-      "channel": "ANDREW HUANG",
-      "channelId": "UCdcemy56JtVTrsFIOoqvV8g",
-      "durationSec": 713,
-      "publishedAt": "2026-06-02T16:00:34Z",
-      "topics": [
-        "music",
-        "making"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/0NQt6_zrmcA/hqdefault.jpg"
-    },
-    {
       "id": "blWnqtNxhYA",
       "title": "10 Levels of Advanced Listening",
       "channel": "Nahre Sol",
@@ -11684,6 +11719,23 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/jb9OPM1tUfk/hqdefault.jpg"
+    },
+    {
+      "id": "1SBFAAX2DBQ",
+      "title": "How to Draw Hello Kitty Snowman ⛄️ Sanrio Winter Holiday",
+      "channel": "Draw So Cute",
+      "channelId": "UC3dEvA1is6-0_yuei9iCdEw",
+      "durationSec": 591,
+      "publishedAt": "2026-11-06T15:00:12Z",
+      "topics": [
+        "art",
+        "making"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/1SBFAAX2DBQ/hqdefault.jpg"
     },
     {
       "id": "Mp1XN1CH3Wk",
@@ -12519,23 +12571,6 @@
       "thumbnail": "https://i.ytimg.com/vi/Vk-e13lQ-fk/hqdefault.jpg"
     },
     {
-      "id": "8lLRXgoSZ08",
-      "title": "How to Draw Waxwell | Dandy's World",
-      "channel": "Draw So Cute",
-      "channelId": "UC3dEvA1is6-0_yuei9iCdEw",
-      "durationSec": 645,
-      "publishedAt": "2026-08-20T14:00:37Z",
-      "topics": [
-        "art",
-        "making"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/8lLRXgoSZ08/hqdefault.jpg"
-    },
-    {
       "id": "MB7wxd8Bz18",
       "title": "Learn to Draw Super Simple Characters! Finny the Shark, The Bumble Nums, & More!",
       "channel": "Super Simple Draw! - How To Draw for Kids",
@@ -13336,6 +13371,22 @@
       "thumbnail": "https://i.ytimg.com/vi/m6KAfSgFaAM/hqdefault.jpg"
     },
     {
+      "id": "IyRbblfdRgk",
+      "title": "How to Draw Lobo | Step-by-Step Drawing Tutorial",
+      "channel": "Cartooning Club How to Draw",
+      "channelId": "UC-biucJWhM8HwjsQ96uoIUw",
+      "durationSec": 559,
+      "publishedAt": "2026-11-06T14:00:02Z",
+      "topics": [
+        "art",
+        "making"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/IyRbblfdRgk/hqdefault.jpg"
+    },
+    {
       "id": "CpOmMxwQUo0",
       "title": "How to Draw Stinky Pete | Easy Toy Story Drawing Tutorial for Beginners",
       "channel": "Cartooning Club How to Draw",
@@ -14088,6 +14139,22 @@
       "thumbnail": "https://i.ytimg.com/vi/zccz58NdA7M/hqdefault.jpg"
     },
     {
+      "id": "-c05EUyHAyk",
+      "title": "Starting my first professional Stop-Motion Puppet... (This is gonna take a while)",
+      "channel": "Jazza",
+      "channelId": "UCHu2KNu6TtJ0p4hpSW7Yv7Q",
+      "durationSec": 1206,
+      "publishedAt": "2026-11-06T10:54:12Z",
+      "topics": [
+        "art",
+        "making"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/-c05EUyHAyk/hqdefault.jpg"
+    },
+    {
       "id": "n52GoJMsi44",
       "title": "How to turn Cute Coloring Pages into NIGHTMARES...",
       "channel": "Jazza",
@@ -14806,22 +14873,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/gRWeEnsHBY0/hqdefault.jpg"
-    },
-    {
-      "id": "agXbtAAuXG4",
-      "title": "I made and ISENGARD Diorama INSIDE my book!",
-      "channel": "Jazza",
-      "channelId": "UCHu2KNu6TtJ0p4hpSW7Yv7Q",
-      "durationSec": 157,
-      "publishedAt": "2026-01-22T07:00:02Z",
-      "topics": [
-        "art",
-        "making"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/agXbtAAuXG4/hqdefault.jpg"
     },
     {
       "id": "ffiGkCX3rqs",
@@ -20138,7 +20189,7 @@
     },
     {
       "id": "Huii-MIcZU4",
-      "title": "These Four Animals Are Living a Real-Life Horror Movie | Deep Look",
+      "title": "These Parasites are an Animal's Worst Nightmare | Deep Look",
       "channel": "Deep Look",
       "channelId": "UC-3SbfTPJsL8fJAPKiVqBLg",
       "durationSec": 1183,
@@ -20503,22 +20554,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/BO7e53AsP0o/hqdefault.jpg"
-    },
-    {
-      "id": "KQEWKULNd98",
-      "title": "17 Crops You NEED To Start in August",
-      "channel": "Epic Gardening",
-      "channelId": "UCSbyncU597LMwb3HhnAI_4w",
-      "durationSec": 1836,
-      "publishedAt": "2026-07-30T22:14:33Z",
-      "topics": [
-        "nature",
-        "making"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/KQEWKULNd98/hqdefault.jpg"
     },
     {
       "id": "i3Ej4IFBRn0",
@@ -21389,22 +21424,6 @@
         "little"
       ],
       "thumbnail": "https://i.ytimg.com/vi/cEYJMRCgrjw/hqdefault.jpg"
-    },
-    {
-      "id": "xRWsgA8clb8",
-      "title": "Handyman Hal Explores Dino Land Cafe & Construction Zone Cafe | Fun Themed Restaurants for Kids!",
-      "channel": "Handyman Hal",
-      "channelId": "UC8KyyhPfL4v2sZGbcGg7b7Q",
-      "durationSec": 2453,
-      "publishedAt": "2026-05-21T11:00:11Z",
-      "topics": [
-        "making",
-        "engineering"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/xRWsgA8clb8/hqdefault.jpg"
     },
     {
       "id": "5y2yjd4lSM8",
@@ -25153,6 +25172,23 @@
       "thumbnail": "https://i.ytimg.com/vi/GxWIkDDFmQk/hqdefault.jpg"
     },
     {
+      "id": "OCLto5d9DLw",
+      "title": "Why We Thank Our Veterans!",
+      "channel": "Homeschool Pop",
+      "channelId": "UCfPyVJEBD7Di1YYjTdS2v8g",
+      "durationSec": 154,
+      "publishedAt": "2026-11-06T14:24:35Z",
+      "topics": [
+        "history",
+        "geography"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/OCLto5d9DLw/hqdefault.jpg"
+    },
+    {
       "id": "ujFVBY41_nE",
       "title": "I Did Early Voting This Week!",
       "channel": "Homeschool Pop",
@@ -25984,23 +26020,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/zfisbzSfx4E/hqdefault.jpg"
-    },
-    {
-      "id": "IpJAX3wMB1U",
-      "title": "Learn the U.S. States: The Pacific Region",
-      "channel": "Homeschool Pop",
-      "channelId": "UCfPyVJEBD7Di1YYjTdS2v8g",
-      "durationSec": 361,
-      "publishedAt": "2026-02-04T14:15:03Z",
-      "topics": [
-        "history",
-        "geography"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/IpJAX3wMB1U/hqdefault.jpg"
     },
     {
       "id": "ReXPwEv42H4",
@@ -29554,6 +29573,21 @@
       "thumbnail": "https://i.ytimg.com/vi/v1ay1qTvF0Y/hqdefault.jpg"
     },
     {
+      "id": "UOn2zVHnhrQ",
+      "title": "The Cool Bean Books read aloud | 3 stories in 1 | 35 Minute Read Aloud!",
+      "channel": "KidTimeStoryTime",
+      "channelId": "UCEPsNDUhUm-7yZhUjQQNqwQ",
+      "durationSec": 2165,
+      "publishedAt": "2026-11-06T13:30:21Z",
+      "topics": [
+        "reading"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/UOn2zVHnhrQ/hqdefault.jpg"
+    },
+    {
       "id": "NqAULJBSyYQ",
       "title": "This Book is a Gift | Finn the Frog Book | Christmas read aloud",
       "channel": "KidTimeStoryTime",
@@ -30289,21 +30323,6 @@
       "thumbnail": "https://i.ytimg.com/vi/loMk6bnK1FQ/hqdefault.jpg"
     },
     {
-      "id": "RRfotazEHec",
-      "title": "The Crayons LOVE Our Planet | Earth day read aloud",
-      "channel": "KidTimeStoryTime",
-      "channelId": "UCEPsNDUhUm-7yZhUjQQNqwQ",
-      "durationSec": 335,
-      "publishedAt": "2026-04-21T13:21:52Z",
-      "topics": [
-        "reading"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/RRfotazEHec/hqdefault.jpg"
-    },
-    {
       "id": "P0j42-rY5mA",
       "title": "Koko the Kangaroo and the Big-Hearted Belongings! | Read Aloud Kids Book | Vooks Narrated Storybooks",
       "channel": "Vooks - Stories and Read Alouds for Kids",
@@ -30859,6 +30878,21 @@
       "thumbnail": "https://i.ytimg.com/vi/cS0l0jhenuE/hqdefault.jpg"
     },
     {
+      "id": "KzuTwFXGnwY",
+      "title": "The Best Bonfire Night Reading | Learn to Read and Spell for Kids Compilation | Alphablocks",
+      "channel": "Alphablocks",
+      "channelId": "UC_qs3c0ehDvZkbiEbOj6Drg",
+      "durationSec": 3675,
+      "publishedAt": "2026-11-06T12:00:04Z",
+      "topics": [
+        "reading"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/KzuTwFXGnwY/hqdefault.jpg"
+    },
+    {
       "id": "6N-7VZueIFA",
       "title": "Alphablock O's Big Adventure | Learn to Read and Spell for Kids Compilation | Alphablocks",
       "channel": "Alphablocks",
@@ -31412,6 +31446,23 @@
         "little"
       ],
       "thumbnail": "https://i.ytimg.com/vi/kdWnG0eMQRI/hqdefault.jpg"
+    },
+    {
+      "id": "DXFrpbFns6M",
+      "title": "Letter D | Get Ready, Get Set, Let's Learn About the Alphabet! | Jack Hartmann",
+      "channel": "Jack Hartmann Kids Music Channel",
+      "channelId": "UCVcQH8A634mauPrGbWs7QlQ",
+      "durationSec": 214,
+      "publishedAt": "2026-11-06T00:00:30Z",
+      "topics": [
+        "reading",
+        "music",
+        "maths"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/DXFrpbFns6M/hqdefault.jpg"
     },
     {
       "id": "N-oyEUOjLGw",
@@ -32211,23 +32262,6 @@
         "little"
       ],
       "thumbnail": "https://i.ytimg.com/vi/xrO75zfW0HY/hqdefault.jpg"
-    },
-    {
-      "id": "mX68hO_MYVI",
-      "title": "Let's Learn About the Digraph ph! | Phonics Song for Kids | Jack Hartmann",
-      "channel": "Jack Hartmann Kids Music Channel",
-      "channelId": "UCVcQH8A634mauPrGbWs7QlQ",
-      "durationSec": 139,
-      "publishedAt": "2026-03-18T23:00:59Z",
-      "topics": [
-        "reading",
-        "music",
-        "maths"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/mX68hO_MYVI/hqdefault.jpg"
     },
     {
       "id": "AJPb0Avv6gU",
@@ -36885,6 +36919,22 @@
       "thumbnail": "https://i.ytimg.com/vi/JAcwtV_bFp4/hqdefault.jpg"
     },
     {
+      "id": "FcY4QW_lyYo",
+      "title": "The Quest for Stardust: Crash Course Lecture",
+      "channel": "CrashCourse",
+      "channelId": "UCX6b17PVsYBQ0ip5gyeme-Q",
+      "durationSec": 2009,
+      "publishedAt": "2026-11-05T17:00:32Z",
+      "topics": [
+        "tech",
+        "coding"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/FcY4QW_lyYo/hqdefault.jpg"
+    },
+    {
       "id": "oJXxCfwkb-o",
       "title": "Is Gerrymandering Getting Worse?: Crash Course US Government #7",
       "channel": "CrashCourse",
@@ -37539,22 +37589,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/qsgjKBvxnYA/hqdefault.jpg"
-    },
-    {
-      "id": "ba1YKP28RKY",
-      "title": "How Does Science Really Work? The Myth of the Great Experiment: Crash Course Scientific Thinking #3",
-      "channel": "CrashCourse",
-      "channelId": "UCX6b17PVsYBQ0ip5gyeme-Q",
-      "durationSec": 661,
-      "publishedAt": "2026-02-10T17:00:57Z",
-      "topics": [
-        "tech",
-        "coding"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/ba1YKP28RKY/hqdefault.jpg"
     },
     {
       "id": "xQasKPF0Fr8",
@@ -44829,6 +44863,22 @@
       "thumbnail": "https://i.ytimg.com/vi/tR1HTNtcYw0/hqdefault.jpg"
     },
     {
+      "id": "dX-OFJU867E",
+      "title": "ORCs in Space - Deep Sky Videos",
+      "channel": "DeepSkyVideos",
+      "channelId": "UCo-3ThNQmPmQSQL_L6Lx1_w",
+      "durationSec": 541,
+      "publishedAt": "2026-11-06T14:14:18Z",
+      "topics": [
+        "space",
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/dX-OFJU867E/hqdefault.jpg"
+    },
+    {
       "id": "zvRmTaEjXPQ",
       "title": "The Most Beautiful Object in Space? (The Cat's Eye Nebula - NGC 2403 or Caldwell 6)",
       "channel": "DeepSkyVideos",
@@ -45613,12 +45663,12 @@
       "thumbnail": "https://i.ytimg.com/vi/yafXRmvls8M/hqdefault.jpg"
     },
     {
-      "id": "PMXPyOXXG40",
-      "title": "M102 - A Tale of Mistakes - Deep Sky Videos",
-      "channel": "DeepSkyVideos",
-      "channelId": "UCo-3ThNQmPmQSQL_L6Lx1_w",
-      "durationSec": 285,
-      "publishedAt": "2019-05-03T15:49:03Z",
+      "id": "Ss3CPR59gtI",
+      "title": "I saw parts of the Extremely Large Telescope getting built",
+      "channel": "Dr. Becky",
+      "channelId": "UCYNbYGl89UUowy8oXkipC-Q",
+      "durationSec": 1408,
+      "publishedAt": "2026-11-05T20:00:31Z",
       "topics": [
         "space",
         "science"
@@ -45626,7 +45676,7 @@
       "profiles": [
         "big"
       ],
-      "thumbnail": "https://i.ytimg.com/vi/PMXPyOXXG40/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/Ss3CPR59gtI/hqdefault.jpg"
     },
     {
       "id": "Zv1w4ingfJw",
@@ -47969,6 +48019,21 @@
       "thumbnail": "https://i.ytimg.com/vi/jvebwDXmBSw/hqdefault.jpg"
     },
     {
+      "id": "ks40aNb4nqk",
+      "title": "Apollo 10: The Dress Rehearsal",
+      "channel": "Professor Dave Explains",
+      "channelId": "UC0cd_-e49hZpWLH3UIwoWRA",
+      "durationSec": 1243,
+      "publishedAt": "2026-11-06T15:00:37Z",
+      "topics": [
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/ks40aNb4nqk/hqdefault.jpg"
+    },
+    {
       "id": "veeNOcuywoM",
       "title": "Depression Part 1: Typical Antidepressants (SSRIs and SNRIs)",
       "channel": "Professor Dave Explains",
@@ -48702,21 +48767,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/D6MhCoOa8us/hqdefault.jpg"
-    },
-    {
-      "id": "Kl7FLKZCxBQ",
-      "title": "Fauci Fiasco Addendum (Gigi Gronvall and Gain of Function Research)",
-      "channel": "Professor Dave Explains",
-      "channelId": "UC0cd_-e49hZpWLH3UIwoWRA",
-      "durationSec": 2180,
-      "publishedAt": "2026-08-11T14:00:17Z",
-      "topics": [
-        "science"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/Kl7FLKZCxBQ/hqdefault.jpg"
     },
     {
       "id": "BjyJlN1npdw",
@@ -50943,6 +50993,22 @@
       "thumbnail": "https://i.ytimg.com/vi/XDGJ9gUZJoI/hqdefault.jpg"
     },
     {
+      "id": "shJPWM_mNcQ",
+      "title": "FINAL LIFE: Episode 2 - BIG BUSINESS",
+      "channel": "Mumbo Jumbo",
+      "channelId": "UChFur_NwVSbUozOcF_F2kMg",
+      "durationSec": 3118,
+      "publishedAt": "2026-11-06T15:00:14Z",
+      "topics": [
+        "engineering",
+        "making"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/shJPWM_mNcQ/hqdefault.jpg"
+    },
+    {
       "id": "OQL2DSH0llM",
       "title": "The most beautiful Minecraft piston door",
       "channel": "Mumbo Jumbo",
@@ -51677,22 +51743,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/Z7ARVRS7DN4/hqdefault.jpg"
-    },
-    {
-      "id": "thdachAOyew",
-      "title": "Hermitcraft 10: Final Stages",
-      "channel": "Mumbo Jumbo",
-      "channelId": "UChFur_NwVSbUozOcF_F2kMg",
-      "durationSec": 1251,
-      "publishedAt": "2025-09-14T18:00:54Z",
-      "topics": [
-        "engineering",
-        "making"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/thdachAOyew/hqdefault.jpg"
     },
     {
       "id": "R034eN4xiPo",
@@ -53482,6 +53532,22 @@
       "thumbnail": "https://i.ytimg.com/vi/y-RRDu4OVHQ/hqdefault.jpg"
     },
     {
+      "id": "bQ3fAYLBSwQ",
+      "title": "These Viral Videos Are Not What They Seem",
+      "channel": "How To Cook That",
+      "channelId": "UCsP7Bpw36J666Fct5M8u-ZA",
+      "durationSec": 1531,
+      "publishedAt": "2026-11-06T08:30:03Z",
+      "topics": [
+        "science",
+        "making"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/bQ3fAYLBSwQ/hqdefault.jpg"
+    },
+    {
       "id": "ojm6aOPNdHY",
       "title": "Debunking TikTok weight loss hack",
       "channel": "How To Cook That",
@@ -54232,22 +54298,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/LT7N0WaIMh0/hqdefault.jpg"
-    },
-    {
-      "id": "aLfd2rZ1x4I",
-      "title": "Hard Times Food 300 Years Ago  | How To Cook That Ann Reardon",
-      "channel": "How To Cook That",
-      "channelId": "UCsP7Bpw36J666Fct5M8u-ZA",
-      "durationSec": 903,
-      "publishedAt": "2024-05-03T09:29:33Z",
-      "topics": [
-        "science",
-        "making"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/aLfd2rZ1x4I/hqdefault.jpg"
     },
     {
       "id": "wOODPozsTjA",
@@ -68965,6 +69015,22 @@
       "thumbnail": "https://i.ytimg.com/vi/BlhYf8iOalo/hqdefault.jpg"
     },
     {
+      "id": "X0ZJAFqgzbM",
+      "title": "Earth's Oceans Once Had Twice as Much Water; Where did it Go?",
+      "channel": "GeologyHub",
+      "channelId": "UCYeGh5VML5XPr5jYnzh3J6g",
+      "durationSec": 247,
+      "publishedAt": "2026-11-05T19:00:32Z",
+      "topics": [
+        "science",
+        "geography"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/X0ZJAFqgzbM/hqdefault.jpg"
+    },
+    {
       "id": "8JcpjNJMkbg",
       "title": "An Unusual Earthquake; Why The Strongest Shaking Was Far from the Epicenter",
       "channel": "GeologyHub",
@@ -69715,22 +69781,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/IunicWSjatw/hqdefault.jpg"
-    },
-    {
-      "id": "Fk0BKOMQdIc",
-      "title": "Absolute Devastation in Nepal; Major Landslide Triggers Deadly Flash Flood",
-      "channel": "GeologyHub",
-      "channelId": "UCYeGh5VML5XPr5jYnzh3J6g",
-      "durationSec": 270,
-      "publishedAt": "2026-08-26T23:45:24Z",
-      "topics": [
-        "science",
-        "geography"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/Fk0BKOMQdIc/hqdefault.jpg"
     },
     {
       "id": "lLECRHDRO-s",
@@ -70550,7 +70600,7 @@
     },
     {
       "id": "TbOQIbEEVtA",
-      "title": "Mutations: Before the Bell Biology",
+      "title": "Mutations [Chapter 15 Aligned]: Before the Bell Biology",
       "channel": "Amoeba Sisters",
       "channelId": "UCb2GCoLSBXjmI_Qj1vk-44g",
       "durationSec": 380,
@@ -70565,7 +70615,7 @@
     },
     {
       "id": "xdLr5F1BsT8",
-      "title": "Biotechnology: Before the Bell Biology",
+      "title": "Biotechnology [Chapter 16 Aligned]: Before the Bell Biology",
       "channel": "Amoeba Sisters",
       "channelId": "UCb2GCoLSBXjmI_Qj1vk-44g",
       "durationSec": 460,
@@ -70595,7 +70645,7 @@
     },
     {
       "id": "JsTbrFY5xow",
-      "title": "DNA: Before the Bell Biology",
+      "title": "DNA [Chapter 9 Aligned]: Before the Bell Biology",
       "channel": "Amoeba Sisters",
       "channelId": "UCb2GCoLSBXjmI_Qj1vk-44g",
       "durationSec": 486,
@@ -70610,7 +70660,7 @@
     },
     {
       "id": "Lo2GHUWwnAc",
-      "title": "Cell Cycle: Before the Bell Biology",
+      "title": "Cell Cycle [Chapter 11 Aligned]: Before the Bell Biology",
       "channel": "Amoeba Sisters",
       "channelId": "UCb2GCoLSBXjmI_Qj1vk-44g",
       "durationSec": 547,
@@ -70640,7 +70690,7 @@
     },
     {
       "id": "L9oavXL3UF0",
-      "title": "Viruses: Before the Bell Biology",
+      "title": "Viruses [Chapter 18 Aligned]: Before the Bell Biology",
       "channel": "Amoeba Sisters",
       "channelId": "UCb2GCoLSBXjmI_Qj1vk-44g",
       "durationSec": 461,
@@ -70865,7 +70915,7 @@
     },
     {
       "id": "VpVg_pSPQxE",
-      "title": "Enzymes: Before the Bell Biology",
+      "title": "Enzymes [Chapter 3 Aligned]: Before the Bell Biology",
       "channel": "Amoeba Sisters",
       "channelId": "UCb2GCoLSBXjmI_Qj1vk-44g",
       "durationSec": 409,
@@ -70940,7 +70990,7 @@
     },
     {
       "id": "EIPmKuwhnRs",
-      "title": "Human Body Systems: Before the Bell Biology",
+      "title": "Human Body Systems [Ch 23 Aligned]: Before the Bell Biology",
       "channel": "Amoeba Sisters",
       "channelId": "UCb2GCoLSBXjmI_Qj1vk-44g",
       "durationSec": 559,
@@ -70985,7 +71035,7 @@
     },
     {
       "id": "p-tpx_hqaGc",
-      "title": "DNA Replication: Before the Bell Biology",
+      "title": "DNA Replication [Chapter 10 Aligned]: Before the Bell Biology",
       "channel": "Amoeba Sisters",
       "channelId": "UCb2GCoLSBXjmI_Qj1vk-44g",
       "durationSec": 563,
@@ -71015,7 +71065,7 @@
     },
     {
       "id": "MSx4rgLV_Ro",
-      "title": "Photosynthesis: Before the Bell Biology",
+      "title": "Photosynthesis [Chapter 8 Aligned]: Before the Bell Biology",
       "channel": "Amoeba Sisters",
       "channelId": "UCb2GCoLSBXjmI_Qj1vk-44g",
       "durationSec": 548,
@@ -71030,7 +71080,7 @@
     },
     {
       "id": "iJ0cO5VwBXg",
-      "title": "Plant Structure and Diversity: Before the Bell Biology",
+      "title": "Plant Structure and Diversity [Ch 21]: Before the Bell Biology",
       "channel": "Amoeba Sisters",
       "channelId": "UCb2GCoLSBXjmI_Qj1vk-44g",
       "durationSec": 484,
@@ -71045,7 +71095,7 @@
     },
     {
       "id": "AEXU3cJ6f9E",
-      "title": "Classification and Taxonomic Groups: Before the Bell Biology",
+      "title": "Classification and Taxonomic Groups [Chapters 19 & 20 Aligned]: Before the Bell Biology",
       "channel": "Amoeba Sisters",
       "channelId": "UCb2GCoLSBXjmI_Qj1vk-44g",
       "durationSec": 598,
@@ -71060,7 +71110,7 @@
     },
     {
       "id": "8FqZMKxv6dQ",
-      "title": "Non-Mendelian Genetics: Before the Bell Biology",
+      "title": "Non-Mendelian Genetics [Chapter 13 Aligned]: Before the Bell Biology",
       "channel": "Amoeba Sisters",
       "channelId": "UCb2GCoLSBXjmI_Qj1vk-44g",
       "durationSec": 574,
@@ -71090,7 +71140,7 @@
     },
     {
       "id": "vSsGHhtMJZs",
-      "title": "Cellular Respiration: Before the Bell Biology",
+      "title": "Cellular Respiration [Chapter 7 Aligned]: Before the Bell Biology",
       "channel": "Amoeba Sisters",
       "channelId": "UCb2GCoLSBXjmI_Qj1vk-44g",
       "durationSec": 467,
@@ -71105,7 +71155,7 @@
     },
     {
       "id": "nxzSPYqBqdU",
-      "title": "Genetics Vocabulary: Before the Bell Biology",
+      "title": "Genetics Vocabulary [Chapter 13 Aligned]: Before the Bell Biology",
       "channel": "Amoeba Sisters",
       "channelId": "UCb2GCoLSBXjmI_Qj1vk-44g",
       "durationSec": 378,
@@ -71120,7 +71170,7 @@
     },
     {
       "id": "R09zFIGevio",
-      "title": "Cell Organelles & Structures: Before the Bell Biology",
+      "title": "Cell Organelles & Structures [Chapter 4 Aligned]: Before the Bell Biology",
       "channel": "Amoeba Sisters",
       "channelId": "UCb2GCoLSBXjmI_Qj1vk-44g",
       "durationSec": 440,
@@ -83025,6 +83075,22 @@
       "thumbnail": "https://i.ytimg.com/vi/GLVhXClV5QU/hqdefault.jpg"
     },
     {
+      "id": "jdVkSagamTY",
+      "title": "Falling Feathers | Peep and the Big Wide World",
+      "channel": "Peep and the Big Wide World",
+      "channelId": "UCPq6g4Q4-SFMIJ048IXmupA",
+      "durationSec": 645,
+      "publishedAt": "2026-11-06T16:00:19Z",
+      "topics": [
+        "science",
+        "nature"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/jdVkSagamTY/hqdefault.jpg"
+    },
+    {
       "id": "V-L90Y5vjbA",
       "title": "You Can Count on Bunnies | Peep and the Big Wide World",
       "channel": "Peep and the Big Wide World",
@@ -83807,22 +83873,6 @@
         "little"
       ],
       "thumbnail": "https://i.ytimg.com/vi/cTZ_vrcJfjI/hqdefault.jpg"
-    },
-    {
-      "id": "wbjXAMlzzPQ",
-      "title": "Finding Time | Peep and the Big Wide World",
-      "channel": "Peep and the Big Wide World",
-      "channelId": "UCPq6g4Q4-SFMIJ048IXmupA",
-      "durationSec": 643,
-      "publishedAt": "2026-09-18T15:00:31Z",
-      "topics": [
-        "science",
-        "nature"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/wbjXAMlzzPQ/hqdefault.jpg"
     },
     {
       "id": "mLeNARr9PDA",
@@ -84810,6 +84860,42 @@
       "thumbnail": "https://i.ytimg.com/vi/bilYblVD-3M/hqdefault.jpg"
     },
     {
+      "id": "6oHNrg6bd8g",
+      "title": "John Park's Workshop Live 11/5/26",
+      "channel": "Adafruit Industries",
+      "channelId": "UCpOlOeQjj7EsVnDh3zuCgsA",
+      "durationSec": 2636,
+      "publishedAt": "2026-11-06T09:56:47Z",
+      "topics": [
+        "making",
+        "tech",
+        "engineering",
+        "coding"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/6oHNrg6bd8g/hqdefault.jpg"
+    },
+    {
+      "id": "nkybewytNZM",
+      "title": "Light-Up Apple LED Embroidery with Adafruit nOOds #adafruit",
+      "channel": "Adafruit Industries",
+      "channelId": "UCpOlOeQjj7EsVnDh3zuCgsA",
+      "durationSec": 122,
+      "publishedAt": "2026-11-05T17:34:26Z",
+      "topics": [
+        "making",
+        "tech",
+        "engineering",
+        "coding"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/nkybewytNZM/hqdefault.jpg"
+    },
+    {
       "id": "UE5gBSa4uW8",
       "title": "#IOT pool notifier to alert the neighborhood that the pool party is underway #3dprinting #adafruit",
       "channel": "Adafruit Industries",
@@ -85240,24 +85326,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/fz6NjFim0Ns/hqdefault.jpg"
-    },
-    {
-      "id": "la1iIbv9ZfY",
-      "title": "CircuitPython Weekly Meeting for October 19, 2026 @circuitpython #circuitpython #adafruit",
-      "channel": "Adafruit Industries",
-      "channelId": "UCpOlOeQjj7EsVnDh3zuCgsA",
-      "durationSec": 3014,
-      "publishedAt": "2026-10-19T19:11:42Z",
-      "topics": [
-        "making",
-        "tech",
-        "engineering",
-        "coding"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/la1iIbv9ZfY/hqdefault.jpg"
     },
     {
       "id": "dP_i7hRvGpE",
@@ -85789,7 +85857,7 @@
     },
     {
       "id": "94AMYAVnpsk",
-      "title": "I Built Machine Learning Competitive Robots",
+      "title": "I Built a Neural Net for Competitive Robots",
       "channel": "James Bruton",
       "channelId": "UCUbDcUPed50Y_7KmfCXKohA",
       "durationSec": 1386,
@@ -86929,12 +86997,12 @@
       "thumbnail": "https://i.ytimg.com/vi/Np1Ixd7FWzI/hqdefault.jpg"
     },
     {
-      "id": "0X7s1Cz1YTs",
-      "title": "Autumn Kids Yoga LIVE! 🍂 Fall Yoga Adventure Compilation | Cosmic Kids",
+      "id": "A5S04eu_Lgk",
+      "title": "Kids Yoga LIVE 🌟 | Fun Yoga Adventures & Movement for Kids",
       "channel": "Cosmic Kids Yoga",
       "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
-      "durationSec": 27799,
-      "publishedAt": "2026-11-05T06:17:38Z",
+      "durationSec": 42924,
+      "publishedAt": "2026-11-06T03:02:04Z",
       "topics": [
         "reading",
         "nature"
@@ -86943,7 +87011,58 @@
         "little",
         "big"
       ],
-      "thumbnail": "https://i.ytimg.com/vi/0X7s1Cz1YTs/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/A5S04eu_Lgk/hqdefault.jpg"
+    },
+    {
+      "id": "D81BneRBMFs",
+      "title": "Autumn Kids Yoga LIVE! 🍂 Fall Yoga Adventure Compilation | Cosmic Kids",
+      "channel": "Cosmic Kids Yoga",
+      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
+      "durationSec": 42885,
+      "publishedAt": "2026-11-06T07:35:25Z",
+      "topics": [
+        "reading",
+        "nature"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/D81BneRBMFs/hqdefault.jpg"
+    },
+    {
+      "id": "sAO9r2-0elE",
+      "title": "Kids Yoga LIVE 🌟 | Fun Yoga Adventures & Movement for Kids",
+      "channel": "Cosmic Kids Yoga",
+      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
+      "durationSec": 26843,
+      "publishedAt": "2026-11-06T03:31:11Z",
+      "topics": [
+        "reading",
+        "nature"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/sAO9r2-0elE/hqdefault.jpg"
+    },
+    {
+      "id": "UzA3rEpc5Z4",
+      "title": "Kids Yoga LIVE 🌟 | Fun Yoga Adventures & Movement for Kids",
+      "channel": "Cosmic Kids Yoga",
+      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
+      "durationSec": 120,
+      "publishedAt": "2026-11-05T20:13:13Z",
+      "topics": [
+        "reading",
+        "nature"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/UzA3rEpc5Z4/hqdefault.jpg"
     },
     {
       "id": "YZi_Dq6_dkA",
@@ -88085,6 +88204,22 @@
       "thumbnail": "https://i.ytimg.com/vi/Ilr2DjYOfqA/hqdefault.jpg"
     },
     {
+      "id": "a6v-XINhGDc",
+      "title": "Let's Get Creative with Elmo and Abby! ✨ | FOUR Sesame Street Episodes",
+      "channel": "Sesame Street",
+      "channelId": "UCoookXUzPciGrEZEXmh4Jjg",
+      "durationSec": 6133,
+      "publishedAt": "2026-11-06T12:30:15Z",
+      "topics": [
+        "reading",
+        "music"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/a6v-XINhGDc/hqdefault.jpg"
+    },
+    {
       "id": "2z3r2FucYEQ",
       "title": "Build a Butterfly House with Elmo, Abby, and Grover! 🦋  | Sesame Street & LEGO Little Ones",
       "channel": "Sesame Street",
@@ -88579,22 +88714,6 @@
         "little"
       ],
       "thumbnail": "https://i.ytimg.com/vi/Cey_YRnOBOs/hqdefault.jpg"
-    },
-    {
-      "id": "t7Oq2925CSM",
-      "title": "The Monster at the End of This Story with Grover and Elmo! | Sesame Street",
-      "channel": "Sesame Street",
-      "channelId": "UCoookXUzPciGrEZEXmh4Jjg",
-      "durationSec": 1805,
-      "publishedAt": "2026-09-07T11:30:25Z",
-      "topics": [
-        "reading",
-        "music"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/t7Oq2925CSM/hqdefault.jpg"
     },
     {
       "id": "_DJ0chj0yA0",
@@ -90256,6 +90375,22 @@
       "thumbnail": "https://i.ytimg.com/vi/H5VNPfHIgpE/hqdefault.jpg"
     },
     {
+      "id": "zplqlQghbYQ",
+      "title": "Why THIS is the Riskiest Country on Earth",
+      "channel": "PBS Terra",
+      "channelId": "UCpxYSWgxVt3Pyn1ovXsGQ0g",
+      "durationSec": 132,
+      "publishedAt": "2026-11-06T16:00:29Z",
+      "topics": [
+        "science",
+        "nature"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/zplqlQghbYQ/hqdefault.jpg"
+    },
+    {
       "id": "o7c7NkhsUmg",
       "title": "This Cold Spot is a BIG Problem... And it's Getting Bigger",
       "channel": "PBS Terra",
@@ -90718,22 +90853,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/53zGQT_akoo/hqdefault.jpg"
-    },
-    {
-      "id": "M4pSD1D1JMo",
-      "title": "Climate Change Won't End the World. This Could.",
-      "channel": "PBS Terra",
-      "channelId": "UCpxYSWgxVt3Pyn1ovXsGQ0g",
-      "durationSec": 771,
-      "publishedAt": "2026-02-12T19:00:27Z",
-      "topics": [
-        "science",
-        "nature"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/M4pSD1D1JMo/hqdefault.jpg"
     },
     {
       "id": "z_WiMgPClW4",
