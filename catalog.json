@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-06T16:26:54.785Z",
+  "generatedAt": "2026-11-07T15:15:06.704Z",
   "profiles": {
     "little": {
       "label": "Ages 3-7"
@@ -131,6 +131,22 @@
       "thumbnail": "https://i.ytimg.com/vi/kKqd0_cydZM/hqdefault.jpg"
     },
     {
+      "id": "F9aEoQeLkD0",
+      "title": "AD | Ready, steady, glow! 🏁 | Nat Geo Kids",
+      "channel": "Nat Geo Kids",
+      "channelId": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "durationSec": 147,
+      "publishedAt": "2026-11-06T20:00:22Z",
+      "topics": [
+        "animals",
+        "science"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/F9aEoQeLkD0/hqdefault.jpg"
+    },
+    {
       "id": "7J1VXQ--ElA",
       "title": "The First Mummy in Egypt | Greeking Out Podcast | S5 E6 FULL EP | Nat Geo Kids",
       "channel": "Nat Geo Kids",
@@ -163,22 +179,6 @@
       "thumbnail": "https://i.ytimg.com/vi/sZuusYKOcVY/hqdefault.jpg"
     },
     {
-      "id": "DpIfdt0ge58",
-      "title": "1.5 Hours of Relaxing with Animals Across America's National Parks | Compilation | Nat Geo Kids",
-      "channel": "Nat Geo Kids",
-      "channelId": "UCXVCgDuD_QCkI7gTKU7-tpg",
-      "durationSec": 5300,
-      "publishedAt": "2026-11-02T13:00:34Z",
-      "topics": [
-        "animals",
-        "science"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/DpIfdt0ge58/hqdefault.jpg"
-    },
-    {
       "id": "9C6nMo5FmpM",
       "title": "How To Draw A Cute Fall Leaf With Rain Boots",
       "channel": "Art for Kids Hub",
@@ -209,19 +209,34 @@
       "thumbnail": "https://i.ytimg.com/vi/Mbka697fEUc/hqdefault.jpg"
     },
     {
-      "id": "fc3IIwGIr2Y",
-      "title": "How To Draw Cookie Monster Celebrating His Birthday",
-      "channel": "Art for Kids Hub",
-      "channelId": "UC5XMF3Inoi8R9nSI8ChOsdQ",
-      "durationSec": 443,
-      "publishedAt": "2026-11-02T17:00:25Z",
+      "id": "J_gp1OWzelY",
+      "title": "First Grade Math | Learn to Count for Kids Compilation | Number Cartoon | Numberblocks",
+      "channel": "Numberblocks",
+      "channelId": "UCPlwvN0w4qFSP1FllALB92w",
+      "durationSec": 4536,
+      "publishedAt": "2026-11-07T11:00:31Z",
       "topics": [
-        "art"
+        "maths"
       ],
       "profiles": [
         "little"
       ],
-      "thumbnail": "https://i.ytimg.com/vi/fc3IIwGIr2Y/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/J_gp1OWzelY/hqdefault.jpg"
+    },
+    {
+      "id": "JMbRCt8MAgQ",
+      "title": "What Makes A Shape, A Shape? | 2D Shapes Song for Kids | Fun Learning | Numberblocks",
+      "channel": "Numberblocks",
+      "channelId": "UCPlwvN0w4qFSP1FllALB92w",
+      "durationSec": 187,
+      "publishedAt": "2026-11-07T07:00:11Z",
+      "topics": [
+        "maths"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/JMbRCt8MAgQ/hqdefault.jpg"
     },
     {
       "id": "L58JFJ_r0O8",
@@ -237,21 +252,6 @@
         "little"
       ],
       "thumbnail": "https://i.ytimg.com/vi/L58JFJ_r0O8/hqdefault.jpg"
-    },
-    {
-      "id": "_cU6DuilZ18",
-      "title": "Pattern Palace | Numberblocks COURSE - Level 2, Orange (S3 E17)",
-      "channel": "Numberblocks",
-      "channelId": "UCPlwvN0w4qFSP1FllALB92w",
-      "durationSec": 125,
-      "publishedAt": "2026-11-03T11:00:38Z",
-      "topics": [
-        "maths"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/_cU6DuilZ18/hqdefault.jpg"
     },
     {
       "id": "bw5tzcoEG88",
@@ -380,6 +380,21 @@
       "thumbnail": "https://i.ytimg.com/vi/EgnAN0ZUl08/hqdefault.jpg"
     },
     {
+      "id": "N9zYE5Ui97g",
+      "title": "4 Supervolcanoes You’ve Never Heard Of",
+      "channel": "SciShow",
+      "channelId": "UCZYTClx2T1of7BRZ86-8fow",
+      "durationSec": 829,
+      "publishedAt": "2026-11-06T18:00:29Z",
+      "topics": [
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/N9zYE5Ui97g/hqdefault.jpg"
+    },
+    {
       "id": "1EX702Au9oQ",
       "title": "The Man O' War Is Scarier Than You Think",
       "channel": "SciShow",
@@ -423,21 +438,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/M6nefnNpOZA/hqdefault.jpg"
-    },
-    {
-      "id": "G25Vd8hpLJI",
-      "title": "This Rock Was Supposed to Be from Space",
-      "channel": "SciShow",
-      "channelId": "UCZYTClx2T1of7BRZ86-8fow",
-      "durationSec": 657,
-      "publishedAt": "2026-11-02T18:00:15Z",
-      "topics": [
-        "science"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/G25Vd8hpLJI/hqdefault.jpg"
     },
     {
       "id": "LKrwhjOI8Nc",
@@ -10809,22 +10809,6 @@
       "thumbnail": "https://i.ytimg.com/vi/ejeilJcEG9M/hqdefault.jpg"
     },
     {
-      "id": "TNoCVpGQNYw",
-      "title": "Can You Survive The Addams Family Rhythm Challenge? Sixteenth and Triplets!",
-      "channel": "Mr. Henry's Music World",
-      "channelId": "UCFtJ3FoPlbZ0JZqdfSgdyYQ",
-      "durationSec": 213,
-      "publishedAt": "2026-10-01T20:31:20Z",
-      "topics": [
-        "music"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/TNoCVpGQNYw/hqdefault.jpg"
-    },
-    {
       "id": "4SO5bX6gNn0",
       "title": "Tom Service introduces Beethoven 200: What Makes a Classic?",
       "channel": "Philharmonia Orchestra",
@@ -13371,6 +13355,22 @@
       "thumbnail": "https://i.ytimg.com/vi/m6KAfSgFaAM/hqdefault.jpg"
     },
     {
+      "id": "phs6oaCXGoM",
+      "title": "How to Draw The Grinch | Step-by-Step Realistic Drawing Tutorial",
+      "channel": "Cartooning Club How to Draw",
+      "channelId": "UC-biucJWhM8HwjsQ96uoIUw",
+      "durationSec": 1162,
+      "publishedAt": "2026-11-07T14:00:12Z",
+      "topics": [
+        "art",
+        "making"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/phs6oaCXGoM/hqdefault.jpg"
+    },
+    {
       "id": "IyRbblfdRgk",
       "title": "How to Draw Lobo | Step-by-Step Drawing Tutorial",
       "channel": "Cartooning Club How to Draw",
@@ -13564,7 +13564,7 @@
     },
     {
       "id": "7f1_vsj7Dco",
-      "title": "How to Draw Dashshund Dog | Pencil Sketch Tutorial",
+      "title": "How to Draw Realistic Dog | Dachshund Sketch Tutorial",
       "channel": "Cartooning Club How to Draw",
       "channelId": "UC-biucJWhM8HwjsQ96uoIUw",
       "durationSec": 2345,
@@ -13580,7 +13580,7 @@
     },
     {
       "id": "sLs3pjmbByY",
-      "title": "How to Draw Iron Man | Pencil Sketch Tutorial",
+      "title": "How to Draw Iron Man | Realistic Sketch Tutorial",
       "channel": "Cartooning Club How to Draw",
       "channelId": "UC-biucJWhM8HwjsQ96uoIUw",
       "durationSec": 1625,
@@ -13628,7 +13628,7 @@
     },
     {
       "id": "KBTre1Cuo4o",
-      "title": "How to Draw a Skull | Charcoal Sketch Tutorial",
+      "title": "How to Draw a Realistic Skull | Charcoal Sketch Tutorial",
       "channel": "Cartooning Club How to Draw",
       "channelId": "UC-biucJWhM8HwjsQ96uoIUw",
       "durationSec": 907,
@@ -13676,7 +13676,7 @@
     },
     {
       "id": "YrvM4dXyoK4",
-      "title": "How to Draw German Shepherd Dog | Step-by-Step Drawing Tutorial",
+      "title": "How to Draw a Realistic Dog | Step-by-Step Drawing Tutorial",
       "channel": "Cartooning Club How to Draw",
       "channelId": "UC-biucJWhM8HwjsQ96uoIUw",
       "durationSec": 1897,
@@ -13692,7 +13692,7 @@
     },
     {
       "id": "_Rrky6uRsQM",
-      "title": "How to Draw a Golden Lab Puppy | Easy Dog Sketch Tutorial",
+      "title": "How to Draw a Golden Lab Puppy | Realistic Dog Sketch Tutorial",
       "channel": "Cartooning Club How to Draw",
       "channelId": "UC-biucJWhM8HwjsQ96uoIUw",
       "durationSec": 1335,
@@ -13804,7 +13804,7 @@
     },
     {
       "id": "7FRaGAiHYMY",
-      "title": "How to Draw Human Skull | Sketch Saturday",
+      "title": "How to Draw Realistic Skull | Sketch Saturday",
       "channel": "Cartooning Club How to Draw",
       "channelId": "UC-biucJWhM8HwjsQ96uoIUw",
       "durationSec": 1454,
@@ -13884,7 +13884,7 @@
     },
     {
       "id": "oi2uWh7QtCY",
-      "title": "How to Draw Dolly Parton | Sketch Sunday Tribute",
+      "title": "How to Draw Dolly Parton | Realistic Portrait Sketch Tribute",
       "channel": "Cartooning Club How to Draw",
       "channelId": "UC-biucJWhM8HwjsQ96uoIUw",
       "durationSec": 2811,
@@ -14092,7 +14092,7 @@
     },
     {
       "id": "SbRQ1yulxBQ",
-      "title": "How to Draw Halloween Pumpkin | Sketch Sunday",
+      "title": "How to Draw a Realistic Halloween Pumpkin | Sketch Sunday",
       "channel": "Cartooning Club How to Draw",
       "channelId": "UC-biucJWhM8HwjsQ96uoIUw",
       "durationSec": 1960,
@@ -14121,22 +14121,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/ClzL7UhjYFw/hqdefault.jpg"
-    },
-    {
-      "id": "zccz58NdA7M",
-      "title": "How to Draw Mummy Stuart | Minions and Monsters",
-      "channel": "Cartooning Club How to Draw",
-      "channelId": "UC-biucJWhM8HwjsQ96uoIUw",
-      "durationSec": 433,
-      "publishedAt": "2026-09-17T14:00:40Z",
-      "topics": [
-        "art",
-        "making"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/zccz58NdA7M/hqdefault.jpg"
     },
     {
       "id": "-c05EUyHAyk",
@@ -14875,6 +14859,23 @@
       "thumbnail": "https://i.ytimg.com/vi/gRWeEnsHBY0/hqdefault.jpg"
     },
     {
+      "id": "TILY6jspMFs",
+      "title": "5 Christmas Cards quick easy",
+      "channel": "Red Ted Art (Maggy Woodley)",
+      "channelId": "UCjjRFKvjpU1L1eDmfBWcqig",
+      "durationSec": 623,
+      "publishedAt": "2026-11-07T08:00:23Z",
+      "topics": [
+        "making",
+        "art"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/TILY6jspMFs/hqdefault.jpg"
+    },
+    {
       "id": "ffiGkCX3rqs",
       "title": "Recycled Halloween Suncatchers",
       "channel": "Red Ted Art (Maggy Woodley)",
@@ -15485,23 +15486,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/MUae_S5nLDU/hqdefault.jpg"
-    },
-    {
-      "id": "enD0nZxskCU",
-      "title": "Felt Owl Ornament & Fox",
-      "channel": "Red Ted Art (Maggy Woodley)",
-      "channelId": "UCjjRFKvjpU1L1eDmfBWcqig",
-      "durationSec": 244,
-      "publishedAt": "2026-02-21T08:00:00Z",
-      "topics": [
-        "making",
-        "art"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/enD0nZxskCU/hqdefault.jpg"
     },
     {
       "id": "475v4RiI--U",
@@ -18495,6 +18479,23 @@
       "thumbnail": "https://i.ytimg.com/vi/5UTXz9Xclr4/hqdefault.jpg"
     },
     {
+      "id": "Q93yzJ2bWcQ",
+      "title": "Massive Kulamanamana Corals Wow Explorers in Papahānaumokuākea | Nautilus Live",
+      "channel": "EVNautilus",
+      "channelId": "UC1KOOWHthbQVXH2kZue3_xA",
+      "durationSec": 361,
+      "publishedAt": "2026-11-06T17:00:12Z",
+      "topics": [
+        "nature",
+        "exploration"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/Q93yzJ2bWcQ/hqdefault.jpg"
+    },
+    {
       "id": "miQqFj8Gb0Y",
       "title": "20,000 Screams Under the Sea",
       "channel": "EVNautilus",
@@ -18884,23 +18885,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/aw83pKNs3gA/hqdefault.jpg"
-    },
-    {
-      "id": "kVWqVx4mhh0",
-      "title": "Supersized Sponge Stretches in Deep Near Wake Atoll  | Nautilus Live",
-      "channel": "EVNautilus",
-      "channelId": "UC1KOOWHthbQVXH2kZue3_xA",
-      "durationSec": 291,
-      "publishedAt": "2026-09-02T19:00:04Z",
-      "topics": [
-        "nature",
-        "exploration"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/kVWqVx4mhh0/hqdefault.jpg"
     },
     {
       "id": "L3VFCgVN3WQ",
@@ -20658,6 +20642,22 @@
       "thumbnail": "https://i.ytimg.com/vi/FP735j4Nk-s/hqdefault.jpg"
     },
     {
+      "id": "btMqjnjwwi0",
+      "title": "Fire Tanker Truck | Stations Across the Nation with Handyman Hal",
+      "channel": "Handyman Hal",
+      "channelId": "UC8KyyhPfL4v2sZGbcGg7b7Q",
+      "durationSec": 891,
+      "publishedAt": "2026-11-07T12:00:07Z",
+      "topics": [
+        "making",
+        "engineering"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/btMqjnjwwi0/hqdefault.jpg"
+    },
+    {
       "id": "Unk1l4Ta1xI",
       "title": "Tractors with Handyman Hal | 🚜 Learn About Tractors + Fun Tractor Song",
       "channel": "Handyman Hal",
@@ -21426,6 +21426,22 @@
       "thumbnail": "https://i.ytimg.com/vi/cEYJMRCgrjw/hqdefault.jpg"
     },
     {
+      "id": "0AqxJn_iLxs",
+      "title": "How the Orion Spacecraft works",
+      "channel": "Jared Owen",
+      "channelId": "UCbsfyGlrjrKQC0gbzK0-EiA",
+      "durationSec": 884,
+      "publishedAt": "2026-11-06T18:20:52Z",
+      "topics": [
+        "engineering",
+        "tech"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/0AqxJn_iLxs/hqdefault.jpg"
+    },
+    {
       "id": "5y2yjd4lSM8",
       "title": "Why are Spiral Escalators so rare?",
       "channel": "Jared Owen",
@@ -21713,22 +21729,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/SBcbiFqz3aU/hqdefault.jpg"
-    },
-    {
-      "id": "iuh5IC-VjuA",
-      "title": "What's inside the Sydney Opera House? (Sydney, Australia)",
-      "channel": "Jared Owen",
-      "channelId": "UCbsfyGlrjrKQC0gbzK0-EiA",
-      "durationSec": 730,
-      "publishedAt": "2023-05-31T12:55:15Z",
-      "topics": [
-        "engineering",
-        "tech"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/iuh5IC-VjuA/hqdefault.jpg"
     },
     {
       "id": "N_6k_jd5pnA",
@@ -26534,22 +26534,6 @@
       "thumbnail": "https://i.ytimg.com/vi/IbVJKAvD794/hqdefault.jpg"
     },
     {
-      "id": "CpaMy8WYhNI",
-      "title": "EVERYTHING in OCEANIA",
-      "channel": "Geography Now",
-      "channelId": "UCmmPgObSUPw1HL2lq6H4ffA",
-      "durationSec": 129,
-      "publishedAt": "2026-09-08T00:52:35Z",
-      "topics": [
-        "geography",
-        "exploration"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/CpaMy8WYhNI/hqdefault.jpg"
-    },
-    {
       "id": "3G1wZPeZZTQ",
       "title": "Beyond Stonewall: Exploring LGBTQ+ History Through the Smithsonian Archives 🏳️‍🌈 Smithsonian Channel",
       "channel": "Smithsonian Channel",
@@ -26948,6 +26932,21 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/R1LGJM1Gn20/hqdefault.jpg"
+    },
+    {
+      "id": "fxutKQYP5IU",
+      "title": "Three Forgotten Roman Celebrities",
+      "channel": "toldinstone",
+      "channelId": "UCqBiWcuTF8IaLH7wBqnihsQ",
+      "durationSec": 669,
+      "publishedAt": "2026-11-06T21:15:34Z",
+      "topics": [
+        "history"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/fxutKQYP5IU/hqdefault.jpg"
     },
     {
       "id": "BDLC2xnwNZ8",
@@ -27683,21 +27682,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/SGs33n95pXQ/hqdefault.jpg"
-    },
-    {
-      "id": "kC6KbLIyoNk",
-      "title": "The Longest Construction Projects in History",
-      "channel": "toldinstone",
-      "channelId": "UCqBiWcuTF8IaLH7wBqnihsQ",
-      "durationSec": 564,
-      "publishedAt": "2024-12-20T20:15:02Z",
-      "topics": [
-        "history"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/kC6KbLIyoNk/hqdefault.jpg"
     },
     {
       "id": "j5GkMT884Qo",
@@ -30878,6 +30862,21 @@
       "thumbnail": "https://i.ytimg.com/vi/cS0l0jhenuE/hqdefault.jpg"
     },
     {
+      "id": "JzSlrNSvAfE",
+      "title": "Phonics Songs - Learn with the Alphablocks | Learn to Read and Spell for Kids Compilation",
+      "channel": "Alphablocks",
+      "channelId": "UC_qs3c0ehDvZkbiEbOj6Drg",
+      "durationSec": 2395,
+      "publishedAt": "2026-11-07T12:00:33Z",
+      "topics": [
+        "reading"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/JzSlrNSvAfE/hqdefault.jpg"
+    },
+    {
       "id": "KzuTwFXGnwY",
       "title": "The Best Bonfire Night Reading | Learn to Read and Spell for Kids Compilation | Alphablocks",
       "channel": "Alphablocks",
@@ -31433,19 +31432,38 @@
       "thumbnail": "https://i.ytimg.com/vi/DK_hkUOi-08/hqdefault.jpg"
     },
     {
-      "id": "kdWnG0eMQRI",
-      "title": "The Story of Sleeping Beauty | Learn to Read and Spell for Kids Compilation | Alphablocks",
-      "channel": "Alphablocks",
-      "channelId": "UC_qs3c0ehDvZkbiEbOj6Drg",
-      "durationSec": 2985,
-      "publishedAt": "2026-08-14T11:00:36Z",
+      "id": "WQ933mtMX4M",
+      "title": "Letter E (UFLI) | Get Ready, Get Set, Let's Learn About the Alphabet! | Jack Hartmann",
+      "channel": "Jack Hartmann Kids Music Channel",
+      "channelId": "UCVcQH8A634mauPrGbWs7QlQ",
+      "durationSec": 287,
+      "publishedAt": "2026-11-07T00:00:34Z",
       "topics": [
-        "reading"
+        "reading",
+        "music",
+        "maths"
       ],
       "profiles": [
         "little"
       ],
-      "thumbnail": "https://i.ytimg.com/vi/kdWnG0eMQRI/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/WQ933mtMX4M/hqdefault.jpg"
+    },
+    {
+      "id": "VU0Jq1STJb8",
+      "title": "Letter E | Get Ready, Get Set, Let's Learn About the Alphabet! | Jack Hartmann",
+      "channel": "Jack Hartmann Kids Music Channel",
+      "channelId": "UCVcQH8A634mauPrGbWs7QlQ",
+      "durationSec": 287,
+      "publishedAt": "2026-11-07T00:00:26Z",
+      "topics": [
+        "reading",
+        "music",
+        "maths"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/VU0Jq1STJb8/hqdefault.jpg"
     },
     {
       "id": "DXFrpbFns6M",
@@ -32228,40 +32246,6 @@
         "little"
       ],
       "thumbnail": "https://i.ytimg.com/vi/E5cwtnp3VQ4/hqdefault.jpg"
-    },
-    {
-      "id": "UMEWfpucq1U",
-      "title": "6-7 CHANT! | Jack Hartmann",
-      "channel": "Jack Hartmann Kids Music Channel",
-      "channelId": "UCVcQH8A634mauPrGbWs7QlQ",
-      "durationSec": 120,
-      "publishedAt": "2026-03-24T23:00:43Z",
-      "topics": [
-        "reading",
-        "music",
-        "maths"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/UMEWfpucq1U/hqdefault.jpg"
-    },
-    {
-      "id": "xrO75zfW0HY",
-      "title": "Let's Learn About the Digraph sh! | Phonics Song for Kids | Jack Hartmann",
-      "channel": "Jack Hartmann Kids Music Channel",
-      "channelId": "UCVcQH8A634mauPrGbWs7QlQ",
-      "durationSec": 139,
-      "publishedAt": "2026-03-22T23:01:08Z",
-      "topics": [
-        "reading",
-        "music",
-        "maths"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/xrO75zfW0HY/hqdefault.jpg"
     },
     {
       "id": "AJPb0Avv6gU",
@@ -40780,6 +40764,22 @@
       "thumbnail": "https://i.ytimg.com/vi/78ffidI7__E/hqdefault.jpg"
     },
     {
+      "id": "lDDIJ2RTcBg",
+      "title": "We're Finally Getting the Bakerloo Line Extension, Again!",
+      "channel": "Jago Hazzard",
+      "channelId": "UCcHuNKYzVMc06FXqsBEAV3A",
+      "durationSec": 570,
+      "publishedAt": "2026-11-06T17:30:07Z",
+      "topics": [
+        "history",
+        "geography"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/lDDIJ2RTcBg/hqdefault.jpg"
+    },
+    {
       "id": "qvYutSjPkp8",
       "title": "Walking Down the Middle of Oxford Street",
       "channel": "Jago Hazzard",
@@ -41562,22 +41562,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/LcBsOcvs8mY/hqdefault.jpg"
-    },
-    {
-      "id": "k39g7-Ev1pc",
-      "title": "A Serious Proposal to Close Marylebone and St Pancras",
-      "channel": "Jago Hazzard",
-      "channelId": "UCcHuNKYzVMc06FXqsBEAV3A",
-      "durationSec": 580,
-      "publishedAt": "2026-07-12T11:00:04Z",
-      "topics": [
-        "history",
-        "geography"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/k39g7-Ev1pc/hqdefault.jpg"
     },
     {
       "id": "NdGheCcLj-E",
@@ -46077,22 +46061,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/tecOr0Q9edM/hqdefault.jpg"
-    },
-    {
-      "id": "EHLF6sgLdrs",
-      "title": "A 3.5 million mph rogue supermassive black hole",
-      "channel": "Dr. Becky",
-      "channelId": "UCYNbYGl89UUowy8oXkipC-Q",
-      "durationSec": 972,
-      "publishedAt": "2026-08-06T19:00:30Z",
-      "topics": [
-        "space",
-        "science"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/EHLF6sgLdrs/hqdefault.jpg"
     },
     {
       "id": "G1aOougM9Sc",
@@ -50975,22 +50943,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/6DgqhStSSkg/hqdefault.jpg"
-    },
-    {
-      "id": "XDGJ9gUZJoI",
-      "title": "CodaKid Q&A with Teachers Andy and Austin!",
-      "channel": "CodaKid",
-      "channelId": "UCmosgwMRj1rlOBLFYLIzDcw",
-      "durationSec": 4114,
-      "publishedAt": "2019-03-22T00:40:32Z",
-      "topics": [
-        "coding",
-        "making"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/XDGJ9gUZJoI/hqdefault.jpg"
     },
     {
       "id": "shJPWM_mNcQ",
@@ -69015,6 +68967,22 @@
       "thumbnail": "https://i.ytimg.com/vi/BlhYf8iOalo/hqdefault.jpg"
     },
     {
+      "id": "cT0qKZPBubc",
+      "title": "Kilauea Volcano Update; 650 Ft Lava Fountains, Blue Lava May Have Erupted",
+      "channel": "GeologyHub",
+      "channelId": "UCYeGh5VML5XPr5jYnzh3J6g",
+      "durationSec": 300,
+      "publishedAt": "2026-11-06T23:15:30Z",
+      "topics": [
+        "science",
+        "geography"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/cT0qKZPBubc/hqdefault.jpg"
+    },
+    {
       "id": "X0ZJAFqgzbM",
       "title": "Earth's Oceans Once Had Twice as Much Water; Where did it Go?",
       "channel": "GeologyHub",
@@ -69767,20 +69735,21 @@
       "thumbnail": "https://i.ytimg.com/vi/hLTwNKaqsTQ/hqdefault.jpg"
     },
     {
-      "id": "IunicWSjatw",
-      "title": "I Geolocated Nepal's Disaster Damage; It's So Much Worse than you Think...",
-      "channel": "GeologyHub",
-      "channelId": "UCYeGh5VML5XPr5jYnzh3J6g",
-      "durationSec": 219,
-      "publishedAt": "2026-08-28T01:30:26Z",
+      "id": "a0A32-aPBrs",
+      "title": "Jon Riedel - Skagit Valley Glaciation",
+      "channel": "Nick Zentner",
+      "channelId": "UC4szl4Ra1ZD3m80wJP40UBA",
+      "durationSec": 4191,
+      "publishedAt": "2026-11-07T09:01:02Z",
       "topics": [
         "science",
-        "geography"
+        "geography",
+        "history"
       ],
       "profiles": [
         "big"
       ],
-      "thumbnail": "https://i.ytimg.com/vi/IunicWSjatw/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/a0A32-aPBrs/hqdefault.jpg"
     },
     {
       "id": "lLECRHDRO-s",
@@ -77485,6 +77454,24 @@
       "thumbnail": "https://i.ytimg.com/vi/XAgtDp5reiA/hqdefault.jpg"
     },
     {
+      "id": "2slC7bPf0Tc",
+      "title": "Searching for BABY Sand Tiger SHARKS!",
+      "channel": "BlueWorldTV",
+      "channelId": "UCFH-Qa1s6rQRTrQjFg8N84Q",
+      "durationSec": 970,
+      "publishedAt": "2026-11-07T15:00:11Z",
+      "topics": [
+        "animals",
+        "nature",
+        "exploration"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/2slC7bPf0Tc/hqdefault.jpg"
+    },
+    {
       "id": "13QmHYfWf5g",
       "title": "Diving the CAULIFLOWER CAVE of Mexico!",
       "channel": "BlueWorldTV",
@@ -78365,24 +78352,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/O_D81ObBJf0/hqdefault.jpg"
-    },
-    {
-      "id": "AxksN1PIquE",
-      "title": "Can we survive Edd Sorenson's Rebreather Class??",
-      "channel": "BlueWorldTV",
-      "channelId": "UCFH-Qa1s6rQRTrQjFg8N84Q",
-      "durationSec": 2386,
-      "publishedAt": "2023-03-04T15:00:07Z",
-      "topics": [
-        "animals",
-        "nature",
-        "exploration"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/AxksN1PIquE/hqdefault.jpg"
     },
     {
       "id": "SJStoGtSfJE",
@@ -80667,6 +80636,22 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/rpHYBz7ToII/hqdefault.jpg"
+    },
+    {
+      "id": "3x_ehPthajo",
+      "title": "Top Physics Toys of the Week | Episode 19",
+      "channel": "physicsfun",
+      "channelId": "UCVs-1uGf7DWid0GNWgPWLzw",
+      "durationSec": 361,
+      "publishedAt": "2026-11-07T10:15:33Z",
+      "topics": [
+        "science"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/3x_ehPthajo/hqdefault.jpg"
     },
     {
       "id": "DC18ft3yWLA",
@@ -83075,6 +83060,22 @@
       "thumbnail": "https://i.ytimg.com/vi/GLVhXClV5QU/hqdefault.jpg"
     },
     {
+      "id": "OKoV9aZWL5A",
+      "title": "Trees in Different Seasons, Walking Like an Animal & MORE! | Explore the Big Wide World",
+      "channel": "Peep and the Big Wide World",
+      "channelId": "UCPq6g4Q4-SFMIJ048IXmupA",
+      "durationSec": 1057,
+      "publishedAt": "2026-11-07T11:00:34Z",
+      "topics": [
+        "science",
+        "nature"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/OKoV9aZWL5A/hqdefault.jpg"
+    },
+    {
       "id": "jdVkSagamTY",
       "title": "Falling Feathers | Peep and the Big Wide World",
       "channel": "Peep and the Big Wide World",
@@ -83857,22 +83858,6 @@
         "little"
       ],
       "thumbnail": "https://i.ytimg.com/vi/zsQjGj7c_Ck/hqdefault.jpg"
-    },
-    {
-      "id": "cTZ_vrcJfjI",
-      "title": "Playing With Ramps, Planting Seeds & MORE! | Explore the Big Wide World",
-      "channel": "Peep and the Big Wide World",
-      "channelId": "UCPq6g4Q4-SFMIJ048IXmupA",
-      "durationSec": 1232,
-      "publishedAt": "2026-09-19T10:00:08Z",
-      "topics": [
-        "science",
-        "nature"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/cTZ_vrcJfjI/hqdefault.jpg"
     },
     {
       "id": "mLeNARr9PDA",
@@ -84860,6 +84845,24 @@
       "thumbnail": "https://i.ytimg.com/vi/bilYblVD-3M/hqdefault.jpg"
     },
     {
+      "id": "X1fubpy14lc",
+      "title": "Deep Dive w/ Tim: ESP-SDR Custom Firmware on Metro P4's ESP32-C6 Co-processor",
+      "channel": "Adafruit Industries",
+      "channelId": "UCpOlOeQjj7EsVnDh3zuCgsA",
+      "durationSec": 3541,
+      "publishedAt": "2026-11-07T11:12:46Z",
+      "topics": [
+        "making",
+        "tech",
+        "engineering",
+        "coding"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/X1fubpy14lc/hqdefault.jpg"
+    },
+    {
       "id": "6oHNrg6bd8g",
       "title": "John Park's Workshop Live 11/5/26",
       "channel": "Adafruit Industries",
@@ -85308,24 +85311,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/bex3QBFbrUY/hqdefault.jpg"
-    },
-    {
-      "id": "fz6NjFim0Ns",
-      "title": "JP’s Product Pick of the Week 10/20/26",
-      "channel": "Adafruit Industries",
-      "channelId": "UCpOlOeQjj7EsVnDh3zuCgsA",
-      "durationSec": 971,
-      "publishedAt": "2026-10-20T21:12:56Z",
-      "topics": [
-        "making",
-        "tech",
-        "engineering",
-        "coding"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/fz6NjFim0Ns/hqdefault.jpg"
     },
     {
       "id": "dP_i7hRvGpE",
@@ -86997,12 +86982,63 @@
       "thumbnail": "https://i.ytimg.com/vi/Np1Ixd7FWzI/hqdefault.jpg"
     },
     {
+      "id": "2ntqSeE3FL8",
+      "title": "Kids Yoga LIVE 🌟 | Fun Yoga Adventures & Movement for Kids",
+      "channel": "Cosmic Kids Yoga",
+      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
+      "durationSec": 42929,
+      "publishedAt": "2026-11-07T03:02:04Z",
+      "topics": [
+        "reading",
+        "nature"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/2ntqSeE3FL8/hqdefault.jpg"
+    },
+    {
+      "id": "bYjeqa1eq6Q",
+      "title": "Autumn Kids Yoga LIVE! 🍂 Fall Yoga Adventure Compilation | Cosmic Kids",
+      "channel": "Cosmic Kids Yoga",
+      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
+      "durationSec": 42898,
+      "publishedAt": "2026-11-07T08:31:10Z",
+      "topics": [
+        "reading",
+        "nature"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/bYjeqa1eq6Q/hqdefault.jpg"
+    },
+    {
+      "id": "XP-jDTInzlY",
+      "title": "Kids Yoga LIVE 🌟 | Fun Yoga Adventures & Movement for Kids",
+      "channel": "Cosmic Kids Yoga",
+      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
+      "durationSec": 42896,
+      "publishedAt": "2026-11-07T03:57:35Z",
+      "topics": [
+        "reading",
+        "nature"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/XP-jDTInzlY/hqdefault.jpg"
+    },
+    {
       "id": "A5S04eu_Lgk",
       "title": "Kids Yoga LIVE 🌟 | Fun Yoga Adventures & Movement for Kids",
       "channel": "Cosmic Kids Yoga",
       "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
-      "durationSec": 42924,
-      "publishedAt": "2026-11-06T03:02:04Z",
+      "durationSec": 42899,
+      "publishedAt": "2026-11-06T22:31:53Z",
       "topics": [
         "reading",
         "nature"
@@ -87012,6 +87048,23 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/A5S04eu_Lgk/hqdefault.jpg"
+    },
+    {
+      "id": "khcb1LQu9-o",
+      "title": "Autumn Kids Yoga LIVE! 🍂 Fall Yoga Adventure Compilation | Cosmic Kids",
+      "channel": "Cosmic Kids Yoga",
+      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
+      "durationSec": 42900,
+      "publishedAt": "2026-11-06T21:46:37Z",
+      "topics": [
+        "reading",
+        "nature"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/khcb1LQu9-o/hqdefault.jpg"
     },
     {
       "id": "D81BneRBMFs",
@@ -87335,23 +87388,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/rm0nnWjXv84/hqdefault.jpg"
-    },
-    {
-      "id": "ofjqehUmLFk",
-      "title": "Floating Flowers | Jaime's Yoga Adventures",
-      "channel": "Cosmic Kids Yoga",
-      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
-      "durationSec": 890,
-      "publishedAt": "2026-08-05T16:00:07Z",
-      "topics": [
-        "reading",
-        "nature"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/ofjqehUmLFk/hqdefault.jpg"
     },
     {
       "id": "xm_GCZKltLA",
@@ -88698,22 +88734,6 @@
         "little"
       ],
       "thumbnail": "https://i.ytimg.com/vi/6fYTzbEKl84/hqdefault.jpg"
-    },
-    {
-      "id": "Cey_YRnOBOs",
-      "title": "E is for Elmo! Learn the Letter E ❤️ | 50 Mins | Sesame Street",
-      "channel": "Sesame Street",
-      "channelId": "UCoookXUzPciGrEZEXmh4Jjg",
-      "durationSec": 2977,
-      "publishedAt": "2026-09-09T11:30:12Z",
-      "topics": [
-        "reading",
-        "music"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/Cey_YRnOBOs/hqdefault.jpg"
     },
     {
       "id": "_DJ0chj0yA0",
