@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-07T15:15:06.704Z",
+  "generatedAt": "2026-11-08T15:39:11.332Z",
   "profiles": {
     "little": {
       "label": "Ages 3-7"
@@ -131,6 +131,38 @@
       "thumbnail": "https://i.ytimg.com/vi/kKqd0_cydZM/hqdefault.jpg"
     },
     {
+      "id": "nKni5xQ0DFw",
+      "title": "Baby Animals Down Under Full Episode | Koalas, Bats, and More Forest Babies! | Nat Geo Kids",
+      "channel": "Nat Geo Kids",
+      "channelId": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "durationSec": 2653,
+      "publishedAt": "2026-11-08T13:00:22Z",
+      "topics": [
+        "animals",
+        "science"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/nKni5xQ0DFw/hqdefault.jpg"
+    },
+    {
+      "id": "ziUQS2I_Lco",
+      "title": "Baby Penguins: Fluffy Chicks to Deep-Sea Divers! 🐧 Animal Card Quest | Nat Geo Kids",
+      "channel": "Nat Geo Kids",
+      "channelId": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "durationSec": 368,
+      "publishedAt": "2026-11-07T16:00:03Z",
+      "topics": [
+        "animals",
+        "science"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/ziUQS2I_Lco/hqdefault.jpg"
+    },
+    {
       "id": "F9aEoQeLkD0",
       "title": "AD | Ready, steady, glow! 🏁 | Nat Geo Kids",
       "channel": "Nat Geo Kids",
@@ -179,6 +211,21 @@
       "thumbnail": "https://i.ytimg.com/vi/sZuusYKOcVY/hqdefault.jpg"
     },
     {
+      "id": "0G_FsSKlTKA",
+      "title": "1 Hour Of Fall Drawing Fun! 🍂 | Volume 2 | Art For Kids Hub",
+      "channel": "Art for Kids Hub",
+      "channelId": "UC5XMF3Inoi8R9nSI8ChOsdQ",
+      "durationSec": 3851,
+      "publishedAt": "2026-11-07T17:09:45Z",
+      "topics": [
+        "art"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/0G_FsSKlTKA/hqdefault.jpg"
+    },
+    {
       "id": "9C6nMo5FmpM",
       "title": "How To Draw A Cute Fall Leaf With Rain Boots",
       "channel": "Art for Kids Hub",
@@ -194,19 +241,19 @@
       "thumbnail": "https://i.ytimg.com/vi/9C6nMo5FmpM/hqdefault.jpg"
     },
     {
-      "id": "Mbka697fEUc",
-      "title": "How To Draw A Cute Acorn Camper",
-      "channel": "Art for Kids Hub",
-      "channelId": "UC5XMF3Inoi8R9nSI8ChOsdQ",
-      "durationSec": 369,
-      "publishedAt": "2026-11-03T17:00:07Z",
+      "id": "cNJK7uxJaU0",
+      "title": "Who Sent the Space Signal? | Learn to Count for Kids Compilation | Number Cartoon | Numberblocks",
+      "channel": "Numberblocks",
+      "channelId": "UCPlwvN0w4qFSP1FllALB92w",
+      "durationSec": 3477,
+      "publishedAt": "2026-11-08T12:00:06Z",
       "topics": [
-        "art"
+        "maths"
       ],
       "profiles": [
         "little"
       ],
-      "thumbnail": "https://i.ytimg.com/vi/Mbka697fEUc/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/cNJK7uxJaU0/hqdefault.jpg"
     },
     {
       "id": "J_gp1OWzelY",
@@ -471,7 +518,7 @@
     },
     {
       "id": "KfODG5REyss",
-      "title": "I finally saw quantum physics with my own eyes...",
+      "title": "I finally saw quantum mechanics with my own eyes... (It's spookier than I expected)",
       "channel": "Veritasium",
       "channelId": "UCHnyfMqiRRG1u-2MsSQLbXA",
       "durationSec": 3956,
@@ -3512,6 +3559,21 @@
       "thumbnail": "https://i.ytimg.com/vi/T47s4L1Wje4/hqdefault.jpg"
     },
     {
+      "id": "99rI-nOCajM",
+      "title": "The Hidden Mass Surrounding Every Object",
+      "channel": "The Action Lab",
+      "channelId": "UC1VLQPn9cYSqx8plbk9RxxQ",
+      "durationSec": 678,
+      "publishedAt": "2026-11-07T16:02:35Z",
+      "topics": [
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/99rI-nOCajM/hqdefault.jpg"
+    },
+    {
       "id": "qB7d062jcNg",
       "title": "The Physics Problem With Tesla's Flying Car",
       "channel": "The Action Lab",
@@ -4215,21 +4277,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/5pwRGNQRifU/hqdefault.jpg"
-    },
-    {
-      "id": "uPtGGBXiivE",
-      "title": "Why Pulleys Are Weirder Than You Think",
-      "channel": "The Action Lab",
-      "channelId": "UC1VLQPn9cYSqx8plbk9RxxQ",
-      "durationSec": 518,
-      "publishedAt": "2025-10-04T15:03:00Z",
-      "topics": [
-        "science"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/uPtGGBXiivE/hqdefault.jpg"
     },
     {
       "id": "fcjR9ORNtXc",
@@ -5338,6 +5385,23 @@
       "thumbnail": "https://i.ytimg.com/vi/tIlshNCG6NI/hqdefault.jpg"
     },
     {
+      "id": "MRg4uIpJ3xE",
+      "title": "NASA Moon Base: November 2026 Update (Nov. 7, 2026)",
+      "channel": "NASA",
+      "channelId": "UCLA_DiR1FfKNvjuUpBHmylQ",
+      "durationSec": 5760,
+      "publishedAt": "2026-11-07T23:39:59Z",
+      "topics": [
+        "space",
+        "exploration"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/MRg4uIpJ3xE/hqdefault.jpg"
+    },
+    {
       "id": "25JEQqgv5I4",
       "title": "U.S. Spacewalk 101",
       "channel": "NASA",
@@ -5933,23 +5997,6 @@
       "thumbnail": "https://i.ytimg.com/vi/I_GUQdY01b0/hqdefault.jpg"
     },
     {
-      "id": "rSvCuSQhC3w",
-      "title": "2026 Total Solar Eclipse",
-      "channel": "NASA",
-      "channelId": "UCLA_DiR1FfKNvjuUpBHmylQ",
-      "durationSec": 5325,
-      "publishedAt": "2026-08-12T18:47:49Z",
-      "topics": [
-        "space",
-        "exploration"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/rSvCuSQhC3w/hqdefault.jpg"
-    },
-    {
       "id": "PN-iD6VTmyc",
       "title": "What's Up: November 2026 Skywatching Tips from NASA",
       "channel": "NASA Jet Propulsion Laboratory",
@@ -6524,21 +6571,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/fmrgyh5s-is/hqdefault.jpg"
-    },
-    {
-      "id": "NQQz3wlC1mg",
-      "title": "Launch of FLEX and Sentinel-3C on Vega-C",
-      "channel": "European Space Agency, ESA",
-      "channelId": "UCIBaDdAbGlFDeS33shmlD0A",
-      "durationSec": 139,
-      "publishedAt": "2026-09-15T01:44:16Z",
-      "topics": [
-        "space"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/NQQz3wlC1mg/hqdefault.jpg"
     },
     {
       "id": "aCZosHTmyPY",
@@ -13355,6 +13387,22 @@
       "thumbnail": "https://i.ytimg.com/vi/m6KAfSgFaAM/hqdefault.jpg"
     },
     {
+      "id": "sS3t_l2ASHs",
+      "title": "How to Draw Puss N Boots | Step-by-Step Realistic Sketch Tutorial",
+      "channel": "Cartooning Club How to Draw",
+      "channelId": "UC-biucJWhM8HwjsQ96uoIUw",
+      "durationSec": 1292,
+      "publishedAt": "2026-11-08T14:00:30Z",
+      "topics": [
+        "art",
+        "making"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/sS3t_l2ASHs/hqdefault.jpg"
+    },
+    {
       "id": "phs6oaCXGoM",
       "title": "How to Draw The Grinch | Step-by-Step Realistic Drawing Tutorial",
       "channel": "Cartooning Club How to Draw",
@@ -18887,6 +18935,57 @@
       "thumbnail": "https://i.ytimg.com/vi/aw83pKNs3gA/hqdefault.jpg"
     },
     {
+      "id": "AhTg2o-lLxc",
+      "title": "Live African Penguin Cam After Hours | Monterey Bay Aquarium",
+      "channel": "Monterey Bay Aquarium",
+      "channelId": "UCnM5iMGiKsZg-iOlIO2ZkdQ",
+      "durationSec": 2161,
+      "publishedAt": "2026-11-07T16:11:16Z",
+      "topics": [
+        "animals",
+        "nature"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/AhTg2o-lLxc/hqdefault.jpg"
+    },
+    {
+      "id": "EhMgj_R5UR0",
+      "title": "African Penguin Cam After Hours | Monterey Bay Aquarium",
+      "channel": "Monterey Bay Aquarium",
+      "channelId": "UCnM5iMGiKsZg-iOlIO2ZkdQ",
+      "durationSec": 2151,
+      "publishedAt": "2026-11-07T16:02:09Z",
+      "topics": [
+        "animals",
+        "nature"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/EhMgj_R5UR0/hqdefault.jpg"
+    },
+    {
+      "id": "2Lxb84Jig7M",
+      "title": "Coral Reef Cam After Hours | Monterey Bay Aquarium",
+      "channel": "Monterey Bay Aquarium",
+      "channelId": "UCnM5iMGiKsZg-iOlIO2ZkdQ",
+      "durationSec": 3621,
+      "publishedAt": "2026-11-07T16:02:05Z",
+      "topics": [
+        "animals",
+        "nature"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/2Lxb84Jig7M/hqdefault.jpg"
+    },
+    {
       "id": "L3VFCgVN3WQ",
       "title": "Verified Shrimp: seafood you can trust",
       "channel": "Monterey Bay Aquarium",
@@ -19123,40 +19222,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/aySp0kFw8J8/hqdefault.jpg"
-    },
-    {
-      "id": "QoSKFlgZUFA",
-      "title": "Welcome walk with Cameron!",
-      "channel": "Monterey Bay Aquarium",
-      "channelId": "UCnM5iMGiKsZg-iOlIO2ZkdQ",
-      "durationSec": 124,
-      "publishedAt": "2026-02-20T18:35:00Z",
-      "topics": [
-        "animals",
-        "nature"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/QoSKFlgZUFA/hqdefault.jpg"
-    },
-    {
-      "id": "2ESGLfDRMao",
-      "title": "Monterey Bay Aquarium chats with Corey Leak, our director of DEIA",
-      "channel": "Monterey Bay Aquarium",
-      "channelId": "UCnM5iMGiKsZg-iOlIO2ZkdQ",
-      "durationSec": 1650,
-      "publishedAt": "2026-02-13T20:15:39Z",
-      "topics": [
-        "animals",
-        "nature"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/2ESGLfDRMao/hqdefault.jpg"
     },
     {
       "id": "YvIN6pUseXo",
@@ -21731,6 +21796,22 @@
       "thumbnail": "https://i.ytimg.com/vi/SBcbiFqz3aU/hqdefault.jpg"
     },
     {
+      "id": "ZZTC_dXcC2o",
+      "title": "Do you think Hard Disk Drives are Slow? Think again.",
+      "channel": "Branch Education",
+      "channelId": "UCdp4_l1vPmpN-gDbUwhaRUQ",
+      "durationSec": 318,
+      "publishedAt": "2026-11-07T18:39:55Z",
+      "topics": [
+        "engineering",
+        "tech"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/ZZTC_dXcC2o/hqdefault.jpg"
+    },
+    {
       "id": "N_6k_jd5pnA",
       "title": "How does Tap to Pay Work?",
       "channel": "Branch Education",
@@ -22225,22 +22306,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/YtBysgPOKx4/hqdefault.jpg"
-    },
-    {
-      "id": "vQesgAtr2e4",
-      "title": "How do Video Game Controllers Work?  || Exploring a PS4 Game Controller",
-      "channel": "Branch Education",
-      "channelId": "UCdp4_l1vPmpN-gDbUwhaRUQ",
-      "durationSec": 555,
-      "publishedAt": "2020-08-12T03:27:00Z",
-      "topics": [
-        "engineering",
-        "tech"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/vQesgAtr2e4/hqdefault.jpg"
     },
     {
       "id": "JsRiC6vGb1E",
@@ -30862,6 +30927,21 @@
       "thumbnail": "https://i.ytimg.com/vi/cS0l0jhenuE/hqdefault.jpg"
     },
     {
+      "id": "1iXszxAHkAY",
+      "title": "Try Not to Laugh Super Challenge! | Learn to Read and Spell for Kids Compilation | Alphablocks",
+      "channel": "Alphablocks",
+      "channelId": "UC_qs3c0ehDvZkbiEbOj6Drg",
+      "durationSec": 1887,
+      "publishedAt": "2026-11-08T12:00:21Z",
+      "topics": [
+        "reading"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/1iXszxAHkAY/hqdefault.jpg"
+    },
+    {
       "id": "JzSlrNSvAfE",
       "title": "Phonics Songs - Learn with the Alphablocks | Learn to Read and Spell for Kids Compilation",
       "channel": "Alphablocks",
@@ -31415,21 +31495,6 @@
         "little"
       ],
       "thumbnail": "https://i.ytimg.com/vi/NH5QoW7e864/hqdefault.jpg"
-    },
-    {
-      "id": "DK_hkUOi-08",
-      "title": "The Art of Spelling | Learn to Read and Spell for Kids Compilation | Alphablocks",
-      "channel": "Alphablocks",
-      "channelId": "UC_qs3c0ehDvZkbiEbOj6Drg",
-      "durationSec": 2864,
-      "publishedAt": "2026-08-15T11:00:37Z",
-      "topics": [
-        "reading"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/DK_hkUOi-08/hqdefault.jpg"
     },
     {
       "id": "WQ933mtMX4M",
@@ -40764,6 +40829,22 @@
       "thumbnail": "https://i.ytimg.com/vi/78ffidI7__E/hqdefault.jpg"
     },
     {
+      "id": "AAKftYvTMAw",
+      "title": "Let's talk about the new entrance at King's Cross St Pancras",
+      "channel": "Jago Hazzard",
+      "channelId": "UCcHuNKYzVMc06FXqsBEAV3A",
+      "durationSec": 683,
+      "publishedAt": "2026-11-08T12:00:13Z",
+      "topics": [
+        "history",
+        "geography"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/AAKftYvTMAw/hqdefault.jpg"
+    },
+    {
       "id": "lDDIJ2RTcBg",
       "title": "We're Finally Getting the Bakerloo Line Extension, Again!",
       "channel": "Jago Hazzard",
@@ -41546,22 +41627,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/CgFQ3_EFZiA/hqdefault.jpg"
-    },
-    {
-      "id": "LcBsOcvs8mY",
-      "title": "A Badly-Thought-Out Version of the Overground",
-      "channel": "Jago Hazzard",
-      "channelId": "UCcHuNKYzVMc06FXqsBEAV3A",
-      "durationSec": 523,
-      "publishedAt": "2026-07-15T16:30:36Z",
-      "topics": [
-        "history",
-        "geography"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/LcBsOcvs8mY/hqdefault.jpg"
     },
     {
       "id": "NdGheCcLj-E",
@@ -50927,22 +50992,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/phtyOv7yezY/hqdefault.jpg"
-    },
-    {
-      "id": "6DgqhStSSkg",
-      "title": "Minecraft: Epic Weapons Remix - Modding the TNT-Rain Maker and World Breaker!",
-      "channel": "CodaKid",
-      "channelId": "UCmosgwMRj1rlOBLFYLIzDcw",
-      "durationSec": 3233,
-      "publishedAt": "2019-03-30T00:27:05Z",
-      "topics": [
-        "coding",
-        "making"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/6DgqhStSSkg/hqdefault.jpg"
     },
     {
       "id": "shJPWM_mNcQ",
@@ -65691,6 +65740,22 @@
       "thumbnail": "https://i.ytimg.com/vi/oF3z_tNVllU/hqdefault.jpg"
     },
     {
+      "id": "iMAFshJo8C8",
+      "title": "The Burning Question Baffling Gardeners this Year",
+      "channel": "GrowVeg",
+      "channelId": "UC9r61qohBg1qgGty4_WzojA",
+      "durationSec": 600,
+      "publishedAt": "2026-11-07T17:45:21Z",
+      "topics": [
+        "nature",
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/iMAFshJo8C8/hqdefault.jpg"
+    },
+    {
       "id": "9a4nnQ2iuew",
       "title": "He’s Been Gardening Since WWII: The Italian Way to Grow",
       "channel": "GrowVeg",
@@ -66299,20 +66364,20 @@
       "thumbnail": "https://i.ytimg.com/vi/UfDU3wDmrdo/hqdefault.jpg"
     },
     {
-      "id": "SvkuYquYNns",
-      "title": "Double Harvests in Small Garden Spaces (Grow Vertically)",
-      "channel": "GrowVeg",
-      "channelId": "UC9r61qohBg1qgGty4_WzojA",
-      "durationSec": 761,
-      "publishedAt": "2026-02-07T15:45:02Z",
+      "id": "g-h8ymtb6ic",
+      "title": "TULIP BULB UNBOXING FAIL / PLANTING PEONY ROOTS / DIGGING UP DAHLIA TUBERS",
+      "channel": "Guiding Green Thumbs",
+      "channelId": "UCcgYyMRPW7z4fbJabbSWQ8g",
+      "durationSec": 2988,
+      "publishedAt": "2026-11-08T15:19:49Z",
       "topics": [
         "nature",
-        "science"
+        "making"
       ],
       "profiles": [
         "big"
       ],
-      "thumbnail": "https://i.ytimg.com/vi/SvkuYquYNns/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/g-h8ymtb6ic/hqdefault.jpg"
     },
     {
       "id": "_nLF0wtuuCo",
@@ -67097,22 +67162,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/m4RhB8nzJNQ/hqdefault.jpg"
-    },
-    {
-      "id": "H79NexbZONc",
-      "title": "THE FIRST AND FINAL FROST / VEGGING OUT",
-      "channel": "Guiding Green Thumbs",
-      "channelId": "UCcgYyMRPW7z4fbJabbSWQ8g",
-      "durationSec": 3405,
-      "publishedAt": "2025-10-26T12:46:53Z",
-      "topics": [
-        "nature",
-        "making"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/H79NexbZONc/hqdefault.jpg"
     },
     {
       "id": "6AQaQ4CGZzs",
@@ -68232,6 +68281,21 @@
       "thumbnail": "https://i.ytimg.com/vi/A_zQKW8ipL4/hqdefault.jpg"
     },
     {
+      "id": "ckeb9Ae50vA",
+      "title": "Is Iceland Becoming More Volcanically Active? What Does this Mean for the Future?",
+      "channel": "GEO GIRL",
+      "channelId": "UC5uH43CVzGWg9XGYGuLwI_w",
+      "durationSec": 405,
+      "publishedAt": "2026-11-08T14:30:12Z",
+      "topics": [
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/ckeb9Ae50vA/hqdefault.jpg"
+    },
+    {
       "id": "zwIhpVei6cw",
       "title": "Why Are There Black Rocks Inside White Cliffs? The Strange Chemistry of Flint w/@geo.sassie",
       "channel": "GEO GIRL",
@@ -68950,21 +69014,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/p0SfjKiBv2w/hqdefault.jpg"
-    },
-    {
-      "id": "BlhYf8iOalo",
-      "title": "New Paper Finds Signs of Ancient Life on Mars? Potential Biosignature in Jezero Crater! GEO GIRL",
-      "channel": "GEO GIRL",
-      "channelId": "UC5uH43CVzGWg9XGYGuLwI_w",
-      "durationSec": 427,
-      "publishedAt": "2025-09-11T14:26:45Z",
-      "topics": [
-        "science"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/BlhYf8iOalo/hqdefault.jpg"
     },
     {
       "id": "cT0qKZPBubc",
@@ -69733,6 +69782,23 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/hLTwNKaqsTQ/hqdefault.jpg"
+    },
+    {
+      "id": "o_QfZ6Debu8",
+      "title": "B.  Four Major Glaciations",
+      "channel": "Nick Zentner",
+      "channelId": "UC4szl4Ra1ZD3m80wJP40UBA",
+      "durationSec": 5735,
+      "publishedAt": "2026-11-07T17:30:51Z",
+      "topics": [
+        "science",
+        "geography",
+        "history"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/o_QfZ6Debu8/hqdefault.jpg"
     },
     {
       "id": "a0A32-aPBrs",
@@ -72239,6 +72305,21 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/5nCOi8DsA0A/hqdefault.jpg"
+    },
+    {
+      "id": "t00l_whT5K4",
+      "title": "Spinal Cord - Deeper Dive",
+      "channel": "Neuroscientifically Challenged",
+      "channelId": "UCUgZq9PkDp1xaEivtcfJPSg",
+      "durationSec": 624,
+      "publishedAt": "2026-11-07T20:38:04Z",
+      "topics": [
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/t00l_whT5K4/hqdefault.jpg"
     },
     {
       "id": "FUPQvkY5_3g",
@@ -78354,6 +78435,38 @@
       "thumbnail": "https://i.ytimg.com/vi/O_D81ObBJf0/hqdefault.jpg"
     },
     {
+      "id": "uA1vveExJAU",
+      "title": "Marine Biologist plays Planet Zoo 2!",
+      "channel": "KPassionate",
+      "channelId": "UCUvSqEH92Fqn9uw1kmCfLGA",
+      "durationSec": 4379,
+      "publishedAt": "2026-11-08T15:20:41Z",
+      "topics": [
+        "animals",
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/uA1vveExJAU/hqdefault.jpg"
+    },
+    {
+      "id": "KRiszHuQgCg",
+      "title": "How Did Marine Biologists Catch the Corkscrew Killer?",
+      "channel": "KPassionate",
+      "channelId": "UCUvSqEH92Fqn9uw1kmCfLGA",
+      "durationSec": 782,
+      "publishedAt": "2026-11-07T18:03:03Z",
+      "topics": [
+        "animals",
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/KRiszHuQgCg/hqdefault.jpg"
+    },
+    {
       "id": "SJStoGtSfJE",
       "title": "These Whales Exist... They've Never Been Seen Alive",
       "channel": "KPassionate",
@@ -79120,22 +79233,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/K-sYKF2EwW8/hqdefault.jpg"
-    },
-    {
-      "id": "TnJVE2oNJH0",
-      "title": "A New Species of Killer Whale is Changing Marine Biology",
-      "channel": "KPassionate",
-      "channelId": "UCUvSqEH92Fqn9uw1kmCfLGA",
-      "durationSec": 605,
-      "publishedAt": "2024-04-13T22:04:09Z",
-      "topics": [
-        "animals",
-        "science"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/TnJVE2oNJH0/hqdefault.jpg"
     },
     {
       "id": "vsit2ZvNbNs",
@@ -83060,6 +83157,22 @@
       "thumbnail": "https://i.ytimg.com/vi/GLVhXClV5QU/hqdefault.jpg"
     },
     {
+      "id": "iROEZ3BGijo",
+      "title": "The Lurmies are Coming | Peep and the Big Wide World",
+      "channel": "Peep and the Big Wide World",
+      "channelId": "UCPq6g4Q4-SFMIJ048IXmupA",
+      "durationSec": 644,
+      "publishedAt": "2026-11-07T16:00:12Z",
+      "topics": [
+        "science",
+        "nature"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/iROEZ3BGijo/hqdefault.jpg"
+    },
+    {
       "id": "OKoV9aZWL5A",
       "title": "Trees in Different Seasons, Walking Like an Animal & MORE! | Explore the Big Wide World",
       "channel": "Peep and the Big Wide World",
@@ -83842,22 +83955,6 @@
         "little"
       ],
       "thumbnail": "https://i.ytimg.com/vi/eLJk4VXX5oI/hqdefault.jpg"
-    },
-    {
-      "id": "zsQjGj7c_Ck",
-      "title": "Smaller Than a Peep | Peep and the Big Wide World",
-      "channel": "Peep and the Big Wide World",
-      "channelId": "UCPq6g4Q4-SFMIJ048IXmupA",
-      "durationSec": 645,
-      "publishedAt": "2026-09-19T15:00:07Z",
-      "topics": [
-        "science",
-        "nature"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/zsQjGj7c_Ck/hqdefault.jpg"
     },
     {
       "id": "mLeNARr9PDA",
@@ -85293,24 +85390,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/iSJh0nYxraw/hqdefault.jpg"
-    },
-    {
-      "id": "bex3QBFbrUY",
-      "title": "Deep Dive w/ Tim: CircuitPython audiotap module, FT8 Receiver, Fruit Jam Web Workflow",
-      "channel": "Adafruit Industries",
-      "channelId": "UCpOlOeQjj7EsVnDh3zuCgsA",
-      "durationSec": 3619,
-      "publishedAt": "2026-10-21T04:52:14Z",
-      "topics": [
-        "making",
-        "tech",
-        "engineering",
-        "coding"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/bex3QBFbrUY/hqdefault.jpg"
     },
     {
       "id": "dP_i7hRvGpE",
@@ -86982,12 +87061,80 @@
       "thumbnail": "https://i.ytimg.com/vi/Np1Ixd7FWzI/hqdefault.jpg"
     },
     {
+      "id": "LHkLCMu4F1s",
+      "title": "Kids Yoga LIVE 🌟 | Fun Yoga Adventures & Movement for Kids",
+      "channel": "Cosmic Kids Yoga",
+      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
+      "durationSec": 42900,
+      "publishedAt": "2026-11-08T15:34:44Z",
+      "topics": [
+        "reading",
+        "nature"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/LHkLCMu4F1s/hqdefault.jpg"
+    },
+    {
+      "id": "LW3LG81CR6o",
+      "title": "Autumn Kids Yoga LIVE! 🍂 Fall Yoga Adventure Compilation | Cosmic Kids",
+      "channel": "Cosmic Kids Yoga",
+      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
+      "durationSec": 42896,
+      "publishedAt": "2026-11-08T08:42:09Z",
+      "topics": [
+        "reading",
+        "nature"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/LW3LG81CR6o/hqdefault.jpg"
+    },
+    {
+      "id": "auhT2YZ6FEs",
+      "title": "Kids Yoga LIVE 🌟 | Fun Yoga Adventures & Movement for Kids",
+      "channel": "Cosmic Kids Yoga",
+      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
+      "durationSec": 42900,
+      "publishedAt": "2026-11-08T03:28:58Z",
+      "topics": [
+        "reading",
+        "nature"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/auhT2YZ6FEs/hqdefault.jpg"
+    },
+    {
+      "id": "sZ8gRObnTQ8",
+      "title": "Autumn Kids Yoga LIVE! 🍂 Fall Yoga Adventure Compilation | Cosmic Kids",
+      "channel": "Cosmic Kids Yoga",
+      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
+      "durationSec": 42900,
+      "publishedAt": "2026-11-08T00:27:39Z",
+      "topics": [
+        "reading",
+        "nature"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/sZ8gRObnTQ8/hqdefault.jpg"
+    },
+    {
       "id": "2ntqSeE3FL8",
       "title": "Kids Yoga LIVE 🌟 | Fun Yoga Adventures & Movement for Kids",
       "channel": "Cosmic Kids Yoga",
       "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
-      "durationSec": 42929,
-      "publishedAt": "2026-11-07T03:02:04Z",
+      "durationSec": 42897,
+      "publishedAt": "2026-11-07T20:59:06Z",
       "topics": [
         "reading",
         "nature"
@@ -88238,6 +88385,22 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/Ilr2DjYOfqA/hqdefault.jpg"
+    },
+    {
+      "id": "8CBBkQ3_BLE",
+      "title": "Building Ramps for the Chicken Race with the Mecha Builders 🐔 🏎️ | Sesame Street Full Episodes",
+      "channel": "Sesame Street",
+      "channelId": "UCoookXUzPciGrEZEXmh4Jjg",
+      "durationSec": 4051,
+      "publishedAt": "2026-11-08T12:30:23Z",
+      "topics": [
+        "reading",
+        "music"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/8CBBkQ3_BLE/hqdefault.jpg"
     },
     {
       "id": "a6v-XINhGDc",
