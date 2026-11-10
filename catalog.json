@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-09T19:17:51.165Z",
+  "generatedAt": "2026-11-10T16:39:15.361Z",
   "profiles": {
     "little": {
       "label": "Ages 3-7"
@@ -227,6 +227,21 @@
       "thumbnail": "https://i.ytimg.com/vi/sZuusYKOcVY/hqdefault.jpg"
     },
     {
+      "id": "5jYyqfDI8Fo",
+      "title": "How To Draw A Pumpkin Pie Sailboat",
+      "channel": "Art for Kids Hub",
+      "channelId": "UC5XMF3Inoi8R9nSI8ChOsdQ",
+      "durationSec": 615,
+      "publishedAt": "2026-11-10T16:30:24Z",
+      "topics": [
+        "art"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/5jYyqfDI8Fo/hqdefault.jpg"
+    },
+    {
       "id": "Mux6Lzw0QC4",
       "title": "How To Draw Cosmo The Space Mouse",
       "channel": "Art for Kids Hub",
@@ -317,6 +332,22 @@
       "thumbnail": "https://i.ytimg.com/vi/L58JFJ_r0O8/hqdefault.jpg"
     },
     {
+      "id": "nBVuemyrMgE",
+      "title": "When did humans start using salt? - Carolyn Beans",
+      "channel": "TED-Ed",
+      "channelId": "UCsooa4yRKGN_zEE8iknghZA",
+      "durationSec": 309,
+      "publishedAt": "2026-11-10T16:01:00Z",
+      "topics": [
+        "science",
+        "history"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/nBVuemyrMgE/hqdefault.jpg"
+    },
+    {
       "id": "bw5tzcoEG88",
       "title": "How to effectively use visuals in your presentation",
       "channel": "TED-Ed",
@@ -397,24 +428,8 @@
       "thumbnail": "https://i.ytimg.com/vi/a_4eFB8pPwI/hqdefault.jpg"
     },
     {
-      "id": "NPJ9KZqrl50",
-      "title": "Why does this animal never age? - Raymond Adkins",
-      "channel": "TED-Ed",
-      "channelId": "UCsooa4yRKGN_zEE8iknghZA",
-      "durationSec": 351,
-      "publishedAt": "2026-10-20T15:01:00Z",
-      "topics": [
-        "science",
-        "history"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/NPJ9KZqrl50/hqdefault.jpg"
-    },
-    {
       "id": "p2AAz24AzU4",
-      "title": "Meat Pies and Math Essentials (with Terence Tao) - Numberphile",
+      "title": "Terence Tao's Math(s) Essentials - Numberphile",
       "channel": "Numberphile",
       "channelId": "UCoxcjq-8xIDTYp3uz647V5A",
       "durationSec": 802,
@@ -578,6 +593,22 @@
       "thumbnail": "https://i.ytimg.com/vi/NiCgcUTL9_Q/hqdefault.jpg"
     },
     {
+      "id": "fEjvSbI_PT4",
+      "title": "What Happens When You Die? (Minute by Minute)",
+      "channel": "Kurzgesagt – In a Nutshell",
+      "channelId": "UCsXVk37bltHxD1rDPwtNM8Q",
+      "durationSec": 840,
+      "publishedAt": "2026-11-10T15:00:01Z",
+      "topics": [
+        "science",
+        "space"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/fEjvSbI_PT4/hqdefault.jpg"
+    },
+    {
       "id": "5_Fayfx2NUM",
       "title": "How I Survived Late-Stage Cancer (A Fun Story)",
       "channel": "Kurzgesagt – In a Nutshell",
@@ -640,22 +671,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/ujkD4SxPKOI/hqdefault.jpg"
-    },
-    {
-      "id": "QW_jlUn4gA8",
-      "title": "This Is What a Godlike Civilization Would Look Like",
-      "channel": "Kurzgesagt – In a Nutshell",
-      "channelId": "UCsXVk37bltHxD1rDPwtNM8Q",
-      "durationSec": 852,
-      "publishedAt": "2026-09-22T14:00:01Z",
-      "topics": [
-        "science",
-        "space"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/QW_jlUn4gA8/hqdefault.jpg"
     },
     {
       "id": "26P1KyvrmjI",
@@ -11722,6 +11737,23 @@
       "thumbnail": "https://i.ytimg.com/vi/jb9OPM1tUfk/hqdefault.jpg"
     },
     {
+      "id": "R1Y5uxm15D4",
+      "title": "How to Draw Jirachi ⭐️ Pokemon",
+      "channel": "Draw So Cute",
+      "channelId": "UC3dEvA1is6-0_yuei9iCdEw",
+      "durationSec": 628,
+      "publishedAt": "2026-11-10T15:00:12Z",
+      "topics": [
+        "art",
+        "making"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/R1Y5uxm15D4/hqdefault.jpg"
+    },
+    {
       "id": "XUAb0xb_IxA",
       "title": "How to Draw a Capybara 🍊Pusheen | Easy Kawaii Drawing",
       "channel": "Draw So Cute",
@@ -12538,23 +12570,6 @@
       "thumbnail": "https://i.ytimg.com/vi/eANVc-xcVlU/hqdefault.jpg"
     },
     {
-      "id": "Zgka5MTDBk0",
-      "title": "How to Draw a Strawberry Cat 🍓Anirollz Kittiroll",
-      "channel": "Draw So Cute",
-      "channelId": "UC3dEvA1is6-0_yuei9iCdEw",
-      "durationSec": 631,
-      "publishedAt": "2026-08-26T14:00:28Z",
-      "topics": [
-        "art",
-        "making"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/Zgka5MTDBk0/hqdefault.jpg"
-    },
-    {
       "id": "MB7wxd8Bz18",
       "title": "Learn to Draw Super Simple Characters! Finny the Shark, The Bumble Nums, & More!",
       "channel": "Super Simple Draw! - How To Draw for Kids",
@@ -13355,6 +13370,22 @@
       "thumbnail": "https://i.ytimg.com/vi/m6KAfSgFaAM/hqdefault.jpg"
     },
     {
+      "id": "aM5S50Nd-Ow",
+      "title": "How to Draw Cat in the Hat (Easy Beginner Drawing Tutorial)",
+      "channel": "Cartooning Club How to Draw",
+      "channelId": "UC-biucJWhM8HwjsQ96uoIUw",
+      "durationSec": 460,
+      "publishedAt": "2026-11-10T14:00:10Z",
+      "topics": [
+        "art",
+        "making"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/aM5S50Nd-Ow/hqdefault.jpg"
+    },
+    {
       "id": "JnUIkM17JHc",
       "title": "How to Draw Bugs Bunny | Step-by-Step Drawing Tutorial",
       "channel": "Cartooning Club How to Draw",
@@ -13372,7 +13403,7 @@
     },
     {
       "id": "sS3t_l2ASHs",
-      "title": "How to Draw Puss N Boots | Step-by-Step Realistic Sketch Tutorial",
+      "title": "How to Draw Puss N Boots (Step-by-Step Realistic Sketch Tutorial)",
       "channel": "Cartooning Club How to Draw",
       "channelId": "UC-biucJWhM8HwjsQ96uoIUw",
       "durationSec": 1292,
@@ -22244,6 +22275,21 @@
       "thumbnail": "https://i.ytimg.com/vi/YtBysgPOKx4/hqdefault.jpg"
     },
     {
+      "id": "n05Yu3UAI_o",
+      "title": "My First Mistake as an Engineer",
+      "channel": "Practical Engineering",
+      "channelId": "UCMOqf8ab-42UUQIdVoKwjlQ",
+      "durationSec": 469,
+      "publishedAt": "2026-11-10T14:00:20Z",
+      "topics": [
+        "engineering"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/n05Yu3UAI_o/hqdefault.jpg"
+    },
+    {
       "id": "JsRiC6vGb1E",
       "title": "Windows Are Absurd",
       "channel": "Practical Engineering",
@@ -22978,21 +23024,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/tmbZVmXyOXM/hqdefault.jpg"
-    },
-    {
-      "id": "goWsVAE-JF0",
-      "title": "1.5 Years of Heavy Construction in 1.5 Hours",
-      "channel": "Practical Engineering",
-      "channelId": "UCMOqf8ab-42UUQIdVoKwjlQ",
-      "durationSec": 5795,
-      "publishedAt": "2024-10-29T13:00:51Z",
-      "topics": [
-        "engineering"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/goWsVAE-JF0/hqdefault.jpg"
     },
     {
       "id": "pXypQ6d_iDg",
@@ -26503,22 +26534,6 @@
       "thumbnail": "https://i.ytimg.com/vi/Bx_MA0MPyz4/hqdefault.jpg"
     },
     {
-      "id": "6TGaUKeRY5M",
-      "title": "What's my next video topic? Find out!",
-      "channel": "Geography Now",
-      "channelId": "UCmmPgObSUPw1HL2lq6H4ffA",
-      "durationSec": 6396,
-      "publishedAt": "2026-09-12T13:51:22Z",
-      "topics": [
-        "geography",
-        "exploration"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/6TGaUKeRY5M/hqdefault.jpg"
-    },
-    {
       "id": "3G1wZPeZZTQ",
       "title": "Beyond Stonewall: Exploring LGBTQ+ History Through the Smithsonian Archives 🏳️‍🌈 Smithsonian Channel",
       "channel": "Smithsonian Channel",
@@ -29542,6 +29557,21 @@
       "thumbnail": "https://i.ytimg.com/vi/v1ay1qTvF0Y/hqdefault.jpg"
     },
     {
+      "id": "XM7gDYKcylc",
+      "title": "Wonderstruck | magical read aloud | fairytale | friendship | fantasy story for kids",
+      "channel": "KidTimeStoryTime",
+      "channelId": "UCEPsNDUhUm-7yZhUjQQNqwQ",
+      "durationSec": 995,
+      "publishedAt": "2026-11-10T13:30:04Z",
+      "topics": [
+        "reading"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/XM7gDYKcylc/hqdefault.jpg"
+    },
+    {
       "id": "UOn2zVHnhrQ",
       "title": "The Cool Bean Books read aloud | 3 stories in 1 | 35 Minute Read Aloud!",
       "channel": "KidTimeStoryTime",
@@ -30275,21 +30305,6 @@
         "little"
       ],
       "thumbnail": "https://i.ytimg.com/vi/OmQoLqa-_nk/hqdefault.jpg"
-    },
-    {
-      "id": "loMk6bnK1FQ",
-      "title": "A Bad Case of Stripes read aloud (NEW READ)",
-      "channel": "KidTimeStoryTime",
-      "channelId": "UCEPsNDUhUm-7yZhUjQQNqwQ",
-      "durationSec": 905,
-      "publishedAt": "2026-04-24T13:00:00Z",
-      "topics": [
-        "reading"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/loMk6bnK1FQ/hqdefault.jpg"
     },
     {
       "id": "P0j42-rY5mA",
@@ -31417,6 +31432,23 @@
       "thumbnail": "https://i.ytimg.com/vi/NH5QoW7e864/hqdefault.jpg"
     },
     {
+      "id": "4kiijF8yvco",
+      "title": "Letter F | Get Ready, Get Set, Let's Learn About the Alphabet! | Jack Hartmann",
+      "channel": "Jack Hartmann Kids Music Channel",
+      "channelId": "UCVcQH8A634mauPrGbWs7QlQ",
+      "durationSec": 214,
+      "publishedAt": "2026-11-10T00:00:25Z",
+      "topics": [
+        "reading",
+        "music",
+        "maths"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/4kiijF8yvco/hqdefault.jpg"
+    },
+    {
       "id": "WQ933mtMX4M",
       "title": "Letter E (UFLI) | Get Ready, Get Set, Let's Learn About the Alphabet! | Jack Hartmann",
       "channel": "Jack Hartmann Kids Music Channel",
@@ -32214,23 +32246,6 @@
         "little"
       ],
       "thumbnail": "https://i.ytimg.com/vi/Qf8frg1Qdqc/hqdefault.jpg"
-    },
-    {
-      "id": "E5cwtnp3VQ4",
-      "title": "Let's Learn About the Digraph th! | Phonics Song for Kids | Jack Hartmann",
-      "channel": "Jack Hartmann Kids Music Channel",
-      "channelId": "UCVcQH8A634mauPrGbWs7QlQ",
-      "durationSec": 139,
-      "publishedAt": "2026-03-29T23:00:15Z",
-      "topics": [
-        "reading",
-        "music",
-        "maths"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/E5cwtnp3VQ4/hqdefault.jpg"
     },
     {
       "id": "AJPb0Avv6gU",
@@ -41949,6 +41964,22 @@
       "thumbnail": "https://i.ytimg.com/vi/bNTg9EX7MLw/hqdefault.jpg"
     },
     {
+      "id": "5fK-HtlpS9I",
+      "title": "The Very ... Light Rail? | RMTransit Off-Script",
+      "channel": "RMTransit",
+      "channelId": "UCf4iKXL_SJQ5d0qsKkboRRQ",
+      "durationSec": 2920,
+      "publishedAt": "2026-11-09T21:03:40Z",
+      "topics": [
+        "engineering",
+        "geography"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/5fK-HtlpS9I/hqdefault.jpg"
+    },
+    {
       "id": "eNIzHndQQsU",
       "title": "Hot Transit Debates | RMTransit Off-Script",
       "channel": "RMTransit",
@@ -42731,22 +42762,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/huwhNHIA6TE/hqdefault.jpg"
-    },
-    {
-      "id": "j_s7OeJq83E",
-      "title": "Filling the Gaps in Canada’s Rail Network",
-      "channel": "RMTransit",
-      "channelId": "UCf4iKXL_SJQ5d0qsKkboRRQ",
-      "durationSec": 660,
-      "publishedAt": "2024-08-22T13:02:50Z",
-      "topics": [
-        "engineering",
-        "geography"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/j_s7OeJq83E/hqdefault.jpg"
     },
     {
       "id": "EJgVjxM4Rno",
@@ -43597,6 +43612,23 @@
       "thumbnail": "https://i.ytimg.com/vi/9RpQ6kRM-tk/hqdefault.jpg"
     },
     {
+      "id": "eA_Z6ewfHyM",
+      "title": "Another One?! The Seestar S30 Plus is Different!",
+      "channel": "AstroBackyard",
+      "channelId": "UCn3npsPixgoi_xLdCg9J-LQ",
+      "durationSec": 951,
+      "publishedAt": "2026-11-10T15:05:20Z",
+      "topics": [
+        "space",
+        "making",
+        "tech"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/eA_Z6ewfHyM/hqdefault.jpg"
+    },
+    {
       "id": "FFfbkIVI0LM",
       "title": "What Can the Seestar S50 Pro REALLY Capture?",
       "channel": "AstroBackyard",
@@ -44173,23 +44205,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/peO2vGTHBwQ/hqdefault.jpg"
-    },
-    {
-      "id": "gPPZ-1t9gIU",
-      "title": "Let's Photograph the BOOGEYMAN NEBULA!",
-      "channel": "AstroBackyard",
-      "channelId": "UCn3npsPixgoi_xLdCg9J-LQ",
-      "durationSec": 657,
-      "publishedAt": "2025-02-14T21:46:39Z",
-      "topics": [
-        "space",
-        "making",
-        "tech"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/gPPZ-1t9gIU/hqdefault.jpg"
     },
     {
       "id": "Dwidf59KOvo",
@@ -45617,7 +45632,7 @@
     },
     {
       "id": "Ss3CPR59gtI",
-      "title": "I saw parts of the Extremely Large Telescope getting built",
+      "title": "The engineering that makes the Extremely Large Telescope possible",
       "channel": "Dr. Becky",
       "channelId": "UCYNbYGl89UUowy8oXkipC-Q",
       "durationSec": 1408,
@@ -47956,6 +47971,21 @@
       "thumbnail": "https://i.ytimg.com/vi/jvebwDXmBSw/hqdefault.jpg"
     },
     {
+      "id": "5QpAvuVi5_s",
+      "title": "We Must Mock Eric Weinstein Once a Month or Peter Thiel Wins",
+      "channel": "Professor Dave Explains",
+      "channelId": "UC0cd_-e49hZpWLH3UIwoWRA",
+      "durationSec": 4033,
+      "publishedAt": "2026-11-10T15:00:37Z",
+      "topics": [
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/5QpAvuVi5_s/hqdefault.jpg"
+    },
+    {
       "id": "eggVmmcgPm8",
       "title": "Perfect Passive Participle",
       "channel": "Professor Dave Explains",
@@ -48689,21 +48719,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/8USXJg4CY1g/hqdefault.jpg"
-    },
-    {
-      "id": "SXm_Wd_DBIY",
-      "title": "Present Passive System (I-II Conjugation)",
-      "channel": "Professor Dave Explains",
-      "channelId": "UC0cd_-e49hZpWLH3UIwoWRA",
-      "durationSec": 231,
-      "publishedAt": "2026-08-17T14:00:20Z",
-      "topics": [
-        "science"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/SXm_Wd_DBIY/hqdefault.jpg"
     },
     {
       "id": "BjyJlN1npdw",
@@ -50880,22 +50895,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/j_gpTFe1050/hqdefault.jpg"
-    },
-    {
-      "id": "phtyOv7yezY",
-      "title": "Worried about your child and too much technology? | Motivational Video for Parents",
-      "channel": "CodaKid",
-      "channelId": "UCmosgwMRj1rlOBLFYLIzDcw",
-      "durationSec": 135,
-      "publishedAt": "2020-01-22T23:00:10Z",
-      "topics": [
-        "coding",
-        "making"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/phtyOv7yezY/hqdefault.jpg"
     },
     {
       "id": "shJPWM_mNcQ",
@@ -56596,6 +56595,23 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/7Ce6nnJxzMo/hqdefault.jpg"
+    },
+    {
+      "id": "yGf78wc6jIU",
+      "title": "The Rise and Fall of an Ancient Reef",
+      "channel": "PBS Eons",
+      "channelId": "UCzR-rom72PHN9Zg7RML9EbA",
+      "durationSec": 1566,
+      "publishedAt": "2026-11-10T15:00:37Z",
+      "topics": [
+        "history",
+        "science",
+        "animals"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/yGf78wc6jIU/hqdefault.jpg"
     },
     {
       "id": "9x1Myi0T01o",
@@ -68920,6 +68936,22 @@
       "thumbnail": "https://i.ytimg.com/vi/p0SfjKiBv2w/hqdefault.jpg"
     },
     {
+      "id": "cjLMTSWf7_Q",
+      "title": "This Week in Volcano News; Iwo Jima & Bromo Produce New Eruptions",
+      "channel": "GeologyHub",
+      "channelId": "UCYeGh5VML5XPr5jYnzh3J6g",
+      "durationSec": 325,
+      "publishedAt": "2026-11-09T22:45:30Z",
+      "topics": [
+        "science",
+        "geography"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/cjLMTSWf7_Q/hqdefault.jpg"
+    },
+    {
       "id": "sHf0RQFGXFM",
       "title": "The Volcanic Monster We Couldn't Find...Until Now",
       "channel": "GeologyHub",
@@ -69670,22 +69702,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/x9mQfyeVOXg/hqdefault.jpg"
-    },
-    {
-      "id": "Q_Rf-QBw4J4",
-      "title": "Nepal Disaster Update; Detecting the Next Disaster",
-      "channel": "GeologyHub",
-      "channelId": "UCYeGh5VML5XPr5jYnzh3J6g",
-      "durationSec": 331,
-      "publishedAt": "2026-08-31T19:00:19Z",
-      "topics": [
-        "science",
-        "geography"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/Q_Rf-QBw4J4/hqdefault.jpg"
     },
     {
       "id": "o_QfZ6Debu8",
@@ -70519,23 +70535,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/jyd_WvVt7FM/hqdefault.jpg"
-    },
-    {
-      "id": "YQtMBmS49Ew",
-      "title": "The Buried Fault Beneath The Canadian Rockies",
-      "channel": "Nick Zentner",
-      "channelId": "UC4szl4Ra1ZD3m80wJP40UBA",
-      "durationSec": 3469,
-      "publishedAt": "2026-04-22T00:50:56Z",
-      "topics": [
-        "science",
-        "geography",
-        "history"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/YQtMBmS49Ew/hqdefault.jpg"
     },
     {
       "id": "TbOQIbEEVtA",
@@ -75720,6 +75719,22 @@
       "thumbnail": "https://i.ytimg.com/vi/QWtQKNsA-uY/hqdefault.jpg"
     },
     {
+      "id": "EkWwvlMUaSQ",
+      "title": "Launch Your Business with a Simple Business Plan!",
+      "channel": "Biz Kid$ (TV Series)",
+      "channelId": "UCufmiGK0I_9g_iwUR-E8mwA",
+      "durationSec": 1727,
+      "publishedAt": "2026-11-10T14:30:18Z",
+      "topics": [
+        "maths",
+        "making"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/EkWwvlMUaSQ/hqdefault.jpg"
+    },
+    {
       "id": "sZH7jtLkglk",
       "title": "Crash Course on Starting a Business Today!!",
       "channel": "Biz Kid$ (TV Series)",
@@ -76410,6 +76425,21 @@
       "thumbnail": "https://i.ytimg.com/vi/xaUKgnhZ9y4/hqdefault.jpg"
     },
     {
+      "id": "RPgq1Rv_lQ4",
+      "title": "Debit Card vs Credit Card: Which Should You Use (Beginner Guide)",
+      "channel": "Easy Peasy Finance",
+      "channelId": "UCZl9ry5ew_2YeCQ6ECk8sxA",
+      "durationSec": 540,
+      "publishedAt": "2026-11-10T14:00:25Z",
+      "topics": [
+        "maths"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/RPgq1Rv_lQ4/hqdefault.jpg"
+    },
+    {
       "id": "QIITOIVwCV4",
       "title": "A 17-Year Old's First CFP Conference",
       "channel": "Easy Peasy Finance",
@@ -76861,6 +76891,22 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/FDhx6EMGX3I/hqdefault.jpg"
+    },
+    {
+      "id": "5AZ1PReLVGc",
+      "title": "Ramadan for Kids | Learn about this interesting Muslim holiday",
+      "channel": "Learn Bright",
+      "channelId": "UCKCsVSA5THlkHbnkZTPm6-g",
+      "durationSec": 291,
+      "publishedAt": "2026-11-10T16:00:02Z",
+      "topics": [
+        "maths",
+        "history"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/5AZ1PReLVGc/hqdefault.jpg"
     },
     {
       "id": "LQuCSgA_aok",
@@ -77421,22 +77467,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/XblGN0tH5vk/hqdefault.jpg"
-    },
-    {
-      "id": "XAgtDp5reiA",
-      "title": "Dinos A to Z: Giganotosaurus | Learn about this T-Rex dinosaur lookalike",
-      "channel": "Learn Bright",
-      "channelId": "UCKCsVSA5THlkHbnkZTPm6-g",
-      "durationSec": 227,
-      "publishedAt": "2026-07-23T15:00:05Z",
-      "topics": [
-        "maths",
-        "history"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/XAgtDp5reiA/hqdefault.jpg"
     },
     {
       "id": "2slC7bPf0Tc",
@@ -83061,6 +83091,22 @@
       "thumbnail": "https://i.ytimg.com/vi/GLVhXClV5QU/hqdefault.jpg"
     },
     {
+      "id": "3p7KLOO4TI4",
+      "title": "Two's A Crowd (Part 1) | Peep and the Big Wide World",
+      "channel": "Peep and the Big Wide World",
+      "channelId": "UCPq6g4Q4-SFMIJ048IXmupA",
+      "durationSec": 644,
+      "publishedAt": "2026-11-10T16:00:33Z",
+      "topics": [
+        "science",
+        "nature"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/3p7KLOO4TI4/hqdefault.jpg"
+    },
+    {
       "id": "RudL8kDgruQ",
       "title": "Quack's Square Deal | Peep and the Big Wide World",
       "channel": "Peep and the Big Wide World",
@@ -83845,20 +83891,20 @@
       "thumbnail": "https://i.ytimg.com/vi/PhXoFUAI6jU/hqdefault.jpg"
     },
     {
-      "id": "TOXw6iAQ6B0",
-      "title": "One Duck Two Many | Peep and the Big Wide World",
-      "channel": "Peep and the Big Wide World",
-      "channelId": "UCPq6g4Q4-SFMIJ048IXmupA",
-      "durationSec": 644,
-      "publishedAt": "2026-09-22T15:00:28Z",
+      "id": "PhHXZamAQys",
+      "title": "Field Trip Favorites! | FIrst Experiences for Toddlers and Kids | Top 8 from Super Simple Play!",
+      "channel": "Super Simple Play with Caitie!",
+      "channelId": "UCxG6Tbopv4XcHfem65bgFeg",
+      "durationSec": 4080,
+      "publishedAt": "2026-11-10T14:00:00Z",
       "topics": [
-        "science",
-        "nature"
+        "music",
+        "making"
       ],
       "profiles": [
         "little"
       ],
-      "thumbnail": "https://i.ytimg.com/vi/TOXw6iAQ6B0/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/PhHXZamAQys/hqdefault.jpg"
     },
     {
       "id": "mLeNARr9PDA",
@@ -84131,22 +84177,6 @@
         "little"
       ],
       "thumbnail": "https://i.ytimg.com/vi/k7o_rrF2n1M/hqdefault.jpg"
-    },
-    {
-      "id": "_GeUG-ewMUA",
-      "title": "Let's Go to the Grocery Store! 🛒 | First Experiences for Kids! Food Shopping | Super Simple Play",
-      "channel": "Super Simple Play with Caitie!",
-      "channelId": "UCxG6Tbopv4XcHfem65bgFeg",
-      "durationSec": 676,
-      "publishedAt": "2026-05-19T13:01:00Z",
-      "topics": [
-        "music",
-        "making"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/_GeUG-ewMUA/hqdefault.jpg"
     },
     {
       "id": "9jeGd-nqdlI",
@@ -84846,6 +84876,24 @@
       "thumbnail": "https://i.ytimg.com/vi/bilYblVD-3M/hqdefault.jpg"
     },
     {
+      "id": "UgW6OsBiWjg",
+      "title": "CircuitPython Weekly Meeting for November 9th, 2026 #adafruit",
+      "channel": "Adafruit Industries",
+      "channelId": "UCpOlOeQjj7EsVnDh3zuCgsA",
+      "durationSec": 2224,
+      "publishedAt": "2026-11-09T20:00:30Z",
+      "topics": [
+        "making",
+        "tech",
+        "engineering",
+        "coding"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/UgW6OsBiWjg/hqdefault.jpg"
+    },
+    {
       "id": "X1fubpy14lc",
       "title": "Deep Dive w/ Tim: ESP-SDR Custom Firmware on Metro P4's ESP32-C6 Co-processor",
       "channel": "Adafruit Industries",
@@ -85240,60 +85288,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/aGORUaQstUk/hqdefault.jpg"
-    },
-    {
-      "id": "VC9d6YTP_0I",
-      "title": "Build a Tron Disc using NeoPixel LEDs and #CircuitPython #adafruit #3dprinting",
-      "channel": "Adafruit Industries",
-      "channelId": "UCpOlOeQjj7EsVnDh3zuCgsA",
-      "durationSec": 125,
-      "publishedAt": "2026-10-22T12:05:33Z",
-      "topics": [
-        "making",
-        "tech",
-        "engineering",
-        "coding"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/VC9d6YTP_0I/hqdefault.jpg"
-    },
-    {
-      "id": "_yM1B3QA7ok",
-      "title": "3D Hangouts –  USB Desk Hub, Holiday Wreath and Caroline",
-      "channel": "Adafruit Industries",
-      "channelId": "UCpOlOeQjj7EsVnDh3zuCgsA",
-      "durationSec": 3479,
-      "publishedAt": "2026-10-22T04:03:09Z",
-      "topics": [
-        "making",
-        "tech",
-        "engineering",
-        "coding"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/_yM1B3QA7ok/hqdefault.jpg"
-    },
-    {
-      "id": "iSJh0nYxraw",
-      "title": "3D Hangouts Episode 546 USB Desk Hub, Holiday Wreath and Caroline #3dprinting #adafruit",
-      "channel": "Adafruit Industries",
-      "channelId": "UCpOlOeQjj7EsVnDh3zuCgsA",
-      "durationSec": 180,
-      "publishedAt": "2026-10-21T20:21:44Z",
-      "topics": [
-        "making",
-        "tech",
-        "engineering",
-        "coding"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/iSJh0nYxraw/hqdefault.jpg"
     },
     {
       "id": "NL65Awuv8gU",
@@ -85841,6 +85835,22 @@
       "thumbnail": "https://i.ytimg.com/vi/UvCAhz9kmP8/hqdefault.jpg"
     },
     {
+      "id": "Tu8ajyDQeFk",
+      "title": "Auto-Driving Ball-Wheeled Omni-Directional Car",
+      "channel": "James Bruton",
+      "channelId": "UCUbDcUPed50Y_7KmfCXKohA",
+      "durationSec": 1343,
+      "publishedAt": "2026-11-10T13:55:17Z",
+      "topics": [
+        "engineering",
+        "tech"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/Tu8ajyDQeFk/hqdefault.jpg"
+    },
+    {
       "id": "94AMYAVnpsk",
       "title": "I Built a Neural Net for Competitive Robots",
       "channel": "James Bruton",
@@ -86319,22 +86329,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/bw7RjJYyanI/hqdefault.jpg"
-    },
-    {
-      "id": "DoY3duDDiUA",
-      "title": "How I Built a Walking Star Wars Droid",
-      "channel": "James Bruton",
-      "channelId": "UCUbDcUPed50Y_7KmfCXKohA",
-      "durationSec": 1006,
-      "publishedAt": "2024-02-22T16:00:13Z",
-      "topics": [
-        "engineering",
-        "tech"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/DoY3duDDiUA/hqdefault.jpg"
     },
     {
       "id": "Md_WfyQC6Ys",
@@ -86982,6 +86976,91 @@
       "thumbnail": "https://i.ytimg.com/vi/Np1Ixd7FWzI/hqdefault.jpg"
     },
     {
+      "id": "ER0MqatX3ro",
+      "title": "Melody Button | Jaime's Yoga Adventures! | Kids Animated Yoga",
+      "channel": "Cosmic Kids Yoga",
+      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
+      "durationSec": 909,
+      "publishedAt": "2026-11-10T16:00:35Z",
+      "topics": [
+        "reading",
+        "nature"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/ER0MqatX3ro/hqdefault.jpg"
+    },
+    {
+      "id": "MhTq9P28Au0",
+      "title": "Kids Yoga LIVE 🌟 | Fun Yoga Adventures & Movement for Kids",
+      "channel": "Cosmic Kids Yoga",
+      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
+      "durationSec": 42900,
+      "publishedAt": "2026-11-10T15:31:39Z",
+      "topics": [
+        "reading",
+        "nature"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/MhTq9P28Au0/hqdefault.jpg"
+    },
+    {
+      "id": "E3HGpsj4ZVg",
+      "title": "Autumn Kids Yoga LIVE! 🍂 Fall Yoga Adventure Compilation | Cosmic Kids",
+      "channel": "Cosmic Kids Yoga",
+      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
+      "durationSec": 42900,
+      "publishedAt": "2026-11-10T10:18:36Z",
+      "topics": [
+        "reading",
+        "nature"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/E3HGpsj4ZVg/hqdefault.jpg"
+    },
+    {
+      "id": "A4at_dPF7LM",
+      "title": "Kids Yoga LIVE 🌟 | Fun Yoga Adventures & Movement for Kids",
+      "channel": "Cosmic Kids Yoga",
+      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
+      "durationSec": 42900,
+      "publishedAt": "2026-11-10T03:30:40Z",
+      "topics": [
+        "reading",
+        "nature"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/A4at_dPF7LM/hqdefault.jpg"
+    },
+    {
+      "id": "sk54QvBlS50",
+      "title": "Autumn Kids Yoga LIVE! 🍂 Fall Yoga Adventure Compilation | Cosmic Kids",
+      "channel": "Cosmic Kids Yoga",
+      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
+      "durationSec": 42900,
+      "publishedAt": "2026-11-09T21:50:38Z",
+      "topics": [
+        "reading",
+        "nature"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/sk54QvBlS50/hqdefault.jpg"
+    },
+    {
       "id": "Zg_DAgIcQZA",
       "title": "Kids Yoga LIVE 🌟 | Fun Yoga Adventures & Movement for Kids",
       "channel": "Cosmic Kids Yoga",
@@ -87269,23 +87348,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/rm0nnWjXv84/hqdefault.jpg"
-    },
-    {
-      "id": "ofjqehUmLFk",
-      "title": "Floating Flowers | Jaime's Yoga Adventures",
-      "channel": "Cosmic Kids Yoga",
-      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
-      "durationSec": 890,
-      "publishedAt": "2026-08-05T16:00:07Z",
-      "topics": [
-        "reading",
-        "nature"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/ofjqehUmLFk/hqdefault.jpg"
     },
     {
       "id": "xm_GCZKltLA",
@@ -90326,7 +90388,7 @@
     },
     {
       "id": "o7c7NkhsUmg",
-      "title": "This Cold Spot is a BIG Problem... And it's Getting Bigger",
+      "title": "Are We In For a Real-Life \"Day After Tomorrow\" Scenario?",
       "channel": "PBS Terra",
       "channelId": "UCpxYSWgxVt3Pyn1ovXsGQ0g",
       "durationSec": 799,
