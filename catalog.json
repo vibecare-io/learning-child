@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-14T15:23:55.116Z",
+  "generatedAt": "2026-11-15T15:57:08.728Z",
   "profiles": {
     "little": {
       "label": "Ages 3-7"
@@ -131,6 +131,54 @@
       "thumbnail": "https://i.ytimg.com/vi/kKqd0_cydZM/hqdefault.jpg"
     },
     {
+      "id": "DUlsVvXATnU",
+      "title": "Behind the scenes of getting those animal close-ups! | Photo Ark | Nat Geo Kids",
+      "channel": "Nat Geo Kids",
+      "channelId": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "durationSec": 147,
+      "publishedAt": "2026-11-15T15:00:37Z",
+      "topics": [
+        "animals",
+        "science"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/DUlsVvXATnU/hqdefault.jpg"
+    },
+    {
+      "id": "2E6-G7PegV8",
+      "title": "Cassini: The Spacecraft That Flew Into Saturn 🪐 | Mission to Saturn Full Special | Nat Geo Kids",
+      "channel": "Nat Geo Kids",
+      "channelId": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "durationSec": 2648,
+      "publishedAt": "2026-11-15T13:00:22Z",
+      "topics": [
+        "animals",
+        "science"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/2E6-G7PegV8/hqdefault.jpg"
+    },
+    {
+      "id": "AH7KGVjXOkE",
+      "title": "The Floor REALLY IS Lava! 🌋 Fun Volcano Facts | Nat Geo Kids",
+      "channel": "Nat Geo Kids",
+      "channelId": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "durationSec": 392,
+      "publishedAt": "2026-11-14T17:30:30Z",
+      "topics": [
+        "animals",
+        "science"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/AH7KGVjXOkE/hqdefault.jpg"
+    },
+    {
       "id": "EQpTtkRBInA",
       "title": "Baby Hermes Pranks Apollo 🐮 | Greeking Out Podcast | S5 E7 FULL EP | Nat Geo Kids",
       "channel": "Nat Geo Kids",
@@ -163,22 +211,6 @@
       "thumbnail": "https://i.ytimg.com/vi/RtY1z8-qGYE/hqdefault.jpg"
     },
     {
-      "id": "EN8EOvgAvyM",
-      "title": "Searching for Gold and Ghosts | Lost Cities with Albert Lin Compilation | Nat Geo Kids",
-      "channel": "Nat Geo Kids",
-      "channelId": "UCXVCgDuD_QCkI7gTKU7-tpg",
-      "durationSec": 5110,
-      "publishedAt": "2026-11-09T13:00:16Z",
-      "topics": [
-        "animals",
-        "science"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/EN8EOvgAvyM/hqdefault.jpg"
-    },
-    {
       "id": "OhmPdBhK4Xs",
       "title": "1 Hour of Thanksgiving Drawing Fun! 🦃 Art Lessons for Kids",
       "channel": "Art for Kids Hub",
@@ -207,6 +239,21 @@
         "little"
       ],
       "thumbnail": "https://i.ytimg.com/vi/uRqUixWz7R0/hqdefault.jpg"
+    },
+    {
+      "id": "063xXBMTsXM",
+      "title": "Rainbow Maths for Gloomy Days | Learn to Count for Kids Compilation | Number Cartoon | Numberblocks",
+      "channel": "Numberblocks",
+      "channelId": "UCPlwvN0w4qFSP1FllALB92w",
+      "durationSec": 3761,
+      "publishedAt": "2026-11-15T11:00:28Z",
+      "topics": [
+        "maths"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/063xXBMTsXM/hqdefault.jpg"
     },
     {
       "id": "oZ-zn7QVTQQ",
@@ -3529,6 +3576,21 @@
       "thumbnail": "https://i.ytimg.com/vi/T47s4L1Wje4/hqdefault.jpg"
     },
     {
+      "id": "Kik9uM6GdOM",
+      "title": "This Is What You Should Actually Do In a Falling Elevator",
+      "channel": "The Action Lab",
+      "channelId": "UC1VLQPn9cYSqx8plbk9RxxQ",
+      "durationSec": 633,
+      "publishedAt": "2026-11-14T16:02:13Z",
+      "topics": [
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/Kik9uM6GdOM/hqdefault.jpg"
+    },
+    {
       "id": "99rI-nOCajM",
       "title": "Most People Get This Physics Question Wrong",
       "channel": "The Action Lab",
@@ -4232,21 +4294,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/-HA3qPYB5aw/hqdefault.jpg"
-    },
-    {
-      "id": "5pwRGNQRifU",
-      "title": "Why Is This Liquid Attracted To Blood??",
-      "channel": "The Action Lab",
-      "channelId": "UC1VLQPn9cYSqx8plbk9RxxQ",
-      "durationSec": 459,
-      "publishedAt": "2025-10-17T15:03:00Z",
-      "topics": [
-        "science"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/5pwRGNQRifU/hqdefault.jpg"
     },
     {
       "id": "qr57Gm67jQY",
@@ -13309,6 +13356,22 @@
       "thumbnail": "https://i.ytimg.com/vi/m6KAfSgFaAM/hqdefault.jpg"
     },
     {
+      "id": "CzDbedYEOj0",
+      "title": "How to Draw the Cat in the Hat | Step-by-Step Drawing Tutorial",
+      "channel": "Cartooning Club How to Draw",
+      "channelId": "UC-biucJWhM8HwjsQ96uoIUw",
+      "durationSec": 1463,
+      "publishedAt": "2026-11-15T14:00:36Z",
+      "topics": [
+        "art",
+        "making"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/CzDbedYEOj0/hqdefault.jpg"
+    },
+    {
       "id": "E7n4Q5Rm_xQ",
       "title": "How to Draw a Young Polar Bear | Sketch Tutorial for Beginners",
       "channel": "Cartooning Club How to Draw",
@@ -14045,24 +14108,8 @@
       "thumbnail": "https://i.ytimg.com/vi/ryEYmSy7ciU/hqdefault.jpg"
     },
     {
-      "id": "FdFaCi_p_ow",
-      "title": "How to Draw Dipper Pines | Gravity Falls",
-      "channel": "Cartooning Club How to Draw",
-      "channelId": "UC-biucJWhM8HwjsQ96uoIUw",
-      "durationSec": 415,
-      "publishedAt": "2026-09-28T14:00:20Z",
-      "topics": [
-        "art",
-        "making"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/FdFaCi_p_ow/hqdefault.jpg"
-    },
-    {
       "id": "WOSDcteV3C4",
-      "title": "So, my childhood home was kind of a train theme park...",
+      "title": "No, you don't understand - my dad REALLY likes trains...",
       "channel": "Jazza",
       "channelId": "UCHu2KNu6TtJ0p4hpSW7Yv7Q",
       "durationSec": 2570,
@@ -25978,6 +26025,22 @@
       "thumbnail": "https://i.ytimg.com/vi/2UZu5mlfyNU/hqdefault.jpg"
     },
     {
+      "id": "6r9i3q2JmZ4",
+      "title": "São Tomé & Príncipe have TWO cartographic anomalies!",
+      "channel": "Geography Now",
+      "channelId": "UCmmPgObSUPw1HL2lq6H4ffA",
+      "durationSec": 124,
+      "publishedAt": "2026-11-14T21:10:19Z",
+      "topics": [
+        "geography",
+        "exploration"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/6r9i3q2JmZ4/hqdefault.jpg"
+    },
+    {
       "id": "UrzPwsf3Slw",
       "title": "Geogra-FIT",
       "channel": "Geography Now",
@@ -26424,22 +26487,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/xF5AgRQVU4E/hqdefault.jpg"
-    },
-    {
-      "id": "CjAP-Pk-7eA",
-      "title": "Malawi & Tanzania's \"dispute\" explained",
-      "channel": "Geography Now",
-      "channelId": "UCmmPgObSUPw1HL2lq6H4ffA",
-      "durationSec": 124,
-      "publishedAt": "2026-09-16T22:43:23Z",
-      "topics": [
-        "geography",
-        "exploration"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/CjAP-Pk-7eA/hqdefault.jpg"
     },
     {
       "id": "3G1wZPeZZTQ",
@@ -30754,6 +30801,21 @@
       "thumbnail": "https://i.ytimg.com/vi/qrwiX7Dc60Q/hqdefault.jpg"
     },
     {
+      "id": "u3yeE7tnPSs",
+      "title": "The ABC's Phonics Song | Learn to Read and Spell for Kids Compilation | Alphablocks",
+      "channel": "Alphablocks",
+      "channelId": "UC_qs3c0ehDvZkbiEbOj6Drg",
+      "durationSec": 1443,
+      "publishedAt": "2026-11-15T12:00:25Z",
+      "topics": [
+        "reading"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/u3yeE7tnPSs/hqdefault.jpg"
+    },
+    {
       "id": "raBGAvrk5fM",
       "title": "My First One Syllable Words | Learn to Read and Spell for Kids Compilation | Alphablocks",
       "channel": "Alphablocks",
@@ -31307,21 +31369,6 @@
         "little"
       ],
       "thumbnail": "https://i.ytimg.com/vi/IpNgiP2lANk/hqdefault.jpg"
-    },
-    {
-      "id": "FPJJ2UPPJks",
-      "title": "Reading Day! - 2 Hours of Alphablocks | Learn to Read and Spell for Kids Compilation | Alphablocks",
-      "channel": "Alphablocks",
-      "channelId": "UC_qs3c0ehDvZkbiEbOj6Drg",
-      "durationSec": 7360,
-      "publishedAt": "2026-08-22T11:00:04Z",
-      "topics": [
-        "reading"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/FPJJ2UPPJks/hqdefault.jpg"
     },
     {
       "id": "NjTxzaHDsyw",
@@ -40656,6 +40703,22 @@
       "thumbnail": "https://i.ytimg.com/vi/78ffidI7__E/hqdefault.jpg"
     },
     {
+      "id": "ZCos-4zXmZ8",
+      "title": "The Worst Tube Map Ever Drawn",
+      "channel": "Jago Hazzard",
+      "channelId": "UCcHuNKYzVMc06FXqsBEAV3A",
+      "durationSec": 743,
+      "publishedAt": "2026-11-15T12:00:29Z",
+      "topics": [
+        "history",
+        "geography"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/ZCos-4zXmZ8/hqdefault.jpg"
+    },
+    {
       "id": "Mk90rsMEozE",
       "title": "What the Overground lines MIGHT have been called",
       "channel": "Jago Hazzard",
@@ -41438,22 +41501,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/S6zXrYLOj-I/hqdefault.jpg"
-    },
-    {
-      "id": "wqRdJwv94aQ",
-      "title": "What's Wrong with the Piccadilly Line These Days?",
-      "channel": "Jago Hazzard",
-      "channelId": "UCcHuNKYzVMc06FXqsBEAV3A",
-      "durationSec": 518,
-      "publishedAt": "2026-07-22T16:30:02Z",
-      "topics": [
-        "history",
-        "geography"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/wqRdJwv94aQ/hqdefault.jpg"
     },
     {
       "id": "NdGheCcLj-E",
@@ -46330,6 +46377,21 @@
       "thumbnail": "https://i.ytimg.com/vi/bZ1Z_QIU-fQ/hqdefault.jpg"
     },
     {
+      "id": "3zmkq2uSFi4",
+      "title": "Nobel Prize in Chemistry 2026 - Periodic Table of Videos",
+      "channel": "Periodic Videos",
+      "channelId": "UCtESv1e7ntJaLJYKIO1FoYw",
+      "durationSec": 595,
+      "publishedAt": "2026-11-15T13:30:21Z",
+      "topics": [
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/3zmkq2uSFi4/hqdefault.jpg"
+    },
+    {
       "id": "jZZcgnKl_Gg",
       "title": "IRON (new video) - Periodic Table of Videos",
       "channel": "Periodic Videos",
@@ -47048,21 +47110,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/jA_tde6lUHI/hqdefault.jpg"
-    },
-    {
-      "id": "k0Hh48wyuW0",
-      "title": "Click Chemistry (Nobel Prize 2022) - Periodic Table of Videos",
-      "channel": "Periodic Videos",
-      "channelId": "UCtESv1e7ntJaLJYKIO1FoYw",
-      "durationSec": 811,
-      "publishedAt": "2022-10-14T14:39:37Z",
-      "topics": [
-        "science"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/k0Hh48wyuW0/hqdefault.jpg"
     },
     {
       "id": "3HslG2J84IA",
@@ -56474,7 +56521,7 @@
     },
     {
       "id": "yGf78wc6jIU",
-      "title": "The Rise and Fall of the Permian’s Strangest Predators",
+      "title": "There Was A Crisis Before The Great Dying",
       "channel": "PBS Eons",
       "channelId": "UCzR-rom72PHN9Zg7RML9EbA",
       "durationSec": 1566,
@@ -65536,6 +65583,22 @@
       "thumbnail": "https://i.ytimg.com/vi/oF3z_tNVllU/hqdefault.jpg"
     },
     {
+      "id": "ob9Bu0XdK-A",
+      "title": "Raised Bed Masterclass: Grow Food in Any Space",
+      "channel": "GrowVeg",
+      "channelId": "UC9r61qohBg1qgGty4_WzojA",
+      "durationSec": 1888,
+      "publishedAt": "2026-11-14T15:45:00Z",
+      "topics": [
+        "nature",
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/ob9Bu0XdK-A/hqdefault.jpg"
+    },
+    {
       "id": "iMAFshJo8C8",
       "title": "The Burning Question Baffling Gardeners this Year",
       "channel": "GrowVeg",
@@ -66144,20 +66207,20 @@
       "thumbnail": "https://i.ytimg.com/vi/U8mS_1pq4SA/hqdefault.jpg"
     },
     {
-      "id": "UfDU3wDmrdo",
-      "title": "The Revolutionary Method for Starting Seeds",
-      "channel": "GrowVeg",
-      "channelId": "UC9r61qohBg1qgGty4_WzojA",
-      "durationSec": 892,
-      "publishedAt": "2026-02-14T15:45:04Z",
+      "id": "31VfFo2MpJs",
+      "title": "GUIDING GREEN THUMBS - BEST OF BANTER # 20",
+      "channel": "Guiding Green Thumbs",
+      "channelId": "UCcgYyMRPW7z4fbJabbSWQ8g",
+      "durationSec": 1800,
+      "publishedAt": "2026-11-15T15:40:15Z",
       "topics": [
         "nature",
-        "science"
+        "making"
       ],
       "profiles": [
         "big"
       ],
-      "thumbnail": "https://i.ytimg.com/vi/UfDU3wDmrdo/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/31VfFo2MpJs/hqdefault.jpg"
     },
     {
       "id": "g-h8ymtb6ic",
@@ -66942,22 +67005,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/xHFtE8x4RHY/hqdefault.jpg"
-    },
-    {
-      "id": "m4RhB8nzJNQ",
-      "title": "PLANNING OUR PEONY FIELD GARDENS",
-      "channel": "Guiding Green Thumbs",
-      "channelId": "UCcgYyMRPW7z4fbJabbSWQ8g",
-      "durationSec": 2640,
-      "publishedAt": "2025-11-02T14:21:09Z",
-      "topics": [
-        "nature",
-        "making"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/m4RhB8nzJNQ/hqdefault.jpg"
     },
     {
       "id": "9v7oZB4NyjU",
@@ -68077,6 +68124,21 @@
       "thumbnail": "https://i.ytimg.com/vi/A_zQKW8ipL4/hqdefault.jpg"
     },
     {
+      "id": "-wZdfBGVbqc",
+      "title": "Huge Blocks of Ice on a Black Sand Beach...? Geology of Diamond Beach",
+      "channel": "GEO GIRL",
+      "channelId": "UC5uH43CVzGWg9XGYGuLwI_w",
+      "durationSec": 388,
+      "publishedAt": "2026-11-15T14:30:37Z",
+      "topics": [
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/-wZdfBGVbqc/hqdefault.jpg"
+    },
+    {
       "id": "ckeb9Ae50vA",
       "title": "Is Iceland Becoming More Volcanically Active? What Does this Mean for the Future?",
       "channel": "GEO GIRL",
@@ -68795,21 +68857,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/r_REixghXNk/hqdefault.jpg"
-    },
-    {
-      "id": "p0SfjKiBv2w",
-      "title": "Life as an Earthquake Geologist & Tips For Pursuing This Career w/@Drwendyrocks | GEO GIRL",
-      "channel": "GEO GIRL",
-      "channelId": "UC5uH43CVzGWg9XGYGuLwI_w",
-      "durationSec": 2331,
-      "publishedAt": "2025-09-14T13:30:52Z",
-      "topics": [
-        "science"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/p0SfjKiBv2w/hqdefault.jpg"
     },
     {
       "id": "RB_HbzA3sVE",
@@ -69578,6 +69625,23 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/e3c-jDg34S0/hqdefault.jpg"
+    },
+    {
+      "id": "2KeLyjkc4CE",
+      "title": "D.  Seven Seattle Glaciations!",
+      "channel": "Nick Zentner",
+      "channelId": "UC4szl4Ra1ZD3m80wJP40UBA",
+      "durationSec": 5505,
+      "publishedAt": "2026-11-14T17:24:15Z",
+      "topics": [
+        "science",
+        "geography",
+        "history"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/2KeLyjkc4CE/hqdefault.jpg"
     },
     {
       "id": "ryTs4FGpYpI",
@@ -72068,6 +72132,21 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/5nCOi8DsA0A/hqdefault.jpg"
+    },
+    {
+      "id": "bfC9EMxfDHU",
+      "title": "2-Minute Neuroscience: Synaptogenesis",
+      "channel": "Neuroscientifically Challenged",
+      "channelId": "UCUgZq9PkDp1xaEivtcfJPSg",
+      "durationSec": 120,
+      "publishedAt": "2026-11-14T19:53:01Z",
+      "topics": [
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/bfC9EMxfDHU/hqdefault.jpg"
     },
     {
       "id": "t00l_whT5K4",
@@ -75679,7 +75758,7 @@
       "title": "Why You Need An Account At A Bank Or Credit Union",
       "channel": "Biz Kid$ (TV Series)",
       "channelId": "UCufmiGK0I_9g_iwUR-E8mwA",
-      "durationSec": 1727,
+      "durationSec": 1728,
       "publishedAt": "2026-09-29T19:00:40Z",
       "topics": [
         "maths",
@@ -78245,6 +78324,22 @@
       "thumbnail": "https://i.ytimg.com/vi/O_D81ObBJf0/hqdefault.jpg"
     },
     {
+      "id": "DSTiQbMOz44",
+      "title": "Marine Biologist AMA",
+      "channel": "KPassionate",
+      "channelId": "UCUvSqEH92Fqn9uw1kmCfLGA",
+      "durationSec": 4543,
+      "publishedAt": "2026-11-15T14:50:23Z",
+      "topics": [
+        "animals",
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/DSTiQbMOz44/hqdefault.jpg"
+    },
+    {
       "id": "KRiszHuQgCg",
       "title": "How Did Marine Biologists Catch the Corkscrew Killer?",
       "channel": "KPassionate",
@@ -79027,22 +79122,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/K-sYKF2EwW8/hqdefault.jpg"
-    },
-    {
-      "id": "TnJVE2oNJH0",
-      "title": "A New Species of Killer Whale is Changing Marine Biology",
-      "channel": "KPassionate",
-      "channelId": "UCUvSqEH92Fqn9uw1kmCfLGA",
-      "durationSec": 605,
-      "publishedAt": "2024-04-13T22:04:09Z",
-      "topics": [
-        "animals",
-        "science"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/TnJVE2oNJH0/hqdefault.jpg"
     },
     {
       "id": "OX52uj_R8rU",
@@ -83001,6 +83080,22 @@
       "thumbnail": "https://i.ytimg.com/vi/GLVhXClV5QU/hqdefault.jpg"
     },
     {
+      "id": "O0evcxNh-6E",
+      "title": "The Road Not Taken (Part 2) | Peep and the Big Wide World",
+      "channel": "Peep and the Big Wide World",
+      "channelId": "UCPq6g4Q4-SFMIJ048IXmupA",
+      "durationSec": 646,
+      "publishedAt": "2026-11-14T16:00:13Z",
+      "topics": [
+        "science",
+        "nature"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/O0evcxNh-6E/hqdefault.jpg"
+    },
+    {
       "id": "z5xplNdNf3c",
       "title": "The Road Not Taken (Part 1) | Peep and the Big Wide World",
       "channel": "Peep and the Big Wide World",
@@ -83783,22 +83878,6 @@
         "little"
       ],
       "thumbnail": "https://i.ytimg.com/vi/JoeOi3YkHrc/hqdefault.jpg"
-    },
-    {
-      "id": "Lu2ltXBa6Cs",
-      "title": "Peep Prints | Peep and the Big Wide World",
-      "channel": "Peep and the Big Wide World",
-      "channelId": "UCPq6g4Q4-SFMIJ048IXmupA",
-      "durationSec": 656,
-      "publishedAt": "2026-09-26T15:00:05Z",
-      "topics": [
-        "science",
-        "nature"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/Lu2ltXBa6Cs/hqdefault.jpg"
     },
     {
       "id": "PhHXZamAQys",
@@ -84770,6 +84849,24 @@
       "thumbnail": "https://i.ytimg.com/vi/bilYblVD-3M/hqdefault.jpg"
     },
     {
+      "id": "e9Y3KSqGyQI",
+      "title": "Build an enclosure for displays powered by the Qualia ESP32-S3 #Adafruit #3dprinting",
+      "channel": "Adafruit Industries",
+      "channelId": "UCpOlOeQjj7EsVnDh3zuCgsA",
+      "durationSec": 131,
+      "publishedAt": "2026-11-15T12:46:09Z",
+      "topics": [
+        "making",
+        "tech",
+        "engineering",
+        "coding"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/e9Y3KSqGyQI/hqdefault.jpg"
+    },
+    {
       "id": "H1a-Yi3crL4",
       "title": "Deep Dive w/Scott: LVGL displayio stress testing #adafruit",
       "channel": "Adafruit Industries",
@@ -85200,24 +85297,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/60gsCGmLxzw/hqdefault.jpg"
-    },
-    {
-      "id": "O7r8X625eRI",
-      "title": "CG Turbo Demos in CircuitPython",
-      "channel": "Adafruit Industries",
-      "channelId": "UCpOlOeQjj7EsVnDh3zuCgsA",
-      "durationSec": 154,
-      "publishedAt": "2026-10-28T19:51:10Z",
-      "topics": [
-        "making",
-        "tech",
-        "engineering",
-        "coding"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/O7r8X625eRI/hqdefault.jpg"
     },
     {
       "id": "NL65Awuv8gU",
@@ -86246,7 +86325,7 @@
     },
     {
       "id": "enNRvZ5BhjM",
-      "title": "I Built a Automated High Speed Camera Robot",
+      "title": "I Built An Automated High Speed Camera Robot",
       "channel": "Jeremy Fielding",
       "channelId": "UC_SLthyNX_ivd-dmsFgmJVg",
       "durationSec": 3208,
@@ -86890,12 +86969,80 @@
       "thumbnail": "https://i.ytimg.com/vi/af5_QCafS8o/hqdefault.jpg"
     },
     {
+      "id": "rVnmIs3okZ0",
+      "title": "Kids Yoga LIVE 🌟 | Fun Yoga Adventures & Movement for Kids",
+      "channel": "Cosmic Kids Yoga",
+      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
+      "durationSec": 42898,
+      "publishedAt": "2026-11-15T15:43:18Z",
+      "topics": [
+        "reading",
+        "nature"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/rVnmIs3okZ0/hqdefault.jpg"
+    },
+    {
+      "id": "GCjMmubJo4Y",
+      "title": "Autumn Kids Yoga LIVE! 🍂 Fall Yoga Adventure Compilation | Cosmic Kids",
+      "channel": "Cosmic Kids Yoga",
+      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
+      "durationSec": 42900,
+      "publishedAt": "2026-11-15T14:26:26Z",
+      "topics": [
+        "reading",
+        "nature"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/GCjMmubJo4Y/hqdefault.jpg"
+    },
+    {
+      "id": "05Q9Z9_Fr5c",
+      "title": "Kids Yoga LIVE 🌟 | Fun Yoga Adventures & Movement for Kids",
+      "channel": "Cosmic Kids Yoga",
+      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
+      "durationSec": 42896,
+      "publishedAt": "2026-11-15T03:18:54Z",
+      "topics": [
+        "reading",
+        "nature"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/05Q9Z9_Fr5c/hqdefault.jpg"
+    },
+    {
+      "id": "Hr0jsj8946w",
+      "title": "Autumn Kids Yoga LIVE! 🍂 Fall Yoga Adventure Compilation | Cosmic Kids",
+      "channel": "Cosmic Kids Yoga",
+      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
+      "durationSec": 42896,
+      "publishedAt": "2026-11-15T02:03:02Z",
+      "topics": [
+        "reading",
+        "nature"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/Hr0jsj8946w/hqdefault.jpg"
+    },
+    {
       "id": "QK8fc9N91tc",
       "title": "Kids Yoga LIVE 🌟 | Fun Yoga Adventures & Movement for Kids",
       "channel": "Cosmic Kids Yoga",
       "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
       "durationSec": 42898,
-      "publishedAt": "2026-11-14T03:02:04Z",
+      "publishedAt": "2026-11-14T15:29:16Z",
       "topics": [
         "reading",
         "nature"
@@ -87347,91 +87494,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/vA_LHyjYR_8/hqdefault.jpg"
-    },
-    {
-      "id": "Q4fyzEm0bOQ",
-      "title": "Mischievous Moles | Jaime's Yoga Adventures! | Kids Animated Yoga",
-      "channel": "Cosmic Kids Yoga",
-      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
-      "durationSec": 907,
-      "publishedAt": "2026-10-20T15:00:33Z",
-      "topics": [
-        "reading",
-        "nature"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/Q4fyzEm0bOQ/hqdefault.jpg"
-    },
-    {
-      "id": "wUcqBo4Tbks",
-      "title": "Magic Museum 🏛️ | Kids Yoga Adventure | Cosmic Kids",
-      "channel": "Cosmic Kids Yoga",
-      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
-      "durationSec": 896,
-      "publishedAt": "2026-10-13T13:00:15Z",
-      "topics": [
-        "reading",
-        "nature"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/wUcqBo4Tbks/hqdefault.jpg"
-    },
-    {
-      "id": "nNv2CqXigBg",
-      "title": "Sunny's Kite | Jaime's Yoga Adventures! | Kids Animated Yoga",
-      "channel": "Cosmic Kids Yoga",
-      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
-      "durationSec": 906,
-      "publishedAt": "2026-10-06T15:00:39Z",
-      "topics": [
-        "reading",
-        "nature"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/nNv2CqXigBg/hqdefault.jpg"
-    },
-    {
-      "id": "2-dKLTcCdxg",
-      "title": "Superhero Ultra Yoga 🦸 | 41 Minute Cosmic Kids Yoga Adventure",
-      "channel": "Cosmic Kids Yoga",
-      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
-      "durationSec": 2461,
-      "publishedAt": "2026-10-02T13:00:19Z",
-      "topics": [
-        "reading",
-        "nature"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/2-dKLTcCdxg/hqdefault.jpg"
-    },
-    {
-      "id": "y7o0cc-LtPE",
-      "title": "Max's Missing Sparkle | Jaime's Yoga Adventures! | Kids Animated Yoga",
-      "channel": "Cosmic Kids Yoga",
-      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
-      "durationSec": 902,
-      "publishedAt": "2026-09-29T15:15:01Z",
-      "topics": [
-        "reading",
-        "nature"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/y7o0cc-LtPE/hqdefault.jpg"
     },
     {
       "id": "xm_GCZKltLA",
@@ -88284,6 +88346,22 @@
       "thumbnail": "https://i.ytimg.com/vi/Ilr2DjYOfqA/hqdefault.jpg"
     },
     {
+      "id": "8_q91cwRT-s",
+      "title": "Alphabeats, ABC & Phonics Songs with Elmo and Friends! 🎵🎶 | 1 HOUR | Sesame Street",
+      "channel": "Sesame Street",
+      "channelId": "UCoookXUzPciGrEZEXmh4Jjg",
+      "durationSec": 3769,
+      "publishedAt": "2026-11-15T12:30:25Z",
+      "topics": [
+        "reading",
+        "music"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/8_q91cwRT-s/hqdefault.jpg"
+    },
+    {
       "id": "oRmvSsc_ZI8",
       "title": "Celebrate Family Day with Elmo! ❤️ | FOUR Sesame Street Full Episodes",
       "channel": "Sesame Street",
@@ -88762,22 +88840,6 @@
         "little"
       ],
       "thumbnail": "https://i.ytimg.com/vi/x48eq6AYfTY/hqdefault.jpg"
-    },
-    {
-      "id": "CAVUz2I3TV4",
-      "title": "Making School Lunches with Abby! #sesamestreet",
-      "channel": "Sesame Street",
-      "channelId": "UCoookXUzPciGrEZEXmh4Jjg",
-      "durationSec": 159,
-      "publishedAt": "2026-09-17T11:30:19Z",
-      "topics": [
-        "reading",
-        "music"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/CAVUz2I3TV4/hqdefault.jpg"
     },
     {
       "id": "VyJKo13w5FI",
