@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-15T15:57:08.728Z",
+  "generatedAt": "2026-11-16T19:00:22.038Z",
   "profiles": {
     "little": {
       "label": "Ages 3-7"
@@ -196,7 +196,7 @@
     },
     {
       "id": "RtY1z8-qGYE",
-      "title": "Strange Noses and Silly Animal Names | You're Called What?! | Nat Geo Kids",
+      "title": "Silly Animal Names for Monkeys, Bears, and More 🐵🐻 | You're Called What?! | Nat Geo Kids",
       "channel": "Nat Geo Kids",
       "channelId": "UCXVCgDuD_QCkI7gTKU7-tpg",
       "durationSec": 1470,
@@ -442,6 +442,21 @@
       "thumbnail": "https://i.ytimg.com/vi/vCAD3W43lIk/hqdefault.jpg"
     },
     {
+      "id": "1ejtdt78rCo",
+      "title": "The Chess Rating System That Predicts Everything",
+      "channel": "SciShow",
+      "channelId": "UCZYTClx2T1of7BRZ86-8fow",
+      "durationSec": 676,
+      "publishedAt": "2026-11-16T18:00:35Z",
+      "topics": [
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/1ejtdt78rCo/hqdefault.jpg"
+    },
+    {
       "id": "S7ELHbvqaeA",
       "title": "The Deep Sea Sub Built By a Cereal Company",
       "channel": "SciShow",
@@ -485,21 +500,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/4JZoa12T9RY/hqdefault.jpg"
-    },
-    {
-      "id": "uALjsKI-ceE",
-      "title": "Why Isn’t Heart Cancer a Thing?",
-      "channel": "SciShow",
-      "channelId": "UCZYTClx2T1of7BRZ86-8fow",
-      "durationSec": 463,
-      "publishedAt": "2026-11-10T18:00:12Z",
-      "topics": [
-        "science"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/uALjsKI-ceE/hqdefault.jpg"
     },
     {
       "id": "LKrwhjOI8Nc",
@@ -6559,7 +6559,7 @@
     },
     {
       "id": "MS8eLbSvb3c",
-      "title": "We Detected an Unusual Signal Coming From Our Galaxy's Core",
+      "title": "We Found a Super-Fast Flashing Object Orbiting Our Galaxy's Black Hole",
       "channel": "Astrum",
       "channelId": "UC-9b7aDP6ZN0coj9-xFnrtw",
       "durationSec": 1401,
@@ -6975,7 +6975,7 @@
     },
     {
       "id": "FwGKyTZT22g",
-      "title": "This Moon Collision Did Something Crazy on Earth",
+      "title": "Something Hit the Moon... And Earth Felt It",
       "channel": "Astrum",
       "channelId": "UC-9b7aDP6ZN0coj9-xFnrtw",
       "durationSec": 1137,
@@ -9981,21 +9981,6 @@
       "thumbnail": "https://i.ytimg.com/vi/fizop2R-Kh8/hqdefault.jpg"
     },
     {
-      "id": "7WpvOauFGfI",
-      "title": "Summerween Songs 🎃☀️ 40 Minutes of Halloween & Summer Fun for Kids",
-      "channel": "The Laurie Berkner Band - Kids Songs",
-      "channelId": "UCQ9o9F8HYJV85XjciUS86_Q",
-      "durationSec": 2451,
-      "publishedAt": "2026-07-24T10:00:46Z",
-      "topics": [
-        "music"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/7WpvOauFGfI/hqdefault.jpg"
-    },
-    {
       "id": "RideGnMsclM",
       "title": "Kids | Learn Music from the Civil Rights Era and Beyond",
       "channel": "Carnegie Hall Kids",
@@ -11740,6 +11725,23 @@
       "thumbnail": "https://i.ytimg.com/vi/jb9OPM1tUfk/hqdefault.jpg"
     },
     {
+      "id": "u_tujNH9oDk",
+      "title": "How to Draw Santa Claus 🎅🏻 Cute Christmas Holiday Art",
+      "channel": "Draw So Cute",
+      "channelId": "UC3dEvA1is6-0_yuei9iCdEw",
+      "durationSec": 730,
+      "publishedAt": "2026-11-16T15:00:04Z",
+      "topics": [
+        "art",
+        "making"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/u_tujNH9oDk/hqdefault.jpg"
+    },
+    {
       "id": "HFGq3Vzc06k",
       "title": "How to Draw a Christmas Tree Easy 🎄 Holiday Cute Art",
       "channel": "Draw So Cute",
@@ -12537,23 +12539,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/aNIO_QRkYeI/hqdefault.jpg"
-    },
-    {
-      "id": "UVNWUdWyQeU",
-      "title": "How to Draw Mothra My Melody | Sanrio Cute Drawing",
-      "channel": "Draw So Cute",
-      "channelId": "UC3dEvA1is6-0_yuei9iCdEw",
-      "durationSec": 892,
-      "publishedAt": "2026-09-01T14:00:18Z",
-      "topics": [
-        "art",
-        "making"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/UVNWUdWyQeU/hqdefault.jpg"
     },
     {
       "id": "MB7wxd8Bz18",
@@ -13356,6 +13341,22 @@
       "thumbnail": "https://i.ytimg.com/vi/m6KAfSgFaAM/hqdefault.jpg"
     },
     {
+      "id": "o7WI37imDas",
+      "title": "How to Draw Christmas Snoopy | Step-by-Step Drawing Tutorial",
+      "channel": "Cartooning Club How to Draw",
+      "channelId": "UC-biucJWhM8HwjsQ96uoIUw",
+      "durationSec": 542,
+      "publishedAt": "2026-11-16T14:00:25Z",
+      "topics": [
+        "art",
+        "making"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/o7WI37imDas/hqdefault.jpg"
+    },
+    {
       "id": "CzDbedYEOj0",
       "title": "How to Draw the Cat in the Hat | Step-by-Step Drawing Tutorial",
       "channel": "Cartooning Club How to Draw",
@@ -14090,22 +14091,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/Druqi_-qfro/hqdefault.jpg"
-    },
-    {
-      "id": "ryEYmSy7ciU",
-      "title": "How to Draw Red | Angry Birds",
-      "channel": "Cartooning Club How to Draw",
-      "channelId": "UC-biucJWhM8HwjsQ96uoIUw",
-      "durationSec": 341,
-      "publishedAt": "2026-09-29T14:00:08Z",
-      "topics": [
-        "art",
-        "making"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/ryEYmSy7ciU/hqdefault.jpg"
     },
     {
       "id": "WOSDcteV3C4",
@@ -26025,6 +26010,22 @@
       "thumbnail": "https://i.ytimg.com/vi/2UZu5mlfyNU/hqdefault.jpg"
     },
     {
+      "id": "2L57O73c4wc",
+      "title": "Oddball country pairings that work",
+      "channel": "Geography Now",
+      "channelId": "UCmmPgObSUPw1HL2lq6H4ffA",
+      "durationSec": 123,
+      "publishedAt": "2026-11-15T22:28:17Z",
+      "topics": [
+        "geography",
+        "exploration"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/2L57O73c4wc/hqdefault.jpg"
+    },
+    {
       "id": "6r9i3q2JmZ4",
       "title": "São Tomé & Príncipe have TWO cartographic anomalies!",
       "channel": "Geography Now",
@@ -29496,6 +29497,21 @@
       "thumbnail": "https://i.ytimg.com/vi/v1ay1qTvF0Y/hqdefault.jpg"
     },
     {
+      "id": "GewEpCGLszk",
+      "title": "Turkey Trouble 🦃 Thanksgiving books read aloud | Thanksgiving for Kids",
+      "channel": "KidTimeStoryTime",
+      "channelId": "UCEPsNDUhUm-7yZhUjQQNqwQ",
+      "durationSec": 536,
+      "publishedAt": "2026-11-16T13:30:32Z",
+      "topics": [
+        "reading"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/GewEpCGLszk/hqdefault.jpg"
+    },
+    {
       "id": "8dMvY1DHUM4",
       "title": "The Toast of the Town | The Food Group Book Series read aloud | Jory John Books",
       "channel": "KidTimeStoryTime",
@@ -30229,21 +30245,6 @@
         "little"
       ],
       "thumbnail": "https://i.ytimg.com/vi/xDlNv5JH0kQ/hqdefault.jpg"
-    },
-    {
-      "id": "IO5d7LsDU9M",
-      "title": "A Cup of Happy Capybara Bubble Tea | Capybara read aloud | Bubble Tea read aloud",
-      "channel": "KidTimeStoryTime",
-      "channelId": "UCEPsNDUhUm-7yZhUjQQNqwQ",
-      "durationSec": 619,
-      "publishedAt": "2026-05-01T13:00:00Z",
-      "topics": [
-        "reading"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/IO5d7LsDU9M/hqdefault.jpg"
     },
     {
       "id": "P0j42-rY5mA",
@@ -33791,23 +33792,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/JO9MgO1Zp3E/hqdefault.jpg"
-    },
-    {
-      "id": "S6RXs_hK0cI",
-      "title": "BBC's The Human Component: Code.org",
-      "channel": "CodeAI",
-      "channelId": "UCJyEBMU1xVP2be1-AoGS1BA",
-      "durationSec": 343,
-      "publishedAt": "2024-07-19T18:31:14Z",
-      "topics": [
-        "coding",
-        "tech"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/S6RXs_hK0cI/hqdefault.jpg"
     },
     {
       "id": "kvEStq5WFxc",
@@ -45538,6 +45522,22 @@
       "thumbnail": "https://i.ytimg.com/vi/yafXRmvls8M/hqdefault.jpg"
     },
     {
+      "id": "DPD-qkipH3Q",
+      "title": "Could JAPAN discover life on Mars?! #shorts",
+      "channel": "Dr. Becky",
+      "channelId": "UCYNbYGl89UUowy8oXkipC-Q",
+      "durationSec": 140,
+      "publishedAt": "2026-11-16T18:00:19Z",
+      "topics": [
+        "space",
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/DPD-qkipH3Q/hqdefault.jpg"
+    },
+    {
       "id": "afylS3kSqco",
       "title": "Comets DIDN’T bring the ingredients for life to Earth? | Night Sky News November 2026",
       "channel": "Dr. Becky",
@@ -47894,6 +47894,21 @@
       "thumbnail": "https://i.ytimg.com/vi/jvebwDXmBSw/hqdefault.jpg"
     },
     {
+      "id": "cuNd-LzE368",
+      "title": "Future Active Participle",
+      "channel": "Professor Dave Explains",
+      "channelId": "UC0cd_-e49hZpWLH3UIwoWRA",
+      "durationSec": 192,
+      "publishedAt": "2026-11-16T15:00:11Z",
+      "topics": [
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/cuNd-LzE368/hqdefault.jpg"
+    },
+    {
       "id": "1AADE2J1xMs",
       "title": "Terry and Billy Strike Back!",
       "channel": "Professor Dave Explains",
@@ -48627,21 +48642,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/5-kzrkK3Zgc/hqdefault.jpg"
-    },
-    {
-      "id": "TZnE9DXyZjQ",
-      "title": "Ablative of Agent (Ablativus Auctoris)",
-      "channel": "Professor Dave Explains",
-      "channelId": "UC0cd_-e49hZpWLH3UIwoWRA",
-      "durationSec": 227,
-      "publishedAt": "2026-08-24T14:00:22Z",
-      "topics": [
-        "science"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/TZnE9DXyZjQ/hqdefault.jpg"
     },
     {
       "id": "BjyJlN1npdw",
@@ -68859,6 +68859,22 @@
       "thumbnail": "https://i.ytimg.com/vi/r_REixghXNk/hqdefault.jpg"
     },
     {
+      "id": "sg2uUTDATc4",
+      "title": "The Possible Source of Multiple Mystery Eruptions; The United States",
+      "channel": "GeologyHub",
+      "channelId": "UCYeGh5VML5XPr5jYnzh3J6g",
+      "durationSec": 334,
+      "publishedAt": "2026-11-15T18:00:10Z",
+      "topics": [
+        "science",
+        "geography"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/sg2uUTDATc4/hqdefault.jpg"
+    },
+    {
       "id": "RB_HbzA3sVE",
       "title": "The Missing Giants; The Collapsed 16,000 Ft Peaks in the Lower 48",
       "channel": "GeologyHub",
@@ -69609,22 +69625,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/GFdRyNeKcxU/hqdefault.jpg"
-    },
-    {
-      "id": "e3c-jDg34S0",
-      "title": "The Impact Crater Near Washington D.C.; The Chesapeake Bay Crater",
-      "channel": "GeologyHub",
-      "channelId": "UCYeGh5VML5XPr5jYnzh3J6g",
-      "durationSec": 315,
-      "publishedAt": "2026-09-04T19:00:36Z",
-      "topics": [
-        "science",
-        "geography"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/e3c-jDg34S0/hqdefault.jpg"
     },
     {
       "id": "2KeLyjkc4CE",
@@ -78324,22 +78324,6 @@
       "thumbnail": "https://i.ytimg.com/vi/O_D81ObBJf0/hqdefault.jpg"
     },
     {
-      "id": "DSTiQbMOz44",
-      "title": "Marine Biologist AMA",
-      "channel": "KPassionate",
-      "channelId": "UCUvSqEH92Fqn9uw1kmCfLGA",
-      "durationSec": 4543,
-      "publishedAt": "2026-11-15T14:50:23Z",
-      "topics": [
-        "animals",
-        "science"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/DSTiQbMOz44/hqdefault.jpg"
-    },
-    {
       "id": "KRiszHuQgCg",
       "title": "How Did Marine Biologists Catch the Corkscrew Killer?",
       "channel": "KPassionate",
@@ -79122,6 +79106,22 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/K-sYKF2EwW8/hqdefault.jpg"
+    },
+    {
+      "id": "TnJVE2oNJH0",
+      "title": "A New Species of Killer Whale is Changing Marine Biology",
+      "channel": "KPassionate",
+      "channelId": "UCUvSqEH92Fqn9uw1kmCfLGA",
+      "durationSec": 605,
+      "publishedAt": "2024-04-13T22:04:09Z",
+      "topics": [
+        "animals",
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/TnJVE2oNJH0/hqdefault.jpg"
     },
     {
       "id": "OX52uj_R8rU",
@@ -83080,6 +83080,38 @@
       "thumbnail": "https://i.ytimg.com/vi/GLVhXClV5QU/hqdefault.jpg"
     },
     {
+      "id": "s8Vb4i-Lmaw",
+      "title": "Soap Opera | Peep and the Big Wide World",
+      "channel": "Peep and the Big Wide World",
+      "channelId": "UCPq6g4Q4-SFMIJ048IXmupA",
+      "durationSec": 644,
+      "publishedAt": "2026-11-16T16:00:10Z",
+      "topics": [
+        "science",
+        "nature"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/s8Vb4i-Lmaw/hqdefault.jpg"
+    },
+    {
+      "id": "xGlK06t3T0o",
+      "title": "Peep's Surprise Roommate! | Peep and the Big Wide World",
+      "channel": "Peep and the Big Wide World",
+      "channelId": "UCPq6g4Q4-SFMIJ048IXmupA",
+      "durationSec": 3800,
+      "publishedAt": "2026-11-15T16:00:39Z",
+      "topics": [
+        "science",
+        "nature"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/xGlK06t3T0o/hqdefault.jpg"
+    },
+    {
       "id": "O0evcxNh-6E",
       "title": "The Road Not Taken (Part 2) | Peep and the Big Wide World",
       "channel": "Peep and the Big Wide World",
@@ -83846,38 +83878,6 @@
         "little"
       ],
       "thumbnail": "https://i.ytimg.com/vi/gTUBlTgKiRw/hqdefault.jpg"
-    },
-    {
-      "id": "z_KxVZzl4UU",
-      "title": "A Daring Duck | Peep and the Big Wide World",
-      "channel": "Peep and the Big Wide World",
-      "channelId": "UCPq6g4Q4-SFMIJ048IXmupA",
-      "durationSec": 648,
-      "publishedAt": "2026-09-28T15:00:23Z",
-      "topics": [
-        "science",
-        "nature"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/z_KxVZzl4UU/hqdefault.jpg"
-    },
-    {
-      "id": "JoeOi3YkHrc",
-      "title": "Is a Pond Big Enough For Two Ducks? | Peep and the Big Wide World",
-      "channel": "Peep and the Big Wide World",
-      "channelId": "UCPq6g4Q4-SFMIJ048IXmupA",
-      "durationSec": 5058,
-      "publishedAt": "2026-09-27T15:00:11Z",
-      "topics": [
-        "science",
-        "nature"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/JoeOi3YkHrc/hqdefault.jpg"
     },
     {
       "id": "PhHXZamAQys",
@@ -84849,6 +84849,24 @@
       "thumbnail": "https://i.ytimg.com/vi/bilYblVD-3M/hqdefault.jpg"
     },
     {
+      "id": "eHM_QKhMh4w",
+      "title": "FM-1 Flasher UI demo",
+      "channel": "Adafruit Industries",
+      "channelId": "UCpOlOeQjj7EsVnDh3zuCgsA",
+      "durationSec": 213,
+      "publishedAt": "2026-11-16T18:21:02Z",
+      "topics": [
+        "making",
+        "tech",
+        "engineering",
+        "coding"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/eHM_QKhMh4w/hqdefault.jpg"
+    },
+    {
       "id": "e9Y3KSqGyQI",
       "title": "Build an enclosure for displays powered by the Qualia ESP32-S3 #Adafruit #3dprinting",
       "channel": "Adafruit Industries",
@@ -85261,42 +85279,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/BpKUALuFlRA/hqdefault.jpg"
-    },
-    {
-      "id": "aHaH0UpYqwM",
-      "title": "Motion activated flying bat learn.adafruit.com/motion-sensor-bat #adafruit #3dprinting",
-      "channel": "Adafruit Industries",
-      "channelId": "UCpOlOeQjj7EsVnDh3zuCgsA",
-      "durationSec": 120,
-      "publishedAt": "2026-10-29T11:57:01Z",
-      "topics": [
-        "making",
-        "tech",
-        "engineering",
-        "coding"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/aHaH0UpYqwM/hqdefault.jpg"
-    },
-    {
-      "id": "60gsCGmLxzw",
-      "title": "3D Hangouts –  Holiday Wreath, DIY HomeView and Twisty Eyeball",
-      "channel": "Adafruit Industries",
-      "channelId": "UCpOlOeQjj7EsVnDh3zuCgsA",
-      "durationSec": 3455,
-      "publishedAt": "2026-10-29T05:09:45Z",
-      "topics": [
-        "making",
-        "tech",
-        "engineering",
-        "coding"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/60gsCGmLxzw/hqdefault.jpg"
     },
     {
       "id": "NL65Awuv8gU",
@@ -86969,6 +86951,74 @@
       "thumbnail": "https://i.ytimg.com/vi/af5_QCafS8o/hqdefault.jpg"
     },
     {
+      "id": "uG6TayPSJG4",
+      "title": "Kids Yoga LIVE 🌟 | Fun Yoga Adventures & Movement for Kids",
+      "channel": "Cosmic Kids Yoga",
+      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
+      "durationSec": 42900,
+      "publishedAt": "2026-11-16T15:29:03Z",
+      "topics": [
+        "reading",
+        "nature"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/uG6TayPSJG4/hqdefault.jpg"
+    },
+    {
+      "id": "fcm5vcHYk_s",
+      "title": "Autumn Kids Yoga LIVE! 🍂 Fall Yoga Adventure Compilation | Cosmic Kids",
+      "channel": "Cosmic Kids Yoga",
+      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
+      "durationSec": 42900,
+      "publishedAt": "2026-11-16T15:18:05Z",
+      "topics": [
+        "reading",
+        "nature"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/fcm5vcHYk_s/hqdefault.jpg"
+    },
+    {
+      "id": "LaGF4H4zYc8",
+      "title": "Kids Yoga LIVE 🌟 | Fun Yoga Adventures & Movement for Kids",
+      "channel": "Cosmic Kids Yoga",
+      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
+      "durationSec": 42899,
+      "publishedAt": "2026-11-16T03:18:55Z",
+      "topics": [
+        "reading",
+        "nature"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/LaGF4H4zYc8/hqdefault.jpg"
+    },
+    {
+      "id": "6wXok-ScUKo",
+      "title": "Autumn Kids Yoga LIVE! 🍂 Fall Yoga Adventure Compilation | Cosmic Kids",
+      "channel": "Cosmic Kids Yoga",
+      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
+      "durationSec": 42711,
+      "publishedAt": "2026-11-16T02:50:37Z",
+      "topics": [
+        "reading",
+        "nature"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/6wXok-ScUKo/hqdefault.jpg"
+    },
+    {
       "id": "rVnmIs3okZ0",
       "title": "Kids Yoga LIVE 🌟 | Fun Yoga Adventures & Movement for Kids",
       "channel": "Cosmic Kids Yoga",
@@ -87460,40 +87510,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/OYKhjAtfsPM/hqdefault.jpg"
-    },
-    {
-      "id": "hV2a0GumCQI",
-      "title": "How to Deal with Nightmares | Mindfulness for Kids | Cosmic Kids Zen Den",
-      "channel": "Cosmic Kids Yoga",
-      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
-      "durationSec": 419,
-      "publishedAt": "2026-10-26T15:00:11Z",
-      "topics": [
-        "reading",
-        "nature"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/hV2a0GumCQI/hqdefault.jpg"
-    },
-    {
-      "id": "vA_LHyjYR_8",
-      "title": "Halloween Kids Yoga LIVE! Cosmic Kids Halloween Adventure Compilation 👻✨",
-      "channel": "Cosmic Kids Yoga",
-      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
-      "durationSec": 42900,
-      "publishedAt": "2026-10-23T02:15:15Z",
-      "topics": [
-        "reading",
-        "nature"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/vA_LHyjYR_8/hqdefault.jpg"
     },
     {
       "id": "xm_GCZKltLA",
