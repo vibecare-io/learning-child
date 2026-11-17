@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-16T19:00:22.038Z",
+  "generatedAt": "2026-11-17T17:58:06.320Z",
   "profiles": {
     "little": {
       "label": "Ages 3-7"
@@ -195,22 +195,6 @@
       "thumbnail": "https://i.ytimg.com/vi/EQpTtkRBInA/hqdefault.jpg"
     },
     {
-      "id": "RtY1z8-qGYE",
-      "title": "Silly Animal Names for Monkeys, Bears, and More 🐵🐻 | You're Called What?! | Nat Geo Kids",
-      "channel": "Nat Geo Kids",
-      "channelId": "UCXVCgDuD_QCkI7gTKU7-tpg",
-      "durationSec": 1470,
-      "publishedAt": "2026-11-12T13:00:38Z",
-      "topics": [
-        "animals",
-        "science"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/RtY1z8-qGYE/hqdefault.jpg"
-    },
-    {
       "id": "OhmPdBhK4Xs",
       "title": "1 Hour of Thanksgiving Drawing Fun! 🦃 Art Lessons for Kids",
       "channel": "Art for Kids Hub",
@@ -286,19 +270,20 @@
       "thumbnail": "https://i.ytimg.com/vi/hw7DpKZdDBg/hqdefault.jpg"
     },
     {
-      "id": "i8HP2Btj7kk",
-      "title": "Super Duper Counting Games with the Numberblocks | Learn to Count for Kids | Numberblocks",
-      "channel": "Numberblocks",
-      "channelId": "UCPlwvN0w4qFSP1FllALB92w",
-      "durationSec": 3222,
-      "publishedAt": "2026-11-12T11:00:35Z",
+      "id": "dkocGur84i8",
+      "title": "Can you calculate truth? - Lane Gunderman",
+      "channel": "TED-Ed",
+      "channelId": "UCsooa4yRKGN_zEE8iknghZA",
+      "durationSec": 351,
+      "publishedAt": "2026-11-17T16:00:59Z",
       "topics": [
-        "maths"
+        "science",
+        "history"
       ],
       "profiles": [
-        "little"
+        "big"
       ],
-      "thumbnail": "https://i.ytimg.com/vi/i8HP2Btj7kk/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/dkocGur84i8/hqdefault.jpg"
     },
     {
       "id": "aDblEBU41nA",
@@ -379,22 +364,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/8RPK5KwYhgA/hqdefault.jpg"
-    },
-    {
-      "id": "nXvKDYRvTno",
-      "title": "Scary stories to watch in the dark (if you dare…)",
-      "channel": "TED-Ed",
-      "channelId": "UCsooa4yRKGN_zEE8iknghZA",
-      "durationSec": 2060,
-      "publishedAt": "2026-10-27T15:00:17Z",
-      "topics": [
-        "science",
-        "history"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/nXvKDYRvTno/hqdefault.jpg"
     },
     {
       "id": "LxVW3b8jVdE",
@@ -502,6 +471,36 @@
       "thumbnail": "https://i.ytimg.com/vi/4JZoa12T9RY/hqdefault.jpg"
     },
     {
+      "id": "qbsb9DpdZ6s",
+      "title": "How to compress text to 1 bit per character | Compression is Intelligence Part 3",
+      "channel": "3Blue1Brown",
+      "channelId": "UCYO_jab_esuFRV4b17AJtAw",
+      "durationSec": 2245,
+      "publishedAt": "2026-11-17T16:43:16Z",
+      "topics": [
+        "maths"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/qbsb9DpdZ6s/hqdefault.jpg"
+    },
+    {
+      "id": "0IZcjWtWmDA",
+      "title": "Encoding the encyclopedia on a rod",
+      "channel": "3Blue1Brown",
+      "channelId": "UCYO_jab_esuFRV4b17AJtAw",
+      "durationSec": 132,
+      "publishedAt": "2026-11-17T16:43:03Z",
+      "topics": [
+        "maths"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/0IZcjWtWmDA/hqdefault.jpg"
+    },
+    {
       "id": "LKrwhjOI8Nc",
       "title": "There's never been a better time to go into math",
       "channel": "3Blue1Brown",
@@ -517,23 +516,8 @@
       "thumbnail": "https://i.ytimg.com/vi/LKrwhjOI8Nc/hqdefault.jpg"
     },
     {
-      "id": "Nbwv5wHQoj0",
-      "title": "The last IMO problem AI could not solve",
-      "channel": "3Blue1Brown",
-      "channelId": "UCYO_jab_esuFRV4b17AJtAw",
-      "durationSec": 3116,
-      "publishedAt": "2026-09-18T17:12:53Z",
-      "topics": [
-        "maths"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/Nbwv5wHQoj0/hqdefault.jpg"
-    },
-    {
       "id": "KfODG5REyss",
-      "title": "I finally saw quantum mechanics with my own eyes... (It's spookier than I expected)",
+      "title": "I finally saw quantum physics with my own eyes... (It's spookier than I expected)",
       "channel": "Veritasium",
       "channelId": "UCHnyfMqiRRG1u-2MsSQLbXA",
       "durationSec": 3956,
@@ -6012,6 +5996,22 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/I_GUQdY01b0/hqdefault.jpg"
+    },
+    {
+      "id": "LayKecLxYvE",
+      "title": "JPL x Blue Origin  |  NXT in Space: Episode 6",
+      "channel": "NASA Jet Propulsion Laboratory",
+      "channelId": "UCryGec9PdUCLjpJW2mgCuLw",
+      "durationSec": 2836,
+      "publishedAt": "2026-11-16T22:46:12Z",
+      "topics": [
+        "space",
+        "engineering"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/LayKecLxYvE/hqdefault.jpg"
     },
     {
       "id": "PN-iD6VTmyc",
@@ -11597,22 +11597,6 @@
       "thumbnail": "https://i.ytimg.com/vi/PY1t5-xTNVE/hqdefault.jpg"
     },
     {
-      "id": "Jx30RFGbOKg",
-      "title": "The $5,000 reverb trick you can do for free",
-      "channel": "ANDREW HUANG",
-      "channelId": "UCdcemy56JtVTrsFIOoqvV8g",
-      "durationSec": 266,
-      "publishedAt": "2026-06-30T16:00:19Z",
-      "topics": [
-        "music",
-        "making"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/Jx30RFGbOKg/hqdefault.jpg"
-    },
-    {
       "id": "blWnqtNxhYA",
       "title": "10 Levels of Advanced Listening",
       "channel": "Nahre Sol",
@@ -11723,6 +11707,23 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/jb9OPM1tUfk/hqdefault.jpg"
+    },
+    {
+      "id": "VodvqhSoXag",
+      "title": "How to Draw Elf on the Shelf 🎄Cute Christmas Holiday Art Easy",
+      "channel": "Draw So Cute",
+      "channelId": "UC3dEvA1is6-0_yuei9iCdEw",
+      "durationSec": 750,
+      "publishedAt": "2026-11-17T15:00:21Z",
+      "topics": [
+        "art",
+        "making"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/VodvqhSoXag/hqdefault.jpg"
     },
     {
       "id": "u_tujNH9oDk",
@@ -12522,23 +12523,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/e7rCfXUEpUo/hqdefault.jpg"
-    },
-    {
-      "id": "aNIO_QRkYeI",
-      "title": "How to Draw Pineapple Cat | Aphmau Meemeows",
-      "channel": "Draw So Cute",
-      "channelId": "UC3dEvA1is6-0_yuei9iCdEw",
-      "durationSec": 459,
-      "publishedAt": "2026-09-03T14:00:01Z",
-      "topics": [
-        "art",
-        "making"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/aNIO_QRkYeI/hqdefault.jpg"
     },
     {
       "id": "MB7wxd8Bz18",
@@ -13341,6 +13325,22 @@
       "thumbnail": "https://i.ytimg.com/vi/m6KAfSgFaAM/hqdefault.jpg"
     },
     {
+      "id": "KHVreVr6Yxk",
+      "title": "How to Draw Bulbasaur | Pokemon",
+      "channel": "Cartooning Club How to Draw",
+      "channelId": "UC-biucJWhM8HwjsQ96uoIUw",
+      "durationSec": 443,
+      "publishedAt": "2026-11-17T14:00:38Z",
+      "topics": [
+        "art",
+        "making"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/KHVreVr6Yxk/hqdefault.jpg"
+    },
+    {
       "id": "o7WI37imDas",
       "title": "How to Draw Christmas Snoopy | Step-by-Step Drawing Tutorial",
       "channel": "Cartooning Club How to Draw",
@@ -14075,22 +14075,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/AJ6qt_eql-0/hqdefault.jpg"
-    },
-    {
-      "id": "Druqi_-qfro",
-      "title": "How to Draw Baby Yoshi | Super Mario",
-      "channel": "Cartooning Club How to Draw",
-      "channelId": "UC-biucJWhM8HwjsQ96uoIUw",
-      "durationSec": 282,
-      "publishedAt": "2026-09-30T14:00:01Z",
-      "topics": [
-        "art",
-        "making"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/Druqi_-qfro/hqdefault.jpg"
     },
     {
       "id": "WOSDcteV3C4",
@@ -20176,6 +20160,22 @@
       "thumbnail": "https://i.ytimg.com/vi/Z9uGfvTfo4s/hqdefault.jpg"
     },
     {
+      "id": "LjC0BgCMjG0",
+      "title": "The Secret Lives of Larvae | Deep Look",
+      "channel": "Deep Look",
+      "channelId": "UC-3SbfTPJsL8fJAPKiVqBLg",
+      "durationSec": 1104,
+      "publishedAt": "2026-11-17T15:59:04Z",
+      "topics": [
+        "animals",
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/LjC0BgCMjG0/hqdefault.jpg"
+    },
+    {
       "id": "Huii-MIcZU4",
       "title": "These Parasites are an Animal's Worst Nightmare | Deep Look",
       "channel": "Deep Look",
@@ -22231,6 +22231,21 @@
       "thumbnail": "https://i.ytimg.com/vi/YtBysgPOKx4/hqdefault.jpg"
     },
     {
+      "id": "rj-G_gmFWtE",
+      "title": "Why Are There So Many Different Transmission Towers?",
+      "channel": "Practical Engineering",
+      "channelId": "UCMOqf8ab-42UUQIdVoKwjlQ",
+      "durationSec": 1357,
+      "publishedAt": "2026-11-17T14:00:10Z",
+      "topics": [
+        "engineering"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/rj-G_gmFWtE/hqdefault.jpg"
+    },
+    {
       "id": "n05Yu3UAI_o",
       "title": "My First Mistake as an Engineer",
       "channel": "Practical Engineering",
@@ -22965,21 +22980,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/sH1PVVJuBtE/hqdefault.jpg"
-    },
-    {
-      "id": "tmbZVmXyOXM",
-      "title": "Why Are Cooling Towers Shaped Like That?",
-      "channel": "Practical Engineering",
-      "channelId": "UCMOqf8ab-42UUQIdVoKwjlQ",
-      "durationSec": 1188,
-      "publishedAt": "2024-11-05T14:00:59Z",
-      "topics": [
-        "engineering"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/tmbZVmXyOXM/hqdefault.jpg"
     },
     {
       "id": "pXypQ6d_iDg",
@@ -31372,6 +31372,23 @@
       "thumbnail": "https://i.ytimg.com/vi/IpNgiP2lANk/hqdefault.jpg"
     },
     {
+      "id": "U1xNpIGQoyI",
+      "title": "Letter K | Get Ready, Get Set, Let's Learn About the Alphabet! | Jack Hartmann",
+      "channel": "Jack Hartmann Kids Music Channel",
+      "channelId": "UCVcQH8A634mauPrGbWs7QlQ",
+      "durationSec": 214,
+      "publishedAt": "2026-11-17T00:00:12Z",
+      "topics": [
+        "reading",
+        "music",
+        "maths"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/U1xNpIGQoyI/hqdefault.jpg"
+    },
+    {
       "id": "NjTxzaHDsyw",
       "title": "Letter J | Get Ready, Get Set, Let's Learn About the Alphabet! | Jack Hartmann",
       "channel": "Jack Hartmann Kids Music Channel",
@@ -32169,23 +32186,6 @@
         "little"
       ],
       "thumbnail": "https://i.ytimg.com/vi/W7YHEladBP8/hqdefault.jpg"
-    },
-    {
-      "id": "4KsQTtwgPfQ",
-      "title": "Jack and Jill | Sing and Move Nursery Rhyme Song! | Jack Hartmann",
-      "channel": "Jack Hartmann Kids Music Channel",
-      "channelId": "UCVcQH8A634mauPrGbWs7QlQ",
-      "durationSec": 124,
-      "publishedAt": "2026-04-19T23:00:04Z",
-      "topics": [
-        "reading",
-        "music",
-        "maths"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/4KsQTtwgPfQ/hqdefault.jpg"
     },
     {
       "id": "AJPb0Avv6gU",
@@ -36826,6 +36826,22 @@
       "thumbnail": "https://i.ytimg.com/vi/G6ZHUOSXZDo/hqdefault.jpg"
     },
     {
+      "id": "DC5l7pXDQVo",
+      "title": "Why Does Congress Skew Older Than the Public?: Crash Course US Government #8",
+      "channel": "CrashCourse",
+      "channelId": "UCX6b17PVsYBQ0ip5gyeme-Q",
+      "durationSec": 847,
+      "publishedAt": "2026-11-17T17:00:04Z",
+      "topics": [
+        "tech",
+        "coding"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/DC5l7pXDQVo/hqdefault.jpg"
+    },
+    {
       "id": "GJrG2AxmD3g",
       "title": "How Humans Changed the Earth: Crash Course Geology #24",
       "channel": "CrashCourse",
@@ -37480,22 +37496,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/Fm0MpfKIs5w/hqdefault.jpg"
-    },
-    {
-      "id": "9wSAeV0xX0M",
-      "title": "How Scientists Build Consensus: Crash Course Scientific Thinking #5",
-      "channel": "CrashCourse",
-      "channelId": "UCX6b17PVsYBQ0ip5gyeme-Q",
-      "durationSec": 659,
-      "publishedAt": "2026-03-03T17:00:15Z",
-      "topics": [
-        "tech",
-        "coding"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/9wSAeV0xX0M/hqdefault.jpg"
     },
     {
       "id": "xQasKPF0Fr8",
@@ -47894,6 +47894,21 @@
       "thumbnail": "https://i.ytimg.com/vi/jvebwDXmBSw/hqdefault.jpg"
     },
     {
+      "id": "HQnux0Zp5Xg",
+      "title": "Eric Weinstein is an Israeli Asset",
+      "channel": "Professor Dave Explains",
+      "channelId": "UC0cd_-e49hZpWLH3UIwoWRA",
+      "durationSec": 1941,
+      "publishedAt": "2026-11-17T15:00:31Z",
+      "topics": [
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/HQnux0Zp5Xg/hqdefault.jpg"
+    },
+    {
       "id": "cuNd-LzE368",
       "title": "Future Active Participle",
       "channel": "Professor Dave Explains",
@@ -48627,21 +48642,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/lsRDjK3AvTg/hqdefault.jpg"
-    },
-    {
-      "id": "5-kzrkK3Zgc",
-      "title": "Medieval Poland Part 2: Wladislaw’s Sons, Casimir the Great, and the Jagiellonian Dynasty",
-      "channel": "Professor Dave Explains",
-      "channelId": "UC0cd_-e49hZpWLH3UIwoWRA",
-      "durationSec": 515,
-      "publishedAt": "2026-08-26T14:00:02Z",
-      "topics": [
-        "science"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/5-kzrkK3Zgc/hqdefault.jpg"
     },
     {
       "id": "BjyJlN1npdw",
@@ -54127,6 +54127,23 @@
       "thumbnail": "https://i.ytimg.com/vi/LT7N0WaIMh0/hqdefault.jpg"
     },
     {
+      "id": "7cfKDcb5XIE",
+      "title": "Reimagine Peaceful Parenting and Stop Sibling Squabbles with Sarah Rosensweet [Ep 156]",
+      "channel": "Katie Kimball",
+      "channelId": "UCT1B3Tb7Bit_S7EWkhSba4A",
+      "durationSec": 1610,
+      "publishedAt": "2026-11-17T11:00:06Z",
+      "topics": [
+        "making",
+        "science"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/7cfKDcb5XIE/hqdefault.jpg"
+    },
+    {
       "id": "J75f7R12GKw",
       "title": "Katie Kimbal on FOX Morning Mix - The Picky Eater Playbook",
       "channel": "Katie Kimball",
@@ -56520,6 +56537,23 @@
       "thumbnail": "https://i.ytimg.com/vi/7Ce6nnJxzMo/hqdefault.jpg"
     },
     {
+      "id": "SXW9P1Dan_o",
+      "title": "The First Sabertoothed Animals",
+      "channel": "PBS Eons",
+      "channelId": "UCzR-rom72PHN9Zg7RML9EbA",
+      "durationSec": 1566,
+      "publishedAt": "2026-11-17T15:00:33Z",
+      "topics": [
+        "history",
+        "science",
+        "animals"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/SXW9P1Dan_o/hqdefault.jpg"
+    },
+    {
       "id": "yGf78wc6jIU",
       "title": "There Was A Crisis Before The Great Dying",
       "channel": "PBS Eons",
@@ -56943,23 +56977,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/mbG8-ejz-WE/hqdefault.jpg"
-    },
-    {
-      "id": "s7Kp9Mw7w_w",
-      "title": "When a Tiny Land Bridge Triggered an Ice Age",
-      "channel": "PBS Eons",
-      "channelId": "UCzR-rom72PHN9Zg7RML9EbA",
-      "durationSec": 760,
-      "publishedAt": "2025-12-16T16:01:32Z",
-      "topics": [
-        "history",
-        "science",
-        "animals"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/s7Kp9Mw7w_w/hqdefault.jpg"
     },
     {
       "id": "-BoprWYCTiM",
@@ -68859,6 +68876,22 @@
       "thumbnail": "https://i.ytimg.com/vi/r_REixghXNk/hqdefault.jpg"
     },
     {
+      "id": "8aeTeyGBhTI",
+      "title": "Rock Identification Made Easy; Metamorphic Rocks",
+      "channel": "GeologyHub",
+      "channelId": "UCYeGh5VML5XPr5jYnzh3J6g",
+      "durationSec": 203,
+      "publishedAt": "2026-11-16T19:30:38Z",
+      "topics": [
+        "science",
+        "geography"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/8aeTeyGBhTI/hqdefault.jpg"
+    },
+    {
       "id": "sg2uUTDATc4",
       "title": "The Possible Source of Multiple Mystery Eruptions; The United States",
       "channel": "GeologyHub",
@@ -69609,22 +69642,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/3pDVqF3W0zc/hqdefault.jpg"
-    },
-    {
-      "id": "GFdRyNeKcxU",
-      "title": "Major Explosive Eruption Occurs at Krakatau; Largest since 1883, Geologist Analysis",
-      "channel": "GeologyHub",
-      "channelId": "UCYeGh5VML5XPr5jYnzh3J6g",
-      "durationSec": 297,
-      "publishedAt": "2026-09-06T00:00:14Z",
-      "topics": [
-        "science",
-        "geography"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/GFdRyNeKcxU/hqdefault.jpg"
     },
     {
       "id": "2KeLyjkc4CE",
@@ -70458,23 +70475,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/oELRhpi36Wo/hqdefault.jpg"
-    },
-    {
-      "id": "AQD5-PZ6R-E",
-      "title": "Westward Subduction and Alaska's Brooks Range",
-      "channel": "Nick Zentner",
-      "channelId": "UC4szl4Ra1ZD3m80wJP40UBA",
-      "durationSec": 3915,
-      "publishedAt": "2026-04-25T18:24:00Z",
-      "topics": [
-        "science",
-        "geography",
-        "history"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/AQD5-PZ6R-E/hqdefault.jpg"
     },
     {
       "id": "TbOQIbEEVtA",
@@ -75658,6 +75658,22 @@
       "thumbnail": "https://i.ytimg.com/vi/KIUlSnEg_A8/hqdefault.jpg"
     },
     {
+      "id": "M0zsZfKD3Sw",
+      "title": "Marketing Explained: How To Get your First Customers!!",
+      "channel": "Biz Kid$ (TV Series)",
+      "channelId": "UCufmiGK0I_9g_iwUR-E8mwA",
+      "durationSec": 1727,
+      "publishedAt": "2026-11-17T16:00:36Z",
+      "topics": [
+        "maths",
+        "making"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/M0zsZfKD3Sw/hqdefault.jpg"
+    },
+    {
       "id": "EkWwvlMUaSQ",
       "title": "Launch Your Business with a Simple Business Plan!",
       "channel": "Biz Kid$ (TV Series)",
@@ -76364,6 +76380,21 @@
       "thumbnail": "https://i.ytimg.com/vi/xaUKgnhZ9y4/hqdefault.jpg"
     },
     {
+      "id": "slLiauPG_c0",
+      "title": "HSA vs FSA: Which Is Better (And the Mistake to Avoid)",
+      "channel": "Easy Peasy Finance",
+      "channelId": "UCZl9ry5ew_2YeCQ6ECk8sxA",
+      "durationSec": 553,
+      "publishedAt": "2026-11-17T14:00:36Z",
+      "topics": [
+        "maths"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/slLiauPG_c0/hqdefault.jpg"
+    },
+    {
       "id": "RPgq1Rv_lQ4",
       "title": "Debit Card vs Credit Card: Which Should You Use (Beginner Guide)",
       "channel": "Easy Peasy Finance",
@@ -76527,21 +76558,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/ZMLDN04HOFc/hqdefault.jpg"
-    },
-    {
-      "id": "XDSwCXt85xw",
-      "title": "FAFSA Explained 2027-28: How to Fill It Out and Maximize Aid",
-      "channel": "Easy Peasy Finance",
-      "channelId": "UCZl9ry5ew_2YeCQ6ECk8sxA",
-      "durationSec": 258,
-      "publishedAt": "2026-09-08T13:00:12Z",
-      "topics": [
-        "maths"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/XDSwCXt85xw/hqdefault.jpg"
     },
     {
       "id": "kRbSO-ZCG4g",
@@ -76830,6 +76846,22 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/FDhx6EMGX3I/hqdefault.jpg"
+    },
+    {
+      "id": "HI7ueffk0Qg",
+      "title": "Food Web for Kids | Learn how animals interact with each other beyond the food chain",
+      "channel": "Learn Bright",
+      "channelId": "UCKCsVSA5THlkHbnkZTPm6-g",
+      "durationSec": 451,
+      "publishedAt": "2026-11-17T16:00:38Z",
+      "topics": [
+        "maths",
+        "history"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/HI7ueffk0Qg/hqdefault.jpg"
     },
     {
       "id": "t-0uO2g7V_w",
@@ -80770,6 +80802,22 @@
       "thumbnail": "https://i.ytimg.com/vi/rrPPm921NWw/hqdefault.jpg"
     },
     {
+      "id": "Z9GIvi_uPZw",
+      "title": "The Problem with Concrete",
+      "channel": "The Efficient Engineer",
+      "channelId": "UCXAS_Ekkq0iFJ9dSUIkcAkw",
+      "durationSec": 1214,
+      "publishedAt": "2026-11-17T15:00:29Z",
+      "topics": [
+        "engineering",
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/Z9GIvi_uPZw/hqdefault.jpg"
+    },
+    {
       "id": "2zsBwnZlYRs",
       "title": "How a Simple Mechanism Brought Down Flight 981",
       "channel": "The Efficient Engineer",
@@ -83080,6 +83128,22 @@
       "thumbnail": "https://i.ytimg.com/vi/GLVhXClV5QU/hqdefault.jpg"
     },
     {
+      "id": "tDpLpmtCFZY",
+      "title": "Diva Duck | Peep and the Big Wide World",
+      "channel": "Peep and the Big Wide World",
+      "channelId": "UCPq6g4Q4-SFMIJ048IXmupA",
+      "durationSec": 645,
+      "publishedAt": "2026-11-17T16:00:34Z",
+      "topics": [
+        "science",
+        "nature"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/tDpLpmtCFZY/hqdefault.jpg"
+    },
+    {
       "id": "s8Vb4i-Lmaw",
       "title": "Soap Opera | Peep and the Big Wide World",
       "channel": "Peep and the Big Wide World",
@@ -83864,20 +83928,20 @@
       "thumbnail": "https://i.ytimg.com/vi/Yf6DJmUt1TA/hqdefault.jpg"
     },
     {
-      "id": "gTUBlTgKiRw",
-      "title": "The Trouble with Bubbles | Peep and the Big Wide World",
-      "channel": "Peep and the Big Wide World",
-      "channelId": "UCPq6g4Q4-SFMIJ048IXmupA",
-      "durationSec": 649,
-      "publishedAt": "2026-09-29T15:00:00Z",
+      "id": "Go-pRQ8RkSo",
+      "title": "Let's visit a Winter Village! 🎅 | Christmas fun for kids! | Super Simple Play",
+      "channel": "Super Simple Play with Caitie!",
+      "channelId": "UCxG6Tbopv4XcHfem65bgFeg",
+      "durationSec": 471,
+      "publishedAt": "2026-11-17T14:00:32Z",
       "topics": [
-        "science",
-        "nature"
+        "music",
+        "making"
       ],
       "profiles": [
         "little"
       ],
-      "thumbnail": "https://i.ytimg.com/vi/gTUBlTgKiRw/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/Go-pRQ8RkSo/hqdefault.jpg"
     },
     {
       "id": "PhHXZamAQys",
@@ -84849,6 +84913,60 @@
       "thumbnail": "https://i.ytimg.com/vi/bilYblVD-3M/hqdefault.jpg"
     },
     {
+      "id": "UeWwqKOp5Tw",
+      "title": "Deep Dive w/ Tim: Porting TeensyChess to Metro ESP32-P4",
+      "channel": "Adafruit Industries",
+      "channelId": "UCpOlOeQjj7EsVnDh3zuCgsA",
+      "durationSec": 3603,
+      "publishedAt": "2026-11-17T15:30:52Z",
+      "topics": [
+        "making",
+        "tech",
+        "engineering",
+        "coding"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/UeWwqKOp5Tw/hqdefault.jpg"
+    },
+    {
+      "id": "uITBXPfppe8",
+      "title": "What's New on Learn This Week? 11/17/26 #adafruit",
+      "channel": "Adafruit Industries",
+      "channelId": "UCpOlOeQjj7EsVnDh3zuCgsA",
+      "durationSec": 126,
+      "publishedAt": "2026-11-17T17:01:36Z",
+      "topics": [
+        "making",
+        "tech",
+        "engineering",
+        "coding"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/uITBXPfppe8/hqdefault.jpg"
+    },
+    {
+      "id": "v1LjViI9lcc",
+      "title": "CircuitPython Weekly Meeting for November 16, 2026 @circuitpython #circuitpython #adafruit",
+      "channel": "Adafruit Industries",
+      "channelId": "UCpOlOeQjj7EsVnDh3zuCgsA",
+      "durationSec": 2452,
+      "publishedAt": "2026-11-16T20:04:54Z",
+      "topics": [
+        "making",
+        "tech",
+        "engineering",
+        "coding"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/v1LjViI9lcc/hqdefault.jpg"
+    },
+    {
       "id": "eHM_QKhMh4w",
       "title": "FM-1 Flasher UI demo",
       "channel": "Adafruit Industries",
@@ -85225,60 +85343,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/6tghXC2Gnus/hqdefault.jpg"
-    },
-    {
-      "id": "KqB_tkMsMiE",
-      "title": "Deep Dive w/Scott: LVGL Displayio #adafruit",
-      "channel": "Adafruit Industries",
-      "channelId": "UCpOlOeQjj7EsVnDh3zuCgsA",
-      "durationSec": 3770,
-      "publishedAt": "2026-10-31T10:18:56Z",
-      "topics": [
-        "making",
-        "tech",
-        "engineering",
-        "coding"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/KqB_tkMsMiE/hqdefault.jpg"
-    },
-    {
-      "id": "XTU8gXjfdWI",
-      "title": "John Park's CircuitPython Parsec: Cap Touch on STEMMA Ports",
-      "channel": "Adafruit Industries",
-      "channelId": "UCpOlOeQjj7EsVnDh3zuCgsA",
-      "durationSec": 205,
-      "publishedAt": "2026-10-30T16:01:10Z",
-      "topics": [
-        "making",
-        "tech",
-        "engineering",
-        "coding"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/XTU8gXjfdWI/hqdefault.jpg"
-    },
-    {
-      "id": "BpKUALuFlRA",
-      "title": "John Park's Workshop Live 10/29/26",
-      "channel": "Adafruit Industries",
-      "channelId": "UCpOlOeQjj7EsVnDh3zuCgsA",
-      "durationSec": 3056,
-      "publishedAt": "2026-10-30T08:56:03Z",
-      "topics": [
-        "making",
-        "tech",
-        "engineering",
-        "coding"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/BpKUALuFlRA/hqdefault.jpg"
     },
     {
       "id": "NL65Awuv8gU",
@@ -86951,46 +87015,12 @@
       "thumbnail": "https://i.ytimg.com/vi/af5_QCafS8o/hqdefault.jpg"
     },
     {
-      "id": "uG6TayPSJG4",
-      "title": "Kids Yoga LIVE 🌟 | Fun Yoga Adventures & Movement for Kids",
-      "channel": "Cosmic Kids Yoga",
-      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
-      "durationSec": 42900,
-      "publishedAt": "2026-11-16T15:29:03Z",
-      "topics": [
-        "reading",
-        "nature"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/uG6TayPSJG4/hqdefault.jpg"
-    },
-    {
-      "id": "fcm5vcHYk_s",
+      "id": "ACADIznVDMU",
       "title": "Autumn Kids Yoga LIVE! 🍂 Fall Yoga Adventure Compilation | Cosmic Kids",
-      "channel": "Cosmic Kids Yoga",
-      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
-      "durationSec": 42900,
-      "publishedAt": "2026-11-16T15:18:05Z",
-      "topics": [
-        "reading",
-        "nature"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/fcm5vcHYk_s/hqdefault.jpg"
-    },
-    {
-      "id": "LaGF4H4zYc8",
-      "title": "Kids Yoga LIVE 🌟 | Fun Yoga Adventures & Movement for Kids",
       "channel": "Cosmic Kids Yoga",
       "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
       "durationSec": 42899,
-      "publishedAt": "2026-11-16T03:18:55Z",
+      "publishedAt": "2026-11-17T16:09:59Z",
       "topics": [
         "reading",
         "nature"
@@ -86999,15 +87029,15 @@
         "little",
         "big"
       ],
-      "thumbnail": "https://i.ytimg.com/vi/LaGF4H4zYc8/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/ACADIznVDMU/hqdefault.jpg"
     },
     {
-      "id": "6wXok-ScUKo",
-      "title": "Autumn Kids Yoga LIVE! 🍂 Fall Yoga Adventure Compilation | Cosmic Kids",
+      "id": "xgOcLt8y50c",
+      "title": "Giggle Blossom | Jaime's Yoga Adventures! | Kids Animated Yoga",
       "channel": "Cosmic Kids Yoga",
       "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
-      "durationSec": 42711,
-      "publishedAt": "2026-11-16T02:50:37Z",
+      "durationSec": 915,
+      "publishedAt": "2026-11-17T16:00:39Z",
       "topics": [
         "reading",
         "nature"
@@ -87016,32 +87046,15 @@
         "little",
         "big"
       ],
-      "thumbnail": "https://i.ytimg.com/vi/6wXok-ScUKo/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/xgOcLt8y50c/hqdefault.jpg"
     },
     {
-      "id": "rVnmIs3okZ0",
+      "id": "G9OQ8mJgIo4",
       "title": "Kids Yoga LIVE 🌟 | Fun Yoga Adventures & Movement for Kids",
-      "channel": "Cosmic Kids Yoga",
-      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
-      "durationSec": 42898,
-      "publishedAt": "2026-11-15T15:43:18Z",
-      "topics": [
-        "reading",
-        "nature"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/rVnmIs3okZ0/hqdefault.jpg"
-    },
-    {
-      "id": "GCjMmubJo4Y",
-      "title": "Autumn Kids Yoga LIVE! 🍂 Fall Yoga Adventure Compilation | Cosmic Kids",
       "channel": "Cosmic Kids Yoga",
       "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
       "durationSec": 42900,
-      "publishedAt": "2026-11-15T14:26:26Z",
+      "publishedAt": "2026-11-17T15:28:05Z",
       "topics": [
         "reading",
         "nature"
@@ -87050,194 +87063,7 @@
         "little",
         "big"
       ],
-      "thumbnail": "https://i.ytimg.com/vi/GCjMmubJo4Y/hqdefault.jpg"
-    },
-    {
-      "id": "05Q9Z9_Fr5c",
-      "title": "Kids Yoga LIVE 🌟 | Fun Yoga Adventures & Movement for Kids",
-      "channel": "Cosmic Kids Yoga",
-      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
-      "durationSec": 42896,
-      "publishedAt": "2026-11-15T03:18:54Z",
-      "topics": [
-        "reading",
-        "nature"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/05Q9Z9_Fr5c/hqdefault.jpg"
-    },
-    {
-      "id": "Hr0jsj8946w",
-      "title": "Autumn Kids Yoga LIVE! 🍂 Fall Yoga Adventure Compilation | Cosmic Kids",
-      "channel": "Cosmic Kids Yoga",
-      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
-      "durationSec": 42896,
-      "publishedAt": "2026-11-15T02:03:02Z",
-      "topics": [
-        "reading",
-        "nature"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/Hr0jsj8946w/hqdefault.jpg"
-    },
-    {
-      "id": "QK8fc9N91tc",
-      "title": "Kids Yoga LIVE 🌟 | Fun Yoga Adventures & Movement for Kids",
-      "channel": "Cosmic Kids Yoga",
-      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
-      "durationSec": 42898,
-      "publishedAt": "2026-11-14T15:29:16Z",
-      "topics": [
-        "reading",
-        "nature"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/QK8fc9N91tc/hqdefault.jpg"
-    },
-    {
-      "id": "PmoluSN3T5U",
-      "title": "Autumn Kids Yoga LIVE! 🍂 Fall Yoga Adventure Compilation | Cosmic Kids",
-      "channel": "Cosmic Kids Yoga",
-      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
-      "durationSec": 42896,
-      "publishedAt": "2026-11-14T13:37:12Z",
-      "topics": [
-        "reading",
-        "nature"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/PmoluSN3T5U/hqdefault.jpg"
-    },
-    {
-      "id": "a6jqpQ-DeMU",
-      "title": "Kids Yoga LIVE 🌟 | Fun Yoga Adventures & Movement for Kids",
-      "channel": "Cosmic Kids Yoga",
-      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
-      "durationSec": 42898,
-      "publishedAt": "2026-11-14T03:25:13Z",
-      "topics": [
-        "reading",
-        "nature"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/a6jqpQ-DeMU/hqdefault.jpg"
-    },
-    {
-      "id": "TZIqhZvkRas",
-      "title": "Autumn Kids Yoga LIVE! 🍂 Fall Yoga Adventure Compilation | Cosmic Kids",
-      "channel": "Cosmic Kids Yoga",
-      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
-      "durationSec": 42898,
-      "publishedAt": "2026-11-14T01:09:22Z",
-      "topics": [
-        "reading",
-        "nature"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/TZIqhZvkRas/hqdefault.jpg"
-    },
-    {
-      "id": "3LKvNi9r0OA",
-      "title": "Kids Yoga LIVE 🌟 | Fun Yoga Adventures & Movement for Kids",
-      "channel": "Cosmic Kids Yoga",
-      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
-      "durationSec": 42897,
-      "publishedAt": "2026-11-13T15:20:38Z",
-      "topics": [
-        "reading",
-        "nature"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/3LKvNi9r0OA/hqdefault.jpg"
-    },
-    {
-      "id": "L-wpCBpj0pE",
-      "title": "Autumn Kids Yoga LIVE! 🍂 Fall Yoga Adventure Compilation | Cosmic Kids",
-      "channel": "Cosmic Kids Yoga",
-      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
-      "durationSec": 42896,
-      "publishedAt": "2026-11-13T12:54:26Z",
-      "topics": [
-        "reading",
-        "nature"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/L-wpCBpj0pE/hqdefault.jpg"
-    },
-    {
-      "id": "_iXyFTNAbdk",
-      "title": "Kids Yoga LIVE 🌟 | Fun Yoga Adventures & Movement for Kids",
-      "channel": "Cosmic Kids Yoga",
-      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
-      "durationSec": 42898,
-      "publishedAt": "2026-11-13T03:34:16Z",
-      "topics": [
-        "reading",
-        "nature"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/_iXyFTNAbdk/hqdefault.jpg"
-    },
-    {
-      "id": "DNFt-aqbav0",
-      "title": "Autumn Kids Yoga LIVE! 🍂 Fall Yoga Adventure Compilation | Cosmic Kids",
-      "channel": "Cosmic Kids Yoga",
-      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
-      "durationSec": 42898,
-      "publishedAt": "2026-11-13T00:21:53Z",
-      "topics": [
-        "reading",
-        "nature"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/DNFt-aqbav0/hqdefault.jpg"
-    },
-    {
-      "id": "9xpupQ_Hbvs",
-      "title": "Kids Yoga LIVE 🌟 | Fun Yoga Adventures & Movement for Kids",
-      "channel": "Cosmic Kids Yoga",
-      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
-      "durationSec": 42896,
-      "publishedAt": "2026-11-12T15:28:46Z",
-      "topics": [
-        "reading",
-        "nature"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/9xpupQ_Hbvs/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/G9OQ8mJgIo4/hqdefault.jpg"
     },
     {
       "id": "FbNRtzkGaD4",
@@ -87257,125 +87083,6 @@
       "thumbnail": "https://i.ytimg.com/vi/FbNRtzkGaD4/hqdefault.jpg"
     },
     {
-      "id": "y4KBix04_-M",
-      "title": "Autumn Kids Yoga LIVE! 🍂 Fall Yoga Adventure Compilation | Cosmic Kids",
-      "channel": "Cosmic Kids Yoga",
-      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
-      "durationSec": 42898,
-      "publishedAt": "2026-11-12T11:56:54Z",
-      "topics": [
-        "reading",
-        "nature"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/y4KBix04_-M/hqdefault.jpg"
-    },
-    {
-      "id": "tNdVfNIJRn8",
-      "title": "Kids Yoga LIVE 🌟 | Fun Yoga Adventures & Movement for Kids",
-      "channel": "Cosmic Kids Yoga",
-      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
-      "durationSec": 42898,
-      "publishedAt": "2026-11-12T03:23:58Z",
-      "topics": [
-        "reading",
-        "nature"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/tNdVfNIJRn8/hqdefault.jpg"
-    },
-    {
-      "id": "xDmxLof4OEQ",
-      "title": "Autumn Kids Yoga LIVE! 🍂 Fall Yoga Adventure Compilation | Cosmic Kids",
-      "channel": "Cosmic Kids Yoga",
-      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
-      "durationSec": 42897,
-      "publishedAt": "2026-11-11T23:35:22Z",
-      "topics": [
-        "reading",
-        "nature"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/xDmxLof4OEQ/hqdefault.jpg"
-    },
-    {
-      "id": "YjZSHXx26To",
-      "title": "Kids Yoga LIVE 🌟 | Fun Yoga Adventures & Movement for Kids",
-      "channel": "Cosmic Kids Yoga",
-      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
-      "durationSec": 42899,
-      "publishedAt": "2026-11-11T15:28:16Z",
-      "topics": [
-        "reading",
-        "nature"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/YjZSHXx26To/hqdefault.jpg"
-    },
-    {
-      "id": "fnIEfxeEltU",
-      "title": "Autumn Kids Yoga LIVE! 🍂 Fall Yoga Adventure Compilation | Cosmic Kids",
-      "channel": "Cosmic Kids Yoga",
-      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
-      "durationSec": 42896,
-      "publishedAt": "2026-11-11T11:10:50Z",
-      "topics": [
-        "reading",
-        "nature"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/fnIEfxeEltU/hqdefault.jpg"
-    },
-    {
-      "id": "xgCq0_RE7Hs",
-      "title": "Kids Yoga LIVE 🌟 | Fun Yoga Adventures & Movement for Kids",
-      "channel": "Cosmic Kids Yoga",
-      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
-      "durationSec": 42899,
-      "publishedAt": "2026-11-11T03:24:21Z",
-      "topics": [
-        "reading",
-        "nature"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/xgCq0_RE7Hs/hqdefault.jpg"
-    },
-    {
-      "id": "eOWR0mqCKYE",
-      "title": "Autumn Kids Yoga LIVE! 🍂 Fall Yoga Adventure Compilation | Cosmic Kids",
-      "channel": "Cosmic Kids Yoga",
-      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
-      "durationSec": 42899,
-      "publishedAt": "2026-11-10T22:42:53Z",
-      "topics": [
-        "reading",
-        "nature"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/eOWR0mqCKYE/hqdefault.jpg"
-    },
-    {
       "id": "ER0MqatX3ro",
       "title": "Melody Button | Jaime's Yoga Adventures! | Kids Animated Yoga",
       "channel": "Cosmic Kids Yoga",
@@ -87391,91 +87098,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/ER0MqatX3ro/hqdefault.jpg"
-    },
-    {
-      "id": "MhTq9P28Au0",
-      "title": "Kids Yoga LIVE 🌟 | Fun Yoga Adventures & Movement for Kids",
-      "channel": "Cosmic Kids Yoga",
-      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
-      "durationSec": 42900,
-      "publishedAt": "2026-11-10T15:31:39Z",
-      "topics": [
-        "reading",
-        "nature"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/MhTq9P28Au0/hqdefault.jpg"
-    },
-    {
-      "id": "E3HGpsj4ZVg",
-      "title": "Autumn Kids Yoga LIVE! 🍂 Fall Yoga Adventure Compilation | Cosmic Kids",
-      "channel": "Cosmic Kids Yoga",
-      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
-      "durationSec": 42900,
-      "publishedAt": "2026-11-10T10:18:36Z",
-      "topics": [
-        "reading",
-        "nature"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/E3HGpsj4ZVg/hqdefault.jpg"
-    },
-    {
-      "id": "A4at_dPF7LM",
-      "title": "Kids Yoga LIVE 🌟 | Fun Yoga Adventures & Movement for Kids",
-      "channel": "Cosmic Kids Yoga",
-      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
-      "durationSec": 42900,
-      "publishedAt": "2026-11-10T03:30:40Z",
-      "topics": [
-        "reading",
-        "nature"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/A4at_dPF7LM/hqdefault.jpg"
-    },
-    {
-      "id": "sk54QvBlS50",
-      "title": "Autumn Kids Yoga LIVE! 🍂 Fall Yoga Adventure Compilation | Cosmic Kids",
-      "channel": "Cosmic Kids Yoga",
-      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
-      "durationSec": 42900,
-      "publishedAt": "2026-11-09T21:50:38Z",
-      "topics": [
-        "reading",
-        "nature"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/sk54QvBlS50/hqdefault.jpg"
-    },
-    {
-      "id": "Zg_DAgIcQZA",
-      "title": "Kids Yoga LIVE 🌟 | Fun Yoga Adventures & Movement for Kids",
-      "channel": "Cosmic Kids Yoga",
-      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
-      "durationSec": 42898,
-      "publishedAt": "2026-11-09T15:36:13Z",
-      "topics": [
-        "reading",
-        "nature"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/Zg_DAgIcQZA/hqdefault.jpg"
     },
     {
       "id": "YZi_Dq6_dkA",
@@ -87510,6 +87132,227 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/OYKhjAtfsPM/hqdefault.jpg"
+    },
+    {
+      "id": "hV2a0GumCQI",
+      "title": "How to Deal with Nightmares | Mindfulness for Kids | Cosmic Kids Zen Den",
+      "channel": "Cosmic Kids Yoga",
+      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
+      "durationSec": 419,
+      "publishedAt": "2026-10-26T15:00:11Z",
+      "topics": [
+        "reading",
+        "nature"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/hV2a0GumCQI/hqdefault.jpg"
+    },
+    {
+      "id": "vA_LHyjYR_8",
+      "title": "Halloween Kids Yoga LIVE! Cosmic Kids Halloween Adventure Compilation 👻✨",
+      "channel": "Cosmic Kids Yoga",
+      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
+      "durationSec": 42900,
+      "publishedAt": "2026-10-23T02:15:15Z",
+      "topics": [
+        "reading",
+        "nature"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/vA_LHyjYR_8/hqdefault.jpg"
+    },
+    {
+      "id": "Q4fyzEm0bOQ",
+      "title": "Mischievous Moles | Jaime's Yoga Adventures! | Kids Animated Yoga",
+      "channel": "Cosmic Kids Yoga",
+      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
+      "durationSec": 907,
+      "publishedAt": "2026-10-20T15:00:33Z",
+      "topics": [
+        "reading",
+        "nature"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/Q4fyzEm0bOQ/hqdefault.jpg"
+    },
+    {
+      "id": "wUcqBo4Tbks",
+      "title": "Magic Museum 🏛️ | Kids Yoga Adventure | Cosmic Kids",
+      "channel": "Cosmic Kids Yoga",
+      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
+      "durationSec": 896,
+      "publishedAt": "2026-10-13T13:00:15Z",
+      "topics": [
+        "reading",
+        "nature"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/wUcqBo4Tbks/hqdefault.jpg"
+    },
+    {
+      "id": "nNv2CqXigBg",
+      "title": "Sunny's Kite | Jaime's Yoga Adventures! | Kids Animated Yoga",
+      "channel": "Cosmic Kids Yoga",
+      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
+      "durationSec": 906,
+      "publishedAt": "2026-10-06T15:00:39Z",
+      "topics": [
+        "reading",
+        "nature"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/nNv2CqXigBg/hqdefault.jpg"
+    },
+    {
+      "id": "2-dKLTcCdxg",
+      "title": "Superhero Ultra Yoga 🦸 | 41 Minute Cosmic Kids Yoga Adventure",
+      "channel": "Cosmic Kids Yoga",
+      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
+      "durationSec": 2461,
+      "publishedAt": "2026-10-02T13:00:19Z",
+      "topics": [
+        "reading",
+        "nature"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/2-dKLTcCdxg/hqdefault.jpg"
+    },
+    {
+      "id": "y7o0cc-LtPE",
+      "title": "Max's Missing Sparkle | Jaime's Yoga Adventures! | Kids Animated Yoga",
+      "channel": "Cosmic Kids Yoga",
+      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
+      "durationSec": 902,
+      "publishedAt": "2026-09-29T15:15:01Z",
+      "topics": [
+        "reading",
+        "nature"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/y7o0cc-LtPE/hqdefault.jpg"
+    },
+    {
+      "id": "T2Wltv2e4lA",
+      "title": "Ghostbusters Kids Yoga Adventure 👻 | Yoga for Kids | Cosmic Kids",
+      "channel": "Cosmic Kids Yoga",
+      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
+      "durationSec": 897,
+      "publishedAt": "2026-09-22T13:30:36Z",
+      "topics": [
+        "reading",
+        "nature"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/T2Wltv2e4lA/hqdefault.jpg"
+    },
+    {
+      "id": "sDvPN6Z6po0",
+      "title": "Dinosaur Power Yoga 🦖 | 38 Minute Kids Yoga Adventure | Cosmic Kids",
+      "channel": "Cosmic Kids Yoga",
+      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
+      "durationSec": 2275,
+      "publishedAt": "2026-09-15T13:00:13Z",
+      "topics": [
+        "reading",
+        "nature"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/sDvPN6Z6po0/hqdefault.jpg"
+    },
+    {
+      "id": "8L2syA68L2U",
+      "title": "Sunny's Lost Key  | Jaime's Yoga Adventures! | Kids Animated Yoga",
+      "channel": "Cosmic Kids Yoga",
+      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
+      "durationSec": 901,
+      "publishedAt": "2026-09-08T15:00:33Z",
+      "topics": [
+        "reading",
+        "nature"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/8L2syA68L2U/hqdefault.jpg"
+    },
+    {
+      "id": "jik718RMrTs",
+      "title": "Magical Princess Yoga 👑 | 40 Minute Kids Yoga Adventure | Cosmic Kids",
+      "channel": "Cosmic Kids Yoga",
+      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
+      "durationSec": 2442,
+      "publishedAt": "2026-09-02T13:00:02Z",
+      "topics": [
+        "reading",
+        "nature"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/jik718RMrTs/hqdefault.jpg"
+    },
+    {
+      "id": "6kmE4DWvaSY",
+      "title": "🕷️ Spider Pose Yoga for Kids | 9 Fun Spider Poses to Try",
+      "channel": "Cosmic Kids Yoga",
+      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
+      "durationSec": 499,
+      "publishedAt": "2026-08-31T05:00:16Z",
+      "topics": [
+        "reading",
+        "nature"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/6kmE4DWvaSY/hqdefault.jpg"
+    },
+    {
+      "id": "Exp5VLAAJDU",
+      "title": "Slow Day | Jaime's Yoga Adventures! | Kids Animated Yoga",
+      "channel": "Cosmic Kids Yoga",
+      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
+      "durationSec": 916,
+      "publishedAt": "2026-08-25T15:00:06Z",
+      "topics": [
+        "reading",
+        "nature"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/Exp5VLAAJDU/hqdefault.jpg"
     },
     {
       "id": "xm_GCZKltLA",
@@ -90517,6 +90360,22 @@
       "thumbnail": "https://i.ytimg.com/vi/H5VNPfHIgpE/hqdefault.jpg"
     },
     {
+      "id": "QFqU1s6tiCY",
+      "title": "The Mysterious Shapes Covering the American South",
+      "channel": "PBS Terra",
+      "channelId": "UCpxYSWgxVt3Pyn1ovXsGQ0g",
+      "durationSec": 1116,
+      "publishedAt": "2026-11-17T16:54:33Z",
+      "topics": [
+        "science",
+        "nature"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/QFqU1s6tiCY/hqdefault.jpg"
+    },
+    {
       "id": "zplqlQghbYQ",
       "title": "Why THIS is the Riskiest Country on Earth",
       "channel": "PBS Terra",
@@ -90979,22 +90838,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/QVKeAcVP9AQ/hqdefault.jpg"
-    },
-    {
-      "id": "53zGQT_akoo",
-      "title": "Is This the ABSOLUTE Worst Case Tipping Point?",
-      "channel": "PBS Terra",
-      "channelId": "UCpxYSWgxVt3Pyn1ovXsGQ0g",
-      "durationSec": 671,
-      "publishedAt": "2026-02-26T18:59:16Z",
-      "topics": [
-        "science",
-        "nature"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/53zGQT_akoo/hqdefault.jpg"
     },
     {
       "id": "z_WiMgPClW4",
