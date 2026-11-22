@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-21T16:28:34.145Z",
+  "generatedAt": "2026-11-22T16:45:51.451Z",
   "profiles": {
     "little": {
       "label": "Ages 3-7"
@@ -131,6 +131,22 @@
       "thumbnail": "https://i.ytimg.com/vi/kKqd0_cydZM/hqdefault.jpg"
     },
     {
+      "id": "Cjh80E5ihIk",
+      "title": "Underwater Best Buds 🤿🐙 |  My Best Friend's an Animal Full Episode (4K) | Nat Geo Kids",
+      "channel": "Nat Geo Kids",
+      "channelId": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "durationSec": 2653,
+      "publishedAt": "2026-11-22T13:00:04Z",
+      "topics": [
+        "animals",
+        "science"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/Cjh80E5ihIk/hqdefault.jpg"
+    },
+    {
       "id": "cuBPUN5p_wM",
       "title": "The Surprising Secret Lives of Wild Turkeys! 🦃 Animal Card Quest | Nat Geo Kids",
       "channel": "Nat Geo Kids",
@@ -254,6 +270,21 @@
         "little"
       ],
       "thumbnail": "https://i.ytimg.com/vi/J1EmFaMyNaA/hqdefault.jpg"
+    },
+    {
+      "id": "SjBgjF_Nv84",
+      "title": "Land of the Giants - Learning Huge Numbers! | Learn to Count for Kids Compilation | Numberblocks",
+      "channel": "Numberblocks",
+      "channelId": "UCPlwvN0w4qFSP1FllALB92w",
+      "durationSec": 4204,
+      "publishedAt": "2026-11-22T12:00:15Z",
+      "topics": [
+        "maths"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/SjBgjF_Nv84/hqdefault.jpg"
     },
     {
       "id": "cPB2uaXpzS4",
@@ -500,6 +531,21 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/yNsRbQln4Vg/hqdefault.jpg"
+    },
+    {
+      "id": "zqzk43bSdDI",
+      "title": "Since last year, we asked: “What if AI solved the Riemann Hypothesis?”",
+      "channel": "3Blue1Brown",
+      "channelId": "UCYO_jab_esuFRV4b17AJtAw",
+      "durationSec": 819,
+      "publishedAt": "2026-11-22T02:02:12Z",
+      "topics": [
+        "maths"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/zqzk43bSdDI/hqdefault.jpg"
     },
     {
       "id": "qbsb9DpdZ6s",
@@ -3607,7 +3653,7 @@
     },
     {
       "id": "5LKDAW7Xx4Y",
-      "title": "This Impossible Gripper Blows In Order To Suck",
+      "title": "This Simple Experiment Breaks Your Intuition About Pressure",
       "channel": "The Action Lab",
       "channelId": "UC1VLQPn9cYSqx8plbk9RxxQ",
       "durationSec": 746,
@@ -13306,6 +13352,22 @@
       "thumbnail": "https://i.ytimg.com/vi/m6KAfSgFaAM/hqdefault.jpg"
     },
     {
+      "id": "4-fA5Tj5uEw",
+      "title": "How to Draw Beef Roger Crummchuk | Hexed Drawing Tutorial",
+      "channel": "Cartooning Club How to Draw",
+      "channelId": "UC-biucJWhM8HwjsQ96uoIUw",
+      "durationSec": 616,
+      "publishedAt": "2026-11-22T14:00:07Z",
+      "topics": [
+        "art",
+        "making"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/4-fA5Tj5uEw/hqdefault.jpg"
+    },
+    {
       "id": "ot167PsGvbw",
       "title": "How to Draw Billie Doe | Hexed Sketch Tutorial",
       "channel": "Cartooning Club How to Draw",
@@ -13323,7 +13385,7 @@
     },
     {
       "id": "qZ-J4MvYWSE",
-      "title": "How to Draw a Fox | Step-by-Step Drawing Workshop",
+      "title": "How to Become Seriously Good at Drawing Animals (Beginners Start Here)",
       "channel": "Cartooning Club How to Draw",
       "channelId": "UC-biucJWhM8HwjsQ96uoIUw",
       "durationSec": 4825,
@@ -14040,22 +14102,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/Hmw8P_xCbgg/hqdefault.jpg"
-    },
-    {
-      "id": "V9JeP7DcwMc",
-      "title": "How to Draw Freddy Krueger | A Nightmare on Elm Street",
-      "channel": "Cartooning Club How to Draw",
-      "channelId": "UC-biucJWhM8HwjsQ96uoIUw",
-      "durationSec": 482,
-      "publishedAt": "2026-10-06T14:00:08Z",
-      "topics": [
-        "art",
-        "making"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/V9JeP7DcwMc/hqdefault.jpg"
     },
     {
       "id": "95UsFLKoDqM",
@@ -26008,6 +26054,22 @@
       "thumbnail": "https://i.ytimg.com/vi/UZAiUJKSqfU/hqdefault.jpg"
     },
     {
+      "id": "F72WzgknDFg",
+      "title": "What is DELAWARE'S crazy secret?",
+      "channel": "Geography Now",
+      "channelId": "UCmmPgObSUPw1HL2lq6H4ffA",
+      "durationSec": 138,
+      "publishedAt": "2026-11-21T23:55:43Z",
+      "topics": [
+        "geography",
+        "exploration"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/F72WzgknDFg/hqdefault.jpg"
+    },
+    {
       "id": "nTvMcL-1awU",
       "title": "The geography of GTA 6￼",
       "channel": "Geography Now",
@@ -30800,6 +30862,21 @@
       "thumbnail": "https://i.ytimg.com/vi/qrwiX7Dc60Q/hqdefault.jpg"
     },
     {
+      "id": "DmGNBJzWvBU",
+      "title": "Reading Songs to Consolidate Early Learning Skills | Learn to Read and Spell for Kids | Alphablocks",
+      "channel": "Alphablocks",
+      "channelId": "UC_qs3c0ehDvZkbiEbOj6Drg",
+      "durationSec": 1343,
+      "publishedAt": "2026-11-22T12:00:27Z",
+      "topics": [
+        "reading"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/DmGNBJzWvBU/hqdefault.jpg"
+    },
+    {
       "id": "SdOQ62zPJRY",
       "title": "Learn Your Letters with the Alphablocks | Learn to Read and Spell for Kids Compilation | Alphablocks",
       "channel": "Alphablocks",
@@ -31353,21 +31430,6 @@
         "little"
       ],
       "thumbnail": "https://i.ytimg.com/vi/Bee-BDdivVY/hqdefault.jpg"
-    },
-    {
-      "id": "lVr24d7S9uQ",
-      "title": "Back to School Bedtime Stories | Learn to Read and Spell for Kids Compilation | Alphablocks",
-      "channel": "Alphablocks",
-      "channelId": "UC_qs3c0ehDvZkbiEbOj6Drg",
-      "durationSec": 1815,
-      "publishedAt": "2026-08-29T11:00:38Z",
-      "topics": [
-        "reading"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/lVr24d7S9uQ/hqdefault.jpg"
     },
     {
       "id": "CCNg8NeRN5g",
@@ -39102,6 +39164,22 @@
       "thumbnail": "https://i.ytimg.com/vi/DilfpI3NQlA/hqdefault.jpg"
     },
     {
+      "id": "7miz8wuEjh4",
+      "title": "Galloglasses - Ireland's Elite Shock Infantry (c 1300-1600)  DOCUMENTARY",
+      "channel": "Invicta",
+      "channelId": "UCwO-UgquohXwoe7f0e6lMnw",
+      "durationSec": 2078,
+      "publishedAt": "2026-11-21T22:24:29Z",
+      "topics": [
+        "history",
+        "engineering"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/7miz8wuEjh4/hqdefault.jpg"
+    },
+    {
       "id": "t_OqTQbIUrs",
       "title": "Drugs in Ancient Rome - DOCUMENTARY",
       "channel": "Invicta",
@@ -39884,22 +39962,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/4zWNebr3iSc/hqdefault.jpg"
-    },
-    {
-      "id": "xxlMfeaH4lg",
-      "title": "Why were Japanese castles so deadly? #shorts",
-      "channel": "Invicta",
-      "channelId": "UCwO-UgquohXwoe7f0e6lMnw",
-      "durationSec": 180,
-      "publishedAt": "2025-03-31T22:12:40Z",
-      "topics": [
-        "history",
-        "engineering"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/xxlMfeaH4lg/hqdefault.jpg"
     },
     {
       "id": "zJnQE9O58nc",
@@ -40686,6 +40748,22 @@
       "thumbnail": "https://i.ytimg.com/vi/78ffidI7__E/hqdefault.jpg"
     },
     {
+      "id": "9yq2jfb_LqM",
+      "title": "The Trouble with East Croydon",
+      "channel": "Jago Hazzard",
+      "channelId": "UCcHuNKYzVMc06FXqsBEAV3A",
+      "durationSec": 585,
+      "publishedAt": "2026-11-22T12:00:03Z",
+      "topics": [
+        "history",
+        "geography"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/9yq2jfb_LqM/hqdefault.jpg"
+    },
+    {
       "id": "TRepOSIKDuI",
       "title": "London's Controversial Floating Bus Stops",
       "channel": "Jago Hazzard",
@@ -41468,22 +41546,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/_VA-_svV_Bs/hqdefault.jpg"
-    },
-    {
-      "id": "kLkxZRJHsQo",
-      "title": "Late trains and cancellations: Some Constructive Criticism",
-      "channel": "Jago Hazzard",
-      "channelId": "UCcHuNKYzVMc06FXqsBEAV3A",
-      "durationSec": 577,
-      "publishedAt": "2026-07-29T16:30:27Z",
-      "topics": [
-        "history",
-        "geography"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/kLkxZRJHsQo/hqdefault.jpg"
     },
     {
       "id": "NdGheCcLj-E",
@@ -50835,6 +50897,22 @@
       "thumbnail": "https://i.ytimg.com/vi/j_gpTFe1050/hqdefault.jpg"
     },
     {
+      "id": "4q55KOKC9zk",
+      "title": "Minecraft Oceans are Boring... so I fixed them",
+      "channel": "Mumbo Jumbo",
+      "channelId": "UChFur_NwVSbUozOcF_F2kMg",
+      "durationSec": 1307,
+      "publishedAt": "2026-11-22T16:00:40Z",
+      "topics": [
+        "engineering",
+        "making"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/4q55KOKC9zk/hqdefault.jpg"
+    },
+    {
       "id": "BUNISkO5H2U",
       "title": "FINAL LIFE: Episode 4 - KILL THEM ALL",
       "channel": "Mumbo Jumbo",
@@ -51585,22 +51663,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/KfrtL3WsAxE/hqdefault.jpg"
-    },
-    {
-      "id": "GDr1Y-KhjSM",
-      "title": "Minecraft videos have changed",
-      "channel": "Mumbo Jumbo",
-      "channelId": "UChFur_NwVSbUozOcF_F2kMg",
-      "durationSec": 752,
-      "publishedAt": "2025-10-22T19:00:19Z",
-      "topics": [
-        "engineering",
-        "making"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/GDr1Y-KhjSM/hqdefault.jpg"
     },
     {
       "id": "R034eN4xiPo",
@@ -64062,6 +64124,22 @@
       "thumbnail": "https://i.ytimg.com/vi/OB4jAc2033o/hqdefault.jpg"
     },
     {
+      "id": "onzuuYXSNSc",
+      "title": "Investigating the Lightning @museumofscience",
+      "channel": "ElectroBOOM",
+      "channelId": "UCJ0-OtVpF0wOKEqT2Z1HEtA",
+      "durationSec": 1214,
+      "publishedAt": "2026-11-22T16:00:00Z",
+      "topics": [
+        "science",
+        "engineering"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/onzuuYXSNSc/hqdefault.jpg"
+    },
+    {
       "id": "ZjyrZmtc7L0",
       "title": "Electrical Wiring, Installations and Upgrade",
       "channel": "ElectroBOOM",
@@ -64737,6 +64815,22 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/jP6R7FV22ns/hqdefault.jpg"
+    },
+    {
+      "id": "Aivu6mmdmJM",
+      "title": "Can Venus Flytraps Skip Dormancy? My 2-Month Update",
+      "channel": "Carnivorous Plants Hub",
+      "channelId": "UCtdFyx2wj8dysinQuyNTX3Q",
+      "durationSec": 732,
+      "publishedAt": "2026-11-22T14:00:37Z",
+      "topics": [
+        "nature",
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/Aivu6mmdmJM/hqdefault.jpg"
     },
     {
       "id": "5cWMef7GOq4",
@@ -65427,22 +65521,6 @@
       "thumbnail": "https://i.ytimg.com/vi/6Z7jUbRzoGE/hqdefault.jpg"
     },
     {
-      "id": "a58PqExdVaI",
-      "title": "Spider Farmer 4 Tier Plant Stand With Grow Lights - Full Setup, Unboxing & First Impressions",
-      "channel": "Carnivorous Plants Hub",
-      "channelId": "UCtdFyx2wj8dysinQuyNTX3Q",
-      "durationSec": 658,
-      "publishedAt": "2025-03-22T18:42:04Z",
-      "topics": [
-        "nature",
-        "science"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/a58PqExdVaI/hqdefault.jpg"
-    },
-    {
       "id": "QVgFsZPtPEA",
       "title": "Garden Scavenger Hunt! 🔍 Can You Find All 7? | Toddler Learning | Bugs & Mushrooms",
       "channel": "Discover, Grow, Bloom with Garden Marcus",
@@ -65700,7 +65778,7 @@
     },
     {
       "id": "z4LFvSDucg0",
-      "title": "This Fruit is WAY Better Then Raspberries (And No One Grows It!)",
+      "title": "This Fruit is WAY Better Than Raspberries (And No One Grows It!)",
       "channel": "GrowVeg",
       "channelId": "UC9r61qohBg1qgGty4_WzojA",
       "durationSec": 792,
@@ -68240,6 +68318,21 @@
       "thumbnail": "https://i.ytimg.com/vi/A_zQKW8ipL4/hqdefault.jpg"
     },
     {
+      "id": "OkkNRgNvPWE",
+      "title": "Shared History of the Appalachians & Scottish Highlands w/@Scottishgeologist",
+      "channel": "GEO GIRL",
+      "channelId": "UC5uH43CVzGWg9XGYGuLwI_w",
+      "durationSec": 904,
+      "publishedAt": "2026-11-22T14:30:08Z",
+      "topics": [
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/OkkNRgNvPWE/hqdefault.jpg"
+    },
+    {
       "id": "-wZdfBGVbqc",
       "title": "Huge Blocks of Ice on a Black Sand Beach...? Geology of Diamond Beach",
       "channel": "GEO GIRL",
@@ -68958,21 +69051,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/T_1ZNtiIbx0/hqdefault.jpg"
-    },
-    {
-      "id": "r_REixghXNk",
-      "title": "Earth's Largest Mountain Range May NOT Be What You Expect... | GEO GIRL",
-      "channel": "GEO GIRL",
-      "channelId": "UC5uH43CVzGWg9XGYGuLwI_w",
-      "durationSec": 803,
-      "publishedAt": "2025-09-19T12:31:13Z",
-      "topics": [
-        "science"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/r_REixghXNk/hqdefault.jpg"
     },
     {
       "id": "lqMbZKJbtbg",
@@ -69725,6 +69803,23 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/aPz3fA1jJbk/hqdefault.jpg"
+    },
+    {
+      "id": "lAQzWTjR4Po",
+      "title": "F.  Double Bluff Porter",
+      "channel": "Nick Zentner",
+      "channelId": "UC4szl4Ra1ZD3m80wJP40UBA",
+      "durationSec": 5926,
+      "publishedAt": "2026-11-22T05:30:22Z",
+      "topics": [
+        "science",
+        "geography",
+        "history"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/lAQzWTjR4Po/hqdefault.jpg"
     },
     {
       "id": "mbOs7fefePI",
@@ -78424,6 +78519,22 @@
       "thumbnail": "https://i.ytimg.com/vi/O_D81ObBJf0/hqdefault.jpg"
     },
     {
+      "id": "WkchI_1d968",
+      "title": "The 5 Million-Year-Old Whale Graveyard Discovered on the Ocean Floor",
+      "channel": "KPassionate",
+      "channelId": "UCUvSqEH92Fqn9uw1kmCfLGA",
+      "durationSec": 695,
+      "publishedAt": "2026-11-21T18:19:56Z",
+      "topics": [
+        "animals",
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/WkchI_1d968/hqdefault.jpg"
+    },
+    {
       "id": "KRiszHuQgCg",
       "title": "How Did Marine Biologists Catch the Corkscrew Killer?",
       "channel": "KPassionate",
@@ -79206,22 +79317,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/K-sYKF2EwW8/hqdefault.jpg"
-    },
-    {
-      "id": "TnJVE2oNJH0",
-      "title": "A New Species of Killer Whale is Changing Marine Biology",
-      "channel": "KPassionate",
-      "channelId": "UCUvSqEH92Fqn9uw1kmCfLGA",
-      "durationSec": 605,
-      "publishedAt": "2024-04-13T22:04:09Z",
-      "topics": [
-        "animals",
-        "science"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/TnJVE2oNJH0/hqdefault.jpg"
     },
     {
       "id": "zZW9awnTNjs",
@@ -83196,6 +83291,22 @@
       "thumbnail": "https://i.ytimg.com/vi/GLVhXClV5QU/hqdefault.jpg"
     },
     {
+      "id": "mVijLB-3nqo",
+      "title": "Mysterious Shapes in The Sand | Peep and the Big Wide World",
+      "channel": "Peep and the Big Wide World",
+      "channelId": "UCPq6g4Q4-SFMIJ048IXmupA",
+      "durationSec": 2554,
+      "publishedAt": "2026-11-22T16:00:27Z",
+      "topics": [
+        "science",
+        "nature"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/mVijLB-3nqo/hqdefault.jpg"
+    },
+    {
       "id": "IK2a0jmGvj4",
       "title": "Things That Go Peep in the Night | Peep and the Big Wide World",
       "channel": "Peep and the Big Wide World",
@@ -83980,22 +84091,6 @@
       "thumbnail": "https://i.ytimg.com/vi/9XfycCE5Sco/hqdefault.jpg"
     },
     {
-      "id": "oItsI5_tgPA",
-      "title": "Nosing Around | Peep and the Big Wide World",
-      "channel": "Peep and the Big Wide World",
-      "channelId": "UCPq6g4Q4-SFMIJ048IXmupA",
-      "durationSec": 654,
-      "publishedAt": "2026-10-05T15:00:24Z",
-      "topics": [
-        "science",
-        "nature"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/oItsI5_tgPA/hqdefault.jpg"
-    },
-    {
       "id": "Go-pRQ8RkSo",
       "title": "Let's visit a Winter Village! 🎅 | Christmas fun for kids! | Super Simple Play",
       "channel": "Super Simple Play with Caitie!",
@@ -84266,22 +84361,6 @@
         "little"
       ],
       "thumbnail": "https://i.ytimg.com/vi/fD-NAhuG60w/hqdefault.jpg"
-    },
-    {
-      "id": "BBixtNTbEcI",
-      "title": "One Little Finger | Sing-Along Playtime Learning Song | Super Simple Play",
-      "channel": "Super Simple Play with Caitie!",
-      "channelId": "UCxG6Tbopv4XcHfem65bgFeg",
-      "durationSec": 147,
-      "publishedAt": "2026-06-02T13:00:21Z",
-      "topics": [
-        "music",
-        "making"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/BBixtNTbEcI/hqdefault.jpg"
     },
     {
       "id": "9jeGd-nqdlI",
@@ -87102,6 +87181,74 @@
       "thumbnail": "https://i.ytimg.com/vi/af5_QCafS8o/hqdefault.jpg"
     },
     {
+      "id": "yWV7H5UimLY",
+      "title": "Kids Yoga LIVE 🌟 | Fun Yoga Adventures & Movement for Kids",
+      "channel": "Cosmic Kids Yoga",
+      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
+      "durationSec": 42899,
+      "publishedAt": "2026-11-22T15:39:57Z",
+      "topics": [
+        "reading",
+        "nature"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/yWV7H5UimLY/hqdefault.jpg"
+    },
+    {
+      "id": "yk1667ZG3XU",
+      "title": "Autumn Kids Yoga LIVE! 🍂 Fall Yoga Adventure Compilation | Cosmic Kids",
+      "channel": "Cosmic Kids Yoga",
+      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
+      "durationSec": 42897,
+      "publishedAt": "2026-11-22T07:46:36Z",
+      "topics": [
+        "reading",
+        "nature"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/yk1667ZG3XU/hqdefault.jpg"
+    },
+    {
+      "id": "SuEQv2mmYnQ",
+      "title": "Kids Yoga LIVE 🌟 | Fun Yoga Adventures & Movement for Kids",
+      "channel": "Cosmic Kids Yoga",
+      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
+      "durationSec": 42897,
+      "publishedAt": "2026-11-22T03:18:37Z",
+      "topics": [
+        "reading",
+        "nature"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/SuEQv2mmYnQ/hqdefault.jpg"
+    },
+    {
+      "id": "HwNQCKb-0YI",
+      "title": "Autumn Kids Yoga LIVE! 🍂 Fall Yoga Adventure Compilation | Cosmic Kids",
+      "channel": "Cosmic Kids Yoga",
+      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
+      "durationSec": 42900,
+      "publishedAt": "2026-11-21T19:35:22Z",
+      "topics": [
+        "reading",
+        "nature"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/HwNQCKb-0YI/hqdefault.jpg"
+    },
+    {
       "id": "oqW_1iriTX0",
       "title": "Kids Yoga LIVE 🌟 | Fun Yoga Adventures & Movement for Kids",
       "channel": "Cosmic Kids Yoga",
@@ -87440,57 +87587,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/2-dKLTcCdxg/hqdefault.jpg"
-    },
-    {
-      "id": "y7o0cc-LtPE",
-      "title": "Max's Missing Sparkle | Jaime's Yoga Adventures! | Kids Animated Yoga",
-      "channel": "Cosmic Kids Yoga",
-      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
-      "durationSec": 902,
-      "publishedAt": "2026-09-29T15:15:01Z",
-      "topics": [
-        "reading",
-        "nature"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/y7o0cc-LtPE/hqdefault.jpg"
-    },
-    {
-      "id": "T2Wltv2e4lA",
-      "title": "Ghostbusters Kids Yoga Adventure 👻 | Yoga for Kids | Cosmic Kids",
-      "channel": "Cosmic Kids Yoga",
-      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
-      "durationSec": 897,
-      "publishedAt": "2026-09-22T13:30:36Z",
-      "topics": [
-        "reading",
-        "nature"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/T2Wltv2e4lA/hqdefault.jpg"
-    },
-    {
-      "id": "sDvPN6Z6po0",
-      "title": "Dinosaur Power Yoga 🦖 | 38 Minute Kids Yoga Adventure | Cosmic Kids",
-      "channel": "Cosmic Kids Yoga",
-      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
-      "durationSec": 2275,
-      "publishedAt": "2026-09-15T13:00:13Z",
-      "topics": [
-        "reading",
-        "nature"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/sDvPN6Z6po0/hqdefault.jpg"
     },
     {
       "id": "xm_GCZKltLA",
@@ -88341,6 +88437,22 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/Ilr2DjYOfqA/hqdefault.jpg"
+    },
+    {
+      "id": "RvvM0dY1_hA",
+      "title": "Elmo Songs with Friends! Ms. Rachel, Peppa Pig, Bounce Patrol & MORE 😊 | 90 Mins | Sesame Street",
+      "channel": "Sesame Street",
+      "channelId": "UCoookXUzPciGrEZEXmh4Jjg",
+      "durationSec": 5556,
+      "publishedAt": "2026-11-22T12:30:05Z",
+      "topics": [
+        "reading",
+        "music"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/RvvM0dY1_hA/hqdefault.jpg"
     },
     {
       "id": "QLC32zDmgTI",
