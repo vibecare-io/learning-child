@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-26T18:42:03.569Z",
+  "generatedAt": "2026-11-27T18:32:56.579Z",
   "profiles": {
     "little": {
       "label": "Ages 3-7"
@@ -131,6 +131,38 @@
       "thumbnail": "https://i.ytimg.com/vi/kKqd0_cydZM/hqdefault.jpg"
     },
     {
+      "id": "l5oLEOtTFFQ",
+      "title": "Look out for these saltwater crocodiles! 🐊 | Fearless Adventures with Jack Randall | Nat Geo Kids",
+      "channel": "Nat Geo Kids",
+      "channelId": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "durationSec": 175,
+      "publishedAt": "2026-11-27T15:00:30Z",
+      "topics": [
+        "animals",
+        "science"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/l5oLEOtTFFQ/hqdefault.jpg"
+    },
+    {
+      "id": "KOBjIyiGOFk",
+      "title": "Every Episode of Greeking Out Season 5 🎙️⚡ | Podcast Compilation | Nat Geo Kids",
+      "channel": "Nat Geo Kids",
+      "channelId": "UCXVCgDuD_QCkI7gTKU7-tpg",
+      "durationSec": 10534,
+      "publishedAt": "2026-11-27T13:00:08Z",
+      "topics": [
+        "animals",
+        "science"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/KOBjIyiGOFk/hqdefault.jpg"
+    },
+    {
       "id": "QNnIcsgVwrM",
       "title": "Animals and Wildlife of North America | Jack Hanna's Passport Full Episode | Nat Geo Kids",
       "channel": "Nat Geo Kids",
@@ -161,38 +193,6 @@
         "little"
       ],
       "thumbnail": "https://i.ytimg.com/vi/Cjh80E5ihIk/hqdefault.jpg"
-    },
-    {
-      "id": "cuBPUN5p_wM",
-      "title": "The Surprising Secret Lives of Wild Turkeys! 🦃 Animal Card Quest | Nat Geo Kids",
-      "channel": "Nat Geo Kids",
-      "channelId": "UCXVCgDuD_QCkI7gTKU7-tpg",
-      "durationSec": 370,
-      "publishedAt": "2026-11-21T16:00:07Z",
-      "topics": [
-        "animals",
-        "science"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/cuBPUN5p_wM/hqdefault.jpg"
-    },
-    {
-      "id": "OIEwaIhEOJI",
-      "title": "All About Puppies and Dogs 🐶 | 2 Hour Full Episode Compilation | Nat Geo Kids",
-      "channel": "Nat Geo Kids",
-      "channelId": "UCXVCgDuD_QCkI7gTKU7-tpg",
-      "durationSec": 7713,
-      "publishedAt": "2026-11-21T15:00:05Z",
-      "topics": [
-        "animals",
-        "science"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/OIEwaIhEOJI/hqdefault.jpg"
     },
     {
       "id": "BaFlk9rycFk",
@@ -255,6 +255,21 @@
       "thumbnail": "https://i.ytimg.com/vi/J1EmFaMyNaA/hqdefault.jpg"
     },
     {
+      "id": "7F6OXfK9A3Q",
+      "title": "Numberblock 2 Versus the Snakes | Learn to Count for Kids Compilation  | Numberblocks",
+      "channel": "Numberblocks",
+      "channelId": "UCPlwvN0w4qFSP1FllALB92w",
+      "durationSec": 4304,
+      "publishedAt": "2026-11-27T11:00:17Z",
+      "topics": [
+        "maths"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/7F6OXfK9A3Q/hqdefault.jpg"
+    },
+    {
       "id": "38GsL-5VdKU",
       "title": "How to Bake a Pumpkin Pie | Learn to Count for Kids Compilation | Number Cartoon | Numberblocks",
       "channel": "Numberblocks",
@@ -298,21 +313,6 @@
         "little"
       ],
       "thumbnail": "https://i.ytimg.com/vi/SjBgjF_Nv84/hqdefault.jpg"
-    },
-    {
-      "id": "cPB2uaXpzS4",
-      "title": "Rainy Day Maths Fun! 🌧️| Learn to Count for Kids Compilation | Number Cartoon | Numberblocks",
-      "channel": "Numberblocks",
-      "channelId": "UCPlwvN0w4qFSP1FllALB92w",
-      "durationSec": 4288,
-      "publishedAt": "2026-11-21T11:00:06Z",
-      "topics": [
-        "maths"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/cPB2uaXpzS4/hqdefault.jpg"
     },
     {
       "id": "1IVlILdETAw",
@@ -471,6 +471,21 @@
       "thumbnail": "https://i.ytimg.com/vi/ZCu5KGpCl68/hqdefault.jpg"
     },
     {
+      "id": "IAVZ8p_igiU",
+      "title": "Geologists Blame Everything on Theia",
+      "channel": "SciShow",
+      "channelId": "UCZYTClx2T1of7BRZ86-8fow",
+      "durationSec": 906,
+      "publishedAt": "2026-11-27T18:00:08Z",
+      "topics": [
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/IAVZ8p_igiU/hqdefault.jpg"
+    },
+    {
       "id": "VGU3rbyWFTQ",
       "title": "Scientists Found Something Impossible at the Trinity Test Site.",
       "channel": "SciShow",
@@ -514,21 +529,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/AzF_vkhkBrU/hqdefault.jpg"
-    },
-    {
-      "id": "1qrGwX9kQoQ",
-      "title": "The Thing That Made Absinthe Famous Is Not True",
-      "channel": "SciShow",
-      "channelId": "UCZYTClx2T1of7BRZ86-8fow",
-      "durationSec": 784,
-      "publishedAt": "2026-11-23T18:00:28Z",
-      "topics": [
-        "science"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/1qrGwX9kQoQ/hqdefault.jpg"
     },
     {
       "id": "zqzk43bSdDI",
@@ -682,6 +682,25 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/PXbVn-f_wuM/hqdefault.jpg"
+    },
+    {
+      "id": "cmGMlzXlbUQ",
+      "title": "I Caught Lightning in a Bottle",
+      "channel": "Mark Rober",
+      "channelId": "UCY1kMZp36IQSyNx_9h4mpCg",
+      "durationSec": 1503,
+      "publishedAt": "2026-11-27T14:00:02Z",
+      "topics": [
+        "science",
+        "engineering"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "flags": [
+        "supervision"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/cmGMlzXlbUQ/hqdefault.jpg"
     },
     {
       "id": "gicEOsFtMxw",
@@ -2887,6 +2906,23 @@
       "thumbnail": "https://i.ytimg.com/vi/BbzCA0Lgf3Y/hqdefault.jpg"
     },
     {
+      "id": "b2mxl0Q_fr4",
+      "title": "Tablecloth Whip-off Secret - Thanksgiving Science with Steve Spangler",
+      "channel": "Sick Science!",
+      "channelId": "UCDom90xOqP4avehFjSJO6NA",
+      "durationSec": 260,
+      "publishedAt": "2026-11-26T21:05:34Z",
+      "topics": [
+        "science",
+        "making"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/b2mxl0Q_fr4/hqdefault.jpg"
+    },
+    {
       "id": "tvSweb9t6u4",
       "title": "Climbing Apple Mystery - STEM Magic Trick",
       "channel": "Sick Science!",
@@ -3072,23 +3108,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/1aT5K0TTBgE/hqdefault.jpg"
-    },
-    {
-      "id": "DXS4htuCKXg",
-      "title": "How Do You Get A Golf Ball Out of A Baby Food Jar?",
-      "channel": "Sick Science!",
-      "channelId": "UCDom90xOqP4avehFjSJO6NA",
-      "durationSec": 130,
-      "publishedAt": "2026-05-21T18:52:21Z",
-      "topics": [
-        "science",
-        "making"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/DXS4htuCKXg/hqdefault.jpg"
     },
     {
       "id": "tDrGZPt4qIY",
@@ -3599,6 +3618,21 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/5glksNTKkZI/hqdefault.jpg"
+    },
+    {
+      "id": "AfQO0LBwnLM",
+      "title": "Making a Tiny Star in a Bottle",
+      "channel": "The Action Lab",
+      "channelId": "UC1VLQPn9cYSqx8plbk9RxxQ",
+      "durationSec": 613,
+      "publishedAt": "2026-11-27T16:02:08Z",
+      "topics": [
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/AfQO0LBwnLM/hqdefault.jpg"
     },
     {
       "id": "5LKDAW7Xx4Y",
@@ -6296,22 +6330,6 @@
       "thumbnail": "https://i.ytimg.com/vi/cUCvp7xGPks/hqdefault.jpg"
     },
     {
-      "id": "NtiKxO8xIbY",
-      "title": "What's Up: June 2026 Skywatching Tips from NASA",
-      "channel": "NASA Jet Propulsion Laboratory",
-      "channelId": "UCryGec9PdUCLjpJW2mgCuLw",
-      "durationSec": 230,
-      "publishedAt": "2026-06-01T17:45:50Z",
-      "topics": [
-        "space",
-        "engineering"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/NtiKxO8xIbY/hqdefault.jpg"
-    },
-    {
       "id": "lGgcxqjEqCA",
       "title": "Revealing Hera's first images of asteroid Dimorphos",
       "channel": "European Space Agency, ESA",
@@ -6520,21 +6538,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/245Ryi8d4cg/hqdefault.jpg"
-    },
-    {
-      "id": "FSSKss9aKnU",
-      "title": "Beyond the airlock: Sophie Adenot's three spacewalks",
-      "channel": "European Space Agency, ESA",
-      "channelId": "UCIBaDdAbGlFDeS33shmlD0A",
-      "durationSec": 528,
-      "publishedAt": "2026-10-02T13:39:25Z",
-      "topics": [
-        "space"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/FSSKss9aKnU/hqdefault.jpg"
     },
     {
       "id": "oe7ot4_DI1I",
@@ -9700,6 +9703,21 @@
       "thumbnail": "https://i.ytimg.com/vi/aWAOqzudtSM/hqdefault.jpg"
     },
     {
+      "id": "89if7xk8DL0",
+      "title": "Lighting The Menorah 🕎 Hanukkah Song for Kids | Laurie Berkner",
+      "channel": "The Laurie Berkner Band - Kids Songs",
+      "channelId": "UCQ9o9F8HYJV85XjciUS86_Q",
+      "durationSec": 196,
+      "publishedAt": "2026-11-27T11:03:45Z",
+      "topics": [
+        "music"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/89if7xk8DL0/hqdefault.jpg"
+    },
+    {
       "id": "XMYM6sbEGZY",
       "title": "Laurie Berkner Tonies Songs 🦖 Sing & Dance Along! | 100 Minutes",
       "channel": "The Laurie Berkner Band - Kids Songs",
@@ -9893,21 +9911,6 @@
         "little"
       ],
       "thumbnail": "https://i.ytimg.com/vi/326ieJlmQzk/hqdefault.jpg"
-    },
-    {
-      "id": "AC0iqKFKNTk",
-      "title": "A Laurie Berkner Museum Special 🐝🏛️🦖 1 Hour of Music, Learning & Dino Fun for Kids",
-      "channel": "The Laurie Berkner Band - Kids Songs",
-      "channelId": "UCQ9o9F8HYJV85XjciUS86_Q",
-      "durationSec": 3371,
-      "publishedAt": "2026-08-07T10:04:20Z",
-      "topics": [
-        "music"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/AC0iqKFKNTk/hqdefault.jpg"
     },
     {
       "id": "RideGnMsclM",
@@ -11254,6 +11257,22 @@
       "thumbnail": "https://i.ytimg.com/vi/sLEXOcO_PUQ/hqdefault.jpg"
     },
     {
+      "id": "a1FPoOtrEQk",
+      "title": "Vowel synthesis is fascinating",
+      "channel": "ANDREW HUANG",
+      "channelId": "UCdcemy56JtVTrsFIOoqvV8g",
+      "durationSec": 1046,
+      "publishedAt": "2026-11-27T18:07:50Z",
+      "topics": [
+        "music",
+        "making"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/a1FPoOtrEQk/hqdefault.jpg"
+    },
+    {
       "id": "QGWtRUTQsNk",
       "title": "Banger experimental drum machine (CyDrums ′)",
       "channel": "ANDREW HUANG",
@@ -11430,22 +11449,6 @@
       "thumbnail": "https://i.ytimg.com/vi/AxK73p-uv1U/hqdefault.jpg"
     },
     {
-      "id": "mYcTWyQCcLQ",
-      "title": "4 PRODUCERS REMIX THE SAME SONG (ft. Son Lux, Swarvy, Kaitlyn Aurelia Smith, Shigeto)",
-      "channel": "ANDREW HUANG",
-      "channelId": "UCdcemy56JtVTrsFIOoqvV8g",
-      "durationSec": 1429,
-      "publishedAt": "2026-08-06T20:45:06Z",
-      "topics": [
-        "music",
-        "making"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/mYcTWyQCcLQ/hqdefault.jpg"
-    },
-    {
       "id": "blWnqtNxhYA",
       "title": "10 Levels of Advanced Listening",
       "channel": "Nahre Sol",
@@ -11556,6 +11559,23 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/jb9OPM1tUfk/hqdefault.jpg"
+    },
+    {
+      "id": "JYXgamylI00",
+      "title": "How to Draw a Christmas Cake Pop 🎁 Cute Holiday Dessert Art",
+      "channel": "Draw So Cute",
+      "channelId": "UC3dEvA1is6-0_yuei9iCdEw",
+      "durationSec": 520,
+      "publishedAt": "2026-11-27T15:00:32Z",
+      "topics": [
+        "art",
+        "making"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/JYXgamylI00/hqdefault.jpg"
     },
     {
       "id": "y25FC7yDWIM",
@@ -12355,23 +12375,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/zJIecBy0iUs/hqdefault.jpg"
-    },
-    {
-      "id": "X-EYOfC6AzU",
-      "title": "How to Draw an Alien | Toy Story",
-      "channel": "Draw So Cute",
-      "channelId": "UC3dEvA1is6-0_yuei9iCdEw",
-      "durationSec": 856,
-      "publishedAt": "2026-09-15T14:00:39Z",
-      "topics": [
-        "art",
-        "making"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/X-EYOfC6AzU/hqdefault.jpg"
     },
     {
       "id": "MB7wxd8Bz18",
@@ -13174,6 +13177,38 @@
       "thumbnail": "https://i.ytimg.com/vi/m6KAfSgFaAM/hqdefault.jpg"
     },
     {
+      "id": "oO8WwLGTJzM",
+      "title": "How to Draw a Bear Cub | LIVE Sketch Workshop",
+      "channel": "Cartooning Club How to Draw",
+      "channelId": "UC-biucJWhM8HwjsQ96uoIUw",
+      "durationSec": 4736,
+      "publishedAt": "2026-11-27T15:43:23Z",
+      "topics": [
+        "art",
+        "making"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/oO8WwLGTJzM/hqdefault.jpg"
+    },
+    {
+      "id": "J32lMJ_m_x0",
+      "title": "How to Draw a Koala | Step-by-Step Drawing Tutorial",
+      "channel": "Cartooning Club How to Draw",
+      "channelId": "UC-biucJWhM8HwjsQ96uoIUw",
+      "durationSec": 3457,
+      "publishedAt": "2026-11-27T14:00:10Z",
+      "topics": [
+        "art",
+        "making"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/J32lMJ_m_x0/hqdefault.jpg"
+    },
+    {
       "id": "Gc75eicqiB4",
       "title": "How to Draw Mysterio | Step-by-Step Drawing Tutorial",
       "channel": "Cartooning Club How to Draw",
@@ -13431,7 +13466,7 @@
     },
     {
       "id": "gDdbpl3pOrY",
-      "title": "How to Draw a Realistic Lynx Cat (Drawing Fur for Beginners)",
+      "title": "How to Draw a Realistic Lynx Cat (Step-by-Step Drawing Tutorial for Beginners)",
       "channel": "Cartooning Club How to Draw",
       "channelId": "UC-biucJWhM8HwjsQ96uoIUw",
       "durationSec": 1256,
@@ -13479,7 +13514,7 @@
     },
     {
       "id": "sS3t_l2ASHs",
-      "title": "How to Draw Puss N Boots (Step-by-Step Realistic Sketch Tutorial)",
+      "title": "How to Draw Puss N Boots (Step-by-Step Drawing Tutorial for Beginners)",
       "channel": "Cartooning Club How to Draw",
       "channelId": "UC-biucJWhM8HwjsQ96uoIUw",
       "durationSec": 1292,
@@ -13607,7 +13642,7 @@
     },
     {
       "id": "IR2JVARaeZU",
-      "title": "How to Draw Light Fury | Graphite Pencil Sketch Tutorial",
+      "title": "How to Draw Light Fury (Step-by-Step Drawing Tutorial for Beginners)",
       "channel": "Cartooning Club How to Draw",
       "channelId": "UC-biucJWhM8HwjsQ96uoIUw",
       "durationSec": 1237,
@@ -13860,54 +13895,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/Hmh3nfE_zzA/hqdefault.jpg"
-    },
-    {
-      "id": "_qOaQZPzn3A",
-      "title": "How to Draw the Joker | Step-by-Step Drawing Tutorial",
-      "channel": "Cartooning Club How to Draw",
-      "channelId": "UC-biucJWhM8HwjsQ96uoIUw",
-      "durationSec": 482,
-      "publishedAt": "2026-10-15T14:00:37Z",
-      "topics": [
-        "art",
-        "making"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/_qOaQZPzn3A/hqdefault.jpg"
-    },
-    {
-      "id": "iwmicjLv3N4",
-      "title": "How to Draw Ghostface | White Charcoal Sketch Tutorial",
-      "channel": "Cartooning Club How to Draw",
-      "channelId": "UC-biucJWhM8HwjsQ96uoIUw",
-      "durationSec": 717,
-      "publishedAt": "2026-10-14T14:00:05Z",
-      "topics": [
-        "art",
-        "making"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/iwmicjLv3N4/hqdefault.jpg"
-    },
-    {
-      "id": "APVwmmAhPSw",
-      "title": "How to Draw Shadow the Hedgehog | Step-by-Step Drawing Tutorial",
-      "channel": "Cartooning Club How to Draw",
-      "channelId": "UC-biucJWhM8HwjsQ96uoIUw",
-      "durationSec": 504,
-      "publishedAt": "2026-10-13T14:00:27Z",
-      "topics": [
-        "art",
-        "making"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/APVwmmAhPSw/hqdefault.jpg"
     },
     {
       "id": "95UsFLKoDqM",
@@ -18282,6 +18269,23 @@
       "thumbnail": "https://i.ytimg.com/vi/5UTXz9Xclr4/hqdefault.jpg"
     },
     {
+      "id": "9XRzGfDcJO0",
+      "title": "Feast of the Deep | Nautilus Live",
+      "channel": "EVNautilus",
+      "channelId": "UC1KOOWHthbQVXH2kZue3_xA",
+      "durationSec": 299,
+      "publishedAt": "2026-11-27T17:00:27Z",
+      "topics": [
+        "nature",
+        "exploration"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/9XRzGfDcJO0/hqdefault.jpg"
+    },
+    {
       "id": "MfuLt7KUBNU",
       "title": "Long-Legged Isopods of the Mariana Abyssal Plain | Nautilus Live",
       "channel": "EVNautilus",
@@ -18705,23 +18709,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/VKe--6--JTs/hqdefault.jpg"
-    },
-    {
-      "id": "aw83pKNs3gA",
-      "title": "Deep-Sea Biodiversity on McDonnell Seamount | Nautilus Live",
-      "channel": "EVNautilus",
-      "channelId": "UC1KOOWHthbQVXH2kZue3_xA",
-      "durationSec": 327,
-      "publishedAt": "2026-09-07T19:00:22Z",
-      "topics": [
-        "nature",
-        "exploration"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/aw83pKNs3gA/hqdefault.jpg"
     },
     {
       "id": "AhTg2o-lLxc",
@@ -20479,6 +20466,22 @@
       "thumbnail": "https://i.ytimg.com/vi/FP735j4Nk-s/hqdefault.jpg"
     },
     {
+      "id": "R2dFO3cBmj8",
+      "title": "Can Handyman Hal find the Perfect Christmas Tree?",
+      "channel": "Handyman Hal",
+      "channelId": "UC8KyyhPfL4v2sZGbcGg7b7Q",
+      "durationSec": 5312,
+      "publishedAt": "2026-11-27T11:00:35Z",
+      "topics": [
+        "making",
+        "engineering"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/R2dFO3cBmj8/hqdefault.jpg"
+    },
+    {
       "id": "jwEo202WnUw",
       "title": "AWESOME Christmas Mini Golf Adventure! 🎅⛳",
       "channel": "Handyman Hal",
@@ -21245,22 +21248,6 @@
         "little"
       ],
       "thumbnail": "https://i.ytimg.com/vi/qnJb6Ceg9ZY/hqdefault.jpg"
-    },
-    {
-      "id": "-9SNnSo9FgQ",
-      "title": "Handyman Hal Explores Big Air! 🐂 Mechanical Bull, Inflatables & Fun!",
-      "channel": "Handyman Hal",
-      "channelId": "UC8KyyhPfL4v2sZGbcGg7b7Q",
-      "durationSec": 1677,
-      "publishedAt": "2026-06-06T10:15:04Z",
-      "topics": [
-        "making",
-        "engineering"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/-9SNnSo9FgQ/hqdefault.jpg"
     },
     {
       "id": "0AqxJn_iLxs",
@@ -25843,6 +25830,22 @@
       "thumbnail": "https://i.ytimg.com/vi/UZAiUJKSqfU/hqdefault.jpg"
     },
     {
+      "id": "jm4IupnOnOw",
+      "title": "Letter to Korea",
+      "channel": "Geography Now",
+      "channelId": "UCmmPgObSUPw1HL2lq6H4ffA",
+      "durationSec": 2284,
+      "publishedAt": "2026-11-27T15:05:24Z",
+      "topics": [
+        "geography",
+        "exploration"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/jm4IupnOnOw/hqdefault.jpg"
+    },
+    {
       "id": "N5nGfXbGmek",
       "title": "KOREA SERIES CHAPTER 3: the SEOUL train!",
       "channel": "Geography Now",
@@ -26321,22 +26324,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/kXzSCxW873g/hqdefault.jpg"
-    },
-    {
-      "id": "pC16IqA6mq8",
-      "title": "How geography made me a little b****",
-      "channel": "Geography Now",
-      "channelId": "UCmmPgObSUPw1HL2lq6H4ffA",
-      "durationSec": 138,
-      "publishedAt": "2026-09-29T07:57:50Z",
-      "topics": [
-        "geography",
-        "exploration"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/pC16IqA6mq8/hqdefault.jpg"
     },
     {
       "id": "3G1wZPeZZTQ",
@@ -27711,22 +27698,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/DyWh7jvH7Q0/hqdefault.jpg"
-    },
-    {
-      "id": "_-ZuS0m1Oso",
-      "title": "Discovering the earliest evidence of human-made fire",
-      "channel": "The British Museum",
-      "channelId": "UCvpQ-l09fCVxJd3urZbxzHg",
-      "durationSec": 974,
-      "publishedAt": "2026-05-21T15:30:14Z",
-      "topics": [
-        "history",
-        "art"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/_-ZuS0m1Oso/hqdefault.jpg"
     },
     {
       "id": "_tYB3ob946Q",
@@ -29378,6 +29349,21 @@
       "thumbnail": "https://i.ytimg.com/vi/UXdJfDWwt0A/hqdefault.jpg"
     },
     {
+      "id": "HhzHr2oi8O8",
+      "title": "When Santa Wrote Back | Christmas Read Aloud for Kids | FUNNY Read Aloud",
+      "channel": "KidTimeStoryTime",
+      "channelId": "UCEPsNDUhUm-7yZhUjQQNqwQ",
+      "durationSec": 718,
+      "publishedAt": "2026-11-27T13:30:13Z",
+      "topics": [
+        "reading"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/HhzHr2oi8O8/hqdefault.jpg"
+    },
+    {
       "id": "1QeLmCmcFBU",
       "title": "A Letter for Bob | Road Trip Read Aloud | Big Feelings | Native American Heritage",
       "channel": "KidTimeStoryTime",
@@ -30113,21 +30099,6 @@
       "thumbnail": "https://i.ytimg.com/vi/WXXY4vueS9U/hqdefault.jpg"
     },
     {
-      "id": "bNFbkyUgznY",
-      "title": "LAST DAY BLUES | Last Day read aloud",
-      "channel": "KidTimeStoryTime",
-      "channelId": "UCEPsNDUhUm-7yZhUjQQNqwQ",
-      "durationSec": 599,
-      "publishedAt": "2026-05-12T13:00:02Z",
-      "topics": [
-        "reading"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/bNFbkyUgznY/hqdefault.jpg"
-    },
-    {
       "id": "P0j42-rY5mA",
       "title": "Koko the Kangaroo and the Big-Hearted Belongings! | Read Aloud Kids Book | Vooks Narrated Storybooks",
       "channel": "Vooks - Stories and Read Alouds for Kids",
@@ -30683,6 +30654,21 @@
       "thumbnail": "https://i.ytimg.com/vi/qrwiX7Dc60Q/hqdefault.jpg"
     },
     {
+      "id": "JHapKlCIeDM",
+      "title": "Foody Feasts in Alphaland | Learn to Read and Spell for Kids Compilation | Alphablocks",
+      "channel": "Alphablocks",
+      "channelId": "UC_qs3c0ehDvZkbiEbOj6Drg",
+      "durationSec": 2475,
+      "publishedAt": "2026-11-27T12:00:29Z",
+      "topics": [
+        "reading"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/JHapKlCIeDM/hqdefault.jpg"
+    },
+    {
       "id": "DmGNBJzWvBU",
       "title": "Reading Songs to Consolidate Early Learning Skills | Learn to Read and Spell for Kids | Alphablocks",
       "channel": "Alphablocks",
@@ -31236,6 +31222,23 @@
         "little"
       ],
       "thumbnail": "https://i.ytimg.com/vi/QOihCOo897g/hqdefault.jpg"
+    },
+    {
+      "id": "rHGeGcjsUng",
+      "title": "Letter S | Get Ready, Get Set, Let's Learn About the Alphabet! | Jack Hartmann",
+      "channel": "Jack Hartmann Kids Music Channel",
+      "channelId": "UCVcQH8A634mauPrGbWs7QlQ",
+      "durationSec": 214,
+      "publishedAt": "2026-11-27T00:00:05Z",
+      "topics": [
+        "reading",
+        "music",
+        "maths"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/rHGeGcjsUng/hqdefault.jpg"
     },
     {
       "id": "YXauLrLAMaE",
@@ -32035,23 +32038,6 @@
         "little"
       ],
       "thumbnail": "https://i.ytimg.com/vi/W_wwQnV6M94/hqdefault.jpg"
-    },
-    {
-      "id": "JLDNHNt4BnM",
-      "title": "Summertime Fitness Fun! | 30+ Minutes of Fun Exercise Songs for Kids  Jack Hartmann",
-      "channel": "Jack Hartmann Kids Music Channel",
-      "channelId": "UCVcQH8A634mauPrGbWs7QlQ",
-      "durationSec": 2283,
-      "publishedAt": "2026-06-03T23:00:23Z",
-      "topics": [
-        "reading",
-        "music",
-        "maths"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/JLDNHNt4BnM/hqdefault.jpg"
     },
     {
       "id": "E10rppnsG1k",
@@ -39738,6 +39724,22 @@
       "thumbnail": "https://i.ytimg.com/vi/4zWNebr3iSc/hqdefault.jpg"
     },
     {
+      "id": "g4db6fOcqyI",
+      "title": "Should Twin Cities Merge?",
+      "channel": "City Beautiful",
+      "channelId": "UCGc8ZVCsrR3dAuhvUbkbToQ",
+      "durationSec": 704,
+      "publishedAt": "2026-11-27T18:09:17Z",
+      "topics": [
+        "geography",
+        "history"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/g4db6fOcqyI/hqdefault.jpg"
+    },
+    {
       "id": "zJnQE9O58nc",
       "title": "How to Be the Best Trick or Treat Neighborhood",
       "channel": "City Beautiful",
@@ -40506,20 +40508,20 @@
       "thumbnail": "https://i.ytimg.com/vi/5E1i0_K-apE/hqdefault.jpg"
     },
     {
-      "id": "78ffidI7__E",
-      "title": "How Much Should a Parking Space Cost?",
-      "channel": "City Beautiful",
-      "channelId": "UCGc8ZVCsrR3dAuhvUbkbToQ",
-      "durationSec": 643,
-      "publishedAt": "2024-01-20T17:00:04Z",
+      "id": "a9mmLTrOnwA",
+      "title": "The London Museum is back, so what's it like?",
+      "channel": "Jago Hazzard",
+      "channelId": "UCcHuNKYzVMc06FXqsBEAV3A",
+      "durationSec": 663,
+      "publishedAt": "2026-11-27T17:30:37Z",
       "topics": [
-        "geography",
-        "history"
+        "history",
+        "geography"
       ],
       "profiles": [
         "big"
       ],
-      "thumbnail": "https://i.ytimg.com/vi/78ffidI7__E/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/a9mmLTrOnwA/hqdefault.jpg"
     },
     {
       "id": "ND0paxXe_C4",
@@ -41306,22 +41308,6 @@
       "thumbnail": "https://i.ytimg.com/vi/GhfEAZYm3Q0/hqdefault.jpg"
     },
     {
-      "id": "QHZH-sQ7dyo",
-      "title": "The Award-Winning White City Station",
-      "channel": "Jago Hazzard",
-      "channelId": "UCcHuNKYzVMc06FXqsBEAV3A",
-      "durationSec": 736,
-      "publishedAt": "2026-08-02T11:00:33Z",
-      "topics": [
-        "history",
-        "geography"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/QHZH-sQ7dyo/hqdefault.jpg"
-    },
-    {
       "id": "NdGheCcLj-E",
       "title": "They Build a \"Car-Lite\" Town that's Full of Cars",
       "channel": "Not Just Bikes",
@@ -41624,22 +41610,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/BXDP9WQe0io/hqdefault.jpg"
-    },
-    {
-      "id": "c2MGauUIUNc",
-      "title": "This Train Just Keeps Getting Worse 😢 (VIA Rail \"The Ocean\")",
-      "channel": "Not Just Bikes",
-      "channelId": "UC0intLFzLaudFG-xAvUEO-A",
-      "durationSec": 1983,
-      "publishedAt": "2025-09-14T09:53:31Z",
-      "topics": [
-        "geography",
-        "engineering"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/c2MGauUIUNc/hqdefault.jpg"
     },
     {
       "id": "5fK-HtlpS9I",
@@ -43902,6 +43872,22 @@
       "thumbnail": "https://i.ytimg.com/vi/peO2vGTHBwQ/hqdefault.jpg"
     },
     {
+      "id": "U-RBNbr5TYA",
+      "title": "Claude is Detecting Exoplanets?!",
+      "channel": "Cool Worlds",
+      "channelId": "UCGHZpIpAWJQ-Jy_CeCdXhMA",
+      "durationSec": 1423,
+      "publishedAt": "2026-11-27T17:02:19Z",
+      "topics": [
+        "space",
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/U-RBNbr5TYA/hqdefault.jpg"
+    },
+    {
       "id": "Dwidf59KOvo",
       "title": "Our Solar System is Mixing with Others",
       "channel": "Cool Worlds",
@@ -44508,22 +44494,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/5KkNXUlpK10/hqdefault.jpg"
-    },
-    {
-      "id": "tR1HTNtcYw0",
-      "title": "Do \"Grabby Aliens\" Solve The Fermi Paradox?",
-      "channel": "Cool Worlds",
-      "channelId": "UCGHZpIpAWJQ-Jy_CeCdXhMA",
-      "durationSec": 1183,
-      "publishedAt": "2024-08-30T16:00:03Z",
-      "topics": [
-        "space",
-        "science"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/tR1HTNtcYw0/hqdefault.jpg"
     },
     {
       "id": "dX-OFJU867E",
@@ -45324,6 +45294,22 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/yafXRmvls8M/hqdefault.jpg"
+    },
+    {
+      "id": "9RX22wW9c_c",
+      "title": "Why you should believe the hype for the EXTREMELY LARGE TELESCOPE (visiting ESO HQ!)",
+      "channel": "Dr. Becky",
+      "channelId": "UCYNbYGl89UUowy8oXkipC-Q",
+      "durationSec": 1513,
+      "publishedAt": "2026-11-26T20:00:20Z",
+      "topics": [
+        "space",
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/9RX22wW9c_c/hqdefault.jpg"
     },
     {
       "id": "vwrqAnIse3I",
@@ -47714,6 +47700,21 @@
       "thumbnail": "https://i.ytimg.com/vi/jvebwDXmBSw/hqdefault.jpg"
     },
     {
+      "id": "jG7xARbecIU",
+      "title": "Rounding Out the Elephant Graveyard Trilogy",
+      "channel": "Professor Dave Explains",
+      "channelId": "UC0cd_-e49hZpWLH3UIwoWRA",
+      "durationSec": 5131,
+      "publishedAt": "2026-11-27T15:00:14Z",
+      "topics": [
+        "science"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/jG7xARbecIU/hqdefault.jpg"
+    },
+    {
       "id": "RM74eJp4Ccc",
       "title": "Antipsychotics: Mechanisms of Action",
       "channel": "Professor Dave Explains",
@@ -48449,19 +48450,20 @@
       "thumbnail": "https://i.ytimg.com/vi/Ntz3-r_yhp0/hqdefault.jpg"
     },
     {
-      "id": "0sT1i3pMf58",
-      "title": "I Found the Most Delusional Conspiracy Bro",
-      "channel": "Professor Dave Explains",
-      "channelId": "UC0cd_-e49hZpWLH3UIwoWRA",
-      "durationSec": 6956,
-      "publishedAt": "2026-09-08T19:08:03Z",
+      "id": "FdKWeB1RYko",
+      "title": "If I Started Roblox Dev Again, I'd Do This",
+      "channel": "AlvinBlox",
+      "channelId": "UCp1R0TBvgM7gj0rwTYULmSA",
+      "durationSec": 643,
+      "publishedAt": "2026-11-26T19:57:13Z",
       "topics": [
-        "science"
+        "coding",
+        "tech"
       ],
       "profiles": [
         "big"
       ],
-      "thumbnail": "https://i.ytimg.com/vi/0sT1i3pMf58/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/FdKWeB1RYko/hqdefault.jpg"
     },
     {
       "id": "BjyJlN1npdw",
@@ -49230,22 +49232,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/hmaewyY0vHo/hqdefault.jpg"
-    },
-    {
-      "id": "woj6Ya4hLyU",
-      "title": "HOW TO MAKE A STORY GAME ON ROBLOX",
-      "channel": "AlvinBlox",
-      "channelId": "UCp1R0TBvgM7gj0rwTYULmSA",
-      "durationSec": 233,
-      "publishedAt": "2021-10-24T16:20:31Z",
-      "topics": [
-        "coding",
-        "tech"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/woj6Ya4hLyU/hqdefault.jpg"
     },
     {
       "id": "YngkpicQJqk",
@@ -50640,6 +50626,22 @@
       "thumbnail": "https://i.ytimg.com/vi/j_gpTFe1050/hqdefault.jpg"
     },
     {
+      "id": "QE-egKoAnAo",
+      "title": "FINAL LIFE: Episode 5 - ACCEPT YOUR FATE",
+      "channel": "Mumbo Jumbo",
+      "channelId": "UChFur_NwVSbUozOcF_F2kMg",
+      "durationSec": 2614,
+      "publishedAt": "2026-11-27T15:00:05Z",
+      "topics": [
+        "engineering",
+        "making"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/QE-egKoAnAo/hqdefault.jpg"
+    },
+    {
       "id": "mMeM8kY_tu8",
       "title": "Hermitcraft 11: Episode 32 - it's too big",
       "channel": "Mumbo Jumbo",
@@ -51390,22 +51392,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/WeApNhKS2a0/hqdefault.jpg"
-    },
-    {
-      "id": "Eb5HU_CIpag",
-      "title": "I completed Minecraft for the first time",
-      "channel": "Mumbo Jumbo",
-      "channelId": "UChFur_NwVSbUozOcF_F2kMg",
-      "durationSec": 2360,
-      "publishedAt": "2025-10-30T20:00:20Z",
-      "topics": [
-        "engineering",
-        "making"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/Eb5HU_CIpag/hqdefault.jpg"
     },
     {
       "id": "R034eN4xiPo",
@@ -53195,6 +53181,22 @@
       "thumbnail": "https://i.ytimg.com/vi/y-RRDu4OVHQ/hqdefault.jpg"
     },
     {
+      "id": "nuLpBnTiyGY",
+      "title": "Debunking party tricks that backfire!",
+      "channel": "How To Cook That",
+      "channelId": "UCsP7Bpw36J666Fct5M8u-ZA",
+      "durationSec": 1152,
+      "publishedAt": "2026-11-27T08:30:01Z",
+      "topics": [
+        "science",
+        "making"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/nuLpBnTiyGY/hqdefault.jpg"
+    },
+    {
       "id": "bQ3fAYLBSwQ",
       "title": "These Viral Videos Are Not What They Seem",
       "channel": "How To Cook That",
@@ -53945,22 +53947,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/s3kOcM8rw1M/hqdefault.jpg"
-    },
-    {
-      "id": "LT7N0WaIMh0",
-      "title": "Debunking Dangerous Tik Tok recipe & BPA! How To Cook That Ann Reardon",
-      "channel": "How To Cook That",
-      "channelId": "UCsP7Bpw36J666Fct5M8u-ZA",
-      "durationSec": 886,
-      "publishedAt": "2024-05-17T09:30:36Z",
-      "topics": [
-        "science",
-        "making"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/LT7N0WaIMh0/hqdefault.jpg"
     },
     {
       "id": "kGgp8UaAuKc",
@@ -83050,6 +83036,22 @@
       "thumbnail": "https://i.ytimg.com/vi/H2hJNAqpsQM/hqdefault.jpg"
     },
     {
+      "id": "aT8jHJG5STg",
+      "title": "Peep and Chirp After a LONG Night | Peep and the Big Wide World",
+      "channel": "Peep and the Big Wide World",
+      "channelId": "UCPq6g4Q4-SFMIJ048IXmupA",
+      "durationSec": 3802,
+      "publishedAt": "2026-11-27T16:00:06Z",
+      "topics": [
+        "science",
+        "nature"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/aT8jHJG5STg/hqdefault.jpg"
+    },
+    {
       "id": "g-AlOBLZZo4",
       "title": "Chirp Wishes to be Bigger | Peep and the Big Wide World",
       "channel": "Peep and the Big Wide World",
@@ -83834,22 +83836,6 @@
       "thumbnail": "https://i.ytimg.com/vi/uJAHiavF2Qg/hqdefault.jpg"
     },
     {
-      "id": "Cg2oTRyp78g",
-      "title": "Door Tour | Peep and the Big Wide World",
-      "channel": "Peep and the Big Wide World",
-      "channelId": "UCPq6g4Q4-SFMIJ048IXmupA",
-      "durationSec": 645,
-      "publishedAt": "2026-10-08T15:00:14Z",
-      "topics": [
-        "science",
-        "nature"
-      ],
-      "profiles": [
-        "little"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/Cg2oTRyp78g/hqdefault.jpg"
-    },
-    {
       "id": "FkRCfWudCW0",
       "title": "Caitie & Tobee at the Santa Clause Parade!",
       "channel": "Super Simple Play with Caitie!",
@@ -83867,7 +83853,7 @@
     },
     {
       "id": "Go-pRQ8RkSo",
-      "title": "Let's visit a Winter Village! 🎅 | Christmas fun for kids! | Super Simple Play",
+      "title": "Let's visit a Winter Village! 🎅 | Christmas fun for kids at @Distillery_TO  | Super Simple Play",
       "channel": "Super Simple Play with Caitie!",
       "channelId": "UCxG6Tbopv4XcHfem65bgFeg",
       "durationSec": 471,
@@ -84835,6 +84821,24 @@
       "thumbnail": "https://i.ytimg.com/vi/bilYblVD-3M/hqdefault.jpg"
     },
     {
+      "id": "JN55JgLlaKE",
+      "title": "Turn an old Apple Watch into a mini iPod #adafruit #3dprinting",
+      "channel": "Adafruit Industries",
+      "channelId": "UCpOlOeQjj7EsVnDh3zuCgsA",
+      "durationSec": 145,
+      "publishedAt": "2026-11-27T12:30:53Z",
+      "topics": [
+        "making",
+        "tech",
+        "engineering",
+        "coding"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/JN55JgLlaKE/hqdefault.jpg"
+    },
+    {
       "id": "lvfHjz2d-LQ",
       "title": "JP’s Product Pick of the Week 11/24/26",
       "channel": "Adafruit Industries",
@@ -85249,42 +85253,6 @@
       "thumbnail": "https://i.ytimg.com/vi/hbiF7bFxssY/hqdefault.jpg"
     },
     {
-      "id": "dxIXYJ4_oo0",
-      "title": "Makerfaire Orlando 2026 🤖",
-      "channel": "Adafruit Industries",
-      "channelId": "UCpOlOeQjj7EsVnDh3zuCgsA",
-      "durationSec": 174,
-      "publishedAt": "2026-11-11T12:42:46Z",
-      "topics": [
-        "making",
-        "tech",
-        "engineering",
-        "coding"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/dxIXYJ4_oo0/hqdefault.jpg"
-    },
-    {
-      "id": "zjxLKw-ATE4",
-      "title": "JP’s Product Pick of the Week 11/10/26",
-      "channel": "Adafruit Industries",
-      "channelId": "UCpOlOeQjj7EsVnDh3zuCgsA",
-      "durationSec": 1186,
-      "publishedAt": "2026-11-11T08:28:50Z",
-      "topics": [
-        "making",
-        "tech",
-        "engineering",
-        "coding"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/zjxLKw-ATE4/hqdefault.jpg"
-    },
-    {
       "id": "NL65Awuv8gU",
       "title": "Atlas on a Roll | Classical Motor Controls and Whole-Body RL | Boston Dynamics",
       "channel": "Boston Dynamics",
@@ -85557,6 +85525,22 @@
       "thumbnail": "https://i.ytimg.com/vi/RpvSMqOT7ls/hqdefault.jpg"
     },
     {
+      "id": "klyUCpCmgz8",
+      "title": "Engineers vs Red Bull's Craziest Race",
+      "channel": "CrunchLabs",
+      "channelId": "UC513PdAP2-jWkJunTh5kXRw",
+      "durationSec": 725,
+      "publishedAt": "2026-11-27T14:00:13Z",
+      "topics": [
+        "engineering",
+        "making"
+      ],
+      "profiles": [
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/klyUCpCmgz8/hqdefault.jpg"
+    },
+    {
       "id": "mvtPrx57G64",
       "title": "What Stops a 400 MPH Golf Ball?",
       "channel": "CrunchLabs",
@@ -85795,22 +85779,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/oUIk1KLFXOY/hqdefault.jpg"
-    },
-    {
-      "id": "xqedO-SoLeA",
-      "title": "Testing Zero Gravity w/Adley!",
-      "channel": "CrunchLabs",
-      "channelId": "UC513PdAP2-jWkJunTh5kXRw",
-      "durationSec": 1361,
-      "publishedAt": "2025-07-12T15:01:30Z",
-      "topics": [
-        "engineering",
-        "making"
-      ],
-      "profiles": [
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/xqedO-SoLeA/hqdefault.jpg"
     },
     {
       "id": "Tu8ajyDQeFk",
@@ -86938,6 +86906,91 @@
       "thumbnail": "https://i.ytimg.com/vi/af5_QCafS8o/hqdefault.jpg"
     },
     {
+      "id": "dQ37PQkq-zw",
+      "title": "Kids Yoga LIVE 🌟 | Fun Yoga Adventures & Movement for Kids",
+      "channel": "Cosmic Kids Yoga",
+      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
+      "durationSec": 42900,
+      "publishedAt": "2026-11-27T15:26:59Z",
+      "topics": [
+        "reading",
+        "nature"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/dQ37PQkq-zw/hqdefault.jpg"
+    },
+    {
+      "id": "50mx75pr7mE",
+      "title": "Christmas Kids Yoga 🎄 | 45 Minutes Christmas Yoga Adventure | Cosmic Kids",
+      "channel": "Cosmic Kids Yoga",
+      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
+      "durationSec": 2688,
+      "publishedAt": "2026-11-27T15:00:19Z",
+      "topics": [
+        "reading",
+        "nature"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/50mx75pr7mE/hqdefault.jpg"
+    },
+    {
+      "id": "sHwjTnHVRBo",
+      "title": "Autumn Kids Yoga LIVE! 🍂 Fall Yoga Adventure Compilation | Cosmic Kids",
+      "channel": "Cosmic Kids Yoga",
+      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
+      "durationSec": 42899,
+      "publishedAt": "2026-11-27T12:09:37Z",
+      "topics": [
+        "reading",
+        "nature"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/sHwjTnHVRBo/hqdefault.jpg"
+    },
+    {
+      "id": "yzbmjH1FAKs",
+      "title": "Kids Yoga LIVE 🌟 | Fun Yoga Adventures & Movement for Kids",
+      "channel": "Cosmic Kids Yoga",
+      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
+      "durationSec": 42899,
+      "publishedAt": "2026-11-27T03:30:41Z",
+      "topics": [
+        "reading",
+        "nature"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/yzbmjH1FAKs/hqdefault.jpg"
+    },
+    {
+      "id": "3NeK1wXn--4",
+      "title": "Autumn Kids Yoga LIVE! 🍂 Fall Yoga Adventure Compilation | Cosmic Kids",
+      "channel": "Cosmic Kids Yoga",
+      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
+      "durationSec": 42898,
+      "publishedAt": "2026-11-26T23:32:28Z",
+      "topics": [
+        "reading",
+        "nature"
+      ],
+      "profiles": [
+        "little",
+        "big"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/3NeK1wXn--4/hqdefault.jpg"
+    },
+    {
       "id": "mTKsylltCZw",
       "title": "Kids Yoga LIVE 🌟 | Fun Yoga Adventures & Movement for Kids",
       "channel": "Cosmic Kids Yoga",
@@ -87157,74 +87210,6 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/2-dKLTcCdxg/hqdefault.jpg"
-    },
-    {
-      "id": "y7o0cc-LtPE",
-      "title": "Max's Missing Sparkle | Jaime's Yoga Adventures! | Kids Animated Yoga",
-      "channel": "Cosmic Kids Yoga",
-      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
-      "durationSec": 902,
-      "publishedAt": "2026-09-29T15:15:01Z",
-      "topics": [
-        "reading",
-        "nature"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/y7o0cc-LtPE/hqdefault.jpg"
-    },
-    {
-      "id": "T2Wltv2e4lA",
-      "title": "Ghostbusters Kids Yoga Adventure 👻 | Yoga for Kids | Cosmic Kids",
-      "channel": "Cosmic Kids Yoga",
-      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
-      "durationSec": 897,
-      "publishedAt": "2026-09-22T13:30:36Z",
-      "topics": [
-        "reading",
-        "nature"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/T2Wltv2e4lA/hqdefault.jpg"
-    },
-    {
-      "id": "sDvPN6Z6po0",
-      "title": "Dinosaur Power Yoga 🦖 | 38 Minute Kids Yoga Adventure | Cosmic Kids",
-      "channel": "Cosmic Kids Yoga",
-      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
-      "durationSec": 2275,
-      "publishedAt": "2026-09-15T13:00:13Z",
-      "topics": [
-        "reading",
-        "nature"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/sDvPN6Z6po0/hqdefault.jpg"
-    },
-    {
-      "id": "8L2syA68L2U",
-      "title": "Sunny's Lost Key  | Jaime's Yoga Adventures! | Kids Animated Yoga",
-      "channel": "Cosmic Kids Yoga",
-      "channelId": "UC5uIZ2KOZZeQDQo_Gsi_qbQ",
-      "durationSec": 901,
-      "publishedAt": "2026-09-08T15:00:33Z",
-      "topics": [
-        "reading",
-        "nature"
-      ],
-      "profiles": [
-        "little",
-        "big"
-      ],
-      "thumbnail": "https://i.ytimg.com/vi/8L2syA68L2U/hqdefault.jpg"
     },
     {
       "id": "xm_GCZKltLA",
@@ -88075,6 +88060,22 @@
         "big"
       ],
       "thumbnail": "https://i.ytimg.com/vi/Ilr2DjYOfqA/hqdefault.jpg"
+    },
+    {
+      "id": "adeEtKFF18E",
+      "title": "All I Want for Christmas is U 🎄🎁  | Sesame Street Songs 🎵",
+      "channel": "Sesame Street",
+      "channelId": "UCoookXUzPciGrEZEXmh4Jjg",
+      "durationSec": 194,
+      "publishedAt": "2026-11-27T12:30:31Z",
+      "topics": [
+        "reading",
+        "music"
+      ],
+      "profiles": [
+        "little"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/adeEtKFF18E/hqdefault.jpg"
     },
     {
       "id": "Ri-FuFz0Nes",
